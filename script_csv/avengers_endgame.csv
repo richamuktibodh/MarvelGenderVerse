@@ -1,1230 +1,1028 @@
-,character,line,gender
-0,CLINT BARTON,"Okay, you see where you’re going? Let’s work on how to get there.",MALE
-1,CLINT BARTON,"Okay, good...tip down...bow arm out...three fingers- ",MALE
-2,LILA BARTON,Why three?,FEMALE
-3,CLINT BARTON,‘Cause two’s not enough and four’s too much-,MALE
-4,LAURA BARTON,"You guys want mustard or mayo, or both?",FEMALE
-5,LILA BARTON,Who puts mayo on a hot dog?,FEMALE
-6,CLINT BARTON,"We’ll both have mustard, hon!  Okay.  Draw back, deep breath...",MALE
-7,CLINT BARTON,"Good job, Hawkeye.  Go get your arrow. ",MALE
-8,LAURA BARTON,Enough murder practice!  Soup’s on!,FEMALE
-9,CLINT BARTON,"One sec, babe.  Be right there! We’re gonna kill some hot dogs. We’re hungry.",MALE
-10,CLINT BARTON,"Lila?  Babe, did you see Lila- ",MALE
-11,CLINT BARTON,"Guys?  Guys, come on... ",MALE
-12,CLINT BARTON,Laura?,MALE
-13,CLINT BARTON,LAURA!,MALE
-14,TONY STARK,Good sport.  Have fun?,NEUTRAL
-15,NEBULA,It was fun.,FEMALE
-16,TONY STARK,"This thing on?  Hey, Ms. Potts. Pep.  If you find this recording, don’t post it on social media. It’s going to be a real tearjerker.",NEUTRAL
-17,TONY STARK,"I don’t know if you’re ever going to see these.  I don’t even know if you’re still...God, I hope so. Today’s day twenty-one, no...twenty- two.",NEUTRAL
-18,TONY STARK,"You know, if it wasn’t for the existential terror of staring into the literal void of space, I’d say I’m feeling a little better today. Infection’s run its course, thanks to the Blue Meanie back there. You’d like her.  She’s very practical.  And only a tiny bit sadistic. ",NEUTRAL
-19,TONY STARK,"The fuel cells were cracked during battle, but we figured out a way to reverse the ion charge.  Bought ourselves about 48 hours of flight time.  Problem is that was about...49 hours ago. ",NEUTRAL
-20,TONY STARK,"Which means, we’re dead in the water.  A thousand light years from the nearest 7-11.",NEUTRAL
-21,TONY STARK,Most of the quote-unquote ‘food’ and potable water ran out two weeks ago.,NEUTRAL
-22,TONY STARK,"Pep, I know I said no more surprises.  But, I gotta say, I was really hoping to pull off one last one.  But it looks like...well, you know what it looks like.",NEUTRAL
-23,TONY STARK,"Don’t feel bad about this.  I mean, actually, if you grovel for a couple weeks, and then move on with enormous guilt...I should probably lie down for a minute, rest my eyes.  Please know, when I drift off, it will be like every day lately.  I’m fine, totally fine. I’m going to dream about you.  It’s always you.",NEUTRAL
-24,TONY STARK,I couldn’t stop him.,NEUTRAL
-25,STEVE ROGERS,Neither could we.,NEUTRAL
-26,TONY STARK,I lost the kid.,NEUTRAL
-27,STEVE ROGERS,We...lost...,NEUTRAL
-28,TONY STARK,Is Pepper...?,NEUTRAL
-29,PEPPER POTTS,"Stay here, you stay right here- ",FEMALE
-30,TONY STARK,I’m not going anywhere.,NEUTRAL
-31,JAMES RHODES,It’s been twenty-three days since Thanos came to Earth.,NEUTRAL
-32,NATASHA ROMANOFF,"World governments are in pieces, as you can imagine.  But the parts that still work are trying to take a census.  It looks like he did what he said he was going to do.",NEUTRAL
-33,NATASHA ROMANOFF,Thanos wiped out fifty percent of all the living creatures on Earth.,NEUTRAL
-34,CAROL DANVERS,Not just Earth.,FEMALE
-35,JAMES RHODES,You sure about that?,NEUTRAL
-36,CAROL DANVERS,You never have to ask me that.,FEMALE
-37,TONY STARK,Where is he now?,NEUTRAL
-38,STEVE ROGERS,We don’t know.  He just opened a portal and walked through.,NEUTRAL
-39,TONY STARK,What’s his deal?,NEUTRAL
-40,ROCKET,He’s pissed.,MALE
-41,ROCKET,"He thinks he failed.  Which, of course, he did.  But there’s a lot of that going around, ain’t there? ",MALE
-42,TONY STARK,"Until this second, I literally thought you were a Build-a-Bear. ",NEUTRAL
-43,STEVE ROGERS,"We’ve been hunting Thanos for three weeks - deep space scans, satellites - we got nothing.  Tony, you fought him- ",NEUTRAL
-44,TONY STARK,"Who told you that?  I didn’t fight him, he wiped my face with a planet while a Bleecker Street magician gave away the store.  There was no fight because he’s not beatable. ",NEUTRAL
-45,STEVE ROGERS,"Did he give you anything to go on? Clues, coordinates- ",NEUTRAL
-46,TONY STARK,"I saw this coming, few years back. Didn’t wanna believe.  I thought I was dreaming... ",NEUTRAL
-47,STEVE ROGERS,"Tony, I need you to focus- ",NEUTRAL
-48,TONY STARK,"And I needed you, as in past tense. That trumps what you need.  It’s too late, buddy.  You know what I need?",NEUTRAL
-49,TONY STARK,"I need a shave and a burger, not a bowl of soup. And I believe I remember telling all of you, alive and otherwise, that we needed a suit of armor around the world, whether it impacted our precious freedoms or not- ",NEUTRAL
-50,STEVE ROGERS,"But that didn’t work out, did it? ",NEUTRAL
-51,TONY STARK,"I said we’d lose, you said we’d “do that together, too.”  Guess what, Cap, we lost, and you weren’t there.  But that’s what we do, right?  Our best work after the fact?  We’re the “Avengers”, not the “Pre-vengers-” ",NEUTRAL
-52,JAMES RHODES,"Tony, take it easy... ",NEUTRAL
-53,TONY STARK,"I’ve got nothing for ya, Cap.  No coordinates, no clues, no strategies, no options.  Zero, zip, nada.  No trust.  Here.  You take this.  You find him, you put this on, and hide.  I’m fine! ",NEUTRAL
-54,JAMES RHODES,Bruce gave him a sedative.  Should be out the rest of the day.,NEUTRAL
-55,CAROL DANVERS,"Take care of him.  When I come back, I’ll bring a bottle of Xorrian elixir. ",FEMALE
-56,STEVE ROGERS,Where are you going?,NEUTRAL
-57,CAROL DANVERS,To kill Thanos.,FEMALE
-58,NATASHA ROMANOFF,"Hey, hey, hang on.  We’re sort of a team here.  Between you and me, morale’s a little fragile. ",NEUTRAL
-59,CAROL DANVERS,"Oh, I’m sorry.  My fault. ",FEMALE
-60,CAROL DANVERS,"All right, team!  I’m going to go kill Thanos.  Message me if you get any intel that can help. Otherwise, I’ll report back when he’s dead.  Great work, everybody. ",FEMALE
-61,STEVE ROGERS,"Look, we realize “up there’s” more your territory, but this is our fight, too. ",NEUTRAL
-62,JAMES RHODES,Do you even know where he is?,NEUTRAL
-63,CAROL DANVERS,I know people who might-,FEMALE
-64,NEBULA,Don’t bother.,FEMALE
-65,NEBULA,I can tell you where Thanos is.,FEMALE
-66,NEBULA,"Thanos spent a long time trying to...perfect me.  When he worked, he talked.  About his Great Plan. Even disassembled, I wanted to please him.  I’d ask, where would we go once his plan was complete? His answer was always the same: “To the Garden.” ",FEMALE
-67,JAMES RHODES,You’re saying Thanos had a retirement plan.,NEUTRAL
-68,STEVE ROGERS,Where’s this garden?,NEUTRAL
-69,ROCKET,"When Thanos snapped his fingers, Earth become ground zero for a power surge of ridiculously cosmic proportions.  No one’s seen anything like it.",MALE
-70,ROCKET,Until two days ago.,MALE
-71,NATASHA ROMANOFF,You’re saying he snapped his fingers again.  Where?,NEUTRAL
-72,NEBULA,"Planet is unnamed, but inhabitable. Rich atmosphere, good soil- ",FEMALE
-73,STEVE ROGERS,A garden.,NEUTRAL
-74,BRUCE BANNER,Thanos is there.  And he just used the stones.,MALE
-75,BRUCE BANNER,"You know, we’d be going short- handed. ",MALE
-76,JAMES RHODES,Because he killed all our friends.,NEUTRAL
-77,ROCKET,Are we saying they’re dead?  We’re using that word now?,MALE
-78,JAMES RHODES,He’s still got the stones.,NEUTRAL
-79,CAROL DANVERS,"So, we take them.  And we use them to bring everybody back. ",FEMALE
-80,BRUCE BANNER,Just like that?,MALE
-81,STEVE ROGERS,Yeah.  Just like that.,NEUTRAL
-82,NATASHA ROMANOFF,"If there’s even the smallest chance we can undo this, then we owe it to everyone who’s not sitting here to try.",NEUTRAL
-83,BRUCE BANNER,If we do this...why would it end any differently than it did before?,MALE
-84,CAROL DANVERS,Because before you didn’t have me.,FEMALE
-85,JAMES RHODES,"Hey, new girl.  All of us in here are about that superhero life. Where’ve you been all this time? ",NEUTRAL
-86,CAROL DANVERS,There’s a lot of people in the universe.  And they didn’t all have you.,FEMALE
-87,THOR,I like this one.,MALE
-88,STEVE ROGERS,Let’s go get that son of a bitch.,NEUTRAL
-89,CAROL DANVERS,Trust me.  You get used to it.,FEMALE
-90,ROCKET,"Okay, who here hasn’t been to space?",MALE
-91,ROCKET,"Oh, you’re gonna hate this. ",MALE
-92,NEBULA,"Approaching jump in three, two...",FEMALE
-93,CAROL DANVERS,"I’ll head down for recon.  If I’m not back in fifteen, you’ll know I found him.",FEMALE
-94,NATASHA ROMANOFF,"This is going to work, Steve. ",NEUTRAL
-95,STEVE ROGERS,I know it will.  Because I don’t know what I’m going to do if it doesn’t.,NEUTRAL
-96,CAROL DANVERS,"No satellites, no ships, no armies. No ground defenses of any kind. It’s just him. ",FEMALE
-97,NEBULA,That’s enough.,FEMALE
-98,STEVE ROGERS,Where are they?,NEUTRAL
-99,CAROL DANVERS,Answer the question!,FEMALE
-100,THANOS,"The universe required correction. After that, the stones served no purpose beyond temptation. ",MALE
-101,BRUCE BANNER,You murdered trillions.,MALE
-102,THANOS,You should be grateful.,MALE
-103,NATASHA ROMANOFF,Where are the stones?,NEUTRAL
-104,THANOS,Gone.  Reduced to atoms.,MALE
-105,BRUCE BANNER,You used them two days ago!,MALE
-106,THANOS,I used the stones to destroy the stones.  It nearly killed me. But the work is done.  It always will be.,MALE
-107,ROCKET,No...they can’t be gone...,MALE
-108,JAMES RHODES,He’s lying.,NEUTRAL
-109,NEBULA,My father is many things.  A liar is not one of them.,FEMALE
-110,THANOS,"Thank you, daughter.  Perhaps I’ve treated you- ",MALE
-111,ROCKET,What did you do?,MALE
-112,THOR,I went for the head.,MALE
-113,GRIEVING MAN,"So, I went on a date the other day. ",MALE
-114,JIMMY,"Good job, Bobby.  Back in the game. ",MALE
-115,GRIEVING MAN,"Thank you, Jimmy.  First in five years.  I sat there at dinner thinking, what are we even supposed to talk about?",MALE
-116,STEVE ROGERS,What did you talk about?,NEUTRAL
-117,GRIEVING MAN,"Same old crap.  How much things have changed.  How much we miss the Mets.  My job, his job.  Then it got kind of quiet.  He cried during the salads. ",MALE
-118,OLDER MAN,What about you?,MALE
-119,GRIEVING MAN,I cried just before dessert.  But I’m seeing him again tomorrow. So...,MALE
-120,STEVE ROGERS,"That’s great.  You’ve already done the hardest part.  You took a jump, didn’t know where you’d come down. And that’s it, those little brave baby steps we’ve gotta take.  To try to make us feel whole again, to find a purpose... I went into the ice right after I met the love of my life.  Woke up seventy years later and...had to keep going.",NEUTRAL
-121,STEVE ROGERS,The world’s been left in our hands. If we don’t do something with it...then Thanos might as well have killed all of us. ,NEUTRAL
-122,SCOTT LANG,Hello?,MALE
-123,SCOTT LANG,Hey.  Kid.  What happened here?,MALE
-124,SCOTT LANG,What?,MALE
-125,SCOTT LANG,Cassie!  Cassie!,MALE
-126,CASSIE LANG,Dad?,FEMALE
-127,SCOTT LANG,Peanut?,MALE
-128,CASSIE LANG,I thought you were gone.,FEMALE
-129,SCOTT LANG,I’m sorry.  I’m back...I’m back...I’m back...,MALE
-130,ROCKET,We boarded that “highly suspect warship” Danvers pinged.,MALE
-131,NATASHA ROMANOFF,And?,NEUTRAL
-132,NEBULA,It was an infectious garbage scow.,FEMALE
-133,ROCKET,So thanks for the hot tip-,MALE
-134,CAROL DANVERS,You were closer.,FEMALE
-135,ROCKET,And now we smell like garbage-,MALE
-136,NATASHA ROMANOFF,You get a reading on those tremors?,NEUTRAL
-137,OKOYE,Minor subduction in the African plate.,FEMALE
-138,NATASHA ROMANOFF,Do we have a visual?  How are you handling it?,NEUTRAL
-139,OKOYE,Nat.  It was a mild earthquake.  In the ocean.  We handle it by not handling it.,FEMALE
-140,JAMES RHODES,"I can have NASA redirect a satellite, do a sweep just to make sure. ",NEUTRAL
-141,NATASHA ROMANOFF,"Thanks.  Carol, you’re still coming our way next month? ",NEUTRAL
-142,CAROL DANVERS,Not likely.,FEMALE
-143,ROCKET,Getting another haircut?,MALE
-144,CAROL DANVERS,"Listen, fur-face, I’m covering a lot of territory out here.  The things that have been happening on Earth have been happening everywhere else.  On thousands of planets.  You might not see me for a long time. ",FEMALE
-145,NATASHA ROMANOFF,"All right.  Everybody keep keeping their eyes open.  This channel’s always active.  Anything goes sideways, anyone makes trouble where they shouldn’t, it comes through me.",NEUTRAL
-146,NATASHA ROMANOFF,What’s up?  Where are you?,NEUTRAL
-147,JAMES RHODES,Mexico.  Got some news.,NEUTRAL
-148,NATASHA ROMANOFF,Okay...,NEUTRAL
-149,JAMES RHODES,Federalés found a room full of bodies outside Juarez.  Cartel guys.  Guns still in their pants.,NEUTRAL
-150,NATASHA ROMANOFF,Could be a rival hit-,NEUTRAL
-151,JAMES RHODES,But it wasn’t.  Same MO as Marseille.  And Kiev.,NEUTRAL
-152,JAMES RHODES,It’s definitely Barton.,NEUTRAL
-153,JAMES RHODES,"What he’s done here...what he’s been doing...I got to tell you, part of me doesn’t want to find him.",NEUTRAL
-154,NATASHA ROMANOFF,Find out where’s he going next.,NEUTRAL
-155,STEVE ROGERS,I’d offer to cook you dinner but you seem sad enough already.,NEUTRAL
-156,NATASHA ROMANOFF,Come by to do your laundry?,NEUTRAL
-157,STEVE ROGERS,And see a friend.,NEUTRAL
-158,NATASHA ROMANOFF,Your friend’s fine.,NEUTRAL
-159,STEVE ROGERS,She leave the house today?,NEUTRAL
-160,NATASHA ROMANOFF,Nothing out there I particularly want to see.,NEUTRAL
-161,STEVE ROGERS,I spotted a pod of whales coming over the bridge.,NEUTRAL
-162,NATASHA ROMANOFF,In the Hudson.,NEUTRAL
-163,STEVE ROGERS,"Fewer ships, cleaner water.  Just saying, there’s still a world out there. ",NEUTRAL
-164,NATASHA ROMANOFF,"If you’re about to tell me to look on the bright side, I’m about to hit you with a peanut butter sandwich.",NEUTRAL
-165,STEVE ROGERS,Sorry.  Force of habit.,NEUTRAL
-166,NATASHA ROMANOFF,I don’t know how you do it.,NEUTRAL
-167,STEVE ROGERS,I guess I don’t know how not to.,NEUTRAL
-168,NATASHA ROMANOFF,"Me, neither.",NEUTRAL
-169,STEVE ROGERS,"I keep telling them, move on.  Grow past it.  And some of them actually do.  But not us. ",NEUTRAL
-170,NATASHA ROMANOFF,"If I move on, who does this? ",NEUTRAL
-171,STEVE ROGERS,Maybe it doesn’t need to be done.,NEUTRAL
-172,NATASHA ROMANOFF,"I used to have nothing.  Then I got this.  This job, this family.  And I was better because of it.",NEUTRAL
-173,NATASHA ROMANOFF,"And even though they’re gone, I’m still trying to be...better. ",NEUTRAL
-174,STEVE ROGERS,I think we both need to get a life.,NEUTRAL
-175,NATASHA ROMANOFF,You first.,NEUTRAL
-176,SCOTT LANG,"Hello?  Is anyone home?  This is, uh, Scott Lang?  We met a few years ago.  At the airport? ",MALE
-177,STEVE ROGERS,This an old message?,NEUTRAL
-178,NATASHA ROMANOFF,It’s the front gate.,NEUTRAL
-179,STEVE ROGERS,"Scott, are you okay? ",NEUTRAL
-180,SCOTT LANG,What?  Yes.,MALE
-181,SCOTT LANG,Have either of you guys ever studied quantum physics?,MALE
-182,NATASHA ROMANOFF,Only to make conversation.,NEUTRAL
-183,SCOTT LANG,"Well, five years ago, just before this Thanos guy...I went into a place called the Quantum Realm. It’s like its own microscopic universe.  You can only get there if you’re incredibly small.  Hope, she’s my...she was supposed to pull me out.  But then Thanos happened. And I was stuck in there. ",MALE
-184,NATASHA ROMANOFF,I’m sorry.  It must’ve been a long five years.,NEUTRAL
-185,SCOTT LANG,"Okay, but that’s the thing.  It wasn’t.  For me, it was only five hours.  The rules in the Quantum Realm aren’t like out here. They’re completely unpredictable. Is anybody gonna eat that sandwich? ",MALE
-186,STEVE ROGERS,"Scott, what are you talking about? ",NEUTRAL
-187,SCOTT LANG,Time works differently in the Quantum Realm.,MALE
-188,SCOTT LANG,"Problem is, right now, it’s chaos, there’s no way to navigate it.  But what if we could figure out a way to enter the Quantum Realm at a certain point in time...and come out in another.  Like, before Thanos- ",MALE
-189,STEVE ROGERS,Wait...wait.  Scott.  Are you talking about a time machine?,NEUTRAL
-190,SCOTT LANG,"No, not a machine.  More like a... Yeah, like a time machine.  I know it sounds crazy... ",MALE
-191,NATASHA ROMANOFF,"Scott, I get emails from a raccoon. Nothing’s crazy anymore. ",NEUTRAL
-192,SCOTT LANG,"So, who do we talk to about this?",MALE
-193,TONY STARK,Morgan H. Stark.  Chow time.  Want some lunch?,NEUTRAL
-194,MORGAN STARK,Define lunch or be disintegrated.,FEMALE
-195,TONY STARK,You should not be wearing that. It’s part of a special anniversary gift I made for Mom.  You thinking about lunch?,NEUTRAL
-196,TONY STARK,Where’d you find this?,NEUTRAL
-197,MORGAN STARK,Garage.,FEMALE
-198,TONY STARK,You like going in the garage?  So does Daddy.  It’s all right.  Mommy never wears what I buy her.,NEUTRAL
-199,TONY STARK,I just want to thank you folks for dropping by.  It’s not every day one gets to contemplate biting it on an inter-dimensional timescape.,NEUTRAL
-200,NATASHA ROMANOFF,You’ve got some objections to the plan.,NEUTRAL
-201,TONY STARK,"So you’re calling it a plan.  To me, it sounds like an exotic suicide method.  Not to mention, it’s impossible. ",NEUTRAL
-202,SCOTT LANG,We know what it sounds like.,MALE
-203,STEVE ROGERS,"Tony, after what you’ve seen, is anything really impossible? ",NEUTRAL
-204,TONY STARK,"Quantum fluctuation kinda messes with the Planck Scale, which then triggers the Deutsch Proposition, can we agree on that? Chai?  In layman’s terms, it means you can cancel your Netflix subscription because you’re not coming home. ",NEUTRAL
-205,SCOTT LANG,I did.,MALE
-206,TONY STARK,Which was a billion-to-one cosmic fluke.  Now you want to pull a- What are you calling it?,NEUTRAL
-207,SCOTT LANG,A time heist.,MALE
-208,TONY STARK,"Oh, of course, a time heist, why didn’t we think of this before? Right, because it’s a pipe dream. Who are you again? ",NEUTRAL
-209,SCOTT LANG,Still Scott...,MALE
-210,STEVE ROGERS,"Tony, the Stones exist in the past. We could get them and bring them here. ",NEUTRAL
-211,NATASHA ROMANOFF,We can snap our own fingers.  We can bring everybody back.,NEUTRAL
-212,TONY STARK,Or screw it up worse than he already has.,NEUTRAL
-213,STEVE ROGERS,I don’t believe we would.,NEUTRAL
-214,TONY STARK,"Gotta say it.  Sometimes I’ve missed that giddy optimism.  Sadly, all your high hopes won’t help me if there’s no logical, tangible way for me to safely execute said “time heist.”  I believe the most likely outcome would be our collective demise. ",NEUTRAL
-215,SCOTT LANG,Not if we strictly follow the rules of time travel.  No talking to our past selves.  No betting on sporting events-,MALE
-216,TONY STARK,"Stop, Scott.  Stop.  Are you telling me that your plan to save the universe is more than loosely based on Back to the Future? ",NEUTRAL
-217,SCOTT LANG,No...,MALE
-218,TONY STARK,"Good.  Because that would be horseshit.  Scientifically speaking, your brother’s picture doesn’t disappear just ‘cause you went to the dance with your mom. That’s not how quantum physics works. ",NEUTRAL
-219,NATASHA ROMANOFF,We have to take a stand.,NEUTRAL
-220,TONY STARK,We did stand.  And yet here we are.,NEUTRAL
-221,SCOTT LANG,"Look, Stark-  Can I call you Tony? ",MALE
-222,TONY STARK,Please don’t-,NEUTRAL
-223,SCOTT LANG,Tony-,MALE
-224,TONY STARK,Fine.,NEUTRAL
-225,SCOTT LANG,"I get that you’ve got a lot on the line, here.  You’ve got a wife.  A daughter.  But I lost someone very important - a lot of us did - and now we have a chance to save her, and everyone else, and you won’t even- ",MALE
-226,TONY STARK,"No, Scott.  I won’t.  Even.",NEUTRAL
-227,MORGAN STARK,Mommy told me to come save you.,FEMALE
-228,TONY STARK,Good job.  I’m saved.  I wish you were coming here to ask me something else.  I’m honestly happy to see you.  If you want to stay- ,NEUTRAL
-229,STEVE ROGERS,"Tony, I get it.  And I’m happy for you.  I am.  But this is a second chance. ",NEUTRAL
-230,TONY STARK,"Yeah, well, I got my second chance right here.  I can’t roll the dice on it.  The table is set for six. If you don’t talk shop, you’re welcome to stay for lunch.",NEUTRAL
-231,NATASHA ROMANOFF,He’s scared.,NEUTRAL
-232,STEVE ROGERS,He’s not wrong.,NEUTRAL
-233,SCOTT LANG,What are we gonna do?  We need him. You want to stop?,MALE
-234,STEVE ROGERS,No.  I want to do it right. We’re going to need a really big brain.,NEUTRAL
-235,SCOTT LANG,Bigger than his?,MALE
-236,SCOTT LANG,I’m confused.,MALE
-237,BRUCE BANNER,These are confusing times.,NEUTRAL
-238,SCOTT LANG,"No, that’s not what I’m- ",MALE
-239,BRUCE BANNER,"I’m kidding, I get it.  It’s crazy. I wear shirts now! ",NEUTRAL
-240,SCOTT LANG,But why?,MALE
-241,BRUCE BANNER,"Five years ago, we got our asses kicked, right?",NEUTRAL
-242,STEVE ROGERS,He’s heard.,NEUTRAL
-243,BRUCE BANNER,It was worse for me.  Because I lost twice.  First Hulk lost.  Then Banner lost.  Then we all lost.,NEUTRAL
-244,NATASHA ROMANOFF,"No one blamed you, Bruce. ",NEUTRAL
-245,BRUCE BANNER,"I did-  I feel like I’m the only one eating.  Here, try some.",NEUTRAL
-246,BRUCE BANNER,"Thing is, I kept thinking, it didn’t have to be that way.  That the best of Banner and best of Hulk, if they’d worked together, maybe they could’ve stopped Thanos. ",NEUTRAL
-247,SCOTT LANG,Okay.  But how did...this happen?,MALE
-248,BRUCE BANNER,"For years I treated the Hulk like a disease, something to get rid of. But when I started treating him like the cure...",NEUTRAL
-249,BRUCE BANNER,Eighteen months in the Gamma Lab. I put the brains and the brawn together.  And now look at me. Best of both worlds.,NEUTRAL
-250,KID,Mr. Hulk?  Can we get a picture?,MALE
-251,BRUCE BANNER,"100%, little lady.",NEUTRAL
-252,BRUCE BANNER,"Thanks, pal.  Hulk out! ",NEUTRAL
-253,STEVE ROGERS,"So, Bruce, about what we said- ",NEUTRAL
-254,BRUCE BANNER,"The time travel do-over?  I don’t know, that’s kind of outside my field of expertise...",NEUTRAL
-255,NATASHA ROMANOFF,"You pulled this off.  I remember a time that was impossible, too. ",NEUTRAL
-256,BRUCE BANNER,"I’m supposed to be on Oprah next week, but I guess I could move things around.",NEUTRAL
-257,TONY STARK,"Friday, you up? ",NEUTRAL
-258,FRIDAY,"Yes, sir. ",MALE
-259,TONY STARK,"I’ve had a mild inspiration, like to see if it checks out.  I would like to run one last sim before we pack it in for the night.  This time, in the shape of a Mobius Strip, inverted. ",NEUTRAL
-260,FRIDAY,Processing. The model forms.,MALE
-261,TONY STARK,"All right, give me the eigenvalue of that particle, factoring in spectral decomp.  Run it.  That’ll take a second.  And don’t worry if it doesn’t pan out, I’m just kind of... ",NEUTRAL
-262,FRIDAY,Model rendered.,MALE
-263,TONY STARK,Shit.,NEUTRAL
-264,MORGAN STARK,Shit.,FEMALE
-265,TONY STARK,What are you doing up?,NEUTRAL
-266,MORGAN STARK,Shit.,FEMALE
-267,TONY STARK,"First of all, that’s a Mommy word, she coined it. ",NEUTRAL
-268,MORGAN STARK,Why are you up?,FEMALE
-269,TONY STARK,I just had something on my mind.,NEUTRAL
-270,MORGAN STARK,Was it juice pops?,FEMALE
-271,TONY STARK,Correct.  Great minds think alike. What kind do you want?,NEUTRAL
-272,TONY STARK,You done? Now you are.,NEUTRAL
-273,MORGAN STARK,Tell me a story.,FEMALE
-274,TONY STARK,"Once upon a time, Maguna went to bed.  The end. ",NEUTRAL
-275,MORGAN STARK,That was a bad story. He runs his hand over her hair.,FEMALE
-276,TONY STARK,Love you tons.,NEUTRAL
-277,MORGAN STARK,Love you three thousand.,FEMALE
-278,TONY STARK,"Wow, that’s a lot.",NEUTRAL
-279,TONY STARK,Out like a light.  Don’t know how much she loves you but she loves me three thousand.,NEUTRAL
-280,PEPPER POTTS,That’s up there.,FEMALE
-281,TONY STARK,What’re you reading?,NEUTRAL
-282,PEPPER POTTS,A book about composting-,FEMALE
-283,TONY STARK,I think I solved it.,NEUTRAL
-284,PEPPER POTTS,Just so we’re both talking about the same thing-,FEMALE
-285,TONY STARK,Time travel.,NEUTRAL
-286,PEPPER POTTS,That’s amazing.,FEMALE
-287,TONY STARK,Yeah.,NEUTRAL
-288,PEPPER POTTS,And terrifying.,FEMALE
-289,TONY STARK,To say the least.,NEUTRAL
-290,PEPPER POTTS,We got really lucky-,FEMALE
-291,TONY STARK,I know-,NEUTRAL
-292,PEPPER POTTS,Not everybody did.,FEMALE
-293,TONY STARK,I can’t help everybody.,NEUTRAL
-294,PEPPER POTTS,"Except, it sort of seems like you can. ",FEMALE
-295,TONY STARK,Not if I stopped right here.,NEUTRAL
-296,PEPPER POTTS,"Tony, trying to get you to stop is one of the few failures of my life. ",FEMALE
-297,TONY STARK,"I could just lock the lab, put it in a trunk, sink it to the bottom of the lake, and go to bed. ",NEUTRAL
-298,PEPPER POTTS,But could you rest?,FEMALE
-299,SCOTT LANG,You’re sure these modifications are safe?,MALE
-300,BRUCE BANNER,I reran my calculations three times-,NEUTRAL
-301,SCOTT LANG,Because the guy who invented this thing is pretty much a genius-,MALE
-302,BRUCE BANNER,"I have seven PhD’s, an MD, the Hans Bethe Award for Physics, and I’m personal friends with Bill Nye the Science Guy.  We’re good. ",NEUTRAL
-303,SCOTT LANG,Yeah.  And you look like that on purpose.,MALE
-304,STEVE ROGERS,"Breakers are set, emergency generator’s on stand-by. ",NEUTRAL
-305,BRUCE BANNER,"Good.  If we blow the grid, I don’t want to lose Tiny back in the ‘50’s. ",NEUTRAL
-306,SCOTT LANG,Excuse me?,MALE
-307,NATASHA ROMANOFF,He was kidding.,NEUTRAL
-308,BRUCE BANNER,I was kidding.,NEUTRAL
-309,NATASHA ROMANOFF,"You were kidding, right? ",NEUTRAL
-310,BRUCE BANNER,"Honestly, I have no idea.  We’re attempting time travel.  Either it’s all a joke, or none of it is. We’re good!  Helmet on. ",NEUTRAL
-311,BRUCE BANNER,"Okay.  I’m going to send you back one week, give you an hour to look around, then bring you back in ten seconds.  Make sense? ",NEUTRAL
-312,SCOTT LANG,Perfectly not confusing.,MALE
-313,STEVE ROGERS,"Good luck, Scott.  You’ve got this. ",NEUTRAL
-314,SCOTT LANG,"Yes, I do, Captain America.  Yes, I- ",MALE
-315,BRUCE BANNER,"Counting down from three, two, one... ",NEUTRAL
-316,SCOTT LANG,"Uh, guys?  This doesn’t feel right. ",MALE
-317,NATASHA ROMANOFF,Is that Scott?,NEUTRAL
-318,BRUCE BANNER,Probably...?,NEUTRAL
-319,STEVE ROGERS,Get him back!,NEUTRAL
-320,SCOTT LANG,"Oh, my back! ",MALE
-321,NATASHA ROMANOFF,Bruce!  Get it under control.  What the hell is going on?,NEUTRAL
-322,BRUCE BANNER,"I got it, I know exactly what’s going on.  Pretty much.",NEUTRAL
-323,NATASHA ROMANOFF,"Oh, my God. ",NEUTRAL
-324,STEVE ROGERS,It’s a baby.,NEUTRAL
-325,BRUCE BANNER,It’s Scott.,NEUTRAL
-326,STEVE ROGERS,As a baby! ,NEUTRAL
-327,BRUCE BANNER,"When I tell you, kill the power! Now! ",NEUTRAL
-328,SCOTT LANG,Somebody peed my pants.  I don’t know if it was baby-me or old-me. Or just me-me.,MALE
-329,TONY STARK,"Why the long face?  Wild guess, he turned into a baby? ",NEUTRAL
-330,STEVE ROGERS,Among other things.,NEUTRAL
-331,TONY STARK,"EPR Paradox.  Instead of pushing Lang through time, you were pushing time through Lang.  It’s dangerous. I probably should’ve cautioned you against it. ",NEUTRAL
-332,STEVE ROGERS,You did.,NEUTRAL
-333,TONY STARK,"Thank god, I’m here.  Regardless, I fixed it. ",NEUTRAL
-334,TONY STARK,"That is a fully-functioning, time- space GPS.  I just want peace. Resentment is corrosive.  I hate it. ",NEUTRAL
-335,STEVE ROGERS,"Me, too.",NEUTRAL
-336,TONY STARK,"We’ve got a shot at the Stones.  I just need you to know my priorities.  Bring back everyone we lost, hopefully.  Keep what I found, definitely.  And, let’s not die trying.",NEUTRAL
-337,STEVE ROGERS,Sounds like a deal.,NEUTRAL
-338,TONY STARK,"But wait, there’s more.   Act now, and it comes with a bonus offer.",NEUTRAL
-339,STEVE ROGERS,"Tony, I don’t know- ",NEUTRAL
-340,TONY STARK,"What’s to know?  He made it for you.  Plus, I gotta get it out of the garage before Morgan takes it sledding.",NEUTRAL
-341,STEVE ROGERS,"Thank you, Tony.",NEUTRAL
-342,TONY STARK,"Just don’t flaunt it.  I didn’t bring enough for the whole team. We are getting the whole team, right? ",NEUTRAL
-343,STEVE ROGERS,We’re trying.,NEUTRAL
-344,ROCKET,"Hey, Humie.  Where’s Big Green? ",MALE
-345,SCOTT LANG,"Um, kitchen, I think.",MALE
-346,NEBULA,"Rhodey, careful on re-entry. There’s an idiot in the landing zone.",FEMALE
-347,SCOTT LANG,"Oh, my God! ",MALE
-348,JAMES RHODES,"What’s up, Regular-Sized Man?",NEUTRAL
-349,ROCKET,Finally.  I ain’t got all day.,MALE
-350,BRUCE BANNER,I call shotgun!,NEUTRAL
-351,ROCKET,What the heck are they looking at?,MALE
-352,BRUCE BANNER,I’m kind of famous...,NEUTRAL
-353,ROCKET,"Yeah, I’m sure that’s it.  Kind of a step down from golden palaces and magic hammers... ",MALE
-354,BRUCE BANNER,"They lost Asgard, then half their people.  Maybe they’re just happy to have a home. ",NEUTRAL
-355,VALKYRIE,You shouldn’t have come.,FEMALE
-356,BRUCE BANNER,"Hey, Valkyrie!  Great to see you!",NEUTRAL
-357,VALKYRIE,Uh huh.  I liked you better either of the other ways.,FEMALE
-358,BRUCE BANNER,This is Rocket.,NEUTRAL
-359,ROCKET,Hey.,MALE
-360,VALKYRIE,Hey. He won’t see you.,FEMALE
-361,BRUCE BANNER,We didn’t say we were here to see-,NEUTRAL
-362,VALKYRIE,"Great, then you can hose out the gut buckets- ",FEMALE
-363,ROCKET,We’re definitely here to see him.,MALE
-364,VALKYRIE,He can’t give you what you need.,FEMALE
-365,BRUCE BANNER,It’s that bad?,NEUTRAL
-366,VALKYRIE,We only see him once a month.  When he comes in for “supplies.” ,FEMALE
-367,ROCKET,Something died in here.,MALE
-368,BRUCE BANNER,Hello...?  Thor...?,NEUTRAL
-369,THOR,Are you here about the cable?,MALE
-370,THOR,"Cinemax went out two days ago, and the sports are all...fuzzy...",MALE
-371,BRUCE BANNER,Thor?,NEUTRAL
-372,THOR,BROS!  Bring it in!,MALE
-373,ROCKET,"Yeah, I’m good. ",MALE
-374,THOR,"Hulk, you know my boys, Korg and Miek, right?",MALE
-375,KORG,Beer’s in the bucket.  Feel free to log on to the WiFi.,MALE
-376,BRUCE BANNER,"Hey, guys.  Long time no- ",NEUTRAL
-377,KORG,Thor!  This kid on the TV just called me a dickhead!,MALE
-378,THOR,Noobmaster again?,MALE
-379,KORG,NoobMaster69 called me a dickhead-,MALE
-380,THOR,"Noobmaster, this is Thor, again. God of Thunder.  This is your last warning.  Log off this game or I will come to your basement, rip off your arms and shove them up your butt.  Right, who wants a drink? ",MALE
-381,BRUCE BANNER,"Hey, buddy, are you all right? ",NEUTRAL
-382,THOR,Don’t I look all right?,MALE
-383,ROCKET,You look like melted ice cream-,MALE
-384,THOR,"So, what’s up?  Just here for a hang? ",MALE
-385,BRUCE BANNER,We need your help.  There’s a chance we can fix everything.,NEUTRAL
-386,THOR,Like the cable?  It’s driving me bananas.,MALE
-387,BRUCE BANNER,Like Thanos.,NEUTRAL
-388,THOR,Don’t say that name.,MALE
-389,KORG,"Yeah, we don’t say that name in here.",MALE
-390,BRUCE BANNER,Please take your hand off me.,NEUTRAL
-391,BRUCE BANNER,"Now, I know the thought of...that guy might scare you- ",NEUTRAL
-392,THOR,"Scared?  Why would I be scared of that guy?  I’m the one who killed that guy, remember?  Anyone else here kill that guy? ",MALE
-393,THOR,"Didn’t think so.  Korg, tell everyone who chopped Thanos’ head off. ",MALE
-394,KORG,Stormbreaker?,MALE
-395,THOR,Not.  Cool.  Man.,MALE
-396,ROCKET,Don’t.  Care.  Dude.,MALE
-397,BRUCE BANNER,"Look, I get it.  You’re in a rough patch.  I’ve been there.  But you know who helped me out of it? ",NEUTRAL
-398,THOR,Was it Natasha?,MALE
-399,BRUCE BANNER,It was you.  You helped me.  And I need you to help me again.,NEUTRAL
-400,THOR,Ask the Asgardians down there how much “my help” is worth.,MALE
-401,ROCKET,At least they’re alive-,MALE
-402,THOR,"They were gods!  Now they’re fisherpeople!  The ones that are left, anyway. ",MALE
-403,BRUCE BANNER,That’s the thing.  I think we can bring them back. ,NEUTRAL
-404,THOR,"Stop.  Stop.  I know you think I’m down here, wallowing in my own self- pity, waiting to be rescued.  But I’m fine.  I’m happy.  Whatever it is you’re offering, don’t care. Couldn’t care less. ",MALE
-405,BRUCE BANNER,"Come on, pal.  We need you.",NEUTRAL
-406,ROCKET,There’s beer in the ship.,MALE
-407,THOR,What kind?,MALE
-408,AKIHIKO,Why are you doing this?  We never did anything to you! ,MALE
-409,RONIN,You survived.  Half the planet didn’t.  They got Thanos.  You get me.,MALE
-410,RONIN,You’re done hurting people.,MALE
-411,AKIHIKO,We hurt people?  You’re crazy.,MALE
-412,AKIHIKO,Wait!  Help me!  I’ll give you anything!  What do you want?,MALE
-413,RONIN,What I want...you can’t give me.,MALE
-414,CLINT BARTON,You shouldn’t be here.,MALE
-415,NATASHA ROMANOFF,Neither should you.,NEUTRAL
-416,CLINT BARTON,I’ve got a job to do.,MALE
-417,NATASHA ROMANOFF,That what you’re calling this?,NEUTRAL
-418,NATASHA ROMANOFF,"Killing these people isn’t going to bring your family back. We found something.  A chance, maybe... ",NEUTRAL
-419,CLINT BARTON,Don’t.,MALE
-420,NATASHA ROMANOFF,Don’t what?,NEUTRAL
-421,CLINT BARTON,Give me hope.,MALE
-422,NATASHA ROMANOFF,I’m just sorry I couldn’t give it sooner.,NEUTRAL
-423,TONY STARK,"Out of the way, Lebowski.",NEUTRAL
-424,TONY STARK,"Hey, Ratchet, you get lost in there? ",NEUTRAL
-425,ROCKET,"It’s Rocket, and shut up.  You’re only a genius on Earth, pal. ",MALE
-426,TONY STARK,And you’re only in there because you have tiny hands.,NEUTRAL
-427,ROCKET,Fixed it.,MALE
-428,TONY STARK,Thank you.,NEUTRAL
-429,ROCKET,Get used to saying that.,MALE
-430,JAMES RHODES,"Time travel suit, I like it.",NEUTRAL
-431,SCOTT LANG,"Easy, easy.  Careful with those. ",MALE
-432,BRUCE BANNER,I’m being very careful-,NEUTRAL
-433,SCOTT LANG,You’re being very Hulky-,MALE
-434,SCOTT LANG,"These are Pym Particles.  You can’t shrink to the Quantum Realm without them, and since Hank Pym got snapped out of existence, we can’t make any more.  I told you.  We’ve only got enough for one round trip each, no do-overs.",MALE
-435,SCOTT LANG,Plus two test runs- ,MALE
-436,SCOTT LANG,"One test run. Okay, maybe I’m not ready. ",MALE
-437,CLINT BARTON,I’m game.,MALE
-438,CLINT BARTON,I’ll do it. ,MALE
-439,BRUCE BANNER,"Okay, Clint, you might feel a little disoriented when you chronoshift- ",NEUTRAL
-440,JAMES RHODES,"Hang on, I’ve got to ask, if we can do this, why don’t we just go find baby Thanos and, you know...",NEUTRAL
-441,BRUCE BANNER,"Uh, one, because that’s horrible. And, two, killing baby Thanos doesn’t kill adult Thanos.  Time doesn’t work like that.  You can’t change the future by changing the past. ",NEUTRAL
-442,SCOTT LANG,"Sure, we can.  We take the stones before Thanos gets them, then he doesn’t have them.  Problem solved. ",MALE
-443,NEBULA,That’s not how it works.,FEMALE
-444,CLINT BARTON,I don’t know.  That is kind of what I’ve heard-,MALE
-445,BRUCE BANNER,Heard from who?,NEUTRAL
-446,JAMES RHODES,Star Trek.  Terminator.  Bill and Ted’s Excellent-,NEUTRAL
-447,BRUCE BANNER,"WHY DOES EVERYONE THINK THIS? THAT’S NOT TRUE.  IF YOU TRAVEL TO THE PAST, THEN THAT PAST HAS BECOME YOUR PRESENT, AND YOUR FORMER PRESENT HAS BECOME THE PAST, WHICH NOW CAN’T BE CHANGED BY YOUR NEW FUTURE! ",NEUTRAL
-448,NEBULA,Exactly.,FEMALE
-449,JAMES RHODES,Excuse me?,NEUTRAL
-450,SCOTT LANG,"Apparently, Back to the Future is bullshit. ",MALE
-451,CLINT BARTON,"Look, are we doing this or not? ",MALE
-452,BRUCE BANNER,"Okay, Clint.  Starting in three, two, one...",NEUTRAL
-453,CLINT BARTON,No.  Not yet...  LILA!,MALE
-454,LILA BARTON,Dad?,FEMALE
-455,NATASHA ROMANOFF,"Are you all right?  Hey, look at me.  You okay? ",NEUTRAL
-456,TONY STARK,Tell me something good...,NEUTRAL
-457,CLINT BARTON,It worked.  It worked.,MALE
-458,ROCKET,Holy crap.  We’re freaking time travelers.,MALE
-459,STEVE ROGERS,"Okay.  Now that we’ve got how, we’re going to need where and when.",NEUTRAL
-460,STEVE ROGERS,Most folks here have encountered at least one of the six Infinity Stones-,NEUTRAL
-461,TONY STARK,I think you mean nearly been killed by one of the six Infinity Stones.,NEUTRAL
-462,SCOTT LANG,I haven’t. Just...saying.,MALE
-463,BRUCE BANNER,"Regardless, we’ve only got enough Pym Particles for one round trip, each.  And the Stones have been in a lot of places throughout history. ",NEUTRAL
-464,TONY STARK,Our history.  Not all of them are going to be a fun drop-in.,NEUTRAL
-465,CLINT BARTON,Which means we’ve got to pick our targets.,MALE
-466,STEVE ROGERS,"Exactly.  Let’s start with the Aether.  Thor, what do we know?",NEUTRAL
-467,NATASHA ROMANOFF,Is he asleep?,NEUTRAL
-468,JAMES RHODES,I’m pretty sure he’s dead.,NEUTRAL
-469,THOR,"The Aether’s not a stone, it’s more of an angry sludge.  My grandfather hid it from Dark Elves in a rock between dimensions that can only be accessed every 5000 years.",MALE
-470,THOR,Or...by Jane.  She stuck her hand in a rock.  Then the Aether stuck itself inside her.  Then I took her to Asgard.  We were dating... We’re not anymore.,MALE
-471,ROCKET,Quill said he stole the Power Stone from Morag.,MALE
-472,BRUCE BANNER,That’s a person?,NEUTRAL
-473,ROCKET,It’s a planet.  Quill was a person.,MALE
-474,SCOTT LANG,"Wait, like a planet...in space?",MALE
-475,ROCKET,"Aw, look.  It’s like a puppy, all happy and everything. ",MALE
-476,ROCKET,"You want to go to space, puppy? I’ll take you to space.",MALE
-477,NEBULA,Thanos found the Soul Stone on Vormir.,FEMALE
-478,NATASHA ROMANOFF,And that is...?,NEUTRAL
-479,NEBULA,A dominion of death at the very center of celestial existence.  It’s the place where Thanos murdered my sister.,FEMALE
-480,SCOTT LANG,Not it.,MALE
-481,NATASHA ROMANOFF,So this ‘Time Stone’ guy...what kind of doctor was he?,NEUTRAL
-482,BRUCE BANNER,Strange?,NEUTRAL
-483,TONY STARK,Cross between ear-nose-and-throat and rabbit-from-hat.,NEUTRAL
-484,BRUCE BANNER,Had a nice place in the Village.,NEUTRAL
-485,TONY STARK,Yeah.  Sullivan Street.,NEUTRAL
-486,BRUCE BANNER,Bleecker.,NEUTRAL
-487,TONY STARK,Sullivan and Bleecker.  They’re cross streets.,NEUTRAL
-488,NATASHA ROMANOFF,"Wait, he lived in New York?  Guys, pick the right year and there were three stones in New York. ",NEUTRAL
-489,BRUCE BANNER,Shut the front door...,NEUTRAL
-490,STEVE ROGERS,"Okay, we have a plan.  Six stones, three teams, one shot.",NEUTRAL
-491,STEVE ROGERS,"Five years ago, we lost.  All of us. ",NEUTRAL
-492,STEVE ROGERS,We lost friends.  We lost family. We lost a part of ourselves. But today we have a chance to take it all back.,NEUTRAL
-493,STEVE ROGERS,"You have your teams and you have assignments.  Get your stone, and get back here.  One round trip each.  No mistakes.  No do-overs.",NEUTRAL
-494,STEVE ROGERS,"Most of us are going back to places we know.  That doesn’t mean we know what to expect.  Be careful.  Look out for each other.  Improvise, if you have to. This is the fight of our lives. And we’re going to win. Whatever it takes.",NEUTRAL
-495,ROCKET,He’s pretty good at that...,MALE
-496,TONY STARK,"All right, you heard the man. Stroke those keys, Jolly Green.",NEUTRAL
-497,BRUCE BANNER,Tracking beacons engaged.,NEUTRAL
-498,ROCKET,You promise to bring that thing back in one piece?,MALE
-499,CLINT BARTON,"Yeah, sure thing.  I’ll do my best. ",MALE
-500,ROCKET,"That’s pretty lame, as far as promises go. ",MALE
-501,NATASHA ROMANOFF,See you in a minute.,NEUTRAL
-502,BRUCE BANNER,"Actually, it’ll be closer to seven or eight microseconds, give or-",NEUTRAL
-503,TONY STARK,"Okay, Park Avenue’s that way. Let’s huddle up.  Suits off.",NEUTRAL
-504,STEVE ROGERS,"We’ve all got our assignments.  Two stones uptown, one stone down. Stay low, keep an eye on time-",NEUTRAL
-505,STEVE ROGERS,And Bruce?  Maybe smash a few things along the way.  For appearances.,NEUTRAL
-506,BRUCE BANNER,"All right, but I have to say, it seems gratuitous.",NEUTRAL
-507,BRUCE BANNER,Grrr...grrr... ,NEUTRAL
-508,ANCIENT ONE,I’d be careful going that way...,FEMALE
-509,ANCIENT ONE,We just had the floors waxed.,FEMALE
-510,BRUCE BANNER,Hulk...does what...Hulk want?,NEUTRAL
-511,ANCIENT ONE,"Yes, I suppose that would be the case- ",FEMALE
-512,ANCIENT ONE,Care to explain?,FEMALE
-513,BRUCE BANNER,I’m looking for Dr. Strange.,NEUTRAL
-514,ANCIENT ONE,"You’re about five years too early. Stephen Strange is currently performing surgery, 20 blocks that way.  What do you want with him?",FEMALE
-515,BRUCE BANNER,"Well, that, actually. ",NEUTRAL
-516,ANCIENT ONE,Ah.  I’m afraid not.,FEMALE
-517,BRUCE BANNER,I’m seriously sorry but...I wasn’t asking.,NEUTRAL
-518,ANCIENT ONE,You don’t want to do this.,FEMALE
-519,BRUCE BANNER,"You’re right, I don’t.  But I need that stone, and I don’t have a lot of time to debate it-",NEUTRAL
-520,ASTRAL BANNER,"No, no, no-",MALE
-521,ANCIENT ONE,"Now.  Let’s start over, shall we?",FEMALE
-522,MAIDEN,"For you, Lady Jane. ",FEMALE
-523,JANE FOSTER,"Um, do you have anything with...pants? ",FEMALE
-524,MAIDEN,Pants?,FEMALE
-525,JANE FOSTER,It’s okay.  Nevermind.,FEMALE
-526,THOR,That’s Jane.,MALE
-527,ROCKET,"Okay, here’s the deal.  You’re going to charm her, and I’m going to poke her with this thing, extract the Reality Stone, and get gone lickety-split.",MALE
-528,THOR,"Um, I’ll be right back.  The wine cellar is just down here.  My father used to have this barrel of Aakonian ale.  Felt like getting hit in the face with a poleaxe. I’ll see if the scullery has a couple of to-go cups-",MALE
-529,FRIGGA,"Send Loki some soup.  I don’t think he’s eating.  And ask our librarians to pull some volumes from the astronomy shelves.  He won’t read them, but at least they’ll keep him company.",FEMALE
-530,ROCKET,Who’s the fancy broad?,MALE
-531,THOR,My mother.  She dies today.,MALE
-532,ROCKET,"Oh, jeez.",MALE
-533,THOR,I can’t do this.  This is a bad idea.  I can’t do this...,MALE
-534,ROCKET,Come here.,MALE
-535,ROCKET,"You think you’re the only one who’s lost people?  What do you think we’re doing here?  I lost the only family I ever had.  Quill, Groot, Drax, the chick with the antenna. All gone.  I’ve lived five meaningless years without them, and every minute has blown Aaskvarian gornads.  I get you miss your mom. But she’s gone.  Really gone. There are plenty of people who are only kind of gone.  And you can help them.  So, is it too much to ask that you brush the crumbs out of your beard, make shmoopy talk to Prettypants, and when she’s not looking, suck out the Infinity Stone, and help me get my family back? ",MALE
-536,THOR,I guess not.,MALE
-537,ROCKET,Good.,MALE
-538,THOR,Thank you.  I can do this.,MALE
-539,ROCKET,Great.,MALE
-540,THOR,I can do this...I can do this... I can’t do this...,MALE
-541,ROCKET,"All right, heartbreaker.  This is our shot...",MALE
-542,ROCKET,Thor? ,MALE
-543,ROCKET,"I can kill him, and say the Elves did it. ",MALE
-544,JAMES RHODES,"That’s it, right on that line, Blue.  Keep dropping it.",NEUTRAL
-545,CLINT BARTON,"Hey, can we hurry it up? ",MALE
-546,NATASHA ROMANOFF,"Yeah, come on, chop chop, we’re on the clock, here. ",NEUTRAL
-547,JAMES RHODES,All that?  Really helpful!,NEUTRAL
-548,NATASHA ROMANOFF,Take care of yourself.,NEUTRAL
-549,JAMES RHODES,Get that stone and come back.  No messing around.  You guys watch each other’s six.,NEUTRAL
-550,NEBULA,Coordinates for Vormir are laid in. All they have to do is not fall out.,FEMALE
-551,NATASHA ROMANOFF,What?,NEUTRAL
-552,CLINT BARTON,Nothing.  Just...we’re a long way from Budapest.,MALE
-553,NATASHA ROMANOFF,Further every second.,NEUTRAL
-554,JAMES RHODES,"So, all we have to do is hang out, wait for this Quill guy, and follow him to the Power Stone, right? ",NEUTRAL
-555,NEBULA,Let’s take cover.  We’re not the only ones in this reality looking for the stones.,FEMALE
-556,JAMES RHODES,"Hey, who are you talking about right now?  Who else is looking for the stones? ",NEUTRAL
-557,NEBULA,My father.  My sister.  And me.,FEMALE
-558,JAMES RHODES,You?  Where are you?,NEUTRAL
-559,GAMORA,You’re welcome?,FEMALE
-560,NEBULA,I didn’t ask for your help.,NEUTRAL
-561,GAMORA,And yet you always need it.  Father wants us back on the ship.,FEMALE
-562,NEBULA,Why?,NEUTRAL
-563,GAMORA,He’s found an Infinity Stone.,FEMALE
-564,NEBULA,Where?,NEUTRAL
-565,GAMORA,On a planet called “Morag.”,FEMALE
-566,NEBULA,Father’s plan is finally in motion.,NEUTRAL
-567,GAMORA,One stone isn’t six.,FEMALE
-568,NEBULA,It’s a start.  If he gets them all...,NEUTRAL
-569,GAMORA,We’ll never have to do this again.,FEMALE
-570,NEBULA,He’ll miss it.,NEUTRAL
-571,THANOS,Ronan has located the Power Stone. I’m dispatching you to his ship.,MALE
-572,GAMORA,He won’t like it.,FEMALE
-573,THANOS,"His alternative is death.  Ronan’s obsession clouds his judgement. After Loki, I’m taking no chances. ",MALE
-574,NEBULA,"We will not fail you, father.",NEUTRAL
-575,THANOS,No.  You won’t.,MALE
-576,NEBULA,I swear I will make you proud-,NEUTRAL
-577,GAMORA,"Sister, what’s-",FEMALE
-578,JAMES RHODES,"So, all we have to do is hang out, wait for this Quill guy, and follow him to the Power Stone, right? ",NEUTRAL
-579,NEBULA,Let’s take cover.  We’re not the only ones in this reality looking for the stones.,FEMALE
-580,GAMORA,Who was that?,FEMALE
-581,NEBULA,I...don’t know.  My head...splitting...,NEUTRAL
-582,GAMORA,Her synaptic drive was probably damaged in battle-,FEMALE
-583,THANOS,Sshhh...,MALE
-584,THANOS,Bring her to my ship.,MALE
-585,LOKI,If it’s all the same to you...I’ll have that drink now.,MALE
-586,TONY STARK,"Cap, I’ve got to say that outfit does nothing for your ass. ",NEUTRAL
-587,STEVE ROGERS,"No one asked you to look, Tony. ",NEUTRAL
-588,SCOTT LANG,"I think you look great, Cap.  As far as I’m concerned, that’s America’s ass. ",MALE
-589,NATASHA ROMANOFF,Who gets the magic wand?,NEUTRAL
-590,STEVE ROGERS,SHIELD’s coming up now.,NEUTRAL
-591,TONY STARK,"Ball’s in play.  Head’s up, Cap.",NEUTRAL
-592,TONY STARK,Mind Stone’s on the move.,NEUTRAL
-593,STEVE ROGERS,I’m in position.,NEUTRAL
-594,NATASHA ROMANOFF,Careful with that.,NEUTRAL
-595,CLINT BARTON,Unless you want your mind erased. And not in the fun way.,NEUTRAL
-596,BROCK RUMLOW,We promise to be extra careful.,MALE
-597,SCOTT LANG,Who are these guys?,MALE
-598,TONY STARK,"SHIELD.  Actually, Hydra.  But we didn’t know that yet. ",NEUTRAL
-599,SCOTT LANG,Seriously?  ‘Cause it’s kind of obvious they’re bad guys.,MALE
-600,TONY STARK,You’re small but you’re talking loud.,NEUTRAL
-601,STEVE ROGERS,I’m on my way down to coordinate search and rescue.,NEUTRAL
-602,STEVE ROGERS,"“I’m on my way down to coordinate search and rescue.”  I mean, really, how do you keep your food down? ",NEUTRAL
-603,THOR,"Yes, that’s much better.",NEUTRAL
-604,THOR,"You coming, Stark?",NEUTRAL
-605,TONY STARK,"One sec, just packing my lunch. ",NEUTRAL
-606,TONY STARK,"All right, you’re up, Little Buddy. There’s our stone.",NEUTRAL
-607,SCOTT LANG,All right.  Flick me.,MALE
-608,BRUCE BANNER,Hulk take stairs.,NEUTRAL
-609,TONY STARK,"Okay, Cap, I make ten of them, just passing the 80th floor. ",NEUTRAL
-610,STEVE ROGERS,Got it.  Head to the lobby.,NEUTRAL
-611,TONY STARK,Already on my way.,NEUTRAL
-612,AGENT SITWELL,"Evidence secured, we are en route to Dr. List...No, no hitches at all, Mr. Secretary...",MALE
-613,AGENT SITWELL,"Captain, I thought you were coordinating search and rescue? ",MALE
-614,STEVE ROGERS,Change of plans.,NEUTRAL
-615,BROCK RUMLOW,Cap.,MALE
-616,STEVE ROGERS,Rumlow.,NEUTRAL
-617,STEVE ROGERS,I got a call from the Secretary’s office.  I’m going to be running point on the scepter.,NEUTRAL
-618,AGENT SITWELL,Sir?  I don’t understand-,MALE
-619,STEVE ROGERS,We’ve had word there might be an attempt to steal it.,NEUTRAL
-620,BROCK RUMLOW,"Afraid we can’t allow that, Cap. ",MALE
-621,AGENT SITWELL,I’ll have to check with the Director-,MALE
-622,STEVE ROGERS,No.  Trust me.  It’s okay...,NEUTRAL
-623,STEVE ROGERS,Hail Hydra.,NEUTRAL
-624,BRUCE BANNER,SO MANY STAIRS!,NEUTRAL
-625,TONY STARK,"Okay, Thumbelina, you’re a go.",NEUTRAL
-626,SCOTT LANG,Bombs away.,MALE
-627,SCOTT LANG,Is that...Axe body spray?,MALE
-628,TONY STARK,"Yeah, I had a can in the desk for emergencies.  Can we focus, please? ",NEUTRAL
-629,SCOTT LANG,I’m going inside you...,MALE
-630,ALEXANDER PIERCE,Mind if I ask where you’re going?,MALE
-631,THOR,"We were thinking lunch, then Asgard.  And you are? ",NEUTRAL
-632,TONY STARK,"Alexander Pierce.  He’s the guy behind the guys behind Fury, so don’t mess. ",NEUTRAL
-633,ALEXANDER PIERCE,My friends call me Mr. Secretary.  I have to ask you to turn the prisoner over to me.,MALE
-634,THOR,"Loki will answer to Odin, himself. ",NEUTRAL
-635,ALEXANDER PIERCE,"No, he’ll answer to us.  “Odin” can have what’s left. And we’ll need the case back, too. That’s been SHIELD property for over seventy years. ",MALE
-636,TONY STARK,"I’m not gonna argue who has authority here but jurisdictionally speaking, we are on Stark property. That is my name on the glass... ",NEUTRAL
-637,ALEXANDER PIERCE,Just give me the case.,MALE
-638,TONY STARK,"Move it, Stuart Little.  Things are getting dicey out here",NEUTRAL
-639,SCOTT LANG,This place is a mess. You promise you won’t die?,MALE
-640,TONY STARK,You’re only giving me a minor cardiac dysrhythmia-,NEUTRAL
-641,SCOTT LANG,That doesn’t actually sound minor-,MALE
-642,TONY STARK,Window’s closing.  Pull my plug.,NEUTRAL
-643,SCOTT LANG,Here goes...,MALE
-644,ALEXANDER PIERCE,Stark?,MALE
-645,ALEXANDER PIERCE,MEDIC!,MALE
-646,THOR,Stark?  Somebody get some help!  Is it your chest machine?,NEUTRAL
-647,TONY STARK,Meet me in the alley.  I’m just gonna grab a slice at Famous Ray’s-,NEUTRAL
-648,SCOTT LANG,"That wasn’t supposed to happen, was it? ",MALE
-649,THOR,WHERE’S LOKI?,NEUTRAL
-650,SECURITY,"Building-wide alert, all units. Target Loki, maximum force. ",MALE
-651,STEVE ROGERS,Tony?  What’s going on?  Tell me you got that cube-,NEUTRAL
-652,STEVE ROGERS,"Strike Teams, clear Forty, then work down.",NEUTRAL
-653,STEVE ROGERS,"Oh, great. ",NEUTRAL
-654,STEVE ROGERS,"Disregard.  I have eyes on Loki, Fourteenth Floor. ",NEUTRAL
-655,STEVE ROGERS,I’m not Loki.  And I don’t want to hurt you.,NEUTRAL
-656,STEVE ROGERS,You’re not going to get the chance-,NEUTRAL
-657,STEVE ROGERS,Forgot about that one.,NEUTRAL
-658,STEVE ROGERS,I can do this all day-,NEUTRAL
-659,STEVE ROGERS,"Yeah, I know...",NEUTRAL
-660,STEVE ROGERS,Where’d you get this?,NEUTRAL
-661,STEVE ROGERS,PX.  Camp Lehigh.  1943.,NEUTRAL
-662,STEVE ROGERS,You’ve got a lot of nerve.,NEUTRAL
-663,STEVE ROGERS,That is America’s ass.,NEUTRAL
-664,ANCIENT ONE,"I wish I could help you, Bruce...",FEMALE
-665,ANCIENT ONE,"But if I were to give up the Time Stone to help your reality, I’d be dooming my own. ",FEMALE
-666,ASTRAL BANNER,"Yeah, with all due respect, I’m not sure the science supports that. ",MALE
-667,ANCIENT ONE,"And yet, you’re the one currently standing in the middle of my hydrangeas.",FEMALE
-668,ASTRAL BANNER,"Lady, I just want to borrow your necklace- ",MALE
-669,ANCIENT ONE,At what cost?,FEMALE
-670,ANCIENT ONE,"The Infinity Stones create the experience you know as the flow of time.  Remove one of the stones, and the flow splits.",FEMALE
-671,ANCIENT ONE,"Now, your timeline might benefit. My new one...would definitely not. ",FEMALE
-672,ANCIENT ONE,"In this new branch reality, without our chief weapon against the forces of darkness, our world would be overrun... ",FEMALE
-673,ANCIENT ONE,"For each stone you remove, you’ll create a new, vulnerable timeline. Millions will suffer. Now tell me, Doctor.  Can your science prevent all that? ",FEMALE
-674,ASTRAL BANNER,No.  But it can erase it.,MALE
-675,ASTRAL BANNER,"Because once we’re done with the stones, we can return each one to its own timeline.  At the moment it was taken.  So chronologically, in that reality, the stone never left. ",MALE
-676,ANCIENT ONE,"You’re leaving out the most important part, though.  In order to put the stones back, you’d have to survive. ",FEMALE
-677,ASTRAL BANNER,We will.  I will.  I promise.,MALE
-678,ANCIENT ONE,I can’t risk this reality on a promise.,FEMALE
-679,ANCIENT ONE,It is the duty of the Sorcerer Supreme to protect the Time Stone-,FEMALE
-680,ASTRAL BANNER,Yeah?  Then why the hell did Strange give it away? ,MALE
-681,ANCIENT ONE,What did you say?,FEMALE
-682,ASTRAL BANNER,Strange gave Thanos the Time Stone.,MALE
-683,ANCIENT ONE,Willingly?  Why?,FEMALE
-684,ASTRAL BANNER,Don’t know.  Maybe he made a mistake.,MALE
-685,ANCIENT ONE,Or I did.,FEMALE
-686,ANCIENT ONE,Strange is meant to be the best of us.,FEMALE
-687,ASTRAL BANNER,Then he must have had a reason.,MALE
-688,ANCIENT ONE,I fear you may be right...,FEMALE
-689,BRUCE BANNER,Thank you.,NEUTRAL
-690,ANCIENT ONE,"I’m counting on you, Bruce. We all are. ",FEMALE
-691,THANOS,Run diagnostics.  Show me her memory file.,MALE
-692,EBONY MAW,"Sir, the file appears...entangled. It was a memory, but not hers. There’s another consciousness sharing her network.  Another Nebula. ",MALE
-693,THANOS,Impossible.,MALE
-694,EBONY MAW,This duplicate carries a time stamp...from nine years in the future.,MALE
-695,THANOS,Where is this “other Nebula?”,MALE
-696,EBONY MAW,In our solar system.  On Morag.,MALE
-697,THANOS,Can you access her?,MALE
-698,EBONY MAW,Yes.  The two are linked.,MALE
-699,THANOS,Search the duplicate’s memory for Infinity Stones.,MALE
-700,BRUCE BANNER,-the Stones have been in a lot of places throughout history.,NEUTRAL
-701,TONY STARK,Our history.  Not all of them are going to be a fun drop-in.,NEUTRAL
-702,CLINT BARTON,Which means we’ve got to pick our targets.,MALE
-703,STEVE ROGERS,Exactly.  Let’s start here-,NEUTRAL
-704,THANOS,Freeze image.,MALE
-705,GAMORA,Terrans?,FEMALE
-706,THANOS,Avengers.  Unruly wretches.,MALE
-707,THANOS,"What’s this reflection.  Amplify this, Maw. ",MALE
-708,GAMORA,I don’t understand.  Two Nebulas?,FEMALE
-709,THANOS,No.  The same Nebula.  From two different times. Set course for Morag.  And scan the duplicate’s memories. I want to see everything...,MALE
-710,FRIGGA,What are you doing?,FEMALE
-711,THOR,Mother!  What?  Nothing.  Hello.,MALE
-712,FRIGGA,You’re better off leaving the sneaking to your brother. What are you wearing?,FEMALE
-713,THOR,I always wear this.  It’s one of my favorites.,MALE
-714,FRIGGA,And what’s wrong with your eye?,FEMALE
-715,THOR,"Oh, that.  You remember the...Battle of Harokin.  I took a...broadsword to the face?",MALE
-716,FRIGGA,"Oh.  You’re not the Thor I know at all, are you? ",FEMALE
-717,THOR,"Yes, I am- ",MALE
-718,FRIGGA,"I was raised by witches, boy.  I see with more than eyes, you know that. I can see the future hasn’t been kind to you, has it? ",FEMALE
-719,THOR,I didn’t say I was from the future...,MALE
-720,FRIGGA,Thor...,FEMALE
-721,THOR,I’m totally from the future.,MALE
-722,FRIGGA,"Yes, you are. ",FEMALE
-723,THOR,I need to talk to you.,MALE
-724,FRIGGA,We can talk.,FEMALE
-725,THOR,...and then it was done.  His head over there.  Body over there.  And me in the middle.  Just an idiot with an axe.,MALE
-726,FRIGGA,"You’re no idiot.  You’re here, aren’t you?  Seeking counsel from the smartest person in Asgard? ",FEMALE
-727,THOR,"Yeah, I guess. ",MALE
-728,FRIGGA,"An idiot, no.  A failure, absolutely. ",FEMALE
-729,THOR,That’s a little harsh-,MALE
-730,FRIGGA,"Quite a colossal one, by the sound of it. ",FEMALE
-731,THOR,"Okay, maybe just stop talking. ",MALE
-732,FRIGGA,And you know what that makes you? Just like everyone else.,FEMALE
-733,THOR,"I’m not supposed to be like everyone else, though. ",MALE
-734,FRIGGA,"Everyone fails at “who they’re supposed to be,” Thor.  The measure of a person, of a hero, is how well they succeed at being who they are.",FEMALE
-735,THOR,"I’ve really missed you, Mum. ",MALE
-736,ROCKET,I got it I got it I got it!,MALE
-737,THOR,"Mum, I have to tell you something- ",MALE
-738,FRIGGA,"No, son.  You don’t.  You’ve come to repair your future, not mine. ",FEMALE
-739,THOR,But your future-,MALE
-740,FRIGGA,Is none of my business.,FEMALE
-741,ROCKET,"Hi.  You must be Mom. I got the thing.  Come on, we gotta move-",MALE
-742,THOR,I wish we had more time-,MALE
-743,FRIGGA,"This was a gift.  Now, go be the man you’re meant to be. And eat a salad.",FEMALE
-744,ROCKET,Three...two-,MALE
-745,THOR,No.  Wait. ,MALE
-746,ROCKET,What am I looking at?,MALE
-747,FRIGGA,Sometimes it takes a second.,FEMALE
-748,THOR,Still worthy.,MALE
-749,THOR,"Goodbye, Mum. ",MALE
-750,FRIGGA,"Goodbye, Son.",FEMALE
-751,JAMES RHODES,"So, he’s an idiot. ",NEUTRAL
-752,NEBULA,Yes.,FEMALE
-753,PETER QUILL,"Oh, fu-",NEUTRAL
-754,JAMES RHODES,Sorry about that.  I know you guys were teammates and everything.,NEUTRAL
-755,NEBULA,Do you hear me complaining?,FEMALE
-756,JAMES RHODES,What is that?,NEUTRAL
-757,NEBULA,The tool of a thief.  Come on.,FEMALE
-758,JAMES RHODES,"Hang on.  This would be about the time the spikes come out, you know, with the skeletons still on them? ",NEUTRAL
-759,NEBULA,What are you talking about?,FEMALE
-760,JAMES RHODES,"I’m just saying, when you break into a place called, “The Temple of the Power Stone”, there are usually...",NEUTRAL
-761,JAMES RHODES,"Traps and stuff. Okay, don’t say I didn’t warn you.",NEUTRAL
-762,JAMES RHODES,These are photovoltaic lasers on a constantly shifting matrix.  Gonna be damn near impossible to neutralize unless we-,NEUTRAL
-763,NEBULA,I wasn’t always like this.,FEMALE
-764,JAMES RHODES,"Yeah, me either.  I guess we do the best with what we’ve got, huh? ",NEUTRAL
-765,JAMES RHODES,Let’s get out of here.  Place gives me the creeps.  Sync up.  Three... two...one...,NEUTRAL
-766,THANOS,What’s wrong?,MALE
-767,BRUCE BANNER,You murdered trillions.,MALE
-768,THANOS,You should be grateful.,MALE
-769,NATASHA ROMANOFF,Where are the stones?,NEUTRAL
-770,THANOS,Gone.  Reduced to atoms.,MALE
-771,BRUCE BANNER,You used them two days ago!,MALE
-772,THANOS,I used the stones to destroy the stones.  The work is done.  It always will be...,MALE
-773,THANOS,I AM INEVITABLE-,MALE
-774,THANOS,I AM INEVITABLE.,MALE
-775,GAMORA,What did you do to them?,FEMALE
-776,THANOS,Nothing.  Yet.,MALE
-777,THANOS,They’re not trying to stop something I’m going to do in our time.  They’re trying to undo something I’ve already done in theirs.,MALE
-778,GAMORA,The stones.,FEMALE
-779,THANOS,I found them all.  I won.  Tipped the cosmic scales to balance.,MALE
-780,EBONY MAW,Sire.  This is your future?,MALE
-781,THANOS,My destiny.,MALE
-782,JAMES RHODES,He’s lying.,NEUTRAL
-783,NEBULA,My father is many things.  A liar is not one of them.,FEMALE
-784,THANOS,"Thank you, daughter.  Perhaps I’ve treated you too- ",MALE
-785,THANOS,And that is destiny fulfilled.,MALE
-786,EBONY MAW,Sire.  Your daughter is a traitor.,MALE
-787,NEBULA,"No.  Please, father.  That’s not me.  I would never betray you. Please- ",NEUTRAL
-788,THANOS,"Ssh, child.  I know.  And you’ll have the chance to prove it... ",MALE
-789,NEBULA,He knows...,FEMALE
-790,NEBULA,"Barton, Romanoff, come in.  We have a problem.  Thanos knows!  Thanos-",FEMALE
-791,TONY STARK,We’ve got a problem.,NEUTRAL
-792,STEVE ROGERS,How could you lose it?,NEUTRAL
-793,TONY STARK,What do you want?  I got hit in the head with a Hulk!,NEUTRAL
-794,SCOTT LANG,You said we only had one shot. This was our shot.  We shot it.  It was six stones or nothing!  Six stones-,MALE
-795,TONY STARK,You’re not helping-,NEUTRAL
-796,SCOTT LANG,You ruined the Time Heist!,MALE
-797,TONY STARK,"Okay, okay, Loki’s from Asgard, he’s comfortable there.  Knows the restaurants.  It’s a safe bet he visits home.  If we can just grab This-Thor and explain the situation, he and I can fly- ",NEUTRAL
-798,STEVE ROGERS,Loki could be anywhere in the universe.  We’d be old men before we found him.,NEUTRAL
-799,STEVE ROGERS,What other options did we have on the Tesseract?,NEUTRAL
-800,SCOTT LANG,"Whoa, whoa.  We don’t have any other options.  We can’t go to any other times.  No do-overs!  We’ve only got one particle left, each. Use it now, that’s it, bye-bye, we don’t come home. ",MALE
-801,STEVE ROGERS,"But if we don’t try, nobody else comes home, either. ",NEUTRAL
-802,TONY STARK,"I got it!  There’s another way to re-take the Tesseract, and acquire new particles. Military installation, Garden State.",NEUTRAL
-803,STEVE ROGERS,When were they both there?,NEUTRAL
-804,TONY STARK,I have a vaguely exact idea.,NEUTRAL
-805,STEVE ROGERS,How vague?,NEUTRAL
-806,SCOTT LANG,"Hang on, what’s in New Jersey? ",MALE
-807,TONY STARK,"I know they were there, and I know how I know. ",NEUTRAL
-808,STEVE ROGERS,Looks like we’re improvising.,NEUTRAL
-809,SCOTT LANG,Wait!  What are you improvising?,MALE
-810,STEVE ROGERS,"Scott, take this back to the Compound. ",NEUTRAL
-811,TONY STARK,"All right, suits on.  Try these coordinates. 04-07-19-70... ",NEUTRAL
-812,SCOTT LANG,"Steve- Cap- Captain America, if you do this and he’s wrong...you’re not coming back.",MALE
-813,TONY STARK,You trust me?,NEUTRAL
-814,STEVE ROGERS,I do.,NEUTRAL
-815,STAN LEE,"Make love, not war, baby!",MALE
-816,TONY STARK,"You weren’t actually born here, right?",NEUTRAL
-817,STEVE ROGERS,The idea of me was.,NEUTRAL
-818,TONY STARK,"All right.  If I was SHIELD and I wanted to hide my quasi-fascistic black site, where would I hide it? ",NEUTRAL
-819,STEVE ROGERS,In plain sight.,NEUTRAL
-820,TONY STARK,"Good luck with that mission, Captain. ",NEUTRAL
-821,STEVE ROGERS,"Good luck with your project, Doctor.",NEUTRAL
-822,FEMALE SHIELD AGENT,You new here?,FEMALE
-823,STEVE ROGERS,Not exactly.,NEUTRAL
-824,TONY STARK,"Come on, you little hexahedron, where are you hiding?",NEUTRAL
-825,TONY STARK,"You may not know it now, but someday you’re going to be a real pain-in-the-ass.",NEUTRAL
-826,HOWARD STARK,"Hey, Arnim, you in here?",MALE
-827,HOWARD STARK,"Hey, I’m looking for Dr. Zola.  You seen him? ",MALE
-828,TONY STARK,No.  Haven’t seen a soul.,NEUTRAL
-829,HOWARD STARK,I know you?,MALE
-830,TONY STARK,"No, sir.  Just visiting from MIT. ",NEUTRAL
-831,HOWARD STARK,That so?  Got a name?,MALE
-832,TONY STARK,Howard...,NEUTRAL
-833,HOWARD STARK,Easy to remember-,MALE
-834,TONY STARK,Potts.,NEUTRAL
-835,HOWARD STARK,"I’m Howard Stark. You seem a little green around the gills, Potts.  Need some air? ",MALE
-836,TONY STARK,That’d be swell.,NEUTRAL
-837,HOWARD STARK,Need the briefcase?,MALE
-838,HANK PYM,Hello?,MALE
-839,STEVE ROGERS,Dr. Pym?,NEUTRAL
-840,HANK PYM,"That would be the number you called, yes.",MALE
-841,STEVE ROGERS,"This is Captain Stevens, from shipping.  We have a package for you.",NEUTRAL
-842,HANK PYM,So bring it up.,MALE
-843,STEVE ROGERS,"That’s the thing, sir, we can’t.",NEUTRAL
-844,HANK PYM,Maybe I’m confused.  Isn’t that your job?,MALE
-845,STEVE ROGERS,"It’s just...sir, the box is glowing.  And to be honest, a couple of our mail guys aren’t feeling great- ",NEUTRAL
-846,HANK PYM,"They didn’t open it, did they?!",MALE
-847,TONY STARK,Sauerkraut and a bouquet...big night planned?,NEUTRAL
-848,HOWARD STARK,My wife’s expecting.  And too much time at the office.,MALE
-849,TONY STARK,Congratulations.,NEUTRAL
-850,HOWARD STARK,Thanks.,MALE
-851,TONY STARK,How far along is she?,NEUTRAL
-852,HOWARD STARK,"Gee, I suppose... ...this far.  She’s at the point where she can’t stand the sound of my chewing.  So I guess I’ll be eating in the pantry again. ",MALE
-853,TONY STARK,I have a little girl.,NEUTRAL
-854,HOWARD STARK,A girl would be nice.  Less chance she’d turn out exactly like me.,MALE
-855,TONY STARK,Would that be so bad?,NEUTRAL
-856,HOWARD STARK,Let’s just say the greater good hasn’t always outweighed my own self interest.,MALE
-857,M.P.,You’ve never seen either of these men before?,NEUTRAL
-858,FEMALE SHIELD AGENT,No.  But I have an eye for this. Something looked fishy.,FEMALE
-859,M.P.,Describe ‘fishy’.,NEUTRAL
-860,FEMALE SHIELD AGENT,One of them had a hippie beard.,FEMALE
-861,M.P.,We talking Bee Gees or Mungo Jerry?,NEUTRAL
-862,FEMALE SHIELD AGENT,Definitely Mungo Jerry.,FEMALE
-863,M.P.,This is Chesler.  We need every available agent to sub-level 6.  We have a potential breach.,NEUTRAL
-864,PEGGY CARTER,"So, send them in. ",FEMALE
-865,MALE AGENT,"They’re trying, ma’am, but Braddock’s unit has been stopped by lightning strikes. ",MALE
-866,PEGGY CARTER,"Oh, for the love of- I’ll find the weather projections.  You call Braddock and tell him to shelter in place.  Assuming he’s bright enough to come out of the rain. ",FEMALE
-867,MALE AGENT,"Yes, ma’am.",MALE
-868,PEGGY CARTER,Here we are...,FEMALE
-869,PEGGY CARTER,"Crikey O’Reilly.  Sergeant?  Hang up and call Air Command.  Braddock needs back up, immediately. ",FEMALE
-870,MALE AGENT,Ma’am?,MALE
-871,PEGGY CARTER,Those aren’t lightning strikes he’s looking at...,FEMALE
-872,TONY STARK,"Got any names, yet? ",NEUTRAL
-873,HOWARD STARK,"If it’s a boy, my wife likes Elmonzo. ",MALE
-874,TONY STARK,You might let that stew a while. You’ve got time.,NEUTRAL
-875,HOWARD STARK,"What are you, couple years older than me? ",MALE
-876,TONY STARK,Yeah.  I guess.,NEUTRAL
-877,HOWARD STARK,Let me ask you a question.  When your kid was born...were you nervous?,MALE
-878,TONY STARK,Wildly.,NEUTRAL
-879,HOWARD STARK,Did you feel qualified?  Like you had any idea how to successfully operate that thing?,MALE
-880,TONY STARK,I pieced it together as I went along.  I thought about what my dad did...,NEUTRAL
-881,HOWARD STARK,My old man never met a problem he couldn’t solve with a belt.,MALE
-882,TONY STARK,"I tried to hold onto the good stuff.  Dad dropped the odd pearl, here and there. ",NEUTRAL
-883,HOWARD STARK,Like what?,MALE
-884,TONY STARK,“No amount of money ever bought a second of time.”,NEUTRAL
-885,HOWARD STARK,That’s good.  Smart guy.,MALE
-886,TONY STARK,He did his best.,NEUTRAL
-887,HOWARD STARK,"I tell you, this kid’s not even here yet, but there’s nothing I wouldn’t do for him.",MALE
-888,HOWARD STARK,"Besides, if I fall down on the fathering job, old Jarvis is ready to pick up the slack.  Isn’t that right? ",MALE
-889,EDWIN JARVIS,"Indeed, sir.  I shall endeavor to teach the lad the rudiments of judo.",MALE
-890,HOWARD STARK,"Well, good to meet you, Potts. ",MALE
-891,TONY STARK,"You’re going to do fine, Howard. ",NEUTRAL
-892,HOWARD STARK,Thanks.  See you around?,MALE
-893,TONY STARK,Count on it...,NEUTRAL
-894,HOWARD STARK,Have we met him before?,MALE
-895,EDWIN JARVIS,"We’ve met a lot of people, sir. ",MALE
-896,HOWARD STARK,Seems very familiar. Weird beard.,MALE
-897,NEBULA,You’re weak.,NEUTRAL
-898,NEBULA,I’m you-,FEMALE
-899,NEBULA,Shut up!,NEUTRAL
-900,NEBULA,You could stop this.  You know you want to. Did you see what happens in the future?  Thanos finds the Soul Stone.,FEMALE
-901,NEBULA,You want to know how he does that? You want to know what he does to you-,FEMALE
-902,NEBULA,ENOUGH!,NEUTRAL
-903,NEBULA,You disgust me...but that doesn’t mean you’re useless.,NEUTRAL
-904,NEBULA,How do I look?,NEUTRAL
-905,CLINT BARTON,"Under different circumstances, this would be totally awesome.",MALE
-906,CLINT BARTON,Really starting to regret my choice here.,MALE
-907,NATASHA ROMANOFF,Yeah.  I’m gonna bet the raccoon didn’t have to climb a mountain.,NEUTRAL
-908,CLINT BARTON,I don’t think technically he’s a raccoon...,MALE
-909,NATASHA ROMANOFF,Whatever.  He eats garbage-,NEUTRAL
-910,HOODED FIGURE,"I assure you, you have nothing to fear from me. ",MALE
-911,CLINT BARTON,Creepy.,MALE
-912,HOODED FIGURE,"Welcome Natasha, daughter of Ivan. Clint, son of Edith. ",MALE
-913,CLINT BARTON,Creepier.,MALE
-914,NATASHA ROMANOFF,Who are you?,NEUTRAL
-915,RED SKULL,"Consider me a guide.  To you, and to all who seek the Soul Stone. ",MALE
-916,NATASHA ROMANOFF,"Great.  You show us where it is, and we’ll be on our way.",NEUTRAL
-917,RED SKULL,"Oh, liebchen.  If only it were that easy...",MALE
-918,RED SKULL,What you seek lies in front of you. As does what you fear.,MALE
-919,NATASHA ROMANOFF,The Stone is down there?,NEUTRAL
-920,RED SKULL,"For one of you.  For the other... The Stone demands a sacrifice.  In order to take it, you must leave behind that which you love. ",MALE
-921,RED SKULL,A soul for a soul. ,MALE
-922,CLINT BARTON,Maybe he’s full of shit.,MALE
-923,NATASHA ROMANOFF,I don’t think so.,NEUTRAL
-924,CLINT BARTON,"Why, because he knew your daddy’s name? ",MALE
-925,NATASHA ROMANOFF,"I didn’t. Thanos left here with the stone, and without his daughter.  You really think that’s a coincidence?",NEUTRAL
-926,NATASHA ROMANOFF,Whatever it takes...,NEUTRAL
-927,CLINT BARTON,Whatever it takes...,MALE
-928,NATASHA ROMANOFF,"If we don’t get the stone, billions of people are going to stay dead. ",NEUTRAL
-929,CLINT BARTON,Then I guess we both know who it has to be.,MALE
-930,NATASHA ROMANOFF,Yeah.  Guess we do.,NEUTRAL
-931,CLINT BARTON,I’m starting to think we don’t mean the same person.,MALE
-932,NATASHA ROMANOFF,"For the last five years, I’ve been trying to do one thing -- get to right here.  This is all it’s been about.  Bringing everybody back. ",NEUTRAL
-933,CLINT BARTON,Do not get all decent on me-,MALE
-934,NATASHA ROMANOFF,"You think I want to do it?  I’m trying to save your life, you idiot- ",NEUTRAL
-935,CLINT BARTON,And I don’t want you to. Nat.  You know what I’ve done. What I am now.  Your life’s worth ten of mine-,MALE
-936,NATASHA ROMANOFF,I don’t judge people by their worst mistakes-,NEUTRAL
-937,CLINT BARTON,Maybe you should-,MALE
-938,NATASHA ROMANOFF,You didn’t.,NEUTRAL
-939,CLINT BARTON,"You’re a pain in my ass, you know that?",MALE
-940,CLINT BARTON,Tell my family I love them.,MALE
-941,NATASHA ROMANOFF,Tell them yourself.,NEUTRAL
-942,CLINT BARTON,Damn you.,MALE
-943,NATASHA ROMANOFF,Let me go.,NEUTRAL
-944,CLINT BARTON,No.  Please no...,MALE
-945,NATASHA ROMANOFF,It’s okay...,NEUTRAL
-946,CLINT BARTON,"Natasha, no-",MALE
-947,JAMES RHODES,Are you telling me that actually worked?,NEUTRAL
-948,BRUCE BANNER,Did we get them all?,NEUTRAL
-949,STEVE ROGERS,Clint?  Are you okay?,NEUTRAL
-950,BRUCE BANNER,Where’s Nat? WHERE’S NAT?! ,NEUTRAL
-951,TONY STARK,Do we know if she had family?,NEUTRAL
-952,STEVE ROGERS,Yeah.  Us.,NEUTRAL
-953,THOR,Why are you doing that?,MALE
-954,TONY STARK,I’m just asking a question-,NEUTRAL
-955,THOR,"Why are we talking as if she’s dead?  We have the stones.  Bring her back.  C’mon, stop this shit.",MALE
-956,CLINT BARTON,We can’t get her back.,MALE
-957,THOR,"What’s he talking about?  Of course, we can. ",MALE
-958,CLINT BARTON,It can’t be undone.  That’s why.,MALE
-959,THOR,"No offense, but you’re...a very earthly being.  We’re talking about space magic, here.  “Can’t” seems a little definitive, don’t you think? ",MALE
-960,CLINT BARTON,"Well, I know I’m a little outside my pay grade here, but, she still isn’t here, is she? ",MALE
-961,THOR,That’s my point-,MALE
-962,CLINT BARTON,"It can’t be undone.  At least that’s what the red, floating guy said.  But why don’t you go talk to him, okay?  Why don’t you grab your hammer and fly to that place and talk to him.  IT CAN’T BE UNDONE. It was supposed to be me.  She sacrificed her life for that goddamn stone.  She bet her life on it.",MALE
-963,BRUCE BANNER,She’s not coming back.  We have to make it worth it.  We have to.,NEUTRAL
-964,STEVE ROGERS,We will.,NEUTRAL
-965,ROCKET,"All right.  The glove’s ready. Question is, who’s gonna snap their freaking fingers?",MALE
-966,THOR,I’ll do it.,MALE
-967,TONY STARK,"Whoa, whoa, what are you doing- ",NEUTRAL
-968,STEVE ROGERS,"Thor, we haven’t decided who’s putting that on. ",NEUTRAL
-969,THOR,Oh.  Were all of you just waiting for the right opportunity?,MALE
-970,ROCKET,Maybe I was getting around to it-,MALE
-971,SCOTT LANG,We should at least discuss it-,MALE
-972,THOR,"Staring at the thing isn’t going to bring everybody back, is it?  Look, I’m the strongest Avenger.  It’s my responsibility.  Fate wills it so. ",MALE
-973,TONY STARK,"Hold on, hold on- ",NEUTRAL
-974,THOR,Stop it!  Let me do this.  Let me do something good.  Something right-,MALE
-975,TONY STARK,That thing is channeling enough energy to light up a continent. You’re in no condition-,NEUTRAL
-976,THOR,What do you think is coursing through my veins right now?,MALE
-977,JAMES RHODES,Cheez Whiz?,NEUTRAL
-978,THOR,Lightning.,MALE
-979,BRUCE BANNER,"Lightning won’t help you, pal. It’s gotta be me. You saw what those stones did to Thanos.  They almost killed him. None of you could survive. ",NEUTRAL
-980,STEVE ROGERS,And how do we know you can?,NEUTRAL
-981,BRUCE BANNER,We don’t.  But the radiation’s mostly gamma. It’s like I was made for this...,NEUTRAL
-982,TONY STARK,Good to go?,NEUTRAL
-983,BRUCE BANNER,Let’s do it.,NEUTRAL
-984,TONY STARK,"Okay, remember, everyone Thanos snapped away five years ago, you’re just bringing them back...to today. Don’t change anything from the last five years.  Got it? ",NEUTRAL
-985,BRUCE BANNER,Got it.,NEUTRAL
-986,TONY STARK,"Friday, why don’t you go ahead and activate Barn Door Protocol? ",NEUTRAL
-987,BRUCE BANNER,Everybody’s coming home...,NEUTRAL
-988,THOR,"What’s happening?  Take it off, take if off! ",MALE
-989,STEVE ROGERS,"Bruce, you okay? ",NEUTRAL
-990,TONY STARK,"Talk to me, Banner. ",NEUTRAL
-991,BRUCE BANNER,I’m...okay...,NEUTRAL
-992,STEVE ROGERS,Bruce!,NEUTRAL
-993,TONY STARK,Don’t move him!,NEUTRAL
-994,BRUCE BANNER,Did it work?,NEUTRAL
-995,CLINT BARTON,Honey?,MALE
-996,SCOTT LANG,"Guys, I think it-",MALE
-997,THANOS,Daughter?,MALE
-998,NEBULA,"Yes, father...",NEUTRAL
-999,THANOS,So this is the future.  Well done.,MALE
-1000,NEBULA,"Thank you, Father.  They suspected nothing. ",NEUTRAL
-1001,THANOS,The arrogant never do.,MALE
-1002,THANOS,Go.  Find the stones.  Bring them to me.,MALE
-1003,NEBULA,What will you do?,NEUTRAL
-1004,THANOS,Wait.,MALE
-1005,JAMES RHODES,Canopy!  Canopy!,NEUTRAL
-1006,JAMES RHODES,Mayday!  Tony.  Cap.  Does anybody hear me?!,NEUTRAL
-1007,JAMES RHODES,Hang on!,NEUTRAL
-1008,JAMES RHODES,Mayday!  Mayday!  We are taking on water!,NEUTRAL
-1009,JAMES RHODES,...anyone...Mayday...Mayday-,NEUTRAL
-1010,SCOTT LANG,"Wait, what...? ",MALE
-1011,ROCKET,Tell ‘em to...hurry...asses up-,MALE
-1012,JAMES RHODES,...trapped...drowning...no time...,NEUTRAL
-1013,SCOTT LANG,"No!  Wait, I’m here!",MALE
-1014,CLINT BARTON,Cap?  Stark?  Anyone?,MALE
-1015,TONY STARK,"You lose this again, I’m keeping it. ",NEUTRAL
-1016,STEVE ROGERS,What happened?,NEUTRAL
-1017,TONY STARK,Told you.  We messed with time. Time messed back.,NEUTRAL
-1018,STEVE ROGERS,Where are the others?,NEUTRAL
-1019,TONY STARK,"I read life signs, maybe 800 feet down, but it’s hard to tell.",NEUTRAL
-1020,TONY STARK,What’s he been doing?,NEUTRAL
-1021,THOR,Absolutely nothing.,MALE
-1022,STEVE ROGERS,Son of a bitch.,NEUTRAL
-1023,TONY STARK,Yeah.,NEUTRAL
-1024,STEVE ROGERS,Where are the stones?,NEUTRAL
-1025,TONY STARK,Somewhere under all of this.  All I know is...he doesn’t have ‘em.,NEUTRAL
-1026,STEVE ROGERS,So we keep it that way.,NEUTRAL
-1027,THOR,You know it’s a trap.,MALE
-1028,TONY STARK,Don’t think I care.,NEUTRAL
-1029,THOR,Just so we’re all in agreement.,MALE
-1030,THOR,Let’s kill him properly this time.,MALE
-1031,THANOS,You could not live with your own failure.  And where did that bring you?  Right back to me.,MALE
-1032,THANOS,"I thought by eliminating half of life, the other half would thrive. But you’ve shown me that’s impossible. Life clings to the past with bloody fingernails.  As long as there are those who remember what was, there will be those unable to accept what can be.  They will resist. ",MALE
-1033,TONY STARK,Yep.  We’re all kinds of stubborn.,NEUTRAL
-1034,THANOS,I’m thankful.  Because now I know what I must do.,MALE
-1035,THANOS,I will shred this universe down to its last atom.,MALE
-1036,THANOS,"And then, with the stones you’ve collected for me, create a new one, teeming with life that knows not what it has lost, but only what it has been given.  A grateful universe. ",MALE
-1037,STEVE ROGERS,Born out of blood.,NEUTRAL
-1038,THANOS,They’ll never know it.,MALE
-1039,THANOS,Because you won’t be alive to tell them.,MALE
-1040,NEBULA,What do you want?,FEMALE
-1041,GAMORA,In the future...what happens to you and me?,FEMALE
-1042,NEBULA,"I try to kill you.  Several times. But, eventually...we become friends.  We become sisters. ",FEMALE
-1043,GAMORA,That’s hard to believe.,FEMALE
-1044,NEBULA,A lot of things that happen will be hard to believe.,FEMALE
-1045,GAMORA,Come on.  We can still stop him.,FEMALE
-1046,BRUCE BANNER,Rhodey.  Rocket.  Get out of here. Save yourselves.,NEUTRAL
-1047,ROCKET,No good.  Couldn’t even...find a hole...small enough to abandon you through.,MALE
-1048,BRUCE BANNER,AAARRRGH!,NEUTRAL
-1049,JAMES RHODES,MAYDAY!  MAYDAY!,NEUTRAL
-1050,SCOTT LANG,HANG ON!  I’M COMING!,MALE
-1051,CLINT BARTON,"Oh, hey.  I know you.",MALE
-1052,NEBULA,Father.  I have the stones.,NEUTRAL
-1053,CLINT BARTON,What- ,MALE
-1054,GAMORA,Stop.,FEMALE
-1055,NEBULA,You’re betraying us?,NEUTRAL
-1056,GAMORA,Not you.,FEMALE
-1057,NEBULA,You don’t have to do this.,FEMALE
-1058,NEBULA,I am this.,NEUTRAL
-1059,GAMORA,No.  You’re not.,FEMALE
-1060,NEBULA,You’ve seen what we become-,FEMALE
-1061,GAMORA,"Sister, listen to her- ",FEMALE
-1062,NEBULA,Shut up.  You’re a traitor!,NEUTRAL
-1063,NEBULA,You can change.,FEMALE
-1064,NEBULA,He won’t let me.,NEUTRAL
-1065,CLINT BARTON,I’m not even gonna ask.,MALE
-1066,FRIDAY,Boss?  Wake up!,MALE
-1067,JAMES RHODES,"See you on the other side, man.",NEUTRAL
-1068,THOR,I...knew...it...,MALE
-1069,THANOS,In all my years of conquest...,MALE
-1070,THANOS,Of violence and slaughter...it was never personal.,MALE
-1071,THANOS,"But I’ll tell you now, the things I’m about to do to your stubborn, annoying, little planet... ",MALE
-1072,THANOS,"I’m going to enjoy it.  Very, very much.",MALE
-1073,MUFFLED VOICE,-ap-...-comin-...-ot-,NEUTRAL
-1074,SAM WILSON,Cap.  On your left.,MALE
-1075,DR. STRANGE,Is that everyone?,MALE
-1076,WONG,You wanted more?!,MALE
-1077,SCOTT LANG,"Top floor, everybody out! ",MALE
-1078,STEVE ROGERS,Avengers...assemble.,NEUTRAL
-1079,THOR,No.  You take the little one.,MALE
-1080,PETER PARKER,"Mr. Stark.  Holy cow, you would not believe what’s been going on.  Do you remember when we were in space? And I got all dusty?  I must’ve passed out, because I woke up and you weren’t there, but Dr. Strange was, and he was like, “it’s been five years, they need us.”  And he started doing that yellow sparkly thing he does-",MALE
-1081,PETER PARKER,Oh.  This is nice.,MALE
-1082,PETER QUILL,Gamora?,NEUTRAL
-1083,PETER QUILL,I thought I lost you.,NEUTRAL
-1084,PETER QUILL,You missed the first time...then you got ‘em both the second time.,NEUTRAL
-1085,GAMORA,This is the one?  Seriously?,FEMALE
-1086,NEBULA,Your choices were him or a tree.,FEMALE
-1087,CLINT BARTON,What do you want to do with this thing?,MALE
-1088,STEVE ROGERS,Get those stones as far away as possible!,NEUTRAL
-1089,BRUCE BANNER,No!  We need to send them back where they came from.,NEUTRAL
-1090,TONY STARK,There’s no way to send them back. Thanos destroyed our time machine.,NEUTRAL
-1091,SCOTT LANG,Hold on! That wasn’t our only time machine.,MALE
-1092,STEVE ROGERS,"Does anyone see an ugly, brown van out there? ",NEUTRAL
-1093,VALKYRIE,Yeah.  But you’re not going to like where it’s parked.,FEMALE
-1094,TONY STARK,"Scott, how long do you need to get that thing working? ",NEUTRAL
-1095,SCOTT LANG,"Uh, maybe ten minutes. ",MALE
-1096,STEVE ROGERS,Get it started.  We’ll get the stones to you.,NEUTRAL
-1097,HOPE VAN DYNE,"We’re on it, Cap.",FEMALE
-1098,TONY STARK,Doc.  You said we win one in 14 million.  Is this how it goes down?,NEUTRAL
-1099,DR. STRANGE,"If I tell you what happens, it won’t happen. ",MALE
-1100,TONY STARK,You better be right.,NEUTRAL
-1101,EBONY MAW,"Sire, the stones! ",MALE
-1102,T’CHALLA,"Clint, give it to me.",MALE
-1103,SCOTT LANG,Ignition’s broken.  I’ll hotwire it-,MALE
-1104,HOPE VAN DYNE,"Wait, you know how to do that?",FEMALE
-1105,SCOTT LANG,I was in prison.  I know how to do a lot of things.,MALE
-1106,WANDA,You took everything from me.,FEMALE
-1107,THANOS,I don’t even know who you are.,MALE
-1108,WANDA,You will.,FEMALE
-1109,PETER PARKER,I GOT IT!,MALE
-1110,PETER PARKER,Activate instant kill!,MALE
-1111,THANOS,Rain fire.  Wipe them all out.,MALE
-1112,CORVUS GLAIVE,"But, sire, our troops- ",MALE
-1113,THANOS,Just do it!,MALE
-1114,PEPPER POTTS,"Um, is anyone else seeing this?",FEMALE
-1115,PETER PARKER,I got this...I got this...I don’t got this.,MALE
-1116,STEVE ROGERS,"Hey, Queens!  Heads up! ",NEUTRAL
-1117,PEPPER POTTS,"Hang on, kid.  I’ve got you.",FEMALE
-1118,PETER PARKER,"Hey, nice to meet you-aaaaarg!",MALE
-1119,ROCKET,At least we’re going out together this time...,MALE
-1120,SAM WILSON,What the hell is this?,MALE
-1121,TONY STARK,"Friday, what are they firing at? ",NEUTRAL
-1122,FRIDAY,Something just entered the upper atmosphere.,MALE
-1123,GROOT,I am Groot.,MALE
-1124,ROCKET,Just wait for it.,MALE
-1125,ROCKET,"Oh, yeah! ",MALE
-1126,STEVE ROGERS,Danvers!  We’re gonna need an assist down here!,NEUTRAL
-1127,CAROL DANVERS,Roger...Rogers...,FEMALE
-1128,SCOTT LANG,I’m almost there.  Where’s the glove?,MALE
-1129,PETER PARKER,"Uh, hey.  I’m Peter Parker. ",MALE
-1130,CAROL DANVERS,"Hey, Peter Parker.  You got something for me?",FEMALE
-1131,PETER PARKER,I don’t know how you’re gonna get it through all that-,MALE
-1132,WANDA,"Don’t worry, kid...",FEMALE
-1133,OKOYE,She’s got help.,FEMALE
-1134,SCOTT LANG,Thirty seconds!,MALE
-1135,THANOS,I am...inevitable.,MALE
-1136,TONY STARK,And I...am Iron Man.,NEUTRAL
-1137,PETER QUILL,Babe?  Gamora?,NEUTRAL
-1138,PETER PARKER,"Mr. Stark...Tony...it’s okay, it’s okay...Mr. Stark, we won.  You did it, sir...",MALE
-1139,PEPPER POTTS,"Hey, Friday, what’ve we got? ",FEMALE
-1140,FRIDAY,Life functions critical.,MALE
-1141,PEPPER POTTS,"Tony, look at me.  We’re going to be okay...",FEMALE
-1142,PEPPER POTTS,You can rest now.,FEMALE
-1143,TONY STARK,Everybody wants a happy ending. But it doesn’t always roll that way.  Maybe this time.,NEUTRAL
-1144,TONY STARK,"I’m hoping if you play this back, it’s in celebration. ",NEUTRAL
-1145,TONY STARK,"I hope families are reunited, I hope we get it back and something like a normal version of the planet has been restored.  If there ever was such a thing.",NEUTRAL
-1146,TONY STARK,"God, what a world.  Universe, now. If you’d told me ten years ago that we weren’t alone, let alone to this extent, I probably wouldn’t have been surprised.  But come on...",NEUTRAL
-1147,TONY STARK,"Who knew what epic forces of dark and light would come into play? For better or worse, that’s the reality our children get to grow up in.",NEUTRAL
-1148,TONY STARK,"That’s why I thought I’d probably better record a little greeting, in the case of…an untimely death on my part. ",NEUTRAL
-1149,TONY STARK,"I mean, death at any time is untimely, but...this “time travel” thing we’re going to try to pull off tomorrow has me scratching my head about the “survivability” of it all.  But that’s the hero gig, right?  Part of the journey is the end.",NEUTRAL
-1150,TONY STARK,What am I even tripping for? Everything is going to work out exactly the way it’s supposed to.,NEUTRAL
-1151,TONY STARK,I love you 3000.,NEUTRAL
-1152,CLINT BARTON,I just wish there were some way I could let her know that we won. That we did it.,MALE
-1153,WANDA,She knows.  They both do.,FEMALE
-1154,HAPPY HOGAN,"How are you doing, squirt?  You hungry? ",MALE
-1155,MORGAN STARK,"Uh, huh. ",FEMALE
-1156,HAPPY HOGAN,What do you want?,MALE
-1157,MORGAN STARK,Cheeseburgers?,FEMALE
-1158,HAPPY HOGAN,Did you know your dad liked cheeseburgers?,MALE
-1159,MORGAN STARK,"No, I didn’t know that. ",FEMALE
-1160,HAPPY HOGAN,I’m going to get you all the cheeseburgers you want.,MALE
-1161,VALKYRIE,So when can we expect you back?,FEMALE
-1162,THOR,About that...,MALE
-1163,VALKYRIE,"Thor, your people need a king. ",FEMALE
-1164,THOR,They already have one.  And she’s a far better king than I could ever be.,MALE
-1165,VALKYRIE,Are you serious?,FEMALE
-1166,THOR,"It’s time to be who I am, rather than who I’m supposed to be.  And a leader is who you are.",MALE
-1167,VALKYRIE,"You know, I’d make a lot of changes around here. ",FEMALE
-1168,THOR,"I’m counting on it, Your Majesty.",MALE
-1169,VALKYRIE,What will you do?,FEMALE
-1170,THOR,"I’m not entirely sure.  For the first time in a thousand years, I have no path. But I do have a ride.",MALE
-1171,ROCKET,"Move it or lose it, Hairbag.",MALE
-1172,THOR,"Home sweet home.  Tree!  Good to see you.  The Asgardians of the Galaxy, together again.",MALE
-1173,THOR,"All right, where first?",MALE
-1174,PETER QUILL,"You know, I’m still in charge, here, right? ",NEUTRAL
-1175,THOR,Of course.  Of course...,MALE
-1176,PETER QUILL,"See, when you keep swiping my map, that sounds kind of like, “of course, I know you think you’re still in charge-” ",NEUTRAL
-1177,THOR,"Quail, that’s your own insecurities bubbling up. ",MALE
-1178,DRAX,You should fight one another for the honor of leadership.,MALE
-1179,NEBULA,Sounds fair.,FEMALE
-1180,PETER QUILL,That’s not necessary...,NEUTRAL
-1181,ROCKET,I’ve got some blasters right here. Unless you want to use knives.,MALE
-1182,MANTIS,"Oh, yes, please, use knives- ",FEMALE
-1183,PETER QUILL,No one’s using knives!,NEUTRAL
-1184,GROOT,I am Groot!,MALE
-1185,THOR,There’ll be no knifing young Quail today.  Everyone knows who’s in charge.,MALE
-1186,PETER QUILL,Me. Right?,NEUTRAL
-1187,BRUCE BANNER,"Remember, you’ll have to return the stones to the exact moment they were taken.  Otherwise, we’re still looking at a whole bunch of nasty alternate realities. ",NEUTRAL
-1188,STEVE ROGERS,Got it.  I’ll clip all the branches.,NEUTRAL
-1189,BRUCE BANNER,"You know, I tried.  When I had the gauntlet.  I really tried to bring her back. I miss her. ",NEUTRAL
-1190,STEVE ROGERS,"Me, too. ",NEUTRAL
-1191,BRUCE BANNER,You’d better get going.  We’re almost ready for you.,NEUTRAL
-1192,SAM WILSON,"You look a little nervous going by yourself.  Ask nicely, I’ll go with you. ",MALE
-1193,STEVE ROGERS,"You’re a good man, Sam.  But this one’s on me.",NEUTRAL
-1194,STEVE ROGERS,"Don’t do anything stupid ‘til I get back, okay? ",NEUTRAL
-1195,BUCKY BARNES,How can I?  You’re taking all the stupid with you.,MALE
-1196,BUCKY BARNES,"Gonna miss you, buddy. ",MALE
-1197,STEVE ROGERS,"It’s going to be okay, Buck.",NEUTRAL
-1198,SAM WILSON,How long’s this gonna take?,MALE
-1199,BRUCE BANNER,"For him, as long as he needs.  For us, five seconds. Ready, Cap?  You’re good to go. Meet you right back here, okay?",NEUTRAL
-1200,STEVE ROGERS,You bet.,NEUTRAL
-1201,BRUCE BANNER,"Going Quantum in three, two, one. ",NEUTRAL
-1202,BRUCE BANNER,"Aaand, returning in five... four...three...two...one-",NEUTRAL
-1203,SAM WILSON,Where is he?,MALE
-1204,BRUCE BANNER,I don’t know.  He blew past our time stamp.  He should be here.,NEUTRAL
-1205,SAM WILSON,Get him back!,MALE
-1206,BRUCE BANNER,I’m trying.,NEUTRAL
-1207,SAM WILSON,Get him the hell back-,MALE
-1208,BRUCE BANNER,I’M TRYING!,NEUTRAL
-1209,BUCKY BARNES,Sam.,MALE
-1210,SAM WILSON,"Hey, Cap.",MALE
-1211,STEVE ROGERS,"Hi, Sam. ",NEUTRAL
-1212,SAM WILSON,Something go wrong...or something go right?,MALE
-1213,STEVE ROGERS,"I thought, after everything that’s happened...maybe I should try out some of that life Tony always told me to get. ",NEUTRAL
-1214,SAM WILSON,How was it?,MALE
-1215,STEVE ROGERS,It was beautiful.,NEUTRAL
-1216,SAM WILSON,I’m happy for you.  Really.,MALE
-1217,STEVE ROGERS,Thanks.,NEUTRAL
-1218,SAM WILSON,Only thing bumming me out is now I live in a world without Captain America.,MALE
-1219,STEVE ROGERS,That’s kind of why I’m here.,NEUTRAL
-1220,SAM WILSON,Where did you even get this?,MALE
-1221,STEVE ROGERS,I had a little time to travel. Try it on.,NEUTRAL
-1222,STEVE ROGERS,How does it feel?,NEUTRAL
-1223,SAM WILSON,Like it’s someone else’s.,MALE
-1224,STEVE ROGERS,It isn’t.,NEUTRAL
-1225,SAM WILSON,Thank you.  I’ll try my best.,MALE
-1226,STEVE ROGERS,That’s why it’s yours.,NEUTRAL
-1227,SAM WILSON,You gonna tell me about her?,MALE
-1228,STEVE ROGERS,Nope.  I don’t think I will.,NEUTRAL
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,character,line,gender
+0,0,0,0,0,THE OTHER,"The Tesseract has awakened. It is on a little world, a human world. They would wield its power.",MALE
+1,1,1,1,1,THE OTHER,But our ally knows its workings as they never will. He is ready to lead. And our force...,MALE
+2,2,2,2,2,THE OTHER,"...our Chitauri, will follow. The world will be his...the universe, yours. And the humans, what can they do but burn?",MALE
+3,3,3,3,3,INTERCOM VOICE,"All personnel, evacuation order has been confirmed. Proceed to your designated vehicles...",MALE
+4,4,4,4,4,INTERCOM VOICE,...for all campus evacuation.,MALE
+5,5,5,5,5,INTERCOM VOICE,This is not a drill. Emergency personnel proceed to your designated vehicles for all campus evacuation.,MALE
+6,6,6,6,6,NICK FURY,How bad is it?,MALE
+7,7,7,7,7,PHIL COULSON,"That’s the problem, sir. We don’t know.",MALE
+8,8,8,8,8,PHIL COULSON,Doctor Selvig read an...,MALE
+9,9,9,9,9,PHIL COULSON,...energy surge from the Tesseract four hours ago.,MALE
+10,10,10,10,10,NICK FURY,NASA didn’t authorize Selvig could go to test B.,MALE
+11,11,11,11,11,PHIL COULSON,He wasn’t testing it. He wasn’t even in the room. Spontaneous event.,MALE
+12,12,12,12,12,MARIA HILL,It just turned itself on?,FEMALE
+13,13,13,13,13,NICK FURY,Where are the energy levels now?,MALE
+14,14,14,14,14,PHIL COULSON,Climbing. When Selvig couldn’t shut it down we ordered evac.,MALE
+15,15,15,15,15,NICK FURY,How long to get everyone out?,MALE
+16,16,16,16,16,PHIL COULSON,Campus should be clear in the next half hour.,MALE
+17,17,17,17,17,NICK FURY,Do better.,MALE
+18,18,18,18,18,MARIA HILL,"Sir, evacuation may be futile. ",FEMALE
+19,19,19,19,19,NICK FURY,We should tell them to go back to sleep?,MALE
+20,20,20,20,20,MARIA HILL,If we can’t control the Tesseract’s energy there may not be a minimum safe distance.,FEMALE
+21,21,21,21,21,NICK FURY,I need you to make sure the Phase Two prototypes are shipped out.,MALE
+22,22,22,22,22,MARIA HILL,"Sir, is that really a priority right now? ",FEMALE
+23,23,23,23,23,NICK FURY,Until such time as the world ends we will act as though it intends to spin on. Clear out the tech below. Every piece of Phase Two on a truck and gone.,MALE
+24,24,24,24,24,MARIA HILL,"Yes, Sir. With me.",FEMALE
+25,25,25,25,25,NICK FURY,"Talk to me, Doctor. ",MALE
+26,26,26,26,26,SELVIG,Director.,MALE
+27,27,27,27,27,NICK FURY,Is there anything we know for certain?,MALE
+28,28,28,28,28,SELVIG,The Tesseract is misbehaving.,MALE
+29,29,29,29,29,NICK FURY,Is that supposed to be funny?,MALE
+30,30,30,30,30,SELVIG,"No, it’s not funny at all. The Tesseract is not only active, she’s misbehaving. ",MALE
+31,31,31,31,31,NICK FURY,How soon can you pull the plug?,MALE
+32,32,32,32,32,SELVIG,"She’s an energy source. We turn off the power, she turns it back on. If she reaches peak level- ",MALE
+33,33,33,33,33,NICK FURY,"We prepared for this, Doctor. Harnessing energy from space. ",MALE
+34,34,34,34,34,SELVIG,"We don’t have the harness. My calculations are far from complete. She’s throwing off interference, radiation. Nothing harmful, low levels of Gamma radiation. ",MALE
+35,35,35,35,35,NICK FURY,That can be harmful. Where’s agent Barton?,MALE
+36,36,36,36,36,SELVIG,"The hawk? Up in his nest, as usual.",MALE
+37,37,37,37,37,NICK FURY,Agent Barton. Report.,MALE
+38,38,38,38,38,NICK FURY,I gave you this detail so you could keep a close eye on things.,MALE
+39,39,39,39,39,CLINT BARTON,I see better from a distance.,MALE
+40,40,40,40,40,NICK FURY,Have you seen anything that might set this thing off?,MALE
+41,41,41,41,41,NASA SCIENTIST,Doctor! It’s spiking again.,FEMALE
+42,42,42,42,42,CLINT BARTON,"No one’s come and gone. And Selvig’s clean. No contacts, no IM. If there’s any tampering, sir, it wasn’t this end.",MALE
+43,43,43,43,43,NICK FURY,At this end?,MALE
+44,44,44,44,44,CLINT BARTON,"Yeah. The Cube is a doorway to the other end of space, right? Doors open from both sides.",MALE
+45,45,45,45,45,SELVIG,What’s that?,MALE
+46,46,46,46,46,NICK FURY,"Sir, please put down the spear!",MALE
+47,47,47,47,47,LOKI,You have heart.,MALE
+48,48,48,48,48,LOKI,Please don’t. I still need that.,MALE
+49,49,49,49,49,NICK FURY,This doesn’t have to get any messier.,MALE
+50,50,50,50,50,LOKI,"Of course it does. I’ve come too far for anything else. I am Loki, of Asgard. And I am burdened with glorious purpose.",MALE
+51,51,51,51,51,SELVIG,"Loki, brother of Thor? ",MALE
+52,52,52,52,52,NICK FURY,We have no quarrel with your people.,MALE
+53,53,53,53,53,LOKI,An ant has no quarrel with a boot.,MALE
+54,54,54,54,54,NICK FURY,You planning to step on us?,MALE
+55,55,55,55,55,LOKI,"I come with glad tidings, of a world made free. ",MALE
+56,56,56,56,56,NICK FURY,Free from what?,MALE
+57,57,57,57,57,LOKI,"Freedom. Freedom is life’s great lie. Once you accept that, in your heart you will know peace.",MALE
+58,58,58,58,58,NICK FURY,"Yeah, you say peace. I kinda think you mean the other thing. ",MALE
+59,59,59,59,59,CLINT BARTON,"Sir, Director Fury is stalling. This place is about to blow and drop a hundred feet of rock on us. He means to bury us. ",MALE
+60,60,60,60,60,NICK FURY,Like the pharaohs of old.,MALE
+61,61,61,61,61,SELVIG,He’s right. The portal is collapsing in on itself. We’ve got maybe two minutes before this goes critical.,MALE
+62,62,62,62,62,LOKI,Well then.,MALE
+63,63,63,63,63,CLINT BARTON,We need this vehicles.,MALE
+64,64,64,64,64,MARIA HILL,Who’s that?,FEMALE
+65,65,65,65,65,CLINT BARTON,Didn’t tell me.,MALE
+66,66,66,66,66,NICK FURY,Hill!,MALE
+67,67,67,67,67,NICK FURY,Do you copy?,MALE
+68,68,68,68,68,NICK FURY,Barton...has turned.,MALE
+69,69,69,69,69,NICK FURY,Get the Tesseract. Shut them down.,MALE
+70,70,70,70,70,PHIL COULSON,"Let’s just go. No-no-no! Leave it, leave it. GO!",MALE
+71,71,71,71,71,PHIL COULSON,"We’re clear upstairs, sir...",MALE
+72,72,72,72,72,PHIL COULSON,...We need to go.,MALE
+73,73,73,73,73,PHIL COULSON,Director.,MALE
+74,74,74,74,74,PHIL COULSON,"Director Fury, do you copy? ",MALE
+75,75,75,75,75,NICK FURY,The Tesseract is with a hostile force. I have men down. Hill?,MALE
+76,76,76,76,76,MARIA HILL,A lot of men still under. Don’t know how many survivors.,FEMALE
+77,77,77,77,77,NICK FURY,Sound a general call. I want every living soul...,MALE
+78,78,78,78,78,NICK FURY,...not working rescue looking for that briefcase.,MALE
+79,79,79,79,79,MARIA HILL,Roger that.,FEMALE
+80,80,80,80,80,NICK FURY,"Coulson, get back to base. ",MALE
+81,81,81,81,81,NICK FURY,This is a level seven.,MALE
+82,82,82,82,82,NICK FURY,As of right now...,MALE
+83,83,83,83,83,NICK FURY,We are at war.,MALE
+84,84,84,84,84,PHIL COULSON,What do we do?,MALE
+85,85,85,85,85,GEORGI LUCHKOV,This isn’t how I wanted this evening to go.,FEMALE
+86,86,86,86,86,NATASHA ROMANOFF,I know how you wanted this evening. Believe me this is better.,FEMALE
+87,87,87,87,87,GEORGI LUCHKOV,"Who are you working for? Lermentov, yes?",FEMALE
+88,88,88,88,88,GEORGI LUCHKOV,Does he think we have to go through him to move our cargo?,FEMALE
+89,89,89,89,89,NATASHA ROMANOFF,I thought General Solohob is in charge of the export business.,FEMALE
+90,90,90,90,90,GEORGI LUCHKOV,"Solohob. A bagman, a front. Your outdated information betrays you. The famous Black Widow is just another pretty face. ",FEMALE
+91,91,91,91,91,NATASHA ROMANOFF,You really think I’m pretty?,FEMALE
+92,92,92,92,92,GEORGI LUCHKOV,Tell Lermentov we don’t need him to move the tanks. Tell him he is out. Well...You may have to write it.,FEMALE
+93,93,93,93,93,WEASELLY THUG,It’s for her.,MALE
+94,94,94,94,94,GEORGI LUCHKOV,You listen carefully-,FEMALE
+95,95,95,95,95,PHIL COULSON,"You’re at 1- 14 Silensky Plaza, 3rd floor. We have an F-22 exactly eight miles out. Put the woman on the phone or I will blow up the block before you can make the lobby.  We need you to come in. ",MALE
+96,96,96,96,96,NATASHA ROMANOFF,Are you kidding? I’m working.,FEMALE
+97,97,97,97,97,PHIL COULSON,This takes precedence.,MALE
+98,98,98,98,98,NATASHA ROMANOFF,"I’m in the middle of an interrogation, and this moron is giving me everything. ",FEMALE
+99,99,99,99,99,GEORGI LUCHKOV,I not- give everything.,FEMALE
+100,100,100,100,100,NATASHA ROMANOFF,"Look, you can’t pull me out of this right now. ",FEMALE
+101,101,101,101,101,PHIL COULSON,Natasha...Barton’s been compromised.,MALE
+102,102,102,102,102,NATASHA ROMANOFF,Let me put you on hold.,FEMALE
+103,103,103,103,103,NATASHA ROMANOFF,Where’s Barton now?,FEMALE
+104,104,104,104,104,PHIL COULSON,We don’t know.,MALE
+105,105,105,105,105,NATASHA ROMANOFF,But he’s alive?,FEMALE
+106,106,106,106,106,PHIL COULSON,"We think so.  We’ll brief you on everything when you get back. But first, we need you to talk to the big guy. ",MALE
+107,107,107,107,107,NATASHA ROMANOFF,"Coulson, you know that Stark trusts me about as far as he can throw me. ",FEMALE
+108,108,108,108,108,PHIL COULSON,Oh I’ve got Stark! You get the big guy.,MALE
+109,109,109,109,109,NATASHA ROMANOFF,My God.,FEMALE
+110,110,110,110,110,CALCUTTA WOMAN,Who are you? Get out! There is sickness here!,FEMALE
+111,111,111,111,111,YOUNG GIRL,Are you the doctor? I need a doctor. My father. My father’s not waking up! He has a fever and he’s moaning but his eyes won’t open.,FEMALE
+112,112,112,112,112,BRUCE BANNER,Slow down.,MALE
+113,113,113,113,113,YOUNG GIRL,My father-,FEMALE
+114,114,114,114,114,BRUCE BANNER,Like them?,MALE
+115,115,115,115,115,YOUNG GIRL,Please!,FEMALE
+116,116,116,116,116,BRUCE BANNER,Should have got paid upfront Banner.,MALE
+117,117,117,117,117,NATASHA ROMANOFF,"You know, for a man who’s supposed to be...",FEMALE
+118,118,118,118,118,NATASHA ROMANOFF,"...avoiding stress, you picked a hell of a place to settle. ",FEMALE
+119,119,119,119,119,BRUCE BANNER,Avoiding stress isn’t the secret.,MALE
+120,120,120,120,120,NATASHA ROMANOFF,Then what is it? Yoga?,FEMALE
+121,121,121,121,121,BRUCE BANNER,And you brought me to the end of the city. Smart.  I- uh- I assume the whole place is surrounded.,MALE
+122,122,122,122,122,NATASHA ROMANOFF,Just you and me.,FEMALE
+123,123,123,123,123,BRUCE BANNER,"And your actress buddy? She a spy too, they start that wrong? ",MALE
+124,124,124,124,124,NATASHA ROMANOFF,I did.,FEMALE
+125,125,125,125,125,BRUCE BANNER,Who are you?,MALE
+126,126,126,126,126,NATASHA ROMANOFF,Natasha Romanoff.,FEMALE
+127,127,127,127,127,BRUCE BANNER,"Are you here to kill me, Ms Romanoff? ’Cause that’s not going to work out for everyone. ",MALE
+128,128,128,128,128,NATASHA ROMANOFF,"No, no. Of course not. I’m here on behalf of SHIELD. ",FEMALE
+129,129,129,129,129,BRUCE BANNER,SHIELD. How’d they find me?,MALE
+130,130,130,130,130,NATASHA ROMANOFF,"We never lost you, Doctor. We’ve kept our distance, even helped keep some other interested parties off your scent. ",FEMALE
+131,131,131,131,131,BRUCE BANNER,Why?,MALE
+132,132,132,132,132,NATASHA ROMANOFF,Nick Fury seems to trust you. But now we need you to come in.,FEMALE
+133,133,133,133,133,BRUCE BANNER,What if I say no?,MALE
+134,134,134,134,134,NATASHA ROMANOFF,I’ll persuade you. ,FEMALE
+135,135,135,135,135,BRUCE BANNER,And what if the- Other Guy says no?,MALE
+136,136,136,136,136,NATASHA ROMANOFF,You’ve been more than a year without an incident. I don’t think you want to break that streak.,FEMALE
+137,137,137,137,137,BRUCE BANNER,"Well, I don’t every time get what I want. ",MALE
+138,138,138,138,138,NATASHA ROMANOFF,"Doctor, we’re facing a potential global catastrophe. ",FEMALE
+139,139,139,139,139,BRUCE BANNER,Oh those I actively try to avoid.,MALE
+140,140,140,140,140,NATASHA ROMANOFF,This  is the Tesseract.  It has the potential energy to wipe out the planet.,FEMALE
+141,141,141,141,141,BRUCE BANNER,What does Fury want me to do? Swallow it?,MALE
+142,142,142,142,142,NATASHA ROMANOFF,"He wants you to find it. It’s been taken. It emits a Gamma signature that’s too weak for us to trace. No one knows Gamma radiation like you do. If there was, that’s where I’d be. ",FEMALE
+143,143,143,143,143,BRUCE BANNER,So Fury isn’t after the monster?,MALE
+144,144,144,144,144,NATASHA ROMANOFF,Not that he’s told me.,FEMALE
+145,145,145,145,145,BRUCE BANNER,And he tells you everything?,MALE
+146,146,146,146,146,NATASHA ROMANOFF,"Talk to Fury, he needs you on this. ",FEMALE
+147,147,147,147,147,BRUCE BANNER,He needs me in a cage?,MALE
+148,148,148,148,148,NATASHA ROMANOFF,No one’s going to put you in a-,FEMALE
+149,149,149,149,149,BRUCE BANNER,STOP LYING TO ME!  I’m sorry. That was mean. I just wanted to see what you’d do.  Why don’t we do this the easy way where you don’t use that and the- Other Guy doesn’t make a mess? Okay?....Natasha.,MALE
+150,150,150,150,150,NATASHA ROMANOFF,Stand down. We’re good here.,FEMALE
+151,151,151,151,151,BRUCE BANNER,Just you and me?,MALE
+152,152,152,152,152,COUNCILMAN,"This is out of line, Director. You’re dealing with forces you can’t control. ",MALE
+153,153,153,153,153,NICK FURY,"You ever been in a war, councilman? In a fire fight? Did you feel an over abundance of control? ",MALE
+154,154,154,154,154,COUNCILMAN,You’re saying that this Asgard is declaring war on our planet?,MALE
+155,155,155,155,155,NICK FURY,"Not Asgard, Loki. ",MALE
+156,156,156,156,156,COUNCILWOMAN,"He can’t be working alone. What about the other one, his brother? ",FEMALE
+157,157,157,157,157,NICK FURY,Our intelligence says Thor is not a hostile. But he’s worlds away and we can’t depend on him to help either. It’s up to us.,MALE
+158,158,158,158,158,COUNCILMAN,"Which is why you should be focusing on Phase Two, it was designed for exactly this purpose. ",MALE
+159,159,159,159,159,NICK FURY,Phase Two isn’t ready; our enemy is. We need a response team.,MALE
+160,160,160,160,160,COUNCILMAN,The Avengers Initiative was shut down.,MALE
+161,161,161,161,161,NICK FURY,This isn’t about the Avengers.,MALE
+162,162,162,162,162,COUNCILMAN,We’re running the world’s greatest covert security network and you’re gonna leave the fate of the human race to a handful of freaks.,MALE
+163,163,163,163,163,NICK FURY,"I’m not leaving anything to anyone. We need a response team. These people may be isolated, unbalanced even, but I believe, with the right push, they can be exactly what we need. ",MALE
+164,164,164,164,164,COUNCILWOMAN,You believe!,FEMALE
+165,165,165,165,165,COUNCILMAN,"War isn’t won by sentiment, Director. ",MALE
+166,166,166,166,166,NICK FURY,"No, It’s won by soldiers.",MALE
+167,167,167,167,167,STEVE ROGERS,There’s not enough time. I gotta put her in the water.,MALE
+168,168,168,168,168,PEGGY CARTER,You won’t be alone.,FEMALE
+169,169,169,169,169,SCIENTIST,Oh my God. This guy’s still alive.,MALE
+170,170,170,170,170,NICK FURY,Trouble sleeping?,MALE
+171,171,171,171,171,STEVE ROGERS,"Slept for seventy years, Sir. I think I’ve had my fill.",MALE
+172,172,172,172,172,NICK FURY,"Then you should be out, celebrating, seeing the world. ",MALE
+173,173,173,173,173,STEVE ROGERS,"When I went under, the world was at war. I wake up- they say we won. They didn’t say what we lost. ",MALE
+174,174,174,174,174,NICK FURY,"We’ve made some mistakes along the way, some very recently. ",MALE
+175,175,175,175,175,STEVE ROGERS,"You here with a mission, Sir? ",MALE
+176,176,176,176,176,NICK FURY,I am.,MALE
+177,177,177,177,177,STEVE ROGERS,Trying to get me back in the world?,MALE
+178,178,178,178,178,NICK FURY,Trying to save it.,MALE
+179,179,179,179,179,STEVE ROGERS,HYDRA’s secret weapon.,MALE
+180,180,180,180,180,NICK FURY,Howard Stark fished that out of the ocean when he was looking for you. He thought what we think. The Tesseract could be the key to unlimited sustainable energy. That’s something the world sorely needs.,MALE
+181,181,181,181,181,STEVE ROGERS,Who took it from you?,MALE
+182,182,182,182,182,NICK FURY,He’s called Loki. He’s- not from around here. There’s a lot we’ll have to bring you up to speed on if you’re in. The world has gotten even stranger than you already know.,MALE
+183,183,183,183,183,STEVE ROGERS,At this point I doubt anything would surprise me.,MALE
+184,184,184,184,184,NICK FURY,Ten bucks says you’re wrong. There’s a debriefing packet waiting for you back at your apartment. Is there anything you can tell us about the Tesseract that we ought to know now?,MALE
+185,185,185,185,185,STEVE ROGERS,You should have left it in the ocean.,MALE
+186,186,186,186,186,TONY STARK,Good to go on this end. The rest is up to you.,MALE
+187,187,187,187,187,PEPPER POTTS,You disconnected the transmission lines? Are we off the grid?,FEMALE
+188,188,188,188,188,TONY STARK,Stark Tower’s about to become a beacon of self-sustaining clean energy.,MALE
+189,189,189,189,189,PEPPER POTTS,"Well, assuming the arc reactor takes over and it actually works.",FEMALE
+190,190,190,190,190,TONY STARK,I assume. Light her up.,MALE
+191,191,191,191,191,PEPPER POTTS,How does it look?,FEMALE
+192,192,192,192,192,TONY STARK,Like Christmas...,MALE
+193,193,193,193,193,TONY STARK,...but with more- me.,MALE
+194,194,194,194,194,PEPPER POTTS,We’ve got to go wider on the public awareness campaign. You need to do some press.,FEMALE
+195,195,195,195,195,PEPPER POTTS,I’m in DC tomorrow. I’m working on the zoning for the next three buildings.,FEMALE
+196,196,196,196,196,TONY STARK,"Pepper, you’re killing me at the moment. Remember, enjoy the moment. ",MALE
+197,197,197,197,197,PEPPER POTTS,Then get in here and I will.,FEMALE
+198,198,198,198,198,JARVIS,"Sir, Agent Coulson of SHIELD is on the line. ",MALE
+199,199,199,199,199,TONY STARK,I’m not in. I’m actually out.,MALE
+200,200,200,200,200,JARVIS,"Sir, I’m afraid he’s insisting. ",MALE
+201,201,201,201,201,TONY STARK,"Grow a spine, JARVIS. I got a date.",MALE
+202,202,202,202,202,PEPPER POTTS,Levels are holding steady- I think.,FEMALE
+203,203,203,203,203,TONY STARK,"Of course they are, I was directly involved. Which leads me to my next question. How does it feel to be a genius?",MALE
+204,204,204,204,204,PEPPER POTTS,"Well, ah, I really wouldn’t know now would I? ",FEMALE
+205,205,205,205,205,TONY STARK,What do you mean? All this came from you.,MALE
+206,206,206,206,206,PEPPER POTTS,"No, all this came from that.",FEMALE
+207,207,207,207,207,TONY STARK,"Give yourself some credit, please. Stark Tower is your baby. Give yourself- twelve percent of the credit. ",MALE
+208,208,208,208,208,PEPPER POTTS,Twelve percent?,FEMALE
+209,209,209,209,209,TONY STARK,An argument can be made for fifteen.,MALE
+210,210,210,210,210,PEPPER POTTS,Twelve percent of my baby?,FEMALE
+211,211,211,211,211,TONY STARK,"Well, I did do all the heavy lifting. Literally, I lifted the heavy things and sorry but, the security snafu? That was on you. ",MALE
+212,212,212,212,212,PEPPER POTTS,Oh!,FEMALE
+213,213,213,213,213,TONY STARK,My private elevator.,MALE
+214,214,214,214,214,PEPPER POTTS,You mean our elevator.,FEMALE
+215,215,215,215,215,TONY STARK,"Yeah, it was teeming with sweaty workmen. I’m going to pay for that comment about percentages in some subtle way later aren’t I? ",MALE
+216,216,216,216,216,PEPPER POTTS,Not gonna be that subtle.,FEMALE
+217,217,217,217,217,TONY STARK,"I’ll tell you what, next building is gonna say ’Potts’ on the tower. ",MALE
+218,218,218,218,218,PEPPER POTTS,On the lease!,FEMALE
+219,219,219,219,219,TONY STARK,"Call your mum, can you bunk over? ",MALE
+220,220,220,220,220,JARVIS,"Sir, the telephone. I’m afraid my protocols are being overridden. ",MALE
+221,221,221,221,221,TONY STARK,Ah-,MALE
+222,222,222,222,222,PHIL COULSON,"Mr. Stark, we need to talk. ",MALE
+223,223,223,223,223,TONY STARK,You have reached the Life Model Decoy of Tony Stark. Please leave a message.,MALE
+224,224,224,224,224,PHIL COULSON,This is urgent.,MALE
+225,225,225,225,225,TONY STARK,Then leave it urgently.  Security breach. That’s on you!,MALE
+226,226,226,226,226,PEPPER POTTS,Phil! Come in!,FEMALE
+227,227,227,227,227,TONY STARK,Phil?,MALE
+228,228,228,228,228,PHIL COULSON,I can’t stay.,MALE
+229,229,229,229,229,TONY STARK,"Uh, his first name is Agent. ",MALE
+230,230,230,230,230,PEPPER POTTS,"Come on in, we’re celebrating. ",FEMALE
+231,231,231,231,231,TONY STARK,Which is why he can’t stay.,MALE
+232,232,232,232,232,PHIL COULSON,"We need you to look this over, as soon as possible.",MALE
+233,233,233,233,233,TONY STARK,I don’t like being handed things.,MALE
+234,234,234,234,234,PEPPER POTTS,"That’s fine because I love to be handed things. So, let’s trade. Thank you. ",FEMALE
+235,235,235,235,235,TONY STARK,Official consulting hours are between eight and five every other Thursday.,MALE
+236,236,236,236,236,PHIL COULSON,This isn’t a consultation.,MALE
+237,237,237,237,237,PEPPER POTTS,Is this about the Avengers?  Which I know nothing about.,FEMALE
+238,238,238,238,238,TONY STARK,"The Avengers Initiative was scrapped, I thought, and I didn’t even qualify. ",MALE
+239,239,239,239,239,PEPPER POTTS,I didn’t know that either.,FEMALE
+240,240,240,240,240,TONY STARK,"Yeah, apparently I’m volatile, self-obsessed, don’t play well with others. ",MALE
+241,241,241,241,241,PEPPER POTTS,That I did know.,FEMALE
+242,242,242,242,242,PHIL COULSON,This isn’t about personality profiles anymore.,MALE
+243,243,243,243,243,TONY STARK,"Whatever! Ms. Potts, got a sec? ",MALE
+244,244,244,244,244,PEPPER POTTS,Half a moment.,FEMALE
+245,245,245,245,245,TONY STARK,"You know, I thought we were having a moment. ",MALE
+246,246,246,246,246,PEPPER POTTS,I was having twelve percent of a moment.  This seems serious. Phil looks pretty shaken.,FEMALE
+247,247,247,247,247,TONY STARK,How would you notice- why is he Phil?,MALE
+248,248,248,248,248,PEPPER POTTS,What is all this?,FEMALE
+249,249,249,249,249,TONY STARK,This is- ah... ...this!,MALE
+250,250,250,250,250,PEPPER POTTS,I’m going to take the jet to DC tonight.,FEMALE
+251,251,251,251,251,TONY STARK,Tomorrow.,MALE
+252,252,252,252,252,PEPPER POTTS,You have homework. You have a lot of homework.,FEMALE
+253,253,253,253,253,TONY STARK,"Well, what if I didn’t? ",MALE
+254,254,254,254,254,PEPPER POTTS,"If you didn’t? You mean when you finished? Well, um, then-",FEMALE
+255,255,255,255,255,TONY STARK,Square deal. Fly safe. They kiss.,MALE
+256,256,256,256,256,PEPPER POTTS,"Work hard.  So, any chance you’re driving by LaGuardia? ",FEMALE
+257,257,257,257,257,PHIL COULSON,I can drop you off.,MALE
+258,258,258,258,258,PEPPER POTTS,"Fantastic. Ooh, I want to hear about the ah- cellist, is that still a thing?",FEMALE
+259,259,259,259,259,PHIL COULSON,She moved back to Portland.,MALE
+260,260,260,260,260,PEPPER POTTS,What?...Boo.,FEMALE
+261,261,261,261,261,FACELESS PILOT,"We’re about forty minutes out from home base, Sir.",MALE
+262,262,262,262,262,STEVE ROGERS,"So, this Doctor Banner was trying to replicate the serum they used on me? ",MALE
+263,263,263,263,263,PHIL COULSON,A lot of people were. You were the world’s first superhero. Banner thought Gamma radiation might hold the key to unlocking Erskine’s original formula.,MALE
+264,264,264,264,264,STEVE ROGERS,"Didn’t really go his way, did it? ",MALE
+265,265,265,265,265,PHIL COULSON,"Not so much. When he’s not that thing though, guy’s like a Stephen Hawking. He’s like a- smart person. I gotta say- it’s an honor to meet you, officially. I sort of met you, I mean, I watched you while you were sleeping. I mean, I was, I was present, while you were unconscious from-the-ice.",MALE
+266,266,266,266,266,PHIL COULSON,You know it’s really- it’s just a- just a huge honor to have you on board- it’s...,MALE
+267,267,267,267,267,STEVE ROGERS,"Well, I hope I’m the man for the job. ",MALE
+268,268,268,268,268,PHIL COULSON,"Oh you are, absolutely. Ah- we made some modifications to the uniform. I had a little design input. ",MALE
+269,269,269,269,269,STEVE ROGERS,The uniform? Aren’t the stars and stripes a little...old-fashioned?,MALE
+270,270,270,270,270,PHIL COULSON,"Everything that’s happening, the things that are about to come to light, people might just need a little old-fashioned.",MALE
+271,271,271,271,271,THE OTHER,The Chitauri grow restless.,MALE
+272,272,272,272,272,LOKI,Let them goad themselves. I will lead them in a glorious battle.,MALE
+273,273,273,273,273,THE OTHER,Battle? Against the meager might of Earth.,MALE
+274,274,274,274,274,LOKI,Glorious not lengthy- if your force is as formidable as you claim.,MALE
+275,275,275,275,275,THE OTHER,"You question us? You question him? He who out the scepter in your hand, who gave you ancient knowledge and new purpose? When you were cast out- defeated! ",MALE
+276,276,276,276,276,LOKI,"I was a king! The rightful king of Asgard, betrayed. ",MALE
+277,277,277,277,277,THE OTHER,"Your ambition is little, full of childish need. We look beyond the Earth to greater worlds the Tesseract will unveil. ",MALE
+278,278,278,278,278,LOKI,"You don’t have the Tesseract yet.  I don’t threaten. But until I open the doors, until your force is mine to command, you are but words. ",MALE
+279,279,279,279,279,THE OTHER,"You will have your war, Asgardian. If you fail, if the Tesseract is kept from us, there will be no realm, no barren moon, no crevice, where he cannot find you. You think you know pain? He will make you long for something as sweet as pain.",MALE
+280,280,280,280,280,PHIL COULSON,Agent Romanoff- Captain Rogers.,MALE
+281,281,281,281,281,STEVE ROGERS,Ma’am.,MALE
+282,282,282,282,282,NATASHA ROMANOFF,Hi. They need you on the bridge; they’re starting the face trace.,FEMALE
+283,283,283,283,283,PHIL COULSON,See you there.,MALE
+284,284,284,284,284,NATASHA ROMANOFF,"It was quite the buzz around here, finding you in the ice. Thought Coulson was gonna swoon. Did he ask you to sign his Captain America trading cards yet? ",FEMALE
+285,285,285,285,285,STEVE ROGERS,Trading cards?,MALE
+286,286,286,286,286,NATASHA ROMANOFF,They’re vintage. He’s very proud.,FEMALE
+287,287,287,287,287,STEVE ROGERS,Doctor Banner.,MALE
+288,288,288,288,288,BRUCE BANNER,"Oh, yeah, hi. They told me you’d be coming. ",MALE
+289,289,289,289,289,STEVE ROGERS,Word is you can find the Cube.,MALE
+290,290,290,290,290,BRUCE BANNER,Is that the only word on me?,MALE
+291,291,291,291,291,STEVE ROGERS,Only word I care about.,MALE
+292,292,292,292,292,BRUCE BANNER,"Must be strange for you, all of this. ",MALE
+293,293,293,293,293,STEVE ROGERS,"Well, this is actually kind of familiar. ",MALE
+294,294,294,294,294,NATASHA ROMANOFF,"Gentlemen, you might wanna step inside in a minute. It’s gonna get a little had to breathe. ",FEMALE
+295,295,295,295,295,HELICARRIER INTERCOM,Flight Mode. Secure the deck.,MALE
+296,296,296,296,296,STEVE ROGERS,Is this a submarine?,MALE
+297,297,297,297,297,BRUCE BANNER,"Really, they want me in a submerged pressurized metal container?  Oh no, this is much worse.",MALE
+298,298,298,298,298,CARRIER BRIDGE TECH 1,"Maximum performance take off, increase output to capacity. ",MALE
+299,299,299,299,299,FEMALE CARRIER BRIDGE TECH,Power plant performing at capacity. We are clear.,FEMALE
+300,300,300,300,300,MARIA HILL,"All engines operating. SHIELD emergency protocol one nine three point six in effect. We’re at level, sir. ",FEMALE
+301,301,301,301,301,NICK FURY,Good! Let’s vanish.,MALE
+302,302,302,302,302,MARIA HILL,Engage retro reflection panels.,FEMALE
+303,303,303,303,303,MALE AGENT,Reflection panels engaged.,MALE
+304,304,304,304,304,NICK FURY,"Gentlemen.  Doctor, thank you for coming.",MALE
+305,305,305,305,305,BRUCE BANNER,"Thanks for asking nicely. So, um, how long am I staying? ",MALE
+306,306,306,306,306,NICK FURY,"Once we get our hands on the Tesseract, you’re in the wind. ",MALE
+307,307,307,307,307,BRUCE BANNER,Well where are you with that?,MALE
+308,308,308,308,308,PHIL COULSON,"We’re sweeping every wirelessly accessible camera on the planet. Cell phones... laptops, if it’s connected to a satellite, it’s eyes and ears for us. ",MALE
+309,309,309,309,309,NATASHA ROMANOFF,It’s still not gonna find them in time.,FEMALE
+310,310,310,310,310,BRUCE BANNER,You have to narrow your field. How many Spectrometers do you have access to?,MALE
+311,311,311,311,311,NICK FURY,How many are there?,MALE
+312,312,312,312,312,BRUCE BANNER,"Call every lab you know. Tell them to put the Spectrometers on the roof and calibrate them for Gamma rays. I’ll rough out a tracking algorithm, basic cluster recognition. At least we could rule out a few places. Do you have somewhere for me to work? ",MALE
+313,313,313,313,313,NICK FURY,"Agent Romanoff, would you show Doctor Banner to his laboratory, please?",MALE
+314,314,314,314,314,NATASHA ROMANOFF,"You’re gonna love it, Doc. We got all the toys. ",FEMALE
+315,315,315,315,315,BRUCE BANNER,Really? Do you have the com-meter sixty-four?,MALE
+316,316,316,316,316,NATASHA ROMANOFF,I’m not sure-,FEMALE
+317,317,317,317,317,BRUCE BANNER,Oh you’re very young.,MALE
+318,318,318,318,318,NICK FURY,"Hill, did you tell the council that Barton had been compromised? ",MALE
+319,319,319,319,319,MARIA HILL,Was that not procedure?,FEMALE
+320,320,320,320,320,MARIA HILL,Did you tell them who exactly is on your response team?,FEMALE
+321,321,321,321,321,NICK FURY,Doesn’t appear that I have to.,MALE
+322,322,322,322,322,SELVIG,Put it over there. Where did you find all these people?,MALE
+323,323,323,323,323,CLINT BARTON,"SHIELD has no shortage of enemies, Doctor. This the stuff you need? ",MALE
+324,324,324,324,324,SELVIG,"Yeah. Iridium. It’s found in meteorites, it forms anti-protons. It’s very hard to get hold of. ",MALE
+325,325,325,325,325,CLINT BARTON,Especially if SHIELD knows you need it.,MALE
+326,326,326,326,326,SELVIG,"Well, I didn’t know. Hey! This is wonderful. The Tesseract has shown me so much. It’s- it’s more than knowledge, it’s truth. ",MALE
+327,327,327,327,327,LOKI,"I know. It, ah- it touches everyone differently. What did it show you Agent Barton? ",MALE
+328,328,328,328,328,CLINT BARTON,My next target.,MALE
+329,329,329,329,329,SELVIG,"Stick in the mud. He’s got no soul. No wonder you chose this, this tomb to work in. ",MALE
+330,330,330,330,330,CLINT BARTON,"Well, the Radisson doesn’t have three levels of lead lined flooring between SHIELD and that Cube.",MALE
+331,331,331,331,331,LOKI,I see why Fury chose you to guard it.,MALE
+332,332,332,332,332,CLINT BARTON,"You’re going to have to contend with him sir. As long as he’s in the air, I can’t pin him down. And he’ll be putting together a team. ",MALE
+333,333,333,333,333,LOKI,Are they a threat?,MALE
+334,334,334,334,334,CLINT BARTON,"To each other more than likely. But if Fury can get ’em on track, and he might, they could throw some noise our way. ",MALE
+335,335,335,335,335,LOKI,You admire Fury.,MALE
+336,336,336,336,336,CLINT BARTON,He’s got a clear line of sight.,MALE
+337,337,337,337,337,LOKI,Is that why you failed to kill him?,MALE
+338,338,338,338,338,CLINT BARTON,"It might be. I was disoriented, and I’m not at my best with a gun. ",MALE
+339,339,339,339,339,LOKI,"I want to know everything you can tell me about this team of his. I would- test their mettle. I am weary of scuttling in shadow. I mean to rule this world, not burrow in it. ",MALE
+340,340,340,340,340,CLINT BARTON,That’s a risk,MALE
+341,341,341,341,341,LOKI,Oh yes.,MALE
+342,342,342,342,342,CLINT BARTON,If you’re set on making yourself known. I could be useful.,MALE
+343,343,343,343,343,LOKI,Tell me what you need.,MALE
+344,344,344,344,344,CLINT BARTON,I need a distraction. And an eyeball.,MALE
+345,345,345,345,345,PHIL COULSON,"I mean, if it’s not too much trouble. ",MALE
+346,346,346,346,346,STEVE ROGERS,"No-no, it’s fine. ",MALE
+347,347,347,347,347,PHIL COULSON,"It’s a vintage set. Took me a couple of years to collect them all. Near mint, slight foxing around the edges but- ",MALE
+348,348,348,348,348,AGENT JASPER SITWELL,"We got a hit. Sixty seven percent match. Wait- cross-match, seventy nine percent. ",MALE
+349,349,349,349,349,PHIL COULSON,Location?,MALE
+350,350,350,350,350,AGENT JASPER SITWELL,"Stuttgart, Germany. Twenty eight, Königstraße. He’s not exactly hiding. ",MALE
+351,351,351,351,351,NICK FURY,"Captain, you’re up.",MALE
+352,352,352,352,352,LOKI,"Kneel before me. I said- KNEEL!  Is not this simpler? Is this not your natural state? It’s the unspoken truth of humanity, that you crave subjugation. The bright lure of freedom diminishes your life’s joy in a mad scramble for power, for identity. You were made- to be ruled. In the end- you will always kneel.",MALE
+353,353,353,353,353,GERMAN OLD MAN,Not to men like you.,MALE
+354,354,354,354,354,LOKI,There are no men like me.,MALE
+355,355,355,355,355,GERMAN OLD MAN,There are always men like you.,MALE
+356,356,356,356,356,LOKI,"Look to your elder, people. Let him be an example.",MALE
+357,357,357,357,357,STEVE ROGERS,"You know, the last time I was in Germany and saw a man standing above everybody else, we ended up disagreeing. ",MALE
+358,358,358,358,358,LOKI,The soldier- the man out of time.,MALE
+359,359,359,359,359,STEVE ROGERS,I’m not the one who’s out of time.,MALE
+360,360,360,360,360,NATASHA ROMANOFF,"Loki, drop the weapon and stand down.",FEMALE
+361,361,361,361,361,LOKI,Kneel!,MALE
+362,362,362,362,362,STEVE ROGERS,Not today.,MALE
+363,363,363,363,363,NATASHA ROMANOFF,Guy’s all over the place.,FEMALE
+364,364,364,364,364,TONY STARK,"Agent Romanoff, you miss me?",MALE
+365,365,365,365,365,TONY STARK,Make a move reindeer games. Good move.,MALE
+366,366,366,366,366,STEVE ROGERS,Mister Stark.,MALE
+367,367,367,367,367,TONY STARK,Captain.,MALE
+368,368,368,368,368,NICK FURY,He saying anything?,MALE
+369,369,369,369,369,NATASHA ROMANOFF,Not a word.,FEMALE
+370,370,370,370,370,NICK FURY,"Just get him here, we’re low on time. ",MALE
+371,371,371,371,371,STEVE ROGERS,I don’t like it.,MALE
+372,372,372,372,372,TONY STARK,What? Rock of Ages giving up so easily?,MALE
+373,373,373,373,373,STEVE ROGERS,I don’t remember it being that easy. This guy packs a wallop.,MALE
+374,374,374,374,374,TONY STARK,"Still, you were pretty spry, for an older fellow. What’s your thing? Pilates? ",MALE
+375,375,375,375,375,STEVE ROGERS,What?,MALE
+376,376,376,376,376,TONY STARK,"It’s like calisthenics. You might have missed a couple of things. Y’know, doing time as a Cap-sicle. ",MALE
+377,377,377,377,377,STEVE ROGERS,Fury didn’t tell me he was calling you in.,MALE
+378,378,378,378,378,TONY STARK,"Yeah, there’s a lot of things Fury doesn’t tell you.",MALE
+379,379,379,379,379,NATASHA ROMANOFF,Where’s this come from?,FEMALE
+380,380,380,380,380,STEVE ROGERS,What’s the matter? Scared of a little lightening?,MALE
+381,381,381,381,381,LOKI,I’m not overly fond of what follows. ,MALE
+382,382,382,382,382,STEVE ROGERS,What are you doing?,MALE
+383,383,383,383,383,TONY STARK,Now there’s that guy.,MALE
+384,384,384,384,384,NATASHA ROMANOFF,Another Asgardian?,FEMALE
+385,385,385,385,385,STEVE ROGERS,That guy’s a friendly.,MALE
+386,386,386,386,386,NATASHA ROMANOFF,"Doesn’t matter. If he frees Loki, or kills him, the Tesseract’s lost.",FEMALE
+387,387,387,387,387,STEVE ROGERS,"Stark, we need a plan of attack. ",MALE
+388,388,388,388,388,TONY STARK,I have a plan. Attack!,MALE
+389,389,389,389,389,NATASHA ROMANOFF,"I’d sit this one out, Cap. ",FEMALE
+390,390,390,390,390,STEVE ROGERS,I don’t see how I can.,MALE
+391,391,391,391,391,NATASHA ROMANOFF,"These guys come from legend, they’re basically Gods. ",FEMALE
+392,392,392,392,392,STEVE ROGERS,"There’s only one God ma’am, and I’m pretty sure he doesn’t dress like that.",MALE
+393,393,393,393,393,THOR,Where is the Tesseract?,MALE
+394,394,394,394,394,LOKI,"Oh-ho, I missed you too. ",MALE
+395,395,395,395,395,THOR,Do I look to be in a gaming mood?,MALE
+396,396,396,396,396,LOKI,"Oh, you should thank me. With the Bifrost gone, how many dark energy did the All-Father have to muster to conjure you here? Your precious Earth.",MALE
+397,397,397,397,397,THOR,I thought you dead.,MALE
+398,398,398,398,398,LOKI,Did you mourn?,MALE
+399,399,399,399,399,THOR,We all did. Our father-,MALE
+400,400,400,400,400,LOKI,"Your father. He did tell you my true parentage, did he not? ",MALE
+401,401,401,401,401,THOR,"We were raised together, we played together, we fought together. Do you remember none of that? ",MALE
+402,402,402,402,402,LOKI,"I remember a shadow, living in the shade of your greatness. I remember you tossing me into an abyss. I who was and should be king! ",MALE
+403,403,403,403,403,THOR,"So you take the world I love as recompense for your imagined slights? No. The Earth is under my protection, Loki. ",MALE
+404,404,404,404,404,LOKI,Well yes.,MALE
+405,405,405,405,405,THOR,"Then you miss the truth of ruling, brother. Throne would suit you ill.",MALE
+406,406,406,406,406,LOKI,"I’ve seen worlds you’ve never known about. I have grown, Odinson, in my exile. I have seen the true power of the Tesseract, and when I wield it- ",MALE
+407,407,407,407,407,THOR,Who showed you this power? Who controls the would-be-king?,MALE
+408,408,408,408,408,LOKI,I am a king!,MALE
+409,409,409,409,409,THOR,Not here. You give up the Tesseract; you give up this poisonous dream! You come home.,MALE
+410,410,410,410,410,LOKI,I don’t have it.  You need the Cube to bring me home but I’ve sent it off I know not where.,MALE
+411,411,411,411,411,THOR,You listen well brother-,MALE
+412,412,412,412,412,LOKI,I’m listening?,MALE
+413,413,413,413,413,THOR,Do not touch me again.,MALE
+414,414,414,414,414,TONY STARK,Then don’t take my stuff.,MALE
+415,415,415,415,415,THOR,You have no idea what you’re dealing with.,MALE
+416,416,416,416,416,TONY STARK,Uh- Shakespeare in the park? Doth mother know you wear-th her drapes?,MALE
+417,417,417,417,417,THOR,"This is beyond you, metal man. Loki will face Asgardian justice. ",MALE
+418,418,418,418,418,TONY STARK,"He gives up the Cube, he’s all yours.",MALE
+419,419,419,419,419,TONY STARK,-stay out of the way. Tourist.,MALE
+420,420,420,420,420,TONY STARK,Okay! ,MALE
+421,421,421,421,421,JARVIS,Power at four hundred percent capacity.,MALE
+422,422,422,422,422,TONY STARK,How bout that?,MALE
+423,423,423,423,423,STEVE ROGERS,Hey!,MALE
+424,424,424,424,424,STEVE ROGERS,That’s enough!  Now I don’t know what you plan on doing here-,MALE
+425,425,425,425,425,THOR,I’ve come here to put an end to Loki’s schemes!,MALE
+426,426,426,426,426,STEVE ROGERS,Then prove it. Put that hammer down.,MALE
+427,427,427,427,427,TONY STARK,"Uh, yeah! No! Bad call, he loves his hammer- ",MALE
+428,428,428,428,428,THOR,You want me to put hammer down?,MALE
+429,429,429,429,429,STEVE ROGERS,Are we done here?,MALE
+430,430,430,430,430,NICK FURY,"In case it’s unclear, you try to escape- you so much as scratch that glass- Thirty thousand feet straight down in a steel trap. You get how that works? Ant. Boot. ",MALE
+431,431,431,431,431,LOKI,"It’s an impressive cage. Not built, I think, for me. ",MALE
+432,432,432,432,432,NICK FURY,Built for something a lot stronger than you.,MALE
+433,433,433,433,433,LOKI,"Oh I’ve heard. A mindless beast- makes play he’s still a man... How desperate are you, that you call on such lost creatures to defend you? ",MALE
+434,434,434,434,434,NICK FURY,"How desperate am I?... You threaten my world with war, you steal a force you can’t hope to control, you talk about peace and you kill ’cause it’s fun. You have made me very desperate. You might not be glad that you did. ",MALE
+435,435,435,435,435,LOKI,"Ooh. It burns you to have come so close, to have the Tesseract, to have power- unlimited power, and for what? A... warm light for all mankind to share? And then to be reminded what real power is.",MALE
+436,436,436,436,436,NICK FURY,"Well, let me know if ’real power’ wants a magazine or something. ",MALE
+437,437,437,437,437,BRUCE BANNER,He really grows on you doesn’t he?,MALE
+438,438,438,438,438,STEVE ROGERS,"Loki’s gonna drag this out. So, Thor, what’s his play? ",MALE
+439,439,439,439,439,THOR,"He has an army called the Chitauri. They’re not of Asgard nor any world known. He means to lead the against your people. They will win him the Earth, in return, I suspect, for the Tesseract. ",MALE
+440,440,440,440,440,STEVE ROGERS,"An army, from outer space? ",MALE
+441,441,441,441,441,BRUCE BANNER,"So, he’s building another portal. That’s what he needs Erik Selvig for. ",MALE
+442,442,442,442,442,THOR,Selvig?,MALE
+443,443,443,443,443,BRUCE BANNER,He’s an astrophysicist.,MALE
+444,444,444,444,444,THOR,He’s a friend.,MALE
+445,445,445,445,445,NATASHA ROMANOFF,Loki has them under some kind of spell- along with one of ours.,FEMALE
+446,446,446,446,446,STEVE ROGERS,I wanna know why Loki let us take him. He’s not leading an army from here.,MALE
+447,447,447,447,447,BRUCE BANNER,"I don’t think we should be focusing on Loki. That guy’s brain is a bag full of cats, you can small crazy on him. ",MALE
+448,448,448,448,448,THOR,"Have care how you speak. Loki is beyond reason but he is of Asgard, and he is my brother. ",MALE
+449,449,449,449,449,NATASHA ROMANOFF,He killed eighty people in two days.,FEMALE
+450,450,450,450,450,THOR,He’s adopted?,MALE
+451,451,451,451,451,BRUCE BANNER,"I think it’s about the mechanics. Iridium, what do they need the Iridium for?",MALE
+452,452,452,452,452,TONY STARK,"It’s a stabilizing agent. I’m saying, take a weekend; I’ll fly you to Portland. Keep love alive. Means the portal won’t collapse on itself like it did at SHIELD. No hard feelings point break, you got a mean swing.",MALE
+453,453,453,453,453,TONY STARK,"Also, means the portal can open as wide and stay open as long as Loki wants. Ah, raise the mizzen mast, ship the topsails. That man is playing Galaga! Thought we wouldn’t notice, but we did. How does Fury even see these? ",MALE
+454,454,454,454,454,MARIA HILL,He turns!,FEMALE
+455,455,455,455,455,TONY STARK,"Sounds exhausting! The rest of the raw materials, Agent Barton can get his hands on pretty easily. Only major component he still needs is a power source- of high energy density. Something to- kick start the Cube. ",MALE
+456,456,456,456,456,MARIA HILL,When did you become an expert in thermonuclear astrophysics?,FEMALE
+457,457,457,457,457,TONY STARK,"Last night. The packet, Selvig’s notes, the extraction theory papers- am I the only one who did the reading? ",MALE
+458,458,458,458,458,STEVE ROGERS,Does Loki need any particular kind of power source?,MALE
+459,459,459,459,459,BRUCE BANNER,He’s have to heat the Cube to a hundred and twenty million kelvin just to break through the Coulomb barrier.,MALE
+460,460,460,460,460,TONY STARK,"Unless, Selvig has figured out how to stabilize the Quantum Tunneling effect. ",MALE
+461,461,461,461,461,BRUCE BANNER,"Well, if he could do that he could achieve heavy-ion fusion at any reactor on the planet. ",MALE
+462,462,462,462,462,TONY STARK,Finally. Someone who speaks English.,MALE
+463,463,463,463,463,STEVE ROGERS,Is that what just happened?,MALE
+464,464,464,464,464,TONY STARK,"It’s good to meet you, Doctor Banner. Your work on anti-electronic collisions is unparalleled. And I’m a huge fan of the way you- lose control and turn into an enormous green rage monster. ",MALE
+465,465,465,465,465,BRUCE BANNER,...Thanks.,MALE
+466,466,466,466,466,NICK FURY,Doctor Banner is only here to track the Cube. I was hoping you might join him.,MALE
+467,467,467,467,467,STEVE ROGERS,I’d start with that stick of his. It may be magical but it works an awful lot like a HYDRA weapon.,MALE
+468,468,468,468,468,NICK FURY,"I don’t know about that, but it is powered by the Cube. And I like to know how Loki used it to turn two of the sharpest men I know into his personal flying monkeys. ",MALE
+469,469,469,469,469,THOR,Monkeys? I do not understand-,MALE
+470,470,470,470,470,STEVE ROGERS,I do!,MALE
+471,471,471,471,471,STEVE ROGERS,I...I understood that reference.,MALE
+472,472,472,472,472,TONY STARK,"Shall we play, Doctor? ",MALE
+473,473,473,473,473,BRUCE BANNER,"This way, sir.",MALE
+474,474,474,474,474,BRUCE BANNER,The Gamma readings are definitely consistent with Selvig’s reports on the Tesseract. But it’s gonna take weeks to process.,MALE
+475,475,475,475,475,TONY STARK,If we bypass their mainframe and direct route to the Homer cluster we can clock this at around six hundred teraflops.,MALE
+476,476,476,476,476,BRUCE BANNER,All I packed was a toothbrush.,MALE
+477,477,477,477,477,TONY STARK,"You know, you should come by Stark Tower some time. Top ten floors- all R and D. You’d love it, it’s a candy land. ",MALE
+478,478,478,478,478,BRUCE BANNER,Thanks but...last time I was in New York I kind of broke...Harlem.,MALE
+479,479,479,479,479,TONY STARK,"Well, I promise a stress free environment. No tension, no surprises. He zaps Banner in the side. ",MALE
+480,480,480,480,480,BRUCE BANNER,Ow!,MALE
+481,481,481,481,481,STEVE ROGERS,Hey!,MALE
+482,482,482,482,482,TONY STARK,Nothing?,MALE
+483,483,483,483,483,STEVE ROGERS,Are you nuts?,MALE
+484,484,484,484,484,TONY STARK,"Jury’s out! You really have got a lid on it, haven’t you? What’s your secret? Mellow jazz, bongo drums, huge bag of weed? ",MALE
+485,485,485,485,485,STEVE ROGERS,Is everything a joke to you?,MALE
+486,486,486,486,486,TONY STARK,Funny things are.,MALE
+487,487,487,487,487,STEVE ROGERS,"Threatening the safety of everyone on this ship isn’t funny. No offense, Doc. ",MALE
+488,488,488,488,488,BRUCE BANNER,No it’s alright. I wouldn’t have come aboard if I couldn’t handle pointy things.,MALE
+489,489,489,489,489,TONY STARK,"You’re tip-toeing, big man. You need to strut. ",MALE
+490,490,490,490,490,STEVE ROGERS,"And you need to focus on the problem, Mister Stark. ",MALE
+491,491,491,491,491,TONY STARK,"You think I’m not? Why did Fury call us in? Why now, why not before? What isn’t he telling us? I can’t do the equation unless I have all the variables. ",MALE
+492,492,492,492,492,STEVE ROGERS,You think Fury’s hiding something?,MALE
+493,493,493,493,493,TONY STARK,"He’s a spy. Captain, he’s the spy. His secrets have secrets. It’s bugging him to, isn’t it? ",MALE
+494,494,494,494,494,BRUCE BANNER,"Uh, Aah, I just wanna finish my work here and- ",MALE
+495,495,495,495,495,STEVE ROGERS,Doctor?,MALE
+496,496,496,496,496,BRUCE BANNER,"A warm light for all mankind,"" Loki’s jab at Fury about the Cube. ",MALE
+497,497,497,497,497,STEVE ROGERS,I heard it.,MALE
+498,498,498,498,498,BRUCE BANNER,"Well, I think that was meant for you.  Even if Barton didn’t tell Loki about the tower, it was still all over the news. ",MALE
+499,499,499,499,499,STEVE ROGERS,The Stark Tower? That big ugly building in New York?,MALE
+500,500,500,500,500,BRUCE BANNER,"It’s powered by an arc reactor, self-sustaining energy source. That building will run itself for, what, a year? ",MALE
+501,501,501,501,501,TONY STARK,"It’s just the prototype. I’m kind of the only name in clean energy right now, that’s what he’s getting at. ",MALE
+502,502,502,502,502,BRUCE BANNER,"So, why didn’t SHIELD bring him in on the Tesseract project? What are they even doing in the energy business in the first place? ",MALE
+503,503,503,503,503,TONY STARK,I should probably look into that as soon as my decryption program finishes breaking into all of SHIELD’s secure files.,MALE
+504,504,504,504,504,STEVE ROGERS,I’m sorry did you say-,MALE
+505,505,505,505,505,TONY STARK,JARVIS has been running it since I hit the bridge. In a few hours I’ll know every dirty secret SHIELD has ever tried to hide. Blueberry?,MALE
+506,506,506,506,506,STEVE ROGERS,Yet you’re confused about why they didn’t want you around.,MALE
+507,507,507,507,507,TONY STARK,"An intelligence organization that fears intelligence? Historically, not awesome. ",MALE
+508,508,508,508,508,STEVE ROGERS,"I think Loki’s trying to wind us up. This is a man who means to start a war and if we don’t stay focused he’ll succeed. We have orders, we should follow them. ",MALE
+509,509,509,509,509,TONY STARK,Following’s not really my style.,MALE
+510,510,510,510,510,STEVE ROGERS,"And you’re all about style, aren’t you? ",MALE
+511,511,511,511,511,TONY STARK,"Out of the people in this room, which one is ""A"" wearing a spangly outfit and ""B"" not of use? ",MALE
+512,512,512,512,512,BRUCE BANNER,"Steve, tell me none of this smells a little funky to you? ",MALE
+513,513,513,513,513,STEVE ROGERS,Just find the Cube.,MALE
+514,514,514,514,514,TONY STARK,That’s the guy my dad never shut up about? Wondering if they shouldn’t have kept him on ice.,MALE
+515,515,515,515,515,BRUCE BANNER,"Guy’s not wrong about Loki, he does have the jump on us. ",MALE
+516,516,516,516,516,TONY STARK,"What he’s got is an ACME dynamite kit. It’s gonna blow up in his face, and I’m gonna be there when it does. ",MALE
+517,517,517,517,517,BRUCE BANNER,I’ll read all about it.,MALE
+518,518,518,518,518,TONY STARK,"Mhm, or, you’ll be suiting up with the rest of us. ",MALE
+519,519,519,519,519,BRUCE BANNER,"Now, you see I don’t get a suit of armor. I’m exposed, like a nerve, it’s a nightmare. ",MALE
+520,520,520,520,520,TONY STARK,"You know, I’ve got a cluster shrapnel, trying every second to crawl its way into my heart. This stops it- He taps the arc reactor. -this little circle of light. It’s part of me now, not just armor. It’s a terrible privilege. ",MALE
+521,521,521,521,521,BRUCE BANNER,But you can control it.,MALE
+522,522,522,522,522,TONY STARK,Because I learned how.,MALE
+523,523,523,523,523,BRUCE BANNER,It’s different. ,MALE
+524,524,524,524,524,TONY STARK,"Hey, I read all about your accident. That much Gamma exposure- should’ve killed you. ",MALE
+525,525,525,525,525,BRUCE BANNER,So you’re saying that the Hulk- the Other Guy- saved my life? That’s nice. That’s nice sentiment. Saved it for- what?,MALE
+526,526,526,526,526,TONY STARK,I guess we’ll find out.,MALE
+527,527,527,527,527,BRUCE BANNER,You may not enjoy that.,MALE
+528,528,528,528,528,TONY STARK,And you just might.,MALE
+529,529,529,529,529,PHIL COULSON,As soon as Loki took the doctor we...,MALE
+530,530,530,530,530,PHIL COULSON,"...moved Jane Foster. We’ve got an excellent observatory in Tromsø. She was asked to consult there very suddenly yesterday. Handsome fee, private plane, very remote. She’ll be safe. ",MALE
+531,531,531,531,531,THOR,Thank you. It’s no accident Loki taking Erik Selvig. I dread what he plans for him once he’s done. Erik is a good man.,MALE
+532,532,532,532,532,PHIL COULSON,He talks about you a lot. You changed his life. You changed everything around here.,MALE
+533,533,533,533,533,THOR,"They were better as they were. We pretend on Asgard that we’re more advanced, but we- we come here battling like Bildschneip. ",MALE
+534,534,534,534,534,PHIL COULSON,Like what?,MALE
+535,535,535,535,535,THOR,"Bildschneip. You know, huge, scaly, big antlers. You don’t have those? ",MALE
+536,536,536,536,536,PHIL COULSON,No.,MALE
+537,537,537,537,537,THOR,"Huh! Well they are repulsive, and they trample everything in their path.  When I first came to earth, Loki’s rage followed me here and your people paid the price. And now again. In my youth I courted war. ",MALE
+538,538,538,538,538,NICK FURY,War hasn’t started yet. You think you can make Loki tell us where the Tesseract is?,MALE
+539,539,539,539,539,THOR,"I do not know. Loki’s mind is far afield, it’s not just power he craves, it’s vengeance upon me. There’s no pain would prise his need from him. ",MALE
+540,540,540,540,540,NICK FURY,"A lot of guys think that, until the pain starts. ",MALE
+541,541,541,541,541,THOR,What are you asking me to do?,MALE
+542,542,542,542,542,NICK FURY,"I’m asking, what are you prepared to do? ",MALE
+543,543,543,543,543,THOR,Loki is a prisoner.,MALE
+544,544,544,544,544,NICK FURY,Then why do I feel like he’s the only person on this boat that wants to be here?,MALE
+545,545,545,545,545,LOKI,Hm. There’s not many people that can sneak up on me.,MALE
+546,546,546,546,546,NATASHA ROMANOFF,But you figured I’d come.,FEMALE
+547,547,547,547,547,LOKI,"After. After whatever tortures Fury can concoct, you would appear as a friend, as a balm. And I would cooperate. ",MALE
+548,548,548,548,548,NATASHA ROMANOFF,I wanna know what you’ve done to Agent Barton.,FEMALE
+549,549,549,549,549,LOKI,I’d say I’ve expanded his mind.,MALE
+550,550,550,550,550,NATASHA ROMANOFF,And once you’ve won. Once you’re king of the mountain. What happens to his mind?,FEMALE
+551,551,551,551,551,LOKI,"Is this love, Agent Romanoff? ",MALE
+552,552,552,552,552,NATASHA ROMANOFF,Love is for children. I owe him a debt.,FEMALE
+553,553,553,553,553,LOKI,Tell me.,MALE
+554,554,554,554,554,NATASHA ROMANOFF,"Before I worked for SHIELD, I uh- well, I made a name for myself. I have a very specific skill set. I didn’t care who I used it for, or on. I got on SHIELD’s radar in a bad way. Agent Barton was sent to kill me, he made a different call. ",FEMALE
+555,555,555,555,555,LOKI,And what will you do if I vow to spare him?,MALE
+556,556,556,556,556,NATASHA ROMANOFF,Not let you out.,FEMALE
+557,557,557,557,557,LOKI,"Ah, no. But I like this. Your world in the balance, and you bargain for one man? ",MALE
+558,558,558,558,558,NATASHA ROMANOFF,"Regime’s fall everyday. I tend not to weep over that, I’m Russian, or I was. ",FEMALE
+559,559,559,559,559,LOKI,And what are you now?,MALE
+560,560,560,560,560,NATASHA ROMANOFF,It’s really not that complicated. I got red in my ledger. I’d like to wipe it out.,FEMALE
+561,561,561,561,561,LOKI,"Can you? Can you wipe out that much red? Drakov’s daughter? Sao Paulo? The hospital fire? Barton told me everything. Your ledger is dripping, it’s gushing red, and you think saving a man no more virtuous than yourself will change anything? This is the basest sentimentality. This is a child, a prayer. Pathetic.",MALE
+562,562,562,562,562,LOKI,...You lie and kill in the service of liars...,MALE
+563,563,563,563,563,LOKI,"...and killers. You pretend to be separate, to have your own code...",MALE
+564,564,564,564,564,LOKI,"...something that makes up for the horrors. But they are a part of you, and they will never go away.",MALE
+565,565,565,565,565,LOKI,"I won’t touch Barton! Not until I make him kill you. Slowly, intimately, in every way he knows you fear.  And then he’ll wake just long enough to see his good work, and when he screams I’ll split his skull! This is my bargain, you mewling quim! ",MALE
+566,566,566,566,566,NATASHA ROMANOFF,You’re a monster!,FEMALE
+567,567,567,567,567,LOKI,"Oh, no. You brought the monster.",MALE
+568,568,568,568,568,NATASHA ROMANOFF,"So, Banner? That’s your play. ",FEMALE
+569,569,569,569,569,LOKI,What?,MALE
+570,570,570,570,570,NATASHA ROMANOFF,"Loki means to unleash the Hulk. Keep Banner in the lab, I’m on my way. Send Thor as well. Thank you, for your cooperation!",FEMALE
+571,571,571,571,571,NICK FURY,"What are you doing, Mr. Stark? ",MALE
+572,572,572,572,572,TONY STARK,Uh- kind of been wondering the same thing about you.,MALE
+573,573,573,573,573,NICK FURY,You’re supposed to be locating the Tesseract.,MALE
+574,574,574,574,574,BRUCE BANNER,"We are, the model’s locked and we’re sweeping for the signature now. When we get a hit, we’ll have the location within half a mile. ",MALE
+575,575,575,575,575,TONY STARK,"And you’ll get your cube back, no muss, no fuss. What is Phase Two?",MALE
+576,576,576,576,576,STEVE ROGERS,"Phase Two is SHIELD used the Cube to make weapons. Sorry, computer was moving a little slow for me. ",MALE
+577,577,577,577,577,NICK FURY,"Rogers, we gathered everything related to the Tesseract. This does not mean that we’re- ",MALE
+578,578,578,578,578,TONY STARK,"I’m sorry, Nick.  What were you lying? ",MALE
+579,579,579,579,579,STEVE ROGERS,"I was wrong, Director. The world hasn’t changed a bit.",MALE
+580,580,580,580,580,BRUCE BANNER,Did you know about this?,MALE
+581,581,581,581,581,NATASHA ROMANOFF,"You wanna think about removing yourself from this environment, doctor? ",FEMALE
+582,582,582,582,582,BRUCE BANNER,"I was in Calcutta, I was pretty well removed. ",MALE
+583,583,583,583,583,NATASHA ROMANOFF,Loki’s manipulating you.,FEMALE
+584,584,584,584,584,BRUCE BANNER,And you’ve been doing what exactly?,MALE
+585,585,585,585,585,NATASHA ROMANOFF,You didn’t come here because I bat my eyelashes at you.,FEMALE
+586,586,586,586,586,BRUCE BANNER,"Yes, and I’m not leaving because suddenly you get a little twitchy. ",MALE
+587,587,587,587,587,BRUCE BANNER,I’d like to know why SHIELD is using the Tesseract to build weapons of mass destruction.,MALE
+588,588,588,588,588,NICK FURY,Because of him.,MALE
+589,589,589,589,589,THOR,Me?,MALE
+590,590,590,590,590,NICK FURY,"Last year earth had a visitor from another planet who had a grudge match that leveled a small town. We learned that not only are we not alone, but we are hopelessly- hilariously, out-gunned. ",MALE
+591,591,591,591,591,THOR,My people want nothing but peace with your planet.,MALE
+592,592,592,592,592,NICK FURY,"But you’re not the only people out there, are you? And, you’re not the only threat. The world’s filling up with people who can’t be matched, they can’t be controlled. ",MALE
+593,593,593,593,593,STEVE ROGERS,Like you controlled the cube!,MALE
+594,594,594,594,594,THOR,"Your work with the Tesseract is what drew Loki to it, and his allies. It is the signal to all the realms that the earth is ready for A HIGHER FORM OF WAR. ",MALE
+595,595,595,595,595,STEVE ROGERS,A higher form?!,MALE
+596,596,596,596,596,NICK FURY,You forced our hand! We had to come up with some-,MALE
+597,597,597,597,597,TONY STARK,Nuclear deterrent! ’Cause that always calms everything right down.,MALE
+598,598,598,598,598,NICK FURY,"Remind me again how you made your fortune, Stark? ",MALE
+599,599,599,599,599,STEVE ROGERS,"I’m sure if he still made weapons, Stark would be neck deep- ",MALE
+600,600,600,600,600,TONY STARK,Wait-Wait! Hold on! How is this now about me?,MALE
+601,601,601,601,601,STEVE ROGERS,"I’m sorry, isn’t everything? ",MALE
+602,602,602,602,602,THOR,I thought humans were more evolved than this.,MALE
+603,603,603,603,603,NICK FURY,"Excuse me, did we come to your planet and blow stuff up? ",MALE
+604,604,604,604,604,THOR,Tis your champion.,MALE
+605,605,605,605,605,NICK FURY,YOU’RE NOT MY CHAMPION!,MALE
+606,606,606,606,606,NATASHA ROMANOFF,Are you boys really that naive? S.H.I.E.L.D monitors potential threats.,FEMALE
+607,607,607,607,607,TONY STARK,You furious? I’m furious.,MALE
+608,608,608,608,608,BRUCE BANNER,And Captain America is on the threat poll?,MALE
+609,609,609,609,609,NATASHA ROMANOFF,We all are!,FEMALE
+610,610,610,610,610,NICK FURY,That’s not your concern doctor!,MALE
+611,611,611,611,611,TONY STARK,You’re on that list? Are you above or below angry bees?,MALE
+612,612,612,612,612,STEVE ROGERS,"I swear to God, Stark, one more crack... ",MALE
+613,613,613,613,613,TONY STARK,You’re a threat. VERBAL THREAT! I FEEL THREATENED!,MALE
+614,614,614,614,614,STEVE ROGERS,SHOW SOME RESPECT.,MALE
+615,615,615,615,615,TONY STARK,RESPECT WHAT!,MALE
+616,616,616,616,616,BRUCE BANNER,"YEAH MAN HANDLE ME NOW, THAT’LL BE GOOD!",MALE
+617,617,617,617,617,INTERCOM VOICE,Transport six-six-five-oh. Please relay your form code. Got you on the computer but not on the data log. What is your haul? Over.,MALE
+618,618,618,618,618,JET PILOT,Arms to ammunition. Over.,MALE
+619,619,619,619,619,THOR,"You speak of control, yet you court chaos! ",MALE
+620,620,620,620,620,BRUCE BANNER,"It’s his MO, isn’t it? I mean, what are we, a team? No, no, no. We’re a chemical mixture that makes chaos. We’re- we’re a time bomb. ",MALE
+621,621,621,621,621,NICK FURY,You need to step away.,MALE
+622,622,622,622,622,TONY STARK,Why shouldn’t they guy let off a little steam?,MALE
+623,623,623,623,623,STEVE ROGERS,You know damn well why! Back off!,MALE
+624,624,624,624,624,TONY STARK,"Oh, I’m starting to want you to make me. ",MALE
+625,625,625,625,625,STEVE ROGERS,"Yeah, big man in a suit of armor. Take that off, what are you? ",MALE
+626,626,626,626,626,TONY STARK,"Genius, billionaire, playboy, philanthropist. ",MALE
+627,627,627,627,627,STEVE ROGERS,"I know guys with none of that worth ten of you. I’ve seen the footage. The only thing you really fight for is yourself. You’re not the guy to make the sacrifice play, to lay down on a wire and let the other guy crawl over you. ",MALE
+628,628,628,628,628,TONY STARK,I think I would just cut the wire.,MALE
+629,629,629,629,629,STEVE ROGERS,"Always a way out. You know, you may not be a threat, but you better stop pretending to be a hero. ",MALE
+630,630,630,630,630,TONY STARK,"A hero, like you? You’re a laboratory experiment, Rogers. Everything special about you came out of a bottle.",MALE
+631,631,631,631,631,STEVE ROGERS,"Put on the suit, let’s go a few rounds. ",MALE
+632,632,632,632,632,THOR,"You people are so petty, and tiny. ",MALE
+633,633,633,633,633,BRUCE BANNER,"Yeah, this is a team. ",MALE
+634,634,634,634,634,NICK FURY,"Agent Romanoff, would you escort Dr. Banner back to his- ",MALE
+635,635,635,635,635,BRUCE BANNER,WHERE? YOU RENTED MY ROOM!,MALE
+636,636,636,636,636,NICK FURY,The cell was just-,MALE
+637,637,637,637,637,BRUCE BANNER,"IN CASE YOU NEEDED TO KILL ME. BUT YOU CAN’T, I KNOW, I TRIED!  I got low. I didn’t see an end so I put a bullet in my mouth and the other guy spit it out. So I moved on, I focused on helping other people. I was good until you dragged me back into this freak show and put everyone here at risk. You wanna know my secret, Agent Romanoff? You wanna know how I stay calm?",MALE
+638,638,638,638,638,STEVE ROGERS,"Doctor Banner, put down the scepter.",MALE
+639,639,639,639,639,NICK FURY,Got it!,MALE
+640,640,640,640,640,BRUCE BANNER,"Sorry, kids. You don’t get to see my party trick after all. ",MALE
+641,641,641,641,641,THOR,Located the Tesseract?,MALE
+642,642,642,642,642,TONY STARK,I can get there faster.,MALE
+643,643,643,643,643,STEVE ROGERS,"Look, all of us- ",MALE
+644,644,644,644,644,NOVAR,"The Tesseract belongs on Asgard, no human is a match for it.",MALE
+645,645,645,645,645,STEVE ROGERS,You’re not going alone!,MALE
+646,646,646,646,646,TONY STARK,You gonna stop me?,MALE
+647,647,647,647,647,STEVE ROGERS,"Put on the suit, let’s find out! ",MALE
+648,648,648,648,648,TONY STARK,I’m not afraid to hit an old man.,MALE
+649,649,649,649,649,STEVE ROGERS,Put on the suit.,MALE
+650,650,650,650,650,BRUCE BANNER,Oh-my-god.,MALE
+651,651,651,651,651,STEVE ROGERS,Put on the suit.,MALE
+652,652,652,652,652,TONY STARK,Yep.,MALE
+653,653,653,653,653,INTERCOM VOICE,All hands engaged.,MALE
+654,654,654,654,654,NICK FURY,Hill!,MALE
+655,655,655,655,655,MARIA HILL,Number Three engine is down.,FEMALE
+656,656,656,656,656,FEMALE CARRIER BRIDGE TECH,We’ve been hit.,FEMALE
+657,657,657,657,657,MARIA HILL,Did we get a run in? Talk to me.,FEMALE
+658,658,658,658,658,OFF SCREEN WORKER,We got a fire in Engine Three.,MALE
+659,659,659,659,659,CARRIER BRIDGE TECH 1,The line looks mostly in tact but it’s impossible to get out there to make repairs while we’re in the air.,MALE
+660,660,660,660,660,MARIA HILL,We lose one more engine we won’t be. Somebody’s gotta get outside and patch that engine.,FEMALE
+661,661,661,661,661,NICK FURY,"Stark, you copy that? ",MALE
+662,662,662,662,662,TONY STARK,I’m on it.,MALE
+663,663,663,663,663,NICK FURY,"Coulson, initiate defensive lock down in the contingent center. Then get to the armory. ",MALE
+664,664,664,664,664,NICK FURY,Romanoff!,MALE
+665,665,665,665,665,NATASHA ROMANOFF,Okay!,FEMALE
+666,666,666,666,666,NATASHA ROMANOFF,"We’re okay, right?",FEMALE
+667,667,667,667,667,CLINT BARTON,"Keep that engine down. Detention, wait for camera to go dark. Stay close.",MALE
+668,668,668,668,668,TONY STARK,Find engine three. I’ll meet you there.,MALE
+669,669,669,669,669,NATASHA ROMANOFF,"Doctor? Bruce, you gotta fight it. This is just what Loki wants. We’re gonna be okay. Listen to me.",FEMALE
+670,670,670,670,670,MAINTENANCE GUY,You hurt?,MALE
+671,671,671,671,671,NATASHA ROMANOFF,"We’re gonna be okay. Right? I swear on my life I will get you out of this, you will walk away, and never ever -- ",FEMALE
+672,672,672,672,672,BRUCE BANNER,Your life?,MALE
+673,673,673,673,673,NATASHA ROMANOFF,Bruce.,FEMALE
+674,674,674,674,674,NICK FURY,Bring the carrier to a one-eight-zero south. Take us to the water.,MALE
+675,675,675,675,675,SHIELD AGENT,We’re blind. Navigation re calibrated after the engine failure.,MALE
+676,676,676,676,676,NICK FURY,Is the sun coming up?,MALE
+677,677,677,677,677,SHIELD AGENT,"Yes, sir. ",MALE
+678,678,678,678,678,NICK FURY,Then put us on the left. Get us over water. One more turbine goes down then we drop.,MALE
+679,679,679,679,679,STEVE ROGERS,"Stark! Stark, I’m here.",MALE
+680,680,680,680,680,TONY STARK,Good. Let’s see what we got.,MALE
+681,681,681,681,681,TONY STARK,"I gotta get this super conducting cooling system back online before I can access the rotors, work on dislodging the debris. ",MALE
+682,682,682,682,682,TONY STARK,I need you to get to that engine control panel and tell me which relays are in overload position.,MALE
+683,683,683,683,683,TONY STARK,What’s it look like in there?,MALE
+684,684,684,684,684,STEVE ROGERS,It seems to run on some form of electricity.,MALE
+685,685,685,685,685,TONY STARK,"Well, you’re not wrong.",MALE
+686,686,686,686,686,THOR,"We’re not your enemies, Banner! Try to think!",MALE
+687,687,687,687,687,STEVE ROGERS,"’Kay, the relays are intact.",MALE
+688,688,688,688,688,STEVE ROGERS,What’s our next move?,MALE
+689,689,689,689,689,TONY STARK,"Even if I clear the rotors, this thing won’t re-engage without a jump.... ",MALE
+690,690,690,690,690,TONY STARK,...I’m gonna have to get in there and push.,MALE
+691,691,691,691,691,STEVE ROGERS,"Well, if that thing gets up to speed, you’ll get shredded! ",MALE
+692,692,692,692,692,TONY STARK,Then stay in the control unit and reverse polarity long enough to disengage maglev and that should-,MALE
+693,693,693,693,693,STEVE ROGERS,Speak English!,MALE
+694,694,694,694,694,TONY STARK,See that red lever?  It’ll slow the rotors down long enough for me to get out.,MALE
+695,695,695,695,695,TONY STARK,"Stand by it, wait for my word.",MALE
+696,696,696,696,696,NICK FURY,We need full evac on the lower hangar bed.,MALE
+697,697,697,697,697,MARIA HILL,GRENADE!,FEMALE
+698,698,698,698,698,INTERCOM VOICE,We’ve got perimeter breach. Hostiles are in SHIELD gear. Call out to every junction.,MALE
+699,699,699,699,699,INTERCOM VOICE,We’ve got the Hulk and Thor on Research Level Four. Levels Two and Three are gone.,MALE
+700,700,700,700,700,MARIA HILL,"Sir, the Hulk will tear this place apart! ",FEMALE
+701,701,701,701,701,NICK FURY,Get his attention.,MALE
+702,702,702,702,702,MARIA HILL,"Escort 6-Oh, proceed to Wishbone and...",FEMALE
+703,703,703,703,703,MARIA HILL,...engage hostile. Don’t get too close.,FEMALE
+704,704,704,704,704,YOUNG SHIELD PILOT,Copy.,MALE
+705,705,705,705,705,YOUNG SHIELD PILOT,Target acquired. Target engaged.,MALE
+706,706,706,706,706,NICK FURY,They are not getting through here so what the-,MALE
+707,707,707,707,707,INTERCOM VOICE,Engine One is now in shutdown.,MALE
+708,708,708,708,708,SHIELD WORKER,"Sir, we’ve lost all power in Engine One.",MALE
+709,709,709,709,709,NICK FURY,"It’s Barton, he took out our systems. He’s headed for the detention lab. Does anybody copy? ",MALE
+710,710,710,710,710,NATASHA ROMANOFF,This is Agent Romanoff. I copy. ,FEMALE
+711,711,711,711,711,NICK FURY,"Stark, we’re losing altitude. ",MALE
+712,712,712,712,712,TONY STARK,"Yep, noticed.",MALE
+713,713,713,713,713,LOKI,Are you ever not going to fall for that?,MALE
+714,714,714,714,714,LOKI,The humans think us immortal. Shall we test that?,MALE
+715,715,715,715,715,PHIL COULSON,Move away please.  Do you like this? We started working on the prototype after you sent the Destroyer. Even I don’t know what it does. Do you wanna find out?,MALE
+716,716,716,716,716,THOR,NO!,MALE
+717,717,717,717,717,CLINT BARTON,Natasha!,MALE
+718,718,718,718,718,PHIL COULSON,You’re going to lose.,MALE
+719,719,719,719,719,LOKI,Am I?,MALE
+720,720,720,720,720,PHIL COULSON,"It’s in your nature, ",MALE
+721,721,721,721,721,LOKI,"your heroes are scattered, your floating fortress falls from the sky. Where is my disadvantage? ",MALE
+722,722,722,722,722,PHIL COULSON,You lack conviction.,MALE
+723,723,723,723,723,LOKI,I don’t think I-,MALE
+724,724,724,724,724,PHIL COULSON,So that’s what it does.,MALE
+725,725,725,725,725,INTERCOM VOICE,All hands to your stations immediately.,MALE
+726,726,726,726,726,TONY STARK,Cap hit the lever!,MALE
+727,727,727,727,727,STEVE ROGERS,i need a minute here!,MALE
+728,728,728,728,728,TONY STARK,Lever! Now!,MALE
+729,729,729,729,729,TONY STARK,Uh-oh.,MALE
+730,730,730,730,730,PHIL COULSON,I’m sorry boss. They got rabbited.,MALE
+731,731,731,731,731,NICK FURY,Just stay awake. Eyes on me.,MALE
+732,732,732,732,732,PHIL COULSON,Oh I’m clockin’ out here.,MALE
+733,733,733,733,733,NICK FURY,Not an option.,MALE
+734,734,734,734,734,PHIL COULSON,"It’s okay, boss. This was never gonna work- if they didn’t have something- to",MALE
+735,735,735,735,735,NICK FURY,Agent Coulson is down.,MALE
+736,736,736,736,736,SHIELD WORKER,A medical team is on its way to your location.,MALE
+737,737,737,737,737,NICK FURY,They’re here.,MALE
+738,738,738,738,738,NICK FURY,They called it.,MALE
+739,739,739,739,739,NICK FURY,"These were in Phil Coulson’s jacket. Guess he never did get you to sign them.  We’re dead in the air up here. Our communications, location of the cube, Banner, Thor. I got nothing for you. Lost my one good eye. Think I had that coming.  Yes, we were going to build an arsenal with the Tesseract. I never put all my chips on that number, though, because I was playing something even riskier. There was an idea, Stark knows this, called the Avengers Initiative.   The idea was to bring together a group of remarkable people, see if they could become something more. See if they could work together when we needed them to, to fight the battles that we never could. Phil Coulson died still believing in that idea, in heroes.  Well, it’s an old fashioned notion.",MALE
+740,740,740,740,740,SECURITY GUARD,You fell out of the sky.,MALE
+741,741,741,741,741,BRUCE BANNER,Did I hurt anyone?,MALE
+742,742,742,742,742,SECURITY GUARD,There’s nobody around here to get hurt. You did scare the hell out of some pigeons though.,MALE
+743,743,743,743,743,BRUCE BANNER,Lucky.,MALE
+744,744,744,744,744,SECURITY GUARD,Or just good aim. You were awake when you fell.,MALE
+745,745,745,745,745,BRUCE BANNER,You saw?,MALE
+746,746,746,746,746,SECURITY GUARD,"The whole thing, right through the ceiling. Big and green and buck ass nude. Here- didn’t think those would fit you until you shrunk down to a regular size fella. ",MALE
+747,747,747,747,747,BRUCE BANNER,Thank you.,MALE
+748,748,748,748,748,SECURITY GUARD,Are you an alien?,MALE
+749,749,749,749,749,BRUCE BANNER,What?,MALE
+750,750,750,750,750,SECURITY GUARD,"From outer space, an alien? ",MALE
+751,751,751,751,751,BRUCE BANNER,No.,MALE
+752,752,752,752,752,SECURITY GUARD,"Well then, son, you’ve got a condition.",MALE
+753,753,753,753,753,SECURITY GUARD,"So, which one is it? ",MALE
+754,754,754,754,754,BRUCE BANNER,Sorry?,MALE
+755,755,755,755,755,SECURITY GUARD,"Are you a big guy that gets all little, or a little guy that, ah- sometimes blows up large? ",MALE
+756,756,756,756,756,BRUCE BANNER,You know- I’m not even sure.,MALE
+757,757,757,757,757,SECURITY GUARD,You got somewhere to go?,MALE
+758,758,758,758,758,BRUCE BANNER,Stark Tower. I- no. Yes.,MALE
+759,759,759,759,759,SECURITY GUARD,"I’d expect some confusion of the mind, since your body’s kind of all over the place, but it has to be one or the other.",MALE
+760,760,760,760,760,BRUCE BANNER,"I know where I could do the most good, but it’s where I can do the most harm. ",MALE
+761,761,761,761,761,SECURITY GUARD,"Well, that’s no different than anybody else. Me? I’m here is Jersey where I can’t do much of either. And since I’m not likely to move on from this placement, you may as well- pilfer my ride.",MALE
+762,762,762,762,762,BRUCE BANNER,I don’t know which way to go.,MALE
+763,763,763,763,763,SECURITY GUARD,"Your mind’s already made up, son. The rest of you will follow.",MALE
+764,764,764,764,764,NATASHA ROMANOFF,"Clint, you’re gonna be alright. ",FEMALE
+765,765,765,765,765,CLINT BARTON,You know that? Is that what you know? I gotta go in though. I have to flush him out.,MALE
+766,766,766,766,766,NATASHA ROMANOFF,"You gotta level out, it’s gonna take time. ",FEMALE
+767,767,767,767,767,CLINT BARTON,You don’t understand. Have you ever had someone take your brain and play? Pull you out and stuff something else in? You know what it’s like to be unmade?,MALE
+768,768,768,768,768,NATASHA ROMANOFF,You know that I do.,FEMALE
+769,769,769,769,769,CLINT BARTON,Why am I back? How did you get him out?,MALE
+770,770,770,770,770,NATASHA ROMANOFF,Cognitive recalibration. I hit you really hard in the head.,FEMALE
+771,771,771,771,771,CLINT BARTON,"Thanks.  Natasha, how many agents? ",MALE
+772,772,772,772,772,NATASHA ROMANOFF,"Don’t. Don’t do that to yourself, Clint. This is Loki. This is monsters and magic and nothing we were ever trained for. ",FEMALE
+773,773,773,773,773,CLINT BARTON,Loki. He get away?,MALE
+774,774,774,774,774,NATASHA ROMANOFF,Yeah. I don’t suppose you know where?,FEMALE
+775,775,775,775,775,CLINT BARTON,Didn’t need to know. Didn’t ask. He’s gonna make his play soon though. Today.,MALE
+776,776,776,776,776,NATASHA ROMANOFF,We gotta stop him.,FEMALE
+777,777,777,777,777,CLINT BARTON,Yeah? Who’s we?,MALE
+778,778,778,778,778,NATASHA ROMANOFF,I don’t know. Whoever is left.,FEMALE
+779,779,779,779,779,CLINT BARTON,"Well, if I put an arrow through Loki’s eye socket I’d sleep better I suppose. ",MALE
+780,780,780,780,780,NATASHA ROMANOFF,Now you sound like you.,FEMALE
+781,781,781,781,781,CLINT BARTON,"But you don’t. You’re a spy, not a soldier. Now you want to wade into a war. Why? What did Loki do to you? ",MALE
+782,782,782,782,782,NATASHA ROMANOFF,"He didn’t, I just- ",FEMALE
+783,783,783,783,783,CLINT BARTON,Natasha.,MALE
+784,784,784,784,784,NATASHA ROMANOFF,I’ve been compromised. I got red in my ledger. I’d like to wipe it out.,FEMALE
+785,785,785,785,785,STEVE ROGERS,Was he married?,MALE
+786,786,786,786,786,TONY STARK,"No. There was a uh- cellist, I think. ",MALE
+787,787,787,787,787,STEVE ROGERS,I’m sorry. He seemed like a good man.,MALE
+788,788,788,788,788,TONY STARK,He was an idiot.,MALE
+789,789,789,789,789,STEVE ROGERS,Why? For believing?,MALE
+790,790,790,790,790,TONY STARK,For taking on Loki alone.,MALE
+791,791,791,791,791,STEVE ROGERS,He was doing his job.,MALE
+792,792,792,792,792,TONY STARK,He was out of his league. He should have waited. He should have-,MALE
+793,793,793,793,793,STEVE ROGERS,"Sometimes there isn’t a way out, Tony. ",MALE
+794,794,794,794,794,TONY STARK,Right. How did that work for him?,MALE
+795,795,795,795,795,STEVE ROGERS,Is this the first time you’ve lost a soldier?,MALE
+796,796,796,796,796,TONY STARK,We are not soldiers! I’m not marching to Fury’s fife.,MALE
+797,797,797,797,797,STEVE ROGERS,"Neither am I. He’s got the same blood on his hands that Loki does, but right now we gotta put that behind us and get this done. Now Loki needs a power source, if we can put together a list-",MALE
+798,798,798,798,798,TONY STARK,He made it personal.,MALE
+799,799,799,799,799,STEVE ROGERS,That’s not the point.,MALE
+800,800,800,800,800,TONY STARK,That is the point. That’s Loki’s point. He hit us all right where we live. Why?,MALE
+801,801,801,801,801,STEVE ROGERS,To tear us apart.,MALE
+802,802,802,802,802,TONY STARK,"Yeah, divide and conquer is great but- he knows he has to take us out to win, right? That’s what he wants. He wants to beat us, he wants to be seen doing it. He wants an audience. ",MALE
+803,803,803,803,803,STEVE ROGERS,Right. I caught his act in Stuttgart.,MALE
+804,804,804,804,804,TONY STARK,"Yeah. That’s just previews, this is- this is opening night. And Loki, he’s a full-tail diva. He wants flowers, he wants parades, he wants a monument built to the skies with his name plastered....Son of-a-bitch.",MALE
+805,805,805,805,805,STEVE ROGERS,Time to go.,MALE
+806,806,806,806,806,NATASHA ROMANOFF,Go where?,FEMALE
+807,807,807,807,807,STEVE ROGERS,I’ll tell you on the way. Can you fly one of those jets?,MALE
+808,808,808,808,808,CLINT BARTON,I can.,MALE
+809,809,809,809,809,STEVE ROGERS,Got a suit?,MALE
+810,810,810,810,810,CLINT BARTON,Yeah.,MALE
+811,811,811,811,811,STEVE ROGERS,Then suit up.,MALE
+812,812,812,812,812,SHIELD ENGINEER,"Hey, you guys aren’t authorized to be in here. ",MALE
+813,813,813,813,813,STEVE ROGERS,"Son, just don’t!",MALE
+814,814,814,814,814,MARIA HILL,Sir.,FEMALE
+815,815,815,815,815,NICK FURY,Agent Hill.,MALE
+816,816,816,816,816,MARIA HILL,"Those cards, they were in Coulson’s locker, not in his jacket. ",FEMALE
+817,817,817,817,817,NICK FURY,They needed the push.,MALE
+818,818,818,818,818,INTERCOM VOICE,We’ve got unauthorized departure from Bay Six.,MALE
+819,819,819,819,819,NICK FURY,"They found it. Get our communications back up, whatever you have to do. I want eyes on everything. ",MALE
+820,820,820,820,820,MARIA HILL,"Yes, sir.",FEMALE
+821,821,821,821,821,JARVIS,"Sir, I turned off the arc reactor. The device is already self-sustaining ",MALE
+822,822,822,822,822,TONY STARK,"Shut it down, Dr. Selvig. ",MALE
+823,823,823,823,823,SELVIG,It’s too late! She can’t stop now. She wants to show us something! A new universe.,MALE
+824,824,824,824,824,TONY STARK,Okay.,MALE
+825,825,825,825,825,JARVIS,The barrier is pure energy. It’s unbreachable.,MALE
+826,826,826,826,826,TONY STARK,"Yeah, I got that.  I’m beat. ",MALE
+827,827,827,827,827,JARVIS,"Sir, the Mark Seven is not ready for deployment. ",MALE
+828,828,828,828,828,TONY STARK,"Then skip the spinning rims, we’re on the clock.",MALE
+829,829,829,829,829,LOKI,Please tell me you’re going to appeal to my humanity.,MALE
+830,830,830,830,830,TONY STARK,"Uh- actually, I’m planning to threaten you. ",MALE
+831,831,831,831,831,LOKI,You should have left your armor on for that.,MALE
+832,832,832,832,832,TONY STARK,"Yeah, it’s seen a bit of mileage. You’ve got the uh- blue stick of destiny. Would you like a drink? ",MALE
+833,833,833,833,833,LOKI,Stalling me won’t change anything.,MALE
+834,834,834,834,834,TONY STARK,"No, no, no- threatening. No drink? You sure? I’m having one. ",MALE
+835,835,835,835,835,LOKI,"The Chitauri are coming, nothing will change that. What have I to fear? ",MALE
+836,836,836,836,836,TONY STARK,"The Avengers. It’s what we call ourselves, sort of like a team. ’Earth’s Mightiest Heroes’ type of thing. ",MALE
+837,837,837,837,837,LOKI,"Yes, I’m met them. ",MALE
+838,838,838,838,838,TONY STARK,"Yeah, takes us a while to get any traction, I’ll give you that one. But, let’s do a head count here. Your brother, the Demi-God; A super soldier, a living legend who kind of lives up to the legend; a man with breath-taking anger management issues; a couple of master assassins, and you, big fella, you’ve managed to piss off every single one of them. ",MALE
+839,839,839,839,839,LOKI,That was the plan.,MALE
+840,840,840,840,840,TONY STARK,"Not a great plan. When they come, and they will, they’ll come for you. ",MALE
+841,841,841,841,841,LOKI,I have an army.,MALE
+842,842,842,842,842,TONY STARK,We have a Hulk.,MALE
+843,843,843,843,843,LOKI,"Oh, I thought the beast had wandered off. ",MALE
+844,844,844,844,844,TONY STARK,"Yeah- you’re missing the point. There’s no throne, there is no version of this, where you come out on top. Maybe your army comes and maybe it’s too much for us, but it’s all on you. ’Cause if we can’t protect the earth, you can be damned well sure we’ll avenge it.",MALE
+845,845,845,845,845,LOKI,"How will your friends have time for me, when they’re so busy fighting you? This usually works. ",MALE
+846,846,846,846,846,TONY STARK,"Well, performance issues. You know? JARVIS, anytime now.",MALE
+847,847,847,847,847,LOKI,You will all fall before me.,MALE
+848,848,848,848,848,TONY STARK,JARVIS. Deploy.,MALE
+849,849,849,849,849,TONY STARK,Deploy!,MALE
+850,850,850,850,850,TONY STARK,And there’s one other person you pissed off! His name is Phil.,MALE
+851,851,851,851,851,TONY STARK,Right! Army.,MALE
+852,852,852,852,852,THOR,"Loki, turn off the Tesseract or I’ll destroy it! ",MALE
+853,853,853,853,853,LOKI,You can’t. There is no stopping it. There is only the war!,MALE
+854,854,854,854,854,THOR,So be it.,MALE
+855,855,855,855,855,NATASHA ROMANOFF,"Stark, we’re on a three heading north east.",FEMALE
+856,856,856,856,856,TONY STARK,"What, did you stop for drive-thru? Swing that park, I’m gonna lay ’em out for you.",MALE
+857,857,857,857,857,JARVIS,"Sir, we have more incoming. ",MALE
+858,858,858,858,858,TONY STARK,Fine. Let’s keep them occupied.,MALE
+859,859,859,859,859,CLINT BARTON,Nat!,MALE
+860,860,860,860,860,NATASHA ROMANOFF,I see ’em.,FEMALE
+861,861,861,861,861,STEVE ROGERS,We gotta get back up there.,MALE
+862,862,862,862,862,STEVE ROGERS,"Stark, are you seeing this? ",MALE
+863,863,863,863,863,TONY STARK,Seeing. still working on believing...,MALE
+864,864,864,864,864,TONY STARK,...Where’s Banner? Has he shown up yet?,MALE
+865,865,865,865,865,STEVE ROGERS,Banner?,MALE
+866,866,866,866,866,TONY STARK,"Just keep me posted.  JARVIS, find me a soft spot.",MALE
+867,867,867,867,867,THOR,Look at this! Look around you! You think this madness will end with your rule?,MALE
+868,868,868,868,868,LOKI,It’s too late. It’s too late to stop it.,MALE
+869,869,869,869,869,THOR,"No. We can, together.",MALE
+870,870,870,870,870,LOKI,Sentiment!,MALE
+871,871,871,871,871,CLINT BARTON,We’ve got civilians trapped.,MALE
+872,872,872,872,872,STEVE ROGERS,Loki.  They’re fish in a barrel down there.,MALE
+873,873,873,873,873,NATASHA ROMANOFF,We got this. It’s good. Go!,FEMALE
+874,874,874,874,874,STEVE ROGERS,You think you can hold them off?,MALE
+875,875,875,875,875,CLINT BARTON,"Captain, it would be my genuine pleasure.",MALE
+876,876,876,876,876,NATASHA ROMANOFF,Just like Budapest all over again!,FEMALE
+877,877,877,877,877,CLINT BARTON,You and I remember Budapest very differently.,MALE
+878,878,878,878,878,YOUNG COP,It’s gonna be an hour before they scramble the National Guard.,MALE
+879,879,879,879,879,POLICE SERGEANT,National Guard!,MALE
+880,880,880,880,880,POLICE SERGEANT,Does the army know what’s happening here?,MALE
+881,881,881,881,881,YOUNG COP,Do we?,MALE
+882,882,882,882,882,STEVE ROGERS,"You need men in these buildings. There are people inside and they can be running right into the line of fire. You take them to the basement or through the subway, you keep them off the streets. I need a perimeter as far back as 39th. ",MALE
+883,883,883,883,883,POLICE SERGEANT,Why the hell should I take orders from you?,MALE
+884,884,884,884,884,POLICE SERGEANT,"I need men in those buildings, lead the people down and away from the streets. We gonna set up a perimeter all the way down to 39th street.",MALE
+885,885,885,885,885,TONY STARK,It noticed me... ...yay!,MALE
+886,886,886,886,886,STEVE ROGERS,What’s the story upstairs?,MALE
+887,887,887,887,887,THOR,The power surrounding the cube is impenetrable.,MALE
+888,888,888,888,888,TONY STARK,"Thor is right, we gotta deal with these guys. ",MALE
+889,889,889,889,889,NATASHA ROMANOFF,How do we do this?,FEMALE
+890,890,890,890,890,STEVE ROGERS,As a team.,MALE
+891,891,891,891,891,THOR,I have unfinished business with Loki.,MALE
+892,892,892,892,892,CLINT BARTON,Oh yeah! Get in line.,MALE
+893,893,893,893,893,STEVE ROGERS,"Save it. Loki’s gonna keep this fight focused on us and that’s what we need. Without him these things could run wild. We got Stark up top, he’s gonna need us to-",MALE
+894,894,894,894,894,BRUCE BANNER,"So, this all seems horrible. ",MALE
+895,895,895,895,895,NATASHA ROMANOFF,I’ve seen worse.,FEMALE
+896,896,896,896,896,BRUCE BANNER,Sorry.,MALE
+897,897,897,897,897,NATASHA ROMANOFF,"No, we could- use a little worse. ",FEMALE
+898,898,898,898,898,STEVE ROGERS,"Stark, we got him. ",MALE
+899,899,899,899,899,TONY STARK,Banner?,MALE
+900,900,900,900,900,STEVE ROGERS,Just like you said.,MALE
+901,901,901,901,901,TONY STARK,Then tell him to suit up. I’m bringing the party to you.,MALE
+902,902,902,902,902,NATASHA ROMANOFF,I don’t see how that’s a party.,FEMALE
+903,903,903,903,903,STEVE ROGERS,"Doctor Banner, now might be a really good time for you to get angry. ",MALE
+904,904,904,904,904,BRUCE BANNER,"That’s my secret, Cap. I’m always angry.",MALE
+905,905,905,905,905,TONY STARK,Hold On!,MALE
+906,906,906,906,906,LOKI,Send the rest.,MALE
+907,907,907,907,907,NATASHA ROMANOFF,Guys?,FEMALE
+908,908,908,908,908,TONY STARK,"Call it, Captain. ",MALE
+909,909,909,909,909,STEVE ROGERS,"Alright, listen up. Until we can close that portal up there, we’re gonna use containment. Barton, I want you on that roof, eyes on everything. Call out patterns and strays. Stark, you got the perimeter. Anything gets more than three blocks out, you turn it back or you turn it to ash. ",MALE
+910,910,910,910,910,CLINT BARTON,Wanna give me a lift?,MALE
+911,911,911,911,911,TONY STARK,"Right. Better clench up, Legolas.",MALE
+912,912,912,912,912,STEVE ROGERS,"Thor! You gotta try and bottleneck that portal, slow ’em down. You got the lightning, light the bastards up.",MALE
+913,913,913,913,913,STEVE ROGERS,"You and me, we stay here on the ground, keep the fighting here. And Hulk!  Smash!",MALE
+914,914,914,914,914,MARIA HILL,Sir. The council is on.,FEMALE
+915,915,915,915,915,CLINT BARTON,Stark. You gotta lot of strays on your tail.,MALE
+916,916,916,916,916,TONY STARK,Just tryin’ to keep them off the streets.,MALE
+917,917,917,917,917,CLINT BARTON,Well they can’t bank worth a damn.,MALE
+918,918,918,918,918,TONY STARK,I will roger that.,MALE
+919,919,919,919,919,TONY STARK,Oh- boy.,MALE
+920,920,920,920,920,TONY STARK,Nice call. What else you got?,MALE
+921,921,921,921,921,CLINT BARTON,"Well, Thor’s taking out a squadron down on 6th. ",MALE
+922,922,922,922,922,TONY STARK,And he didn’t invite me!,MALE
+923,923,923,923,923,NATASHA ROMANOFF,"Captain, none of this is gonna mean a damn thing if we don’t close that portal. ",FEMALE
+924,924,924,924,924,STEVE ROGERS,Our biggest guns couldn’t touch it.,MALE
+925,925,925,925,925,NATASHA ROMANOFF,"Well, maybe it’s not about guns. ",FEMALE
+926,926,926,926,926,STEVE ROGERS,"You wanna get up there, you’re gonna need a ride.",MALE
+927,927,927,927,927,NATASHA ROMANOFF,I got a ride. I could use a boost though.,FEMALE
+928,928,928,928,928,STEVE ROGERS,You sure about this?,MALE
+929,929,929,929,929,NATASHA ROMANOFF,"Yeah, it’s gonna be fun!",FEMALE
+930,930,930,930,930,NATASHA ROMANOFF,"Turn, turn, Ah!",FEMALE
+931,931,931,931,931,CLINT BARTON,"Captain, the bank on 42nd, past Madison. They cornered a lot of civilians in there. ",MALE
+932,932,932,932,932,STEVE ROGERS,I’m on it.,MALE
+933,933,933,933,933,STEVE ROGERS,Everyone clear out!,MALE
+934,934,934,934,934,COUNCILWOMAN,Director Fury. The council has made a decision...,FEMALE
+935,935,935,935,935,NICK FURY,"I recognize the council has made a decision, but given that it’s a stupid ass decision, I’ve elected to ignore it. ",MALE
+936,936,936,936,936,COUNCILMAN,"Director, you’re closer than any of our subs, you scramble that jet-",MALE
+937,937,937,937,937,NICK FURY,"That is the island of Manhattan, Councilman. ",MALE
+938,938,938,938,938,NICK FURY,"Until I’m certain my team can’t hold it, I will not order a nuclear strike against a civilian population. ",MALE
+939,939,939,939,939,COUNCILMAN,"If we don’t hold them in the air, we lose everything. ",MALE
+940,940,940,940,940,NICK FURY,"I’d send that bird out, we already have.",MALE
+941,941,941,941,941,NATASHA ROMANOFF,Oh you! Hawkeye!,FEMALE
+942,942,942,942,942,CLINT BARTON,"Nat, what are you doing? ",MALE
+943,943,943,943,943,NATASHA ROMANOFF,"Uh, a little help!",FEMALE
+944,944,944,944,944,CLINT BARTON,I got it.,MALE
+945,945,945,945,945,LOKI,"ENOUGH! You are, all of you, beneath me! I AM GOD, YOU DULL CREATURE, AND I WILL NOT BE BULLIED BY-",MALE
+946,946,946,946,946,BRUCE BANNER,Puny God.,MALE
+947,947,947,947,947,SELVIG,The scepter.,MALE
+948,948,948,948,948,NATASHA ROMANOFF,Doctor.,FEMALE
+949,949,949,949,949,SELVIG,"Loki’s scepter, the energy- the Tesseract can’t fight. You can’t protect against yourself. ",MALE
+950,950,950,950,950,NATASHA ROMANOFF,It’s not your fault. You didn’t know what you were doing.,FEMALE
+951,951,951,951,951,SELVIG,"Well, actually I think I did. I built in a safety to cut the power source. ",MALE
+952,952,952,952,952,NATASHA ROMANOFF,Loki’s scepter.,FEMALE
+953,953,953,953,953,SELVIG,It may be able to close the portal. And I’m looking right at it.,MALE
+954,954,954,954,954,JARVIS,"Sir, we will lose power before we penetrate that shell.",MALE
+955,955,955,955,955,TONY STARK,"JARVIS, you ever hear the tale of Jonah? ",MALE
+956,956,956,956,956,JARVIS,I wouldn’t consider him a role model.,MALE
+957,957,957,957,957,COUNCILWOMAN,Director Fury is no longer in command. Override seven-alpha-one-one.,FEMALE
+958,958,958,958,958,JET PILOT,Seven-alpha-one-one confirmed. We’re go for takeoff.,MALE
+959,959,959,959,959,MARIA HILL,"SIR, WE HAVE A BIRD IN MOTION! Anyone on the deck we have a rogue bird. We need to shut it down! Repeat, takeoff is not authorized!",FEMALE
+960,960,960,960,960,NICK FURY,"Stark, you hear me? You have a missile headed straight for the city.",MALE
+961,961,961,961,961,TONY STARK,How long?,MALE
+962,962,962,962,962,NICK FURY,Three minutes. Max. Stay load can wipe out mid-town.,MALE
+963,963,963,963,963,TONY STARK,"JARVIS, put everything we got into the thrusters. ",MALE
+964,964,964,964,964,JARVIS,I just did.,MALE
+965,965,965,965,965,JET PILOT,"Package is sent. Detonation in two minutes, thirty seconds. Mark.",MALE
+966,966,966,966,966,THOR,You ready for another bout?,MALE
+967,967,967,967,967,STEVE ROGERS,"What, you gettin’ sleepy?",MALE
+968,968,968,968,968,SELVIG,Right at the crown!,MALE
+969,969,969,969,969,NATASHA ROMANOFF,I can close it. Can anybody copy? I can shut the portal down!,FEMALE
+970,970,970,970,970,STEVE ROGERS,Do it!,MALE
+971,971,971,971,971,TONY STARK,"No, wait. ",MALE
+972,972,972,972,972,STEVE ROGERS,"Stark, these things are still coming! ",MALE
+973,973,973,973,973,TONY STARK,"I got a nuke coming in, it’s gonna blow in less than a minute.",MALE
+974,974,974,974,974,TONY STARK,And I know just where to put it.,MALE
+975,975,975,975,975,STEVE ROGERS,"Stark, you know that’s a one way trip. ",MALE
+976,976,976,976,976,TONY STARK,Save the rest for the turn J.,MALE
+977,977,977,977,977,JARVIS,"Sir, shall I try Miss Potts? ",MALE
+978,978,978,978,978,TONY STARK,Might as well.,MALE
+979,979,979,979,979,REPORTER,Streets in New York City have become a battle ground. The army is here trying to contain the violence but clearly it is outmatch-,MALE
+980,980,980,980,980,REPORTER,...Billionaire Tony Stark’s Iron Man-,MALE
+981,981,981,981,981,JARVIS,"Sorry, Miss- ",MALE
+982,982,982,982,982,NATASHA ROMANOFF,"Come on, Stark. ",FEMALE
+983,983,983,983,983,STEVE ROGERS,Close it.,MALE
+984,984,984,984,984,STEVE ROGERS,Son of a gun!,MALE
+985,985,985,985,985,THOR,He’s not slowing down.,MALE
+986,986,986,986,986,TONY STARK,What the hell? What just happened? Please tell me nobody kissed me.,MALE
+987,987,987,987,987,STEVE ROGERS,We won.,MALE
+988,988,988,988,988,TONY STARK,"Alright, Hey. Alright. Good job, guys. Let’s just not come in tomorrow. Let’s just take a day. You ever tried shawarma? There’s a shawarma joint about two blocks from here. I don’t know what it is, but I wanna try it. ",MALE
+989,989,989,989,989,THOR,We’re not finished yet.,MALE
+990,990,990,990,990,TONY STARK,And then shawarma after?,MALE
+991,991,991,991,991,LOKI,"If it’s all the same to you, I’ll have that drink now.",MALE
+992,992,992,992,992,MALE REPORTER,Despite the dev...,MALE
+993,993,993,993,993,MALE REPORTER,"...devastation of what has been confirmed as an extraterrestrial attack, the extraordinary heroics of the group known as the Avengers- ",MALE
+994,994,994,994,994,MALE CITIZEN,"It’s really great knowing they’re out there, you know. That someone’s watching over us. ",MALE
+995,995,995,995,995,FEMALE CITIZEN,"I love you, Thor! ",FEMALE
+996,996,996,996,996,HUSBAND,I just don’t feel safe with those thing out there.,MALE
+997,997,997,997,997,WIFE,It seems like there’s a lot they’re not telling us.,FEMALE
+998,998,998,998,998,STAN LEE,Superheroes? In New York? Give me a break!,MALE
+999,999,999,999,999,THE SENATOR,These so called heroes have to be held responsible for the destruction done to the city. This was their fight. Where are they now?,MALE
+1000,1000,1000,1000,1000,REPORTER,"Tough questions are being asked about the Avengers themselves, their sudden appearance and equally sudden disappearance. ",MALE
+1001,1001,1001,1001,1001,WAITRESS,"What, that this is all somehow their fault?",FEMALE
+1002,1002,1002,1002,1002,WAITRESS,"Captain America saved my life. Wherever he is, and wherever any of them are, I would just- I would wanna say thank you.",FEMALE
+1003,1003,1003,1003,1003,COUNCILMAN 2,Where are the Avengers?,MALE
+1004,1004,1004,1004,1004,NICK FURY,I’m not currently tracking their whereabouts. I’d say they’ve earned a leave of absence.,MALE
+1005,1005,1005,1005,1005,COUNCILWOMAN,And the Tesseract?,FEMALE
+1006,1006,1006,1006,1006,NICK FURY,The Tesseract is where belongs...out of our reach.,MALE
+1007,1007,1007,1007,1007,COUNCILMAN,That’s not your call.,MALE
+1008,1008,1008,1008,1008,NICK FURY,I didn’t make it. I just didn’t argue with the god that did.,MALE
+1009,1009,1009,1009,1009,COUNCILMAN,So you let him take it...,MALE
+1010,1010,1010,1010,1010,COUNCILMAN,"and the war criminal Loki, who should be answering for his crime. ",MALE
+1011,1011,1011,1011,1011,NICK FURY,Oh I think he will be.,MALE
+1012,1012,1012,1012,1012,COUNCILWOMAN,I don’t think you understand what you’ve started...,FEMALE
+1013,1013,1013,1013,1013,COUNCILWOMAN,...letting The Avengers loose on this world. They’re dangerous.,FEMALE
+1014,1014,1014,1014,1014,NICK FURY,"They surely are, and the whole world knows it. ",MALE
+1015,1015,1015,1015,1015,NICK FURY,Every world knows it!,MALE
+1016,1016,1016,1016,1016,COUNCILMAN,Was that the point in all this? A statement.,MALE
+1017,1017,1017,1017,1017,NICK FURY,A promise.,MALE
+1018,1018,1018,1018,1018,MARIA HILL,"Sir, how does it work now...?",FEMALE
+1019,1019,1019,1019,1019,MARIA HILL,"...They’ve gone their separate ways, some pretty extremely far. We get into a situation like this again, what happens then? ",FEMALE
+1020,1020,1020,1020,1020,NICK FURY,They’ll come back!,MALE
+1021,1021,1021,1021,1021,MARIA HILL,Really sure about that?,FEMALE
+1022,1022,1022,1022,1022,NICK FURY,I am.,MALE
+1023,1023,1023,1023,1023,MARIA HILL,Why?,FEMALE
+1024,1024,1024,1024,1024,NICK FURY,Because we’ll need them to.,MALE
+1025,1025,1025,1025,1025,THE OTHER,"The humans, they are not the cowering wretches we were promised. They stand. They are unruly and therefore cannot be ruled.",MALE
+1026,1026,1026,1026,1026,THE OTHER,"To challenge them, is to court Death.",MALE
