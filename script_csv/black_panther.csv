@@ -1,0 +1,835 @@
+,character,line,gender
+0,SON,Baba?,MALE
+1,FATHER,"Yes, my son?",MALE
+2,SON,Tell me a story.,MALE
+3,FATHER,Which one?,MALE
+4,SON,The story of home.,MALE
+5,FATHER,"Millions of years ago, a meteorite made of vibranium, the strongest substance in the universe struck the continent of Africa affecting the plant life around it.",MALE
+6,FATHER,"And when the time of man came, five tribes settled on it and called it Wakanda. The tribes lived in constant war with each other until a warrior shaman received a vision from the Panther goddess Bast who led him to the Heart Shaped Herb, a plant that granted him super human strength, speed, and instincts.",MALE
+7,FATHER,"The warrior became King and the first Black Panther, the protector of Wakanda.",MALE
+8,FATHER,"Four tribes agreed to live under the King's rule, but the Jabari tribe isolated themselves in the mountains.",MALE
+9,FATHER,"The Wakandans used vibranium to develop technology more advanced than any other nation, but as Wakanda thrived the world around it descended further into chaos.",MALE
+10,FATHER,"To keep vibranium safe, the Wakandans vowed to hide in plain sight, keeping the truth of their power from the outside world.",MALE
+11,SON,And we still hide Baba?,MALE
+12,FATHER,Yes.,MALE
+13,SON,Why?,MALE
+14,N'JOBU,"Hey look, if we get in and out quick won't be any worries. You in the van come in through from the west, come around the corner, land right here. Me and the twins pulling up right here, we leavin' this car behind, ok? We coming...",MALE
+15,N'JOBU,Hide the straps.,MALE
+16,JAMES,Is it the Feds?,MALE
+17,N'JOBU,No.,MALE
+18,JAMES,It's two Grace Jones looking chicks... they're holding spears...,MALE
+19,N'JOBU,Open it.,MALE
+20,JAMES,You serious?,MALE
+21,N'JOBU,They won't knock again.,MALE
+22,DORA MILAJE,Who are you?,FEMALE
+23,N'JOBU,"Prince N'Jobu, son of Azzuri.",MALE
+24,DORA MILAJE,Prove to me you are one of us.,FEMALE
+25,N'JOBU,My King...,MALE
+26,T'CHALA,Leave us.,MALE
+27,N'JOBU,"This is James. I trust him with my life. He stays, with your permission, King T'Chaka.",MALE
+28,T'CHALA,As you wish. At ease…,MALE
+29,T'CHALA,Come baby brother.  Let me see how you're holding up.,MALE
+30,T'CHALA,You look strong.,MALE
+31,N'JOBU,Glory to Bast. I am in good health. How is home?,MALE
+32,T'CHALA,"Not so good, baby brother. There has been an attack.",MALE
+33,T'CHALA,"This man, Ulysses Klaue, stole a quarter ton of vibraniurn from us and triggered a bomb at the border to escape. Many lives were lost. He knew where we hid the vibranium, and how to strike.",MALE
+34,T'CHALA,He had someone on the inside.,MALE
+35,N'JOBU,Why are you here?,MALE
+36,T'CHALA,Because I want you look me in the eyes and tell me why you betrayed Wakanda.,MALE
+37,N'JOBU,I did no such thing.,MALE
+38,T'CHALA,Tell him who you are.,MALE
+39,JAMES,"Zuri, Son of Badu.",MALE
+40,N'JOBU,What?,MALE
+41,N'JOBU,"James, James you lied to me? I invite you into my home and you were Wakandan this whole time?",MALE
+42,JAMES,You betrayed Wakanda!,MALE
+43,N'JOBU,How could you lie to me like -,MALE
+44,T'CHALA,Stand down. Did you think that you were the only spy we sent here?,MALE
+45,T'CHALA,"Prince N'Jobu, you will return home at once, where you will face the council and inform them of your crimes.",MALE
+46,BBC ANCHOR,"The tiny nation of Wakanda is mourning the death of its monarch, King T'Chaka. The beloved ruler was one of many confirmed dead after a terrorist attack at the United Nations a week ago. The Suspect has since been apprehended.",FEMALE
+47,BBC ANCHOR,"Though it remains one of the poorest countries in the world, fortified by mountain ranges and an impenetrable rain forest, Wakanda does not engage in international trade or accept aid. The succession of the throne is expected to fall to the oldest of the King's two children, Prince T'Challa.",FEMALE
+48,OKOYE,"My Prince, coming up on them now.",FEMALE
+49,T'CHALA,"No need, Okoye. I can handle this alone.",MALE
+50,T'CHALA,I will get Nakia out as quickly as possible.,MALE
+51,OKOYE,Just don't freeze when you see her.,FEMALE
+52,T'CHALA,What are you talking about? I never freeze.,MALE
+53,MILITANT LEADER,Defense position!,MALE
+54,CARGO TRUCK MILITANT,No games.,MALE
+55,MILITANT LEADER,What do you see?,MALE
+56,MILITANT LEADER,Come in! Come in!,MALE
+57,NAKIA,This one is just a boy... he got kidnapped as well.,FEMALE
+58,T'CHALA,Nakia... I... I wanted to...,MALE
+59,NIGERIAN MILITANT,Hey!!!,MALE
+60,NIGERIAN MILITANT,"I have her! Don't move, I will shoot! I will shoot her right now!",MALE
+61,OKOYE,You froze.,FEMALE
+62,NAKIA,"Why are you here? Eesh, you ruined my mission!",FEMALE
+63,T'CHALA,"My father is dead, Nakia.",MALE
+64,T'CHALA,"I will be crowned King tomorrow, and I wish for you to be there.",MALE
+65,NAKIA,"Carry yourselves home now, and take the boy. Get him to his people.",FEMALE
+66,NIGERIAN WOMAN,Thank you.,FEMALE
+67,OKOYE,You will speak nothing of this day.,FEMALE
+68,OKOYE,Sister Nakia... My Prince. We are home.,FEMALE
+69,T'CHALA,This never gets old.,MALE
+70,NAKIA,Queen Mother... Princess. My comfort for your loss.,FEMALE
+71,RAMONDA,"Thank you, Nakia. It is so good to have you back with us.",FEMALE
+72,OKOYE,Take her to the River Province to prepare her for the ceremony.,FEMALE
+73,AYO,"Yes, general.",MALE
+74,SHURI,Did he freeze?,FEMALE
+75,OKOYE,Like an antelope in headlights.,FEMALE
+76,T'CHALA,Are you finished?,MALE
+77,T'CHALA,So surprised my little sister came to see me off before our big day.,MALE
+78,SHURI,"You wish. I'm here for the EMP beads, I've developed an update.",FEMALE
+79,T'CHALA,"Update? No, it worked perfectly.",MALE
+80,SHURI,"How many times to I have to teach you, just because something works, doesn't mean that it cannot be improved.",FEMALE
+81,T'CHALA,"You are teaching me, what do you know?",MALE
+82,T'CHALA,I cannot wait to see what kind of update you make to your ceremonial outfit.,MALE
+83,RAMONDA,Shuri!,FEMALE
+84,SHURI,Sorry mother.,FEMALE
+85,T'CHALA,"How are you feeling today, mama?",MALE
+86,RAMONDA,"Proud... your father and I would talk about this day all the time. He is with us, and it is your time to be King.",FEMALE
+87,MUSEUM DIRECTOR,Good morning! How can I help you?,FEMALE
+88,KILLMONGER,I was just checking out these artifacts. They tell me you're the expert.,MALE
+89,MUSEUM DIRECTOR,You could say that.,FEMALE
+90,KILLMONGER,They're beautiful.,MALE
+91,KILLMONGER,Where's this one from?,MALE
+92,MUSEUM DIRECTOR,"From the Bobo Ashanti Tribe, present day Ghana. 19th Century.",FEMALE
+93,KILLMONGER,For real? What about this one?,MALE
+94,MUSEUM DIRECTOR,That one's from the Edo people of Benin. 16th Century.,FEMALE
+95,KILLMONGER,"Now, tell me about this one.",MALE
+96,MUSEUM DIRECTOR,Also from Benin. 7th Century. Fula tribe I believe.,FEMALE
+97,KILLMONGER,Nah.,MALE
+98,MUSEUM DIRECTOR,I beg your pardon?,FEMALE
+99,KILLMONGER,"It was taken by British soldiers in Benin but it's from Wakanda and it's made out of vibranium. Don't trip, I'mma take it off your hands for you.",MALE
+100,MUSEUM DIRECTOR,These items aren't for sale.,FEMALE
+101,KILLMONGER,How do you think your ancestors got these? You think they paid a fair price? Or did they take it like they took everything else.,MALE
+102,MUSEUM DIRECTOR,"Sir, I'm going to have to ask you to leave.",FEMALE
+103,KILLMONGER,"You got all this security watching me ever since I walked in. But, you ain't checking for what you put in your body.",MALE
+104,SECURITY GUARD,"Alright, mate. Let's have it. Come on, mate.",MALE
+105,KILLMONGER,I think she might not be feelin' too good.,MALE
+106,KILLMONGER,"Hey! Hey somebody get some help! Come here! Call a doctor, please! Hey please, somebody come help!",MALE
+107,SECURITY GUARD,Medical Emergency right away in the West African Exhibit please. Right away!,MALE
+108,LINDA,I'm gonna take a break.,FEMALE
+109,KLAUE,Let's give the lady some space please.,MALE
+110,LIMBANI,"Step back please, gents, step back please.",MALE
+111,KLAUE,"Hey come here. Come here! It's ok. You can go, but just don't tell anyone, alright? ",MALE
+112,KILLMONGER,"Bro, why you 'aint just shoot him right here?",MALE
+113,KLAUE,Because it's better to leave the crime scene more spread out... makes us look like amateurs.,MALE
+114,KLAUE,Now... let's see if you know what you're talking about...,MALE
+115,KLAUE,That's just a taste.,MALE
+116,KLAUE,"Whoo… You're gonna be rich, boy.",MALE
+117,KILLMONGER,You better sell that quick.,MALE
+118,KLAUE,Oh it's already sold.,MALE
+119,KILLMONGER,"Whatever you try, the Wakandans'll probably show up.",MALE
+120,KLAUE,That'll make my day. I can kill two birds with one stone.,MALE
+121,KLAUE,"You're not telling me that's vibranium too, eh?",MALE
+122,KILLMONGER,"Nah, I'm just feeling it.",MALE
+123,"ELDERS, WARRIORS, DORA",Ngu T'Challa Lo.,NEUTRAL
+124,CROWD,Ngu T'Challa Lo.,NEUTRAL
+125,ZURI,"I, Zuri, Son of Badu, give to you, Prince T'Challa, the Black Panther!",MALE
+126,ZURI,The Prince will now have the strength of the Black Panther stripped away.,MALE
+127,ZURI,Damaku...,MALE
+128,CROWD,Damaku...,NEUTRAL
+129,ZURI,"Victory in ritual combat comes by yield or death. If any tribe wishes to put forth a warrior, I now offer a path to the throne.",MALE
+130,MERCHANT TRIBE ELDER,The Merchant Tribe will NOT challenge today.,MALE
+131,BORDER TRIBE ELDER,The Border tribe will NOT challenge today.,MALE
+132,RIVER TRIBE ELDER,The River Tribe will NOT challenge today.,MALE
+133,MINING TRIBE ELDER,The Mining Tribe will NOT challenge today.,FEMALE
+134,ZURI,Is there any member of royal blood who wishes to challenge for the throne?,MALE
+135,SHURI,This corset is really uncomfortable. So could we all just wrap it up and go home?,FEMALE
+136,SHURI,Are they Jabari?,FEMALE
+137,RAMONDA,Yes.,FEMALE
+138,ZURI,M'Baku. What are you doing here?!,MALE
+139,M'BAKU,It's challenge day.,MALE
+140,M'BAKU,"We have watched and listened from the mountains. We have watched with disgust, as your technological advancements have been overseen by a child who scoffs at tradition.",MALE
+141,M'BAKU,"And now... you want to hand the nation over to this prince...  Who could not even keep his own father safe. Hmm? We will not have it. I said we will not have it!  I, M'Baku, leader of the Jabari wish to",MALE
+142,T'CHALA,"I accept your challenge, M'Baku.",MALE
+143,M'BAKU,Glory to Hanuman.,MALE
+144,ZURI,Let the challenge begin!,MALE
+145,M'BAKU,"Where is your God, now?!",MALE
+146,M'BAKU,"No powers. No claws. No speciaL suit, oh! Just a boy, not fit to lead.",MALE
+147,RAMONDA,Show him who you are!,FEMALE
+148,T'CHALA,I AM PRINCE T'CHALLA SON OF King T'CHAKA!!,MALE
+149,SHURI,You can do this T'Challa!,FEMALE
+150,T'CHALA,Yield! Don't make me kill you.,MALE
+151,M'BAKU,I would rather die!,MALE
+152,T'CHALA,What would the proud Jabari do without you?,MALE
+153,T'CHALA,"You have fought with honor, now yield! Your people need you.",MALE
+154,T'CHALA,"Yield, man!",MALE
+155,ZURI,"I now present to you, King T'Challa the Black Panther!!",MALE
+156,T'CHALA,Zuri.,MALE
+157,ZURI,My King.,MALE
+158,T'CHALA,Wakanda forever!!,MALE
+159,ZURI,Allow the Heart Shaped Herb to restore the powers of the Black Panther and take you to the Ancestral Plane.,MALE
+160,ZURI,"T'Chaka, we call on you. Corne here to your son.",MALE
+161,ZURI,Darnaku.,MALE
+162,T'CHALA,Baba!,MALE
+163,T'CHALA,My son.,MALE
+164,T'CHALA,I am sorry.,MALE
+165,T'CHALA,Stand up! You are a King.,MALE
+166,T'CHALA,What is wrong my son?,MALE
+167,T'CHALA,"I am not ready, Baba.",MALE
+168,T'CHALA,"Have you not prepared to be King your whole life? Have you not trained and studied, been by my side?",MALE
+169,T'CHALA,That is not what I am talking about. I am not ready to be without you.,MALE
+170,T'CHALA,A man who has not prepared his children for his own death has failed as a father.  Have I ever failed you?,MALE
+171,T'CHALA,"Never.  Tell me how to best protect Wakanda. I want to be a great King, Baba. Just like you.",MALE
+172,T'CHALA,You're going to struggle. So you need to surround yourself with people you trust. You're a good man with a good heart. And it's hard for a good man to be King.,MALE
+173,ZURI,"Breathe, T'Challa. Breathe!",MALE
+174,T'CHALA,He was there! He was there. My father.,MALE
+175,T'CHALA,"Corne home, Nakia.",MALE
+176,NAKIA,I'm right here.,FEMALE
+177,T'CHALA,Stay.,MALE
+178,NAKIA,"I came to support you, and to honor your father. But I can't stay. It's just... I found my calling out there. I've seen too many in need just to turn a blind eye. I can't be happy here knowing that there's people out there who have nothing.",FEMALE
+179,T'CHALA,What would you have Wakanda do about it?,MALE
+180,NAKIA,"Share what we have. We could provide aid and access to technology and refuge to those who need it... other countries do it, we do it better.",FEMALE
+181,T'CHALA,"We are not like these other countries, Nakia. If the world found out what we truly are, and what we possess -- we could lose our way of life.",MALE
+182,NAKIA,Wakanda is strong enough to help others and protect ourselves at the same time.,FEMALE
+183,T'CHALA,If you were not so stubborn you would make such a great queen.,MALE
+184,NAKIA,I would make a great queen because I am so stubborn.,FEMALE
+185,T'CHALA,Ah! So you admit it!,MALE
+186,NAKIA,… if that's what I wanted!,FEMALE
+187,T'CHALA,"Is that him? Glory to Bast, man, is he still growing?",MALE
+188,W'KABI,Of course.,MALE
+189,W'KABI,I see Nakia is back... you guys going to work it out?,MALE
+190,W'KABI,"T'Challa, what's wrong?",MALE
+191,T'CHALA,Nakia thinks we should be doing more.,MALE
+192,W'KABI,More like what?,MALE
+193,T'CHALA,Foreign aid... refugee programs.,MALE
+194,W'KABI,"You let refugees in, they bring their problems with them. And then Wakanda is like everywhere else.",MALE
+195,W'KABI,"Now, if you said you wanted me and my men to go out there and clean up the world, then I'd be all for it.",MALE
+196,T'CHALA,But waging war on other countries has never been our way.,MALE
+197,T'CHALA,"You too, huh?",MALE
+198,W'KABI,"Bast, are we in trouble?",MALE
+199,OKOYE,My King. My love. You will never guess who just popped up on our radar.,FEMALE
+200,OKOYE,A misidentified Wakandan artifact was stolen yesterday from a British museum. We have learned Ulysses Klaue plans to sell the vibraniurn to an American buyer in South Korea tomorrow night.,FEMALE
+201,T'CHALA,Klaue has escaped our pursuits for almost 30 years. Not capturing him was perhaps my father's greatest regret. I wish to bring Klaue back here to stand trial.,MALE
+202,MERCHANT TRIBE ELDER,Wakanda does not need a warrior right now. We need a King.,MALE
+203,W'KABI,"My parents were killed when he attacked. Not a day goes by when I do not think about what Klaue took from us, from me.",MALE
+204,OKOYE,It's too great an opportunity to pass.,FEMALE
+205,W'KABI,"Take me with you. We'll take him down together side by side, eh?",MALE
+206,T'CHALA,I need you here protecting the border.,MALE
+207,W'KABI,"Then I ask, you kill him where he stands, or you bring him back to us.",MALE
+208,T'CHALA,You have my word I will bring him back.  We will proceed with the mission.,MALE
+209,SHURI,"My, King.",FEMALE
+210,T'CHALA,Stop it. Stop it.,MALE
+211,SHURI,I've already sent a car ahead to Busan for you.  Who are you taking with you to Korea?,FEMALE
+212,T'CHALA,Okoye. And Nakia as well.,MALE
+213,SHURI,You sure it's a good idea to take your ex on a mission?,FEMALE
+214,T'CHALA,"Yes. We'll be fine.  Besides, you will be on call, should we need backup.",MALE
+215,SHURI,"I have great things to show you, brother. Here are your communication devices for Korea. Unlimited range, also equipped with audio surveillance system.",FEMALE
+216,SHURI,Check these out. Remote access Kimoyo beads. Updated to interface directly with my sand table.,FEMALE
+217,T'CHALA,And what are these?,MALE
+218,SHURI,The real question is what are those? Why do you have your toes out in my lab?,FEMALE
+219,T'CHALA,"What, you don't like my royal sandals? I wanted to go old school for my first day.",MALE
+220,SHURI,Yea I bet the elders loved that. Try them on.,FEMALE
+221,SHURI,"Fully automated, like the old American movie Baba used to watch. And I made them completely sound absorbent.",FEMALE
+222,T'CHALA,Interesting…,MALE
+223,SHURI,Guess what I call them.,FEMALE
+224,SHURI,Sneakers...,FEMALE
+225,SHURI,Because you... never mind.,FEMALE
+226,SHURI,If you're going to take on Klaue you'll need the best the Design Group has to offer.,FEMALE
+227,SHURI,Exhibit A. Old tech.,FEMALE
+228,T'CHALA,Old...,MALE
+229,SHURI,"Functional, but old. Eh, people are shooting at me... wait let me put on my helmet...",FEMALE
+230,T'CHALA,Enough...,MALE
+231,SHURI,Now look at these.,FEMALE
+232,SHURI,Do you like that one?,FEMALE
+233,T'CHALA,Tempting. But the idea is to not be noticed. This one.,MALE
+234,SHURI,Now tell it to go on.,FEMALE
+235,SHURI,Oooh!! The entire suit sits within the teeth of the necklace. Strike it.,FEMALE
+236,T'CHALA,Anywhere?,MALE
+237,SHURI,Mhm.,FEMALE
+238,SHURI,"Not that hard, genius!",FEMALE
+239,T'CHALA,"You told me to strike it, you didn't say how hard.",MALE
+240,SHURI,"I invite you to my lab, and you just kick things around.",FEMALE
+241,T'CHALA,"Well maybe you should make it a little stronger, eh?",MALE
+242,T'CHALA,Wait a minute.,MALE
+243,SHURI,The nanites absorb the kinetic energy and hold it in place for redistribution.,FEMALE
+244,T'CHALA,Very nice.,MALE
+245,SHURI,"Now strike it again, in the same spot.",FEMALE
+246,T'CHALA,You are recording?,MALE
+247,SHURI,For research purposes...,FEMALE
+248,T'CHALA,Delete that footage...,MALE
+249,NAKIA,This way.,FEMALE
+250,OKOYE,"Bast willing this goes quickly, and I can get this ridiculous thing off my head.",FEMALE
+251,NAKIA,It looks nice. Just whip it back and forth.,FEMALE
+252,OKOYE,What? It's a disgrace.,FEMALE
+253,NAKIA,"Hello Sophia, good to see you.",FEMALE
+254,ELDERLY WOMAN,Who are these two?,FEMALE
+255,NAKIA,My friends from Kenya. Very deep pockets. They're good.,FEMALE
+256,ELDERLY WOMAN,"Good for trouble, like you?",FEMALE
+257,NAKIA,Thank you.,FEMALE
+258,T'CHALA,Spread out. The buyer is likely already here.,MALE
+259,T'CHALA,The woman outside -- what trouble was she referring to?,MALE
+260,NAKIA,"Ah, I got into a disagreement with some ivory traders. Made a bit of a mess.",FEMALE
+261,T'CHALA,"And will there be any trouble tonight, Ms. Kenyan heiress?",MALE
+262,NAKIA,Depends on how quickly we finish the mission...,FEMALE
+263,OKOYE,Can we please focus.,FEMALE
+264,OKOYE,Thank you.,FEMALE
+265,NAKIA,"Over here. One whiskey, please.",FEMALE
+266,NAKIA,Eyes up. Americans. I count... three.,FEMALE
+267,OKOYE,"Five. How could you miss ""Greased Lightning"" there behind you.",FEMALE
+268,T'CHALA,Six. Just spotted an old friend who works for the CIA. It just got a little more complicated.,MALE
+269,T'CHALA,Agent Ross.,MALE
+270,ROSS,Your highness.,MALE
+271,T'CHALA,You are buying from Klaue...,MALE
+272,ROSS,"What I'm doing or not doing on behalf of the US government is of none of your concern. Now, whatever the hell you're up to, do me a favor and stay out of my way.",MALE
+273,T'CHALA,I gave you Zemo.,MALE
+274,ROSS,And didn't I kept it under wraps that the King of a third world country runs around in a bulletproof cat suit. I'd say we were even.,MALE
+275,ROSS,"You really need to leave, now.",MALE
+276,T'CHALA,Klaue is leaving out that door with me. You've been warned.,MALE
+277,ROSS,"Hey, you won.",MALE
+278,STAN LEE,"You know what, I think I'll just take these, bring 'em over here and hold on for safe keeping.",MALE
+279,ROSS,"Ok heads up, the King of Wakanda is here. He cannot leave with Klaue.",MALE
+280,ROSS,"Alright, vibranium from the attack on Sokovia links back to a person that I'm not actually saying I'm here to make a deal with but that deal will not be called off. When the dust settles you and I can work something out.",MALE
+281,T'CHALA,I am not here to make a deal.,MALE
+282,NAKIA,Klaue plus 8!,FEMALE
+283,T'CHALA,General.,MALE
+284,OKOYE,In position to secure our exit.,FEMALE
+285,T'CHALA,And the vibranium.,MALE
+286,NAKIA,I don't see it yet.,FEMALE
+287,OKOYE,I thought there were no weapons allowed in here.,FEMALE
+288,NAKIA,There's not supposed to be.,FEMALE
+289,OKOYE,Someone did not get the memo. Definitely armed.,FEMALE
+290,ROSS,Well that is quite the entourage. You got a mixtape coming out?,MALE
+291,KLAUE,"Yeah! Yeah, actually there is one.",MALE
+292,KLAUE,Yea I'll send you the soundcloud link if you like.,MALE
+293,KLAUE,"Aye, Dave. Get him the link to the tape.",MALE
+294,ROSS,"Please don't make me listen to your music. I just meant, you got a lot of people with you.",MALE
+295,KLAUE,"Oh, you think they're for you?",MALE
+296,KLAUE,"Don't worry. I can do a deal with you all by myself, thank you very much.",MALE
+297,NAKIA,"Six more, it's a set up.",FEMALE
+298,KLAUE,You got the diamonds?,MALE
+299,ROSS,"Ok, that's enough.",MALE
+300,NAKIA,We need to move on Klaue.,FEMALE
+301,T'CHALA,Stand down. We can't afford a shoot- out.,MALE
+302,ROSS,The vibranium?,MALE
+303,KLAUE,"I was going to buy a fancy suitcase, but I thought I'd save myself some money.",MALE
+304,NAKIA,It's now or never.,FEMALE
+305,OKOYE,STAND DOWN!,FEMALE
+306,SOUTH AFRICAN TOUGH,Hey.,MALE
+307,SOUTH AFRICAN TOUGH,Hey!,MALE
+308,OKOYE,I've been made.,FEMALE
+309,KLAUE,"Get the diamonds, quick!",MALE
+310,T'CHALA,Murderer!,MALE
+311,KLAUE,"You know, you look just like your old man.",MALE
+312,KLAUE,I made it rain!,MALE
+313,KLAUE,"That was awesome! That was awesome! Let's go! Go, go, come on!",MALE
+314,NAKIA,Do we just leave him?,FEMALE
+315,OKOYE,He'll catch up.,FEMALE
+316,T'CHALA,Shuri!,MALE
+317,GRIOT,Remote driving system activated.,MALE
+318,SHURI,Yes yes yes! Wait... Which side of the road is it?,FEMALE
+319,T'CHALA,For Bast sake just drive!!!,MALE
+320,SHURI,"Okay okay, calm down brother!",FEMALE
+321,SHURI,Wool Let's go!,FEMALE
+322,KLAUE,Put some music on! What do you think this is a funeral?,MALE
+323,NAKIA,Which one is he in now?,FEMALE
+324,KLAUE,"Hey, split up!",MALE
+325,OKOYE,They're trying to lose us.,FEMALE
+326,NAKIA,We'll take the right.,FEMALE
+327,SHURI,We'll take the other two! I see a short cut.,FEMALE
+328,SHURI,We're not going to make it!,FEMALE
+329,T'CHALA,Keep going!,MALE
+330,SHURI,Woo! Brother!,FEMALE
+331,SHURI,"Hey, what was that!?",FEMALE
+332,T'CHALA,Don't worry about it. You're doing great.,MALE
+333,OKOYE,Guns. So primitive.,FEMALE
+334,KLAUE,It's a vibranium car you idiots!! Bullets won't penetrate!!,MALE
+335,NAKIA,What are you doing?,FEMALE
+336,OKOYE,Just drive.,FEMALE
+337,NAKIA,Eesh.,FEMALE
+338,NAKIA,Woo!,FEMALE
+339,KLAUE,Oh shoot.,MALE
+340,SHURI,"Hey, look at your suit! You' ve been taking bullets charging it up with kinetic energy!",FEMALE
+341,T'CHALA,Pull around the truck.,MALE
+342,DRIVER,Where'd he go!?,MALE
+343,SHURI,You show off.,FEMALE
+344,NAKIA,There he is! Hold tight!,FEMALE
+345,KLAUE,"Right, let's have some fun.",MALE
+346,ROSS,Hop in. Put that spear in the trunk.,MALE
+347,T'CHALA,"Faster, Shuri.",MALE
+348,SHURI,I'm going as fast as I can!,FEMALE
+349,KLAUE,"Take a right, take a right!",MALE
+350,SHURI,No no no no no no no!!,FEMALE
+351,SHURI,Brother!,FEMALE
+352,T'CHALA,Klaue!!,MALE
+353,T'CHALA,Did you think we would forget!?,MALE
+354,T'CHALA,Look at me murderer! Where did you get this weapon?,MALE
+355,KLAUE,You savages didn't deserve it.,MALE
+356,KLAUE,"Oh, mercy! King, mercy!",MALE
+357,T'CHALA,Every breath you take is mercy from me.,MALE
+358,OKOYE,King!,FEMALE
+359,NAKIA,The world watches.,FEMALE
+360,ROSS,"Come on guys, let's go huh?",MALE
+361,KLAUE,"Hello! I can see you! I can, I can see you.",MALE
+362,ROSS,"So, this is a big mess, huh? I figured we can go good cop bad cop. I'll talk to him first, then you guys go in --",MALE
+363,OKOYE,We can't let him talk to Klaue alone.,FEMALE
+364,T'CHALA,Better to let him talk to Klaue alone for 5 minutes than to make a scene here.,MALE
+365,T'CHALA,"After your questioning, we will to take him back to Wakanda with us.",MALE
+366,ROSS,"What? No. Look I like you, a lot. But he's in my custody now. He's not going anywhere. Listen, I 'm doing you a favor by letting you even be in here.",MALE
+367,OKOYE,"If he touches you again, I am going to impale him to this desk.",FEMALE
+368,ROSS,Does she speak English?,MALE
+369,OKOYE,When she wants to.,FEMALE
+370,ROSS,"I'm going in. And when I'm done, you guys are up.",MALE
+371,T'CHALA,--Agent Ross.,MALE
+372,ROSS,Yea.,MALE
+373,T'CHALA,I do appreciate your help in Busan.,MALE
+374,ROSS,You see that? It's called diplomacy. You're welcome.,MALE
+375,T'CHALA,Okoye! Play nice.,MALE
+376,OKOYE,"Eh, Americans...",FEMALE
+377,KLAUE,"You know, you really shouldn't trust the Wakandans. I'm much more your speed.",MALE
+378,ROSS,"I don't trust anybody, not in this job. But what I am interested in is that arm cannon out there. Where'd you get that?",MALE
+379,KLAUE,It's an old mining tool that I made some adjustments to. But I can get you one if you'd like.,MALE
+380,ROSS,Why don't you give me the name of your supplier and I'll ask them.,MALE
+381,KLAUE,"He's right outside, why don't you ask him yourself?",MALE
+382,ROSS,T'Challa? You're telling me that weapon on your arm is from Wakanda?,MALE
+383,KLAUE,Bingo.,MALE
+384,KLAUE,What do you actually know about Wakanda?,MALE
+385,ROSS,Shepherds. Textiles. Cool outfits.,MALE
+386,KLAUE,"It's all a front. Explorers searched for it for centuries. El Dorado: The Golden City. They thought they could find it in South America, but it was in Africa the whole time. A technological marvel. All because it was built on a mound of the most valuable metal known to man- Isipho- they call it. The gift. Vibranium...",MALE
+387,ROSS,Vibranium yea. Strongest metal on Earth.,MALE
+388,KLAUE,"It's not just a metal... They sew it into their clothes, it powers their city, their tech, their weapons...",MALE
+389,ROSS,Weapons?,MALE
+390,KLAUE,Oh yes. Makes my arm cannon look like a leaf blower.,MALE
+391,ROSS,That's a nice fairy tale but Wakanda is a third world country and you stole all their vibranium.,MALE
+392,KLAUE,I stole all of it?,MALE
+393,KLAUE,All of it? I took a tiny piece of it. They have a mountain full of it. They've been mining it for thousands of years and still haven't scratched the surface.,MALE
+394,KLAUE,"I'm the only outsider who's seen it, and got out of there alive.  If you don't believe me you ask your friend what his suit is made of... what his claws are made of...",MALE
+395,ROSS,Your father told the UN that Klaue stole all the vibraniurn you had. But now he's telling me you have more?,MALE
+396,T'CHALA,"And you believe the word of an arms dealer, strapped to a chair.",MALE
+397,NAKIA,Where is that?,FEMALE
+398,CIA AGENT,Back there.,FEMALE
+399,ROSS,How much more are you hiding?,MALE
+400,NAKIA,Something's happening out back.,FEMALE
+401,KLAUE,I see you took your time didn't you!,MALE
+402,OKOYE,My King!,FEMALE
+403,OKOYE,My King... Nakia.,FEMALE
+404,NAKIA,He just jumped in front of me.,FEMALE
+405,NAKIA,"I don't think he'll make it here, it hit his spine.",FEMALE
+406,T'CHALA,Give me a Kimoyo bead.,MALE
+407,T'CHALA,This will stabilize him for now.,MALE
+408,T'CHALA,Give him to us. We can save him.,MALE
+409,OKOYE,Our missions was to bring back Klaue. We failed. This man is a foreign intelligence operative. How do we justify bringing him into our borders?,FEMALE
+410,NAKIA,He took a bullet for me.,FEMALE
+411,OKOYE,That was his choice.,FEMALE
+412,NAKIA,So now we are just supposed to let him die?,FEMALE
+413,OKOYE,"Let us consider that we heal him. It is his duty to report back to his country. And as King, it is your duty to protect ours.",FEMALE
+414,T'CHALA,"I am well aware of my duties, General. I cannot just let him die knowing we can save him.",MALE
+415,OKOYE,Where exactly are we taking him?,FEMALE
+416,SHURI,"Great, another broken white boy for us to fix. This is going to be fun.",FEMALE
+417,SHURI,He will live.,FEMALE
+418,SHURI,W'Kabi is here.,FEMALE
+419,W'KABI,"What's going on, brother? Where is Klaue?",MALE
+420,T'CHALA,He's not here.,MALE
+421,T'CHALA,He slipped through our hands.,MALE
+422,W'KABI,Slipped? For 30 years your father was in power and did nothing. With you I thought it would be different. But it's more of the same.,MALE
+423,LIMBANI,"Let's get going, boss.",MALE
+424,KILLMONGER,You always sell to the CIA?,MALE
+425,KLAUE,"I sell to the highest bidder. Don' t you worry when I get back to Jo- burg and lay low for a bit, I ' ll make sure both you guys get paid.",MALE
+426,KILLMONGER,"Oh I ain't worried about the money, bro. I know you're good for it.",MALE
+427,KILLMONGER,"On our way back, just drop us off in Wakanda.",MALE
+428,KLAUE,"You don't wanna go there, boy.",MALE
+429,KILLMONGER,Yea I do.,MALE
+430,KLAUE,"Drop it, or your little Bonnie and Clyde routine ends today. Put your gun down now!",MALE
+431,LINDA,"I'm sorry. I'm sorry, Erik.",FEMALE
+432,KILLMONGER,It's gonna be ok.,MALE
+433,KLAUE,... Y-You really wanna go to Wakanda? They're savages.,MALE
+434,KLAUE,This is what they do to people like us.,MALE
+435,KILLMONGER,I ain't worried about no brand. Check these out.,MALE
+436,KILLMONGER,Each one is for a kill.,MALE
+437,KLAUE,"You can scar yourself as much as you like. To them, you'll just be an outsider. You're crazy to think that you could walk in there.",MALE
+438,KLAUE,And to think I saw you as some crazy American.,MALE
+439,T'CHALA,Leave us.,MALE
+440,ZURI,So your mission did not go as planned.,MALE
+441,T'CHALA,What happened to my Uncle N'Jobu? My father told me he disappeared... there was a man today wearing a ring identical to this one.,MALE
+442,ZURI,That is not possible.,MALE
+443,T'CHALA,He helped Klaue escape from us and he was wearing this ring. My grandfather ' s ring. Do not tell me what is possible tell me the truth.,MALE
+444,ZURI,"Some truths are too much to bear, T'Challa.",MALE
+445,T'CHALA,That is not your choice to make. What happened to him?,MALE
+446,ZURI,I promised the King to say nothing.,MALE
+447,T'CHALA,I am your King now!,MALE
+448,ZURI,Your uncle took a War Dog assignment in America. Your father placed me there to observe unbeknownst to him. Your uncle fell in love with an American woman. They had a child. The hardships he saw there radicalized your uncle.,MALE
+449,N'JOBU,"I observed for as long as I could! Their leaders have been assassinated, communities flooded with drugs and weapons, they are overly policed and incarcerated. All over the planet our people suffer because they don't have the tools to fight back. With vibranium weapons they could overthrow every country and Wakanda could rule them all, the right way...",MALE
+450,ZURI,"He knew your father would not support this, so your uncle betrayed us.",MALE
+451,T'CHALA,No...,MALE
+452,ZURI,He helped Klaue steal the vibranium.,MALE
+453,T'CHALA,No no no no no no...,MALE
+454,T'CHALA,"You will return home at once, where you will face the council and inform them of your crimes.",MALE
+455,ZURI,He drew his weapon on me.,MALE
+456,ZURI,Your father killed his own brother...,MALE
+457,ZURI,To save my life.,MALE
+458,T'CHALA,Speak nothing of this.,MALE
+459,T'CHALA,And the child...,MALE
+460,ZURI,We left him.,MALE
+461,ZURI,We had to maintain the lie.,MALE
+462,W'KABI,What is this?,MALE
+463,KILLMONGER,Just a 'lil gift.,MALE
+464,W'KABI,Who are you?,MALE
+465,ROSS,"Alright, where am I?",MALE
+466,SHURI,"Don't scare me like that, colonizer.",FEMALE
+467,ROSS,Colon-who? My name is Everett.,MALE
+468,SHURI,"Yes, I know. Everett Ross former airforce pilot and now, CIA.",FEMALE
+469,ROSS,Right.,MALE
+470,ROSS,"Ok, is this Wakanda?",MALE
+471,SHURI,"No, it's Kansas.",FEMALE
+472,ROSS,...How long ago was Korea?,MALE
+473,SHURI,Yesterday.,FEMALE
+474,ROSS,I don't think so. Bullet wounds don't just magically heal overnight.,MALE
+475,SHURI,"They do here. But not by magic, by technology.  Don't touch anything. My brother will return soon.",FEMALE
+476,ROSS,"These train things... that's magnetic levitation, right?",MALE
+477,SHURI,Obviously.,FEMALE
+478,ROSS,"Obviously... but I've never seen it this efficient. The light panels, what are they?",MALE
+479,SHURI,Sonic stabilizers.,FEMALE
+480,ROSS,Sonic what?,MALE
+481,SHURI,"In it's raw form, vibranium is too dangerous to be transported at that speed, so I developed a way to temporarily deactivate it.",FEMALE
+482,ROSS,There's vibranium on those trains?,MALE
+483,SHURI,There is vibranium all around us. That's how I healed you.,FEMALE
+484,OKOYE,Where is T'Challa? His Kimoyo beads have been switched off.,FEMALE
+485,SHURI,"Well we are not joined at the hip, Okoye.",FEMALE
+486,OKOYE,A man showed up at the border who claims to have killed Klaue.,FEMALE
+487,SHURI,What?,FEMALE
+488,OKOYE,W'Kabi is transporting him as we speak to the palace. We need to find your brother.,FEMALE
+489,SHURI,An outsider?,FEMALE
+490,OKOYE,"No, a Wakandan.",FEMALE
+491,ROSS,He's not a Wakandan. He's one of ours.,MALE
+492,T'CHALA,He killed his own brother... and left a child behind with nothing. What kind of King ... what kind of man does that?,MALE
+493,NAKIA,No man is perfect. Not even your father.,FEMALE
+494,T'CHALA,"He didn't even give him a proper burial... My Uncle N'Jobu betrayed us, but my father may have created something even worse.",MALE
+495,NAKIA,Hey. Look at me. You can't let your father's mistakes define who you are. You get to decide what kind of King you are going to be.,FEMALE
+496,SHURI,"Brother, you need to get here now.",FEMALE
+497,ROSS,Eric Stevens. Graduated Annapolis age 19. MIT for grad school. Joined the SEALs and went to Afghanistan where he racked up confirmed kills like it was a video game. They started calling him Killmonger. He joined a JSOC ghost unit.,MALE
+498,ROSS,Now these guys are serious. They will drop off the grid so they can commit assassinations and take down governments.,MALE
+499,T'CHALA,Did he reveal anything about his identity?,MALE
+500,SHURI,He has a War Dog tattoo but we have no record of him.,FEMALE
+501,RIVER TRIBE ELDER,Is this man Wakandan or not?,MALE
+502,MINING TRIBE ELDER,Tell us what is going on.,FEMALE
+503,T'CHALA,Speak.,MALE
+504,W'KABI,Speak.,MALE
+505,KILLMONGER,I'm standing in your house. Serving justice to a man who stole your vibranium and murdered your people. Justice your King couldn't deliver.,MALE
+506,T'CHALA,"I don't care that you brought Klaue, the only reason I don't kill you where you stand is because I know who you are... now what do you want?",MALE
+507,KILLMONGER,I want the throne.,MALE
+508,MINING TRIBE ELDER,My goodness.,FEMALE
+509,KILLMONGER,"Y'all sittin' up here comfortable. Must feel good. There's about billion people all over the world that looks like us but their lives are a lot harder, Wakanda has the tools to liberate them all.",MALE
+510,T'CHALA,And what tools are those?,MALE
+511,KILLMONGER,Vibranium. Your weapons.,MALE
+512,T'CHALA,Our weapons will not be used to wage war on the world. It is not our way to be judge jury and executioner for people who are not our own.,MALE
+513,KILLMONGER,"Not your own? But didn't life start here, on this continent? So ain't all people your people?",MALE
+514,T'CHALA,I am not King of all people. I am King of Wakanda. And it is my responsibility to make sure our people are safe and that vibranium does not fall into the hands of a person like you.,MALE
+515,RAMONDA,"Son, we have entertained this charlatan for too long. Reject his request.",FEMALE
+516,KILLMONGER,"Oh, I ain't requesting nothing! Ask who I am?",MALE
+517,SHURI,You are Eric Stevens. An American black operative. A mercenary nicknamed Killmonger. That's who you are.,FEMALE
+518,KILLMONGER,"That's not my name, Princess. Ask me, King?",MALE
+519,T'CHALA,No.,MALE
+520,KILLMONGER,Ask me.,MALE
+521,T'CHALA,Take him away.,MALE
+522,RIVER TRIBE ELDER,Who are you?,MALE
+523,KILLMONGER,"I am N'Jadaka, son of Prince N'Jobu.",MALE
+524,MINING TRIBE ELDER,The son of N'Jobu?,FEMALE
+525,KILLMONGER,I found my daddy with Panther claws in his chest. You ain't the son of a King you're the son of a murderer!,MALE
+526,RAMONDA,You're lying!  Lies.,FEMALE
+527,W'KABI,I'm afraid not Queen Mother.,MALE
+528,MINING TRIBE ELDER,The descendant of N'Jobu.,FEMALE
+529,KILLMONGER,Hey Auntie.,MALE
+530,KILLMONGER,I'm exercising my blood right to challenge for the mantles of King and Black Panther. ,MALE
+531,RAMONDA,Do not do this T'Challa.,FEMALE
+532,BORDER TRIBE ELDER,As the son of N'Jobu he is within his rights.,MALE
+533,RAMONDA,He has no rights here.,FEMALE
+534,RIVER TRIBE ELDER,The challenge would take weeks to prepare.,MALE
+535,KILLMONGER,Weeks? I don't need weeks. The whole country ain't gotta be there I just need him... and somebody to get me out of these chains.,MALE
+536,RAMONDA,"T'Challa, what do you know of this?",FEMALE
+537,T'CHALA,I accept your challenge.,MALE
+538,SHURI,He will never beat T' Challa. He should have just come to the first challenge and gotten it over with.,FEMALE
+539,ZURI,The King will now have the strength of the Black Panther stripped away.,MALE
+540,OKOYE,Where is Agent Ross?,FEMALE
+541,NAKIA,I locked him in the office. He's not going anywhere.,FEMALE
+542,T'CHALA,"This is your last chance, throw down your weapons and we can handle this another way.",MALE
+543,KILLMONGER,"I lived my entire life waiting for this moment. I trained, I lied, I killed, just to get here.",MALE
+544,KILLMONGER,"I killed in America, Afghanistan, Iraq. I took life from my own brothers and sisters right here on the continent. And all this death, just so I can kill you.",MALE
+545,ZURI,Let the challenge begin.,MALE
+546,T'CHALA,Yield!,MALE
+547,SHURI,Snap out of it T'Challa!,FEMALE
+548,NAKIA,Get up.,FEMALE
+549,KILLMONGER,This is for my father.,MALE
+550,T'CHALA,"Zuri, no.",MALE
+551,OKOYE,Zuri.,FEMALE
+552,RAMONDA,Zuri don't!,FEMALE
+553,ZURI,I am the cause of your father's death. Not him. Take me.,MALE
+554,KILLMONGER,"I'll take you both, Uncle James...",MALE
+555,T'CHALA,Nol Zuri no! Zuri!! Noo!,MALE
+556,KILLMONGER,Is this your King? Huh?,MALE
+557,KILLMONGER,"Is this your King? The Black Panther, who's supposed to lead you into the future.",MALE
+558,SHURI,Come on brother!,FEMALE
+559,AYO,Is there nothing that can be done?,MALE
+560,KILLMONGER,Him? He's supposed to protect you.,MALE
+561,RAMONDA,No.,FEMALE
+562,NAKIA,No!,FEMALE
+563,KILLMONGER,Nah. I'm your King.,MALE
+564,NAKIA,"We have to go now! Queen mother, let's go!",FEMALE
+565,OKOYE,The Queen Mother and Shuri... they are safe?,FEMALE
+566,NAKIA,Yes.,FEMALE
+567,OKOYE,Thank you.,FEMALE
+568,NAKIA,We should get to them immediately.,FEMALE
+569,OKOYE,I cannot...,FEMALE
+570,NAKIA,What...,FEMALE
+571,OKOYE,Though my heart is with you.,FEMALE
+572,NAKIA,We cannot turn over our nation to a man who showed up here only hours ago.,FEMALE
+573,OKOYE,He is of royal blood.,FEMALE
+574,NAKIA,He killed T' Challa.,FEMALE
+575,OKOYE,In ritual combat.,FEMALE
+576,NAKIA,Does that really matter?,FEMALE
+577,NAKIA,You are the greatest warrior Wakanda has. Help me overthrow him before he becomes too strong.,FEMALE
+578,OKOYE,"Overthrow?! Nakia, I am not a spy who can come and go as they so choose. I am loyal to the throne, no matter who sits upon it. What are you loyal to?",FEMALE
+579,NAKIA,I loved him. I love my country too.,FEMALE
+580,OKOYE,Then you serve your country.,FEMALE
+581,NAKIA,No. I save my country.,FEMALE
+582,ROSS,What's wrong?,MALE
+583,NAKIA,"The King is dead. Come with me, unless you want to join him.",FEMALE
+584,SHURI,"First Baba, and now my brother. Mama, we didn't even get to bury him.",FEMALE
+585,NAKIA,It's me.,FEMALE
+586,RAMONDA,Nakia. Who is this man?,FEMALE
+587,NAKIA,He's a friend of T' Challa's he saved my life.,FEMALE
+588,RAMONDA,Where is Okoye?,FEMALE
+589,NAKIA,Okoye is not corning. She and Dora Milaje will serve the new King.  Wait here.,FEMALE
+590,RAMONDA,What has happened to our Wakanda?,FEMALE
+591,SHAMAN,Allow the Heart Shaped Herb to give you the powers of the Black Panther and take you to the Ancestral Plane.,FEMALE
+592,N'JOBU,What did I tell you about going into my things?  What did you find?,MALE
+593,KILLMONGER,Your home.,MALE
+594,N'JOBU,I gave you a key hoping that you might see it someday.,MALE
+595,N'JOBU,Yes. The sunsets there are the most beautiful in the world. But I fear you still may not be welcome.,MALE
+596,KILLMONGER,Why?,MALE
+597,N'JOBU,They will say you are lost.,MALE
+598,KILLMONGER,"But, I'm right here.",MALE
+599,N'JOBU,No tears for me?,MALE
+600,KILLMONGER,Everybody dies. It's just life around here.,MALE
+601,N'JOBU,Well look at what I have done. I should have taken you back long ago.,MALE
+602,N'JOBU,"Instead, we are both abandoned here.",MALE
+603,KILLMONGER,Well maybe your home is the one that's lost. That's why they can't find us.,MALE
+604,SHAMAN,"Breathe, my King. Breathe!",FEMALE
+605,KILLMONGER,The Heart Shaped Herb did that?,MALE
+606,KILLMONGER,This is all of it?,MALE
+607,SHAMAN,"Yes. So when it comes time for another King, we will be ready.",FEMALE
+608,KILLMONGER,Another King... yea go ahead and burn all that.,MALE
+609,SHAMAN,"My King, we cannot do that. It is our tradition --",FEMALE
+610,KILLMONGER,"When I tell you to do something, I mean that shit. Burn it all!",MALE
+611,KILLMONGER,"You know, where I'm from, when black folks started revolutions, they never had the firepower or resources to fight their oppressors. Where was Wakanda? Hmm? Yea all that ends today. We got spies embedded in every nation on Earth. Already in place.",MALE
+612,KILLMONGER,"I know how colonizers think. So we're gonna use their own strategy against them. We're gonna send vibranium weapons out to our War Dogs. They'll arm oppressed people all over the world, so they can finally rise up and kill those in power, and their children and anyone else who takes their side. It's time they know the truth about us. We're warriors. The world's gonna start over and this time we're on top.",MALE
+613,KILLMONGER,The sun will never set on the Wakandan Empire.,MALE
+614,OKOYE,Wakanda has survived for so long by fighting when only absolutely necessary.,FEMALE
+615,W'KABI,"Wakanda has survived in the past this way, yes. But the world is changing, General. Elders, it is getting smaller. The outside world is catching up and soon it will be the conquerors, or the conquered. I'd rather be the former.",MALE
+616,KILLMONGER,You heard your orders. Let's get to it.,MALE
+617,ROSS,So where are we going again?,MALE
+618,NAKIA,We're taking the Heart Shaped Herb to Jabariland.,FEMALE
+619,ROSS,"Heart Shaped Herb, what is that?",MALE
+620,SHURI,It gives whoever takes it heightened abilities.,FEMALE
+621,NAKIA,It's what made T'Challa so strong.,FEMALE
+622,RAMONDA,"Nakia. I don't like this. The Herb belongs to us. We may be creating a bigger monster with M'Baku.  Nakia, you should take it yourself.",FEMALE
+623,NAKIA,I'm a spy with no army. I wouldn't stand a chance.,FEMALE
+624,RAMONDA,We'll go.,FEMALE
+625,NAKIA,Stay calm.,FEMALE
+626,RAMONDA,My son was murdered in ritual combat.,FEMALE
+627,M'BAKU,Were the odds fair?,MALE
+628,NAKIA,"Yes, but...",FEMALE
+629,M'BAKU,"So, it was less a murder than a defeat?",MALE
+630,SHURI,Do not rub our noses in it --,FEMALE
+631,M'BAKU,"Silence! I make the pronouncements here, girl.",MALE
+632,ROSS,"Look uh, your highness, the new King is a --",MALE
+633,M'BAKU,You cannot talk. One more word and I will feed you to my children.,MALE
+634,M'BAKU,I'm kidding. We are vegetarians.,MALE
+635,NAKIA,Great Gorilla M'Baku. This is why we are here. To offer this to you. An outsider sits on our throne. Only you can help us stop him.,FEMALE
+636,M'BAKU,Come with me.,MALE
+637,NAKIA,Impossible.  Is he breathing?,FEMALE
+638,M'BAKU,"He is in a coma, barely clinging to life.",MALE
+639,M'BAKU,One of our fishermen found him at the edge of the river border. He brought him to me. ,MALE
+640,SHURI,Why do you have him in the snow?!,FEMALE
+641,M'BAKU,It is the only thing keeping him from joining the ancestors.,MALE
+642,SHURI,We need to get him to my lab! I can heal him there.,FEMALE
+643,M'BAKU,Take him. He' ll be dead in seconds.,MALE
+644,RAMONDA,"Nakia, the Herb.",FEMALE
+645,RAMONDA,I call upon the ancestors. I call upon Bast. I am here with my son T'Challa. Heal him. We must bury him.,FEMALE
+646,RAMONDA,Praise the ancestors.,FEMALE
+647,NAKIA,Praise the ancestors.,FEMALE
+648,ROSS,Praise the ancestors.,MALE
+649,SHURI,Praise the ancestors.,FEMALE
+650,NAKIA,"Wake up, T'Challa. Wake up.",FEMALE
+651,T'CHALA,My son.,MALE
+652,T'CHALA,The time has come for you to come home and be reunited with me.,MALE
+653,T'CHALA,Why?,MALE
+654,T'CHALA,Why didn't you bring the boy home?,MALE
+655,T'CHALA,"Why, Baba?",MALE
+656,T'CHALA,He... he was the truth I chose to omit.,MALE
+657,T'CHALA,You were wrong to abandon him.,MALE
+658,T'CHALA,I chose my people. I chose Wakanda. Our future depended on --,MALE
+659,T'CHALA,"You were wrong! All of you were wrong! To turn your backs on the rest of the world. We let the fear of our discovery stop us from doing what is right. No more! I cannot stay here with you. I cannot rest while he sits on the throne. He is a monster of our own making. I must take the mantle back, I must. I must right these wrongs.",MALE
+660,T'CHALA,Do you have a blanket?,MALE
+661,NAKIA,Killmonger has the full support of our military. And he burned the garden of the Heart Shaped Herb.,FEMALE
+662,ROSS,Of course he did.,MALE
+663,ROSS,That's what he was trained to do. His unit used to work with the CIA to destabilize foreign countries.,MALE
+664,ROSS,"They would always strike at transitions of power... like an election year or the death of a monarch. You get control of government, the military",MALE
+665,T'CHALA,Our resources. The Great Mound.,MALE
+666,SHURI,Our vibranium. All of my designs.,FEMALE
+667,T'CHALA,He will send our weapons all over the world.,MALE
+668,T'CHALA,You must get them out of Wakanda safely.,MALE
+669,RAMONDA,What?,FEMALE
+670,SHURI,What about you?,FEMALE
+671,T'CHALA,The challenge will have to continue.,MALE
+672,RAMONDA,"T' Challa, we will not leave Wakanda.",FEMALE
+673,T'CHALA,It is my duty to keep you safe.,MALE
+674,SHURI,"If he gets control of our technology, no where will be safe.",FEMALE
+675,SHURI,The Black Panther lives. And when he fights for the fate of Wakanda I will be right there beside him.,FEMALE
+676,NAKIA,As will I.,FEMALE
+677,ROSS,I'm in too.,MALE
+678,ROSS,What? You're gonna need all the help you can get.,MALE
+679,M'BAKU,Are you done? Are you - are you done?,MALE
+680,T'CHALA,Could you give me and Lord M' Baku a moment?,MALE
+681,T'CHALA,Thank you.,MALE
+682,M'BAKU,I owed you a great debt. A life for a life. Consider it paid.,MALE
+683,T'CHALA,Please allow my mother to stay here.,MALE
+684,M'BAKU,No harm will come to her I give you my word.,MALE
+685,T'CHALA,You know I could use an army as well.,MALE
+686,M'BAKU,I bet you could. But no. I will give no Jabari lives towards your cause.,MALE
+687,T'CHALA,It is our cause. It is for all of us.,MALE
+688,M'BAKU,Us? You are the first King to come here in centuries. And now you speak of us?,MALE
+689,T'CHALA,"I cannot speak for past Kings. But an enemy sits on the throne right now. We both know the power of vibraniurn. If Killmonger gets control of it, who do you think he will come for next?",MALE
+690,M'BAKU,We will not help you.,MALE
+691,W'KABI,Everything is on schedule.,MALE
+692,KILLMONGER,Have the spies been alerted?,MALE
+693,W'KABI,"Yes. Some have been resistant to our new mission. But the War Dogs in London, New York and Hong Kong are standing by.",MALE
+694,KILLMONGER,We'll strike there first. The others will come around.,MALE
+695,KILLMONGER,"Look at this. A handheld sonic cannon powerful enough to stop a tank. Untraceable by metal detectors, and we got thousands of 'em. The world's gonna find out exactly who we are.",MALE
+696,OKOYE,He lives...,FEMALE
+697,T'CHALA,N'Jadakalll!,MALE
+698,KILLMONGER,Wassup?,MALE
+699,T'CHALA,"I never yielded, and as you can see, I am not dead.",MALE
+700,KILLMONGER,All that challenge shit is over with. I'm the King now.  Get those planes in the air! Carry out the mission!,MALE
+701,T'CHALA,"Shuri, now!",MALE
+702,SHURI,Copy that.,FEMALE
+703,SHURI,"Go! Go go go go go! Come on, Ross!",FEMALE
+704,KILLMONGER,"W'Kabi, kill this clown.",MALE
+705,OKOYE,"W'Kabi, the challenge is not complete.",FEMALE
+706,BORDER TRIBE ELDER,What will we do?,MALE
+707,W'KABI,Border Tribe!,MALE
+708,BORDER TRIBE ELDER,Ay! Ay!,MALE
+709,W'KABI,Phambili!,MALE
+710,OKOYE,You! Your heart is so full of hatred you are not fit to be a King.,FEMALE
+711,OKOYE,Ayo. The King.,FEMALE
+712,T'CHALA,W'Kabi stop this! Stop this now!,MALE
+713,T'CHALA,NOO!!,MALE
+714,SHURI,Nakia and I will get control of the Royal Talon with this.,FEMALE
+715,ROSS,"Ok, so what do I do?",MALE
+716,SHURI,You will have to fly it.,FEMALE
+717,ROSS,What?,MALE
+718,SHURI,"You were a great pilot. Don't worry, I'll guide you through it. It's just like riding a hoverbike.",FEMALE
+719,ROSS,You guys have hoverbikes?,MALE
+720,SHURI,"Nakia, take that.",FEMALE
+721,NAKIA,I'm not a Dora.,FEMALE
+722,SHURI,"Just put it on, it's armor!",FEMALE
+723,SHURI,"Good luck, Agent Ross!",FEMALE
+724,ROSS,Yea I don ' t know what I'm doing --,MALE
+725,NAKIA,We're counting on you!,FEMALE
+726,DORA MILAJE,Wakanda Forever.,FEMALE
+727,GRIOT,Remote piloting system activated.,MALE
+728,SHURI,I made it American style for you! Get in!,FEMALE
+729,SHURI/NAKIA,Yes!!,FEMALE
+730,SHURI,Go! We can't let those weapons get beyond Wakanda.,FEMALE
+731,ROSS,"Alright, I'm on it.",MALE
+732,OKOYE,Lock! Get him down!,FEMALE
+733,OKOYE,Get the necklace!,FEMALE
+734,NAKIA,Wakanda Forever!!,FEMALE
+735,ROSS,"Ok Shuri, I got 'em what do I do?",MALE
+736,SHURI,Shoot them down genius!,FEMALE
+737,ROSS,Alright...,MALE
+738,ROSS,Here goes nothing.,MALE
+739,ROSS,"Alright, I got 'em.",MALE
+740,ROSS,Oh shit shit shit.,MALE
+741,T'CHALA,Shuri!!,MALE
+742,KILLMONGER,"What's up, Princess?",MALE
+743,SHURI,You' ll never be a true King.,FEMALE
+744,SHURI,Brother!!,FEMALE
+745,T'CHALA,Shuri!,MALE
+746,SHURI,Brother!,FEMALE
+747,T'CHALA,Turn on the train on the bottom track!,MALE
+748,SHURI,But the stabilizers will deactivate your suit... you won't have protection!,FEMALE
+749,T'CHALA,Neither will he.,MALE
+750,SHURI,Okay!,FEMALE
+751,KILLMONGER,I don't need a suit to kill you.,MALE
+752,KILLMONGER,Your reign is over. You sat up here safe and protected.,MALE
+753,T'CHALA,You want to see us become just like the people you hate so much? Divide and conquer the land as they did?,MALE
+754,KILLMONGER,No I learn from my enemies -- beat them at their own game.,MALE
+755,T'CHALA,"You have become them. You will destroy the world, Wakanda included.",MALE
+756,KILLMONGER,The world took away everything away from me! Everything I ever loved! But I'm gonna make sure we're even.,MALE
+757,KILLMONGER,"I'm gonna track down anyone who would even think about being loyal to you, and I'm gonna put they ass in the dirt, right next to Zuri.",MALE
+758,SHURI,Nakia! Are you alright?,FEMALE
+759,NAKIA,I'm ok. You?,FEMALE
+760,SHURI,Yes.,FEMALE
+761,NAKIA,Let's go.,FEMALE
+762,ROSS,"Shuri, I've lost one of them but two are on my tail.",MALE
+763,ROSS,What the hell was that?,MALE
+764,GRIOT,The lab is under attack.,MALE
+765,ROSS,What? Where?,MALE
+766,GRIOT,Deactivating hologram.,MALE
+767,SHURI,Ross! You have to get out of there now!,FEMALE
+768,ROSS,How long have I got?,MALE
+769,GRIOT,Glass integrity is at 50%,MALE
+770,ROSS,Put me back in.,MALE
+771,SHURI,Ross! Ross?!,FEMALE
+772,W'KABI,Surrender now! You have three seconds to lay down your weapons!,MALE
+773,W'KABI,One... two...,MALE
+774,M'BAKU,Witness the might of the Jabari firsthand!,MALE
+775,M'BAKU,Abya!!!!,MALE
+776,OKOYE,Phambili!!!!,FEMALE
+777,M'BAKU,Abya!!!,MALE
+778,GRIOT,Glass integrity is at 15%.,MALE
+779,GRIOT,Critical weapons failure.,MALE
+780,ROSS,"Shuri! The last cargo ship is almost at the border, but they've got me trapped with some kind of cables.",MALE
+781,SHURI,Make an X with your arms!,FEMALE
+782,GRIOT,Sonic overload initiated.,MALE
+783,SHURI,Now break it!,FEMALE
+784,GRIOT,"System rebooting in 5, 4, 3, 2...",MALE
+785,GRIOT,l... system rebooted!,MALE
+786,ROSS,Yes! We did it!,MALE
+787,SHURI,Great! Now get out of there!,FEMALE
+788,OKOYE,Drop your weapon.,FEMALE
+789,W'KABI,"Would you kill me, my love?",MALE
+790,OKOYE,For Wakanda?  Without question.,FEMALE
+791,KILLMONGER,"This is it for you, cousin.",MALE
+792,KILLMONGER,Hell of a move.,MALE
+793,KILLMONGER,My pops said Wakanda was the most beautiful thing he'd ever seen. He promised he was going to show it to me some day. Can you believe that? Kid from Oakland running around believing in fairy tales.,MALE
+794,KILLMONGER,It's beautiful.,MALE
+795,T'CHALA,Maybe we can still heal you.,MALE
+796,KILLMONGER,"Why? So you can just lock me up? Nah. Just bury me in the ocean, with my ancestors that jumped from the ships... 'cause they knew death was better than bondage.",MALE
+797,T'CHALA,Thank you. You saved me. You saved my family. Our nation.,MALE
+798,NAKIA,There is nothing to thank me for. It is our duty to... it was my duty to fight for what I love. I should have --,FEMALE
+799,T'CHALA,You can't blame me I almost died.,MALE
+800,T'CHALA,Stay. I think I know a way you can still fulfill your calling. Please stay.,MALE
+801,SHURI,"When you said you would take me to California for the first time, I thought you meant Coachella, or Disneyland. Why here?",FEMALE
+802,T'CHALA,This is where our father killed our uncle.,MALE
+803,SHURI,They are tearing it down. Good.,FEMALE
+804,T'CHALA,They're not tearing it down... I bought this building.,MALE
+805,T'CHALA,"And that building, and that one over there... This will be the first Wakandan International Outreach Center.",MALE
+806,T'CHALA,Nakia will oversee the social outreach... And you will spearhead the science and information exchange.,MALE
+807,SHURI,You're kidding!,FEMALE
+808,OAKLAND KID,What?! Man what the hell is that?,MALE
+809,OAKLAND KID,That's like a Buggati space ship!,MALE
+810,OAKLAND KID,"Woah, it came out of nowhere!!! Did y'all see that?",MALE
+811,OAKLAND KID,What...,MALE
+812,OAKLAND KID,We can take this back to the house y'all...,MALE
+813,OAKLAND KID,We could pull up to school in this!,MALE
+814,OAKLAND KID,"Hey look, we can break it apart and we can sell it!",MALE
+815,OAKLAND KID,On Ebay!,MALE
+816,OAKLAND KID,Everybody get like a million a piece.,MALE
+817,SHURI,Uhhh I wouldn't do that if I were you guys...,FEMALE
+818,OAKLAND KID,Where you come from?,MALE
+819,SHURI,From Wakanda.,FEMALE
+820,OAKLAND KID,What is a Wakanda?,MALE
+821,OAKLAND KID,Hey yo! Is this yours?,MALE
+822,OAKLAND KID,Who... who are you?,MALE
+823,T'CHALA,"My name is King T'Challa, son of King T'Chaka. I am the sovereign ruler of the Nation of Wakanda and for the first time in our history we will be sharing our knowledge and resources with the outside world. Wakanda will no longer watch from the shadows. We cannot, we must not. We will work to be an example of how we as brothers and sisters on this Earth should treat each other. Now more than ever, illusions of division threaten our very existence. We all know the truth: more connects us than separates us. In times of crisis, the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",MALE
+824,FRENCH AMBASSADOR,"With all due respect, King T'Challa, what can a nation of farmers offer to the rest of the world?",MALE
+825,SHURI,Are you playing around with that man again?,FEMALE
+826,WAKANDIAN CHILD,No. Nol,FEMALE
+827,SHURI,You're teasing him again?,FEMALE
+828,WAKANDIAN CHILDREN,Emhlophe Ingcuka.,FEMALE
+829,SHURI,"Good morning, Sgt. Barnes.",FEMALE
+830,BUCKY,Bucky.,MALE
+831,SHURI,How are you feeling?,FEMALE
+832,BUCKY,Good. Thank you.,MALE
+833,SHURI,Come. Much more for you to learn.,FEMALE
