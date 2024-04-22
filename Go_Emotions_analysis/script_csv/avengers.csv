@@ -1,0 +1,1028 @@
+character,line,gender
+THE OTHER,"The Tesseract has awakened. It is on a little world, a human world. They would wield its power.",MALE
+THE OTHER,But our ally knows its workings as they never will. He is ready to lead. And our force...,MALE
+THE OTHER,"...our Chitauri, will follow. The world will be his...the universe, yours. And the humans, what can they do but burn?",MALE
+INTERCOM VOICE,"All personnel, evacuation order has been confirmed. Proceed to your designated vehicles...",MALE
+INTERCOM VOICE,...for all campus evacuation.,MALE
+INTERCOM VOICE,This is not a drill. Emergency personnel proceed to your designated vehicles for all campus evacuation.,MALE
+NICK FURY,How bad is it?,MALE
+PHIL COULSON,"That’s the problem, sir. We don’t know.",MALE
+PHIL COULSON,Doctor Selvig read an...,MALE
+PHIL COULSON,...energy surge from the Tesseract four hours ago.,MALE
+NICK FURY,NASA didn’t authorize Selvig could go to test B.,MALE
+PHIL COULSON,He wasn’t testing it. He wasn’t even in the room. Spontaneous event.,MALE
+MARIA HILL,It just turned itself on?,FEMALE
+NICK FURY,Where are the energy levels now?,MALE
+PHIL COULSON,Climbing. When Selvig couldn’t shut it down we ordered evac.,MALE
+NICK FURY,How long to get everyone out?,MALE
+PHIL COULSON,Campus should be clear in the next half hour.,MALE
+NICK FURY,Do better.,MALE
+MARIA HILL,"Sir, evacuation may be futile. ",FEMALE
+NICK FURY,We should tell them to go back to sleep?,MALE
+MARIA HILL,If we can’t control the Tesseract’s energy there may not be a minimum safe distance.,FEMALE
+NICK FURY,I need you to make sure the Phase Two prototypes are shipped out.,MALE
+MARIA HILL,"Sir, is that really a priority right now? ",FEMALE
+NICK FURY,Until such time as the world ends we will act as though it intends to spin on. Clear out the tech below. Every piece of Phase Two on a truck and gone.,MALE
+MARIA HILL,"Yes, Sir. With me.",FEMALE
+NICK FURY,"Talk to me, Doctor. ",MALE
+SELVIG,Director.,MALE
+NICK FURY,Is there anything we know for certain?,MALE
+SELVIG,The Tesseract is misbehaving.,MALE
+NICK FURY,Is that supposed to be funny?,MALE
+SELVIG,"No, it’s not funny at all. The Tesseract is not only active, she’s misbehaving. ",MALE
+NICK FURY,How soon can you pull the plug?,MALE
+SELVIG,"She’s an energy source. We turn off the power, she turns it back on. If she reaches peak level- ",MALE
+NICK FURY,"We prepared for this, Doctor. Harnessing energy from space. ",MALE
+SELVIG,"We don’t have the harness. My calculations are far from complete. She’s throwing off interference, radiation. Nothing harmful, low levels of Gamma radiation. ",MALE
+NICK FURY,That can be harmful. Where’s agent Barton?,MALE
+SELVIG,"The hawk? Up in his nest, as usual.",MALE
+NICK FURY,Agent Barton. Report.,MALE
+NICK FURY,I gave you this detail so you could keep a close eye on things.,MALE
+CLINT BARTON,I see better from a distance.,MALE
+NICK FURY,Have you seen anything that might set this thing off?,MALE
+NASA SCIENTIST,Doctor! It’s spiking again.,FEMALE
+CLINT BARTON,"No one’s come and gone. And Selvig’s clean. No contacts, no IM. If there’s any tampering, sir, it wasn’t this end.",MALE
+NICK FURY,At this end?,MALE
+CLINT BARTON,"Yeah. The Cube is a doorway to the other end of space, right? Doors open from both sides.",MALE
+SELVIG,What’s that?,MALE
+NICK FURY,"Sir, please put down the spear!",MALE
+LOKI,You have heart.,MALE
+LOKI,Please don’t. I still need that.,MALE
+NICK FURY,This doesn’t have to get any messier.,MALE
+LOKI,"Of course it does. I’ve come too far for anything else. I am Loki, of Asgard. And I am burdened with glorious purpose.",MALE
+SELVIG,"Loki, brother of Thor? ",MALE
+NICK FURY,We have no quarrel with your people.,MALE
+LOKI,An ant has no quarrel with a boot.,MALE
+NICK FURY,You planning to step on us?,MALE
+LOKI,"I come with glad tidings, of a world made free. ",MALE
+NICK FURY,Free from what?,MALE
+LOKI,"Freedom. Freedom is life’s great lie. Once you accept that, in your heart you will know peace.",MALE
+NICK FURY,"Yeah, you say peace. I kinda think you mean the other thing. ",MALE
+CLINT BARTON,"Sir, Director Fury is stalling. This place is about to blow and drop a hundred feet of rock on us. He means to bury us. ",MALE
+NICK FURY,Like the pharaohs of old.,MALE
+SELVIG,He’s right. The portal is collapsing in on itself. We’ve got maybe two minutes before this goes critical.,MALE
+LOKI,Well then.,MALE
+CLINT BARTON,We need this vehicles.,MALE
+MARIA HILL,Who’s that?,FEMALE
+CLINT BARTON,Didn’t tell me.,MALE
+NICK FURY,Hill!,MALE
+NICK FURY,Do you copy?,MALE
+NICK FURY,Barton...has turned.,MALE
+NICK FURY,Get the Tesseract. Shut them down.,MALE
+PHIL COULSON,"Let’s just go. No-no-no! Leave it, leave it. GO!",MALE
+PHIL COULSON,"We’re clear upstairs, sir...",MALE
+PHIL COULSON,...We need to go.,MALE
+PHIL COULSON,Director.,MALE
+PHIL COULSON,"Director Fury, do you copy? ",MALE
+NICK FURY,The Tesseract is with a hostile force. I have men down. Hill?,MALE
+MARIA HILL,A lot of men still under. Don’t know how many survivors.,FEMALE
+NICK FURY,Sound a general call. I want every living soul...,MALE
+NICK FURY,...not working rescue looking for that briefcase.,MALE
+MARIA HILL,Roger that.,FEMALE
+NICK FURY,"Coulson, get back to base. ",MALE
+NICK FURY,This is a level seven.,MALE
+NICK FURY,As of right now...,MALE
+NICK FURY,We are at war.,MALE
+PHIL COULSON,What do we do?,MALE
+GEORGI LUCHKOV,This isn’t how I wanted this evening to go.,FEMALE
+NATASHA ROMANOFF,I know how you wanted this evening. Believe me this is better.,FEMALE
+GEORGI LUCHKOV,"Who are you working for? Lermentov, yes?",FEMALE
+GEORGI LUCHKOV,Does he think we have to go through him to move our cargo?,FEMALE
+NATASHA ROMANOFF,I thought General Solohob is in charge of the export business.,FEMALE
+GEORGI LUCHKOV,"Solohob. A bagman, a front. Your outdated information betrays you. The famous Black Widow is just another pretty face. ",FEMALE
+NATASHA ROMANOFF,You really think I’m pretty?,FEMALE
+GEORGI LUCHKOV,Tell Lermentov we don’t need him to move the tanks. Tell him he is out. Well...You may have to write it.,FEMALE
+WEASELLY THUG,It’s for her.,MALE
+GEORGI LUCHKOV,You listen carefully-,FEMALE
+PHIL COULSON,"You’re at 1- 14 Silensky Plaza, 3rd floor. We have an F-22 exactly eight miles out. Put the woman on the phone or I will blow up the block before you can make the lobby.  We need you to come in. ",MALE
+NATASHA ROMANOFF,Are you kidding? I’m working.,FEMALE
+PHIL COULSON,This takes precedence.,MALE
+NATASHA ROMANOFF,"I’m in the middle of an interrogation, and this moron is giving me everything. ",FEMALE
+GEORGI LUCHKOV,I not- give everything.,FEMALE
+NATASHA ROMANOFF,"Look, you can’t pull me out of this right now. ",FEMALE
+PHIL COULSON,Natasha...Barton’s been compromised.,MALE
+NATASHA ROMANOFF,Let me put you on hold.,FEMALE
+NATASHA ROMANOFF,Where’s Barton now?,FEMALE
+PHIL COULSON,We don’t know.,MALE
+NATASHA ROMANOFF,But he’s alive?,FEMALE
+PHIL COULSON,"We think so.  We’ll brief you on everything when you get back. But first, we need you to talk to the big guy. ",MALE
+NATASHA ROMANOFF,"Coulson, you know that Stark trusts me about as far as he can throw me. ",FEMALE
+PHIL COULSON,Oh I’ve got Stark! You get the big guy.,MALE
+NATASHA ROMANOFF,My God.,FEMALE
+CALCUTTA WOMAN,Who are you? Get out! There is sickness here!,FEMALE
+YOUNG GIRL,Are you the doctor? I need a doctor. My father. My father’s not waking up! He has a fever and he’s moaning but his eyes won’t open.,FEMALE
+BRUCE BANNER,Slow down.,MALE
+YOUNG GIRL,My father-,FEMALE
+BRUCE BANNER,Like them?,MALE
+YOUNG GIRL,Please!,FEMALE
+BRUCE BANNER,Should have got paid upfront Banner.,MALE
+NATASHA ROMANOFF,"You know, for a man who’s supposed to be...",FEMALE
+NATASHA ROMANOFF,"...avoiding stress, you picked a hell of a place to settle. ",FEMALE
+BRUCE BANNER,Avoiding stress isn’t the secret.,MALE
+NATASHA ROMANOFF,Then what is it? Yoga?,FEMALE
+BRUCE BANNER,And you brought me to the end of the city. Smart.  I- uh- I assume the whole place is surrounded.,MALE
+NATASHA ROMANOFF,Just you and me.,FEMALE
+BRUCE BANNER,"And your actress buddy? She a spy too, they start that wrong? ",MALE
+NATASHA ROMANOFF,I did.,FEMALE
+BRUCE BANNER,Who are you?,MALE
+NATASHA ROMANOFF,Natasha Romanoff.,FEMALE
+BRUCE BANNER,"Are you here to kill me, Ms Romanoff? ’Cause that’s not going to work out for everyone. ",MALE
+NATASHA ROMANOFF,"No, no. Of course not. I’m here on behalf of SHIELD. ",FEMALE
+BRUCE BANNER,SHIELD. How’d they find me?,MALE
+NATASHA ROMANOFF,"We never lost you, Doctor. We’ve kept our distance, even helped keep some other interested parties off your scent. ",FEMALE
+BRUCE BANNER,Why?,MALE
+NATASHA ROMANOFF,Nick Fury seems to trust you. But now we need you to come in.,FEMALE
+BRUCE BANNER,What if I say no?,MALE
+NATASHA ROMANOFF,I’ll persuade you. ,FEMALE
+BRUCE BANNER,And what if the- Other Guy says no?,MALE
+NATASHA ROMANOFF,You’ve been more than a year without an incident. I don’t think you want to break that streak.,FEMALE
+BRUCE BANNER,"Well, I don’t every time get what I want. ",MALE
+NATASHA ROMANOFF,"Doctor, we’re facing a potential global catastrophe. ",FEMALE
+BRUCE BANNER,Oh those I actively try to avoid.,MALE
+NATASHA ROMANOFF,This  is the Tesseract.  It has the potential energy to wipe out the planet.,FEMALE
+BRUCE BANNER,What does Fury want me to do? Swallow it?,MALE
+NATASHA ROMANOFF,"He wants you to find it. It’s been taken. It emits a Gamma signature that’s too weak for us to trace. No one knows Gamma radiation like you do. If there was, that’s where I’d be. ",FEMALE
+BRUCE BANNER,So Fury isn’t after the monster?,MALE
+NATASHA ROMANOFF,Not that he’s told me.,FEMALE
+BRUCE BANNER,And he tells you everything?,MALE
+NATASHA ROMANOFF,"Talk to Fury, he needs you on this. ",FEMALE
+BRUCE BANNER,He needs me in a cage?,MALE
+NATASHA ROMANOFF,No one’s going to put you in a-,FEMALE
+BRUCE BANNER,STOP LYING TO ME!  I’m sorry. That was mean. I just wanted to see what you’d do.  Why don’t we do this the easy way where you don’t use that and the- Other Guy doesn’t make a mess? Okay?....Natasha.,MALE
+NATASHA ROMANOFF,Stand down. We’re good here.,FEMALE
+BRUCE BANNER,Just you and me?,MALE
+COUNCILMAN,"This is out of line, Director. You’re dealing with forces you can’t control. ",MALE
+NICK FURY,"You ever been in a war, councilman? In a fire fight? Did you feel an over abundance of control? ",MALE
+COUNCILMAN,You’re saying that this Asgard is declaring war on our planet?,MALE
+NICK FURY,"Not Asgard, Loki. ",MALE
+COUNCILWOMAN,"He can’t be working alone. What about the other one, his brother? ",FEMALE
+NICK FURY,Our intelligence says Thor is not a hostile. But he’s worlds away and we can’t depend on him to help either. It’s up to us.,MALE
+COUNCILMAN,"Which is why you should be focusing on Phase Two, it was designed for exactly this purpose. ",MALE
+NICK FURY,Phase Two isn’t ready; our enemy is. We need a response team.,MALE
+COUNCILMAN,The Avengers Initiative was shut down.,MALE
+NICK FURY,This isn’t about the Avengers.,MALE
+COUNCILMAN,We’re running the world’s greatest covert security network and you’re gonna leave the fate of the human race to a handful of freaks.,MALE
+NICK FURY,"I’m not leaving anything to anyone. We need a response team. These people may be isolated, unbalanced even, but I believe, with the right push, they can be exactly what we need. ",MALE
+COUNCILWOMAN,You believe!,FEMALE
+COUNCILMAN,"War isn’t won by sentiment, Director. ",MALE
+NICK FURY,"No, It’s won by soldiers.",MALE
+STEVE ROGERS,There’s not enough time. I gotta put her in the water.,MALE
+PEGGY CARTER,You won’t be alone.,FEMALE
+SCIENTIST,Oh my God. This guy’s still alive.,MALE
+NICK FURY,Trouble sleeping?,MALE
+STEVE ROGERS,"Slept for seventy years, Sir. I think I’ve had my fill.",MALE
+NICK FURY,"Then you should be out, celebrating, seeing the world. ",MALE
+STEVE ROGERS,"When I went under, the world was at war. I wake up- they say we won. They didn’t say what we lost. ",MALE
+NICK FURY,"We’ve made some mistakes along the way, some very recently. ",MALE
+STEVE ROGERS,"You here with a mission, Sir? ",MALE
+NICK FURY,I am.,MALE
+STEVE ROGERS,Trying to get me back in the world?,MALE
+NICK FURY,Trying to save it.,MALE
+STEVE ROGERS,HYDRA’s secret weapon.,MALE
+NICK FURY,Howard Stark fished that out of the ocean when he was looking for you. He thought what we think. The Tesseract could be the key to unlimited sustainable energy. That’s something the world sorely needs.,MALE
+STEVE ROGERS,Who took it from you?,MALE
+NICK FURY,He’s called Loki. He’s- not from around here. There’s a lot we’ll have to bring you up to speed on if you’re in. The world has gotten even stranger than you already know.,MALE
+STEVE ROGERS,At this point I doubt anything would surprise me.,MALE
+NICK FURY,Ten bucks says you’re wrong. There’s a debriefing packet waiting for you back at your apartment. Is there anything you can tell us about the Tesseract that we ought to know now?,MALE
+STEVE ROGERS,You should have left it in the ocean.,MALE
+TONY STARK,Good to go on this end. The rest is up to you.,MALE
+PEPPER POTTS,You disconnected the transmission lines? Are we off the grid?,FEMALE
+TONY STARK,Stark Tower’s about to become a beacon of self-sustaining clean energy.,MALE
+PEPPER POTTS,"Well, assuming the arc reactor takes over and it actually works.",FEMALE
+TONY STARK,I assume. Light her up.,MALE
+PEPPER POTTS,How does it look?,FEMALE
+TONY STARK,Like Christmas...,MALE
+TONY STARK,...but with more- me.,MALE
+PEPPER POTTS,We’ve got to go wider on the public awareness campaign. You need to do some press.,FEMALE
+PEPPER POTTS,I’m in DC tomorrow. I’m working on the zoning for the next three buildings.,FEMALE
+TONY STARK,"Pepper, you’re killing me at the moment. Remember, enjoy the moment. ",MALE
+PEPPER POTTS,Then get in here and I will.,FEMALE
+JARVIS,"Sir, Agent Coulson of SHIELD is on the line. ",MALE
+TONY STARK,I’m not in. I’m actually out.,MALE
+JARVIS,"Sir, I’m afraid he’s insisting. ",MALE
+TONY STARK,"Grow a spine, JARVIS. I got a date.",MALE
+PEPPER POTTS,Levels are holding steady- I think.,FEMALE
+TONY STARK,"Of course they are, I was directly involved. Which leads me to my next question. How does it feel to be a genius?",MALE
+PEPPER POTTS,"Well, ah, I really wouldn’t know now would I? ",FEMALE
+TONY STARK,What do you mean? All this came from you.,MALE
+PEPPER POTTS,"No, all this came from that.",FEMALE
+TONY STARK,"Give yourself some credit, please. Stark Tower is your baby. Give yourself- twelve percent of the credit. ",MALE
+PEPPER POTTS,Twelve percent?,FEMALE
+TONY STARK,An argument can be made for fifteen.,MALE
+PEPPER POTTS,Twelve percent of my baby?,FEMALE
+TONY STARK,"Well, I did do all the heavy lifting. Literally, I lifted the heavy things and sorry but, the security snafu? That was on you. ",MALE
+PEPPER POTTS,Oh!,FEMALE
+TONY STARK,My private elevator.,MALE
+PEPPER POTTS,You mean our elevator.,FEMALE
+TONY STARK,"Yeah, it was teeming with sweaty workmen. I’m going to pay for that comment about percentages in some subtle way later aren’t I? ",MALE
+PEPPER POTTS,Not gonna be that subtle.,FEMALE
+TONY STARK,"I’ll tell you what, next building is gonna say ’Potts’ on the tower. ",MALE
+PEPPER POTTS,On the lease!,FEMALE
+TONY STARK,"Call your mum, can you bunk over? ",MALE
+JARVIS,"Sir, the telephone. I’m afraid my protocols are being overridden. ",MALE
+TONY STARK,Ah-,MALE
+PHIL COULSON,"Mr. Stark, we need to talk. ",MALE
+TONY STARK,You have reached the Life Model Decoy of Tony Stark. Please leave a message.,MALE
+PHIL COULSON,This is urgent.,MALE
+TONY STARK,Then leave it urgently.  Security breach. That’s on you!,MALE
+PEPPER POTTS,Phil! Come in!,FEMALE
+TONY STARK,Phil?,MALE
+PHIL COULSON,I can’t stay.,MALE
+TONY STARK,"Uh, his first name is Agent. ",MALE
+PEPPER POTTS,"Come on in, we’re celebrating. ",FEMALE
+TONY STARK,Which is why he can’t stay.,MALE
+PHIL COULSON,"We need you to look this over, as soon as possible.",MALE
+TONY STARK,I don’t like being handed things.,MALE
+PEPPER POTTS,"That’s fine because I love to be handed things. So, let’s trade. Thank you. ",FEMALE
+TONY STARK,Official consulting hours are between eight and five every other Thursday.,MALE
+PHIL COULSON,This isn’t a consultation.,MALE
+PEPPER POTTS,Is this about the Avengers?  Which I know nothing about.,FEMALE
+TONY STARK,"The Avengers Initiative was scrapped, I thought, and I didn’t even qualify. ",MALE
+PEPPER POTTS,I didn’t know that either.,FEMALE
+TONY STARK,"Yeah, apparently I’m volatile, self-obsessed, don’t play well with others. ",MALE
+PEPPER POTTS,That I did know.,FEMALE
+PHIL COULSON,This isn’t about personality profiles anymore.,MALE
+TONY STARK,"Whatever! Ms. Potts, got a sec? ",MALE
+PEPPER POTTS,Half a moment.,FEMALE
+TONY STARK,"You know, I thought we were having a moment. ",MALE
+PEPPER POTTS,I was having twelve percent of a moment.  This seems serious. Phil looks pretty shaken.,FEMALE
+TONY STARK,How would you notice- why is he Phil?,MALE
+PEPPER POTTS,What is all this?,FEMALE
+TONY STARK,This is- ah... ...this!,MALE
+PEPPER POTTS,I’m going to take the jet to DC tonight.,FEMALE
+TONY STARK,Tomorrow.,MALE
+PEPPER POTTS,You have homework. You have a lot of homework.,FEMALE
+TONY STARK,"Well, what if I didn’t? ",MALE
+PEPPER POTTS,"If you didn’t? You mean when you finished? Well, um, then-",FEMALE
+TONY STARK,Square deal. Fly safe. They kiss.,MALE
+PEPPER POTTS,"Work hard.  So, any chance you’re driving by LaGuardia? ",FEMALE
+PHIL COULSON,I can drop you off.,MALE
+PEPPER POTTS,"Fantastic. Ooh, I want to hear about the ah- cellist, is that still a thing?",FEMALE
+PHIL COULSON,She moved back to Portland.,MALE
+PEPPER POTTS,What?...Boo.,FEMALE
+FACELESS PILOT,"We’re about forty minutes out from home base, Sir.",MALE
+STEVE ROGERS,"So, this Doctor Banner was trying to replicate the serum they used on me? ",MALE
+PHIL COULSON,A lot of people were. You were the world’s first superhero. Banner thought Gamma radiation might hold the key to unlocking Erskine’s original formula.,MALE
+STEVE ROGERS,"Didn’t really go his way, did it? ",MALE
+PHIL COULSON,"Not so much. When he’s not that thing though, guy’s like a Stephen Hawking. He’s like a- smart person. I gotta say- it’s an honor to meet you, officially. I sort of met you, I mean, I watched you while you were sleeping. I mean, I was, I was present, while you were unconscious from-the-ice.",MALE
+PHIL COULSON,You know it’s really- it’s just a- just a huge honor to have you on board- it’s...,MALE
+STEVE ROGERS,"Well, I hope I’m the man for the job. ",MALE
+PHIL COULSON,"Oh you are, absolutely. Ah- we made some modifications to the uniform. I had a little design input. ",MALE
+STEVE ROGERS,The uniform? Aren’t the stars and stripes a little...old-fashioned?,MALE
+PHIL COULSON,"Everything that’s happening, the things that are about to come to light, people might just need a little old-fashioned.",MALE
+THE OTHER,The Chitauri grow restless.,MALE
+LOKI,Let them goad themselves. I will lead them in a glorious battle.,MALE
+THE OTHER,Battle? Against the meager might of Earth.,MALE
+LOKI,Glorious not lengthy- if your force is as formidable as you claim.,MALE
+THE OTHER,"You question us? You question him? He who out the scepter in your hand, who gave you ancient knowledge and new purpose? When you were cast out- defeated! ",MALE
+LOKI,"I was a king! The rightful king of Asgard, betrayed. ",MALE
+THE OTHER,"Your ambition is little, full of childish need. We look beyond the Earth to greater worlds the Tesseract will unveil. ",MALE
+LOKI,"You don’t have the Tesseract yet.  I don’t threaten. But until I open the doors, until your force is mine to command, you are but words. ",MALE
+THE OTHER,"You will have your war, Asgardian. If you fail, if the Tesseract is kept from us, there will be no realm, no barren moon, no crevice, where he cannot find you. You think you know pain? He will make you long for something as sweet as pain.",MALE
+PHIL COULSON,Agent Romanoff- Captain Rogers.,MALE
+STEVE ROGERS,Ma’am.,MALE
+NATASHA ROMANOFF,Hi. They need you on the bridge; they’re starting the face trace.,FEMALE
+PHIL COULSON,See you there.,MALE
+NATASHA ROMANOFF,"It was quite the buzz around here, finding you in the ice. Thought Coulson was gonna swoon. Did he ask you to sign his Captain America trading cards yet? ",FEMALE
+STEVE ROGERS,Trading cards?,MALE
+NATASHA ROMANOFF,They’re vintage. He’s very proud.,FEMALE
+STEVE ROGERS,Doctor Banner.,MALE
+BRUCE BANNER,"Oh, yeah, hi. They told me you’d be coming. ",MALE
+STEVE ROGERS,Word is you can find the Cube.,MALE
+BRUCE BANNER,Is that the only word on me?,MALE
+STEVE ROGERS,Only word I care about.,MALE
+BRUCE BANNER,"Must be strange for you, all of this. ",MALE
+STEVE ROGERS,"Well, this is actually kind of familiar. ",MALE
+NATASHA ROMANOFF,"Gentlemen, you might wanna step inside in a minute. It’s gonna get a little had to breathe. ",FEMALE
+HELICARRIER INTERCOM,Flight Mode. Secure the deck.,MALE
+STEVE ROGERS,Is this a submarine?,MALE
+BRUCE BANNER,"Really, they want me in a submerged pressurized metal container?  Oh no, this is much worse.",MALE
+CARRIER BRIDGE TECH 1,"Maximum performance take off, increase output to capacity. ",MALE
+FEMALE CARRIER BRIDGE TECH,Power plant performing at capacity. We are clear.,FEMALE
+MARIA HILL,"All engines operating. SHIELD emergency protocol one nine three point six in effect. We’re at level, sir. ",FEMALE
+NICK FURY,Good! Let’s vanish.,MALE
+MARIA HILL,Engage retro reflection panels.,FEMALE
+MALE AGENT,Reflection panels engaged.,MALE
+NICK FURY,"Gentlemen.  Doctor, thank you for coming.",MALE
+BRUCE BANNER,"Thanks for asking nicely. So, um, how long am I staying? ",MALE
+NICK FURY,"Once we get our hands on the Tesseract, you’re in the wind. ",MALE
+BRUCE BANNER,Well where are you with that?,MALE
+PHIL COULSON,"We’re sweeping every wirelessly accessible camera on the planet. Cell phones... laptops, if it’s connected to a satellite, it’s eyes and ears for us. ",MALE
+NATASHA ROMANOFF,It’s still not gonna find them in time.,FEMALE
+BRUCE BANNER,You have to narrow your field. How many Spectrometers do you have access to?,MALE
+NICK FURY,How many are there?,MALE
+BRUCE BANNER,"Call every lab you know. Tell them to put the Spectrometers on the roof and calibrate them for Gamma rays. I’ll rough out a tracking algorithm, basic cluster recognition. At least we could rule out a few places. Do you have somewhere for me to work? ",MALE
+NICK FURY,"Agent Romanoff, would you show Doctor Banner to his laboratory, please?",MALE
+NATASHA ROMANOFF,"You’re gonna love it, Doc. We got all the toys. ",FEMALE
+BRUCE BANNER,Really? Do you have the com-meter sixty-four?,MALE
+NATASHA ROMANOFF,I’m not sure-,FEMALE
+BRUCE BANNER,Oh you’re very young.,MALE
+NICK FURY,"Hill, did you tell the council that Barton had been compromised? ",MALE
+MARIA HILL,Was that not procedure?,FEMALE
+MARIA HILL,Did you tell them who exactly is on your response team?,FEMALE
+NICK FURY,Doesn’t appear that I have to.,MALE
+SELVIG,Put it over there. Where did you find all these people?,MALE
+CLINT BARTON,"SHIELD has no shortage of enemies, Doctor. This the stuff you need? ",MALE
+SELVIG,"Yeah. Iridium. It’s found in meteorites, it forms anti-protons. It’s very hard to get hold of. ",MALE
+CLINT BARTON,Especially if SHIELD knows you need it.,MALE
+SELVIG,"Well, I didn’t know. Hey! This is wonderful. The Tesseract has shown me so much. It’s- it’s more than knowledge, it’s truth. ",MALE
+LOKI,"I know. It, ah- it touches everyone differently. What did it show you Agent Barton? ",MALE
+CLINT BARTON,My next target.,MALE
+SELVIG,"Stick in the mud. He’s got no soul. No wonder you chose this, this tomb to work in. ",MALE
+CLINT BARTON,"Well, the Radisson doesn’t have three levels of lead lined flooring between SHIELD and that Cube.",MALE
+LOKI,I see why Fury chose you to guard it.,MALE
+CLINT BARTON,"You’re going to have to contend with him sir. As long as he’s in the air, I can’t pin him down. And he’ll be putting together a team. ",MALE
+LOKI,Are they a threat?,MALE
+CLINT BARTON,"To each other more than likely. But if Fury can get ’em on track, and he might, they could throw some noise our way. ",MALE
+LOKI,You admire Fury.,MALE
+CLINT BARTON,He’s got a clear line of sight.,MALE
+LOKI,Is that why you failed to kill him?,MALE
+CLINT BARTON,"It might be. I was disoriented, and I’m not at my best with a gun. ",MALE
+LOKI,"I want to know everything you can tell me about this team of his. I would- test their mettle. I am weary of scuttling in shadow. I mean to rule this world, not burrow in it. ",MALE
+CLINT BARTON,That’s a risk,MALE
+LOKI,Oh yes.,MALE
+CLINT BARTON,If you’re set on making yourself known. I could be useful.,MALE
+LOKI,Tell me what you need.,MALE
+CLINT BARTON,I need a distraction. And an eyeball.,MALE
+PHIL COULSON,"I mean, if it’s not too much trouble. ",MALE
+STEVE ROGERS,"No-no, it’s fine. ",MALE
+PHIL COULSON,"It’s a vintage set. Took me a couple of years to collect them all. Near mint, slight foxing around the edges but- ",MALE
+AGENT JASPER SITWELL,"We got a hit. Sixty seven percent match. Wait- cross-match, seventy nine percent. ",MALE
+PHIL COULSON,Location?,MALE
+AGENT JASPER SITWELL,"Stuttgart, Germany. Twenty eight, Königstraße. He’s not exactly hiding. ",MALE
+NICK FURY,"Captain, you’re up.",MALE
+LOKI,"Kneel before me. I said- KNEEL!  Is not this simpler? Is this not your natural state? It’s the unspoken truth of humanity, that you crave subjugation. The bright lure of freedom diminishes your life’s joy in a mad scramble for power, for identity. You were made- to be ruled. In the end- you will always kneel.",MALE
+GERMAN OLD MAN,Not to men like you.,MALE
+LOKI,There are no men like me.,MALE
+GERMAN OLD MAN,There are always men like you.,MALE
+LOKI,"Look to your elder, people. Let him be an example.",MALE
+STEVE ROGERS,"You know, the last time I was in Germany and saw a man standing above everybody else, we ended up disagreeing. ",MALE
+LOKI,The soldier- the man out of time.,MALE
+STEVE ROGERS,I’m not the one who’s out of time.,MALE
+NATASHA ROMANOFF,"Loki, drop the weapon and stand down.",FEMALE
+LOKI,Kneel!,MALE
+STEVE ROGERS,Not today.,MALE
+NATASHA ROMANOFF,Guy’s all over the place.,FEMALE
+TONY STARK,"Agent Romanoff, you miss me?",MALE
+TONY STARK,Make a move reindeer games. Good move.,MALE
+STEVE ROGERS,Mister Stark.,MALE
+TONY STARK,Captain.,MALE
+NICK FURY,He saying anything?,MALE
+NATASHA ROMANOFF,Not a word.,FEMALE
+NICK FURY,"Just get him here, we’re low on time. ",MALE
+STEVE ROGERS,I don’t like it.,MALE
+TONY STARK,What? Rock of Ages giving up so easily?,MALE
+STEVE ROGERS,I don’t remember it being that easy. This guy packs a wallop.,MALE
+TONY STARK,"Still, you were pretty spry, for an older fellow. What’s your thing? Pilates? ",MALE
+STEVE ROGERS,What?,MALE
+TONY STARK,"It’s like calisthenics. You might have missed a couple of things. Y’know, doing time as a Cap-sicle. ",MALE
+STEVE ROGERS,Fury didn’t tell me he was calling you in.,MALE
+TONY STARK,"Yeah, there’s a lot of things Fury doesn’t tell you.",MALE
+NATASHA ROMANOFF,Where’s this come from?,FEMALE
+STEVE ROGERS,What’s the matter? Scared of a little lightening?,MALE
+LOKI,I’m not overly fond of what follows. ,MALE
+STEVE ROGERS,What are you doing?,MALE
+TONY STARK,Now there’s that guy.,MALE
+NATASHA ROMANOFF,Another Asgardian?,FEMALE
+STEVE ROGERS,That guy’s a friendly.,MALE
+NATASHA ROMANOFF,"Doesn’t matter. If he frees Loki, or kills him, the Tesseract’s lost.",FEMALE
+STEVE ROGERS,"Stark, we need a plan of attack. ",MALE
+TONY STARK,I have a plan. Attack!,MALE
+NATASHA ROMANOFF,"I’d sit this one out, Cap. ",FEMALE
+STEVE ROGERS,I don’t see how I can.,MALE
+NATASHA ROMANOFF,"These guys come from legend, they’re basically Gods. ",FEMALE
+STEVE ROGERS,"There’s only one God ma’am, and I’m pretty sure he doesn’t dress like that.",MALE
+THOR,Where is the Tesseract?,MALE
+LOKI,"Oh-ho, I missed you too. ",MALE
+THOR,Do I look to be in a gaming mood?,MALE
+LOKI,"Oh, you should thank me. With the Bifrost gone, how many dark energy did the All-Father have to muster to conjure you here? Your precious Earth.",MALE
+THOR,I thought you dead.,MALE
+LOKI,Did you mourn?,MALE
+THOR,We all did. Our father-,MALE
+LOKI,"Your father. He did tell you my true parentage, did he not? ",MALE
+THOR,"We were raised together, we played together, we fought together. Do you remember none of that? ",MALE
+LOKI,"I remember a shadow, living in the shade of your greatness. I remember you tossing me into an abyss. I who was and should be king! ",MALE
+THOR,"So you take the world I love as recompense for your imagined slights? No. The Earth is under my protection, Loki. ",MALE
+LOKI,Well yes.,MALE
+THOR,"Then you miss the truth of ruling, brother. Throne would suit you ill.",MALE
+LOKI,"I’ve seen worlds you’ve never known about. I have grown, Odinson, in my exile. I have seen the true power of the Tesseract, and when I wield it- ",MALE
+THOR,Who showed you this power? Who controls the would-be-king?,MALE
+LOKI,I am a king!,MALE
+THOR,Not here. You give up the Tesseract; you give up this poisonous dream! You come home.,MALE
+LOKI,I don’t have it.  You need the Cube to bring me home but I’ve sent it off I know not where.,MALE
+THOR,You listen well brother-,MALE
+LOKI,I’m listening?,MALE
+THOR,Do not touch me again.,MALE
+TONY STARK,Then don’t take my stuff.,MALE
+THOR,You have no idea what you’re dealing with.,MALE
+TONY STARK,Uh- Shakespeare in the park? Doth mother know you wear-th her drapes?,MALE
+THOR,"This is beyond you, metal man. Loki will face Asgardian justice. ",MALE
+TONY STARK,"He gives up the Cube, he’s all yours.",MALE
+TONY STARK,-stay out of the way. Tourist.,MALE
+TONY STARK,Okay! ,MALE
+JARVIS,Power at four hundred percent capacity.,MALE
+TONY STARK,How bout that?,MALE
+STEVE ROGERS,Hey!,MALE
+STEVE ROGERS,That’s enough!  Now I don’t know what you plan on doing here-,MALE
+THOR,I’ve come here to put an end to Loki’s schemes!,MALE
+STEVE ROGERS,Then prove it. Put that hammer down.,MALE
+TONY STARK,"Uh, yeah! No! Bad call, he loves his hammer- ",MALE
+THOR,You want me to put hammer down?,MALE
+STEVE ROGERS,Are we done here?,MALE
+NICK FURY,"In case it’s unclear, you try to escape- you so much as scratch that glass- Thirty thousand feet straight down in a steel trap. You get how that works? Ant. Boot. ",MALE
+LOKI,"It’s an impressive cage. Not built, I think, for me. ",MALE
+NICK FURY,Built for something a lot stronger than you.,MALE
+LOKI,"Oh I’ve heard. A mindless beast- makes play he’s still a man... How desperate are you, that you call on such lost creatures to defend you? ",MALE
+NICK FURY,"How desperate am I?... You threaten my world with war, you steal a force you can’t hope to control, you talk about peace and you kill ’cause it’s fun. You have made me very desperate. You might not be glad that you did. ",MALE
+LOKI,"Ooh. It burns you to have come so close, to have the Tesseract, to have power- unlimited power, and for what? A... warm light for all mankind to share? And then to be reminded what real power is.",MALE
+NICK FURY,"Well, let me know if ’real power’ wants a magazine or something. ",MALE
+BRUCE BANNER,He really grows on you doesn’t he?,MALE
+STEVE ROGERS,"Loki’s gonna drag this out. So, Thor, what’s his play? ",MALE
+THOR,"He has an army called the Chitauri. They’re not of Asgard nor any world known. He means to lead the against your people. They will win him the Earth, in return, I suspect, for the Tesseract. ",MALE
+STEVE ROGERS,"An army, from outer space? ",MALE
+BRUCE BANNER,"So, he’s building another portal. That’s what he needs Erik Selvig for. ",MALE
+THOR,Selvig?,MALE
+BRUCE BANNER,He’s an astrophysicist.,MALE
+THOR,He’s a friend.,MALE
+NATASHA ROMANOFF,Loki has them under some kind of spell- along with one of ours.,FEMALE
+STEVE ROGERS,I wanna know why Loki let us take him. He’s not leading an army from here.,MALE
+BRUCE BANNER,"I don’t think we should be focusing on Loki. That guy’s brain is a bag full of cats, you can small crazy on him. ",MALE
+THOR,"Have care how you speak. Loki is beyond reason but he is of Asgard, and he is my brother. ",MALE
+NATASHA ROMANOFF,He killed eighty people in two days.,FEMALE
+THOR,He’s adopted?,MALE
+BRUCE BANNER,"I think it’s about the mechanics. Iridium, what do they need the Iridium for?",MALE
+TONY STARK,"It’s a stabilizing agent. I’m saying, take a weekend; I’ll fly you to Portland. Keep love alive. Means the portal won’t collapse on itself like it did at SHIELD. No hard feelings point break, you got a mean swing.",MALE
+TONY STARK,"Also, means the portal can open as wide and stay open as long as Loki wants. Ah, raise the mizzen mast, ship the topsails. That man is playing Galaga! Thought we wouldn’t notice, but we did. How does Fury even see these? ",MALE
+MARIA HILL,He turns!,FEMALE
+TONY STARK,"Sounds exhausting! The rest of the raw materials, Agent Barton can get his hands on pretty easily. Only major component he still needs is a power source- of high energy density. Something to- kick start the Cube. ",MALE
+MARIA HILL,When did you become an expert in thermonuclear astrophysics?,FEMALE
+TONY STARK,"Last night. The packet, Selvig’s notes, the extraction theory papers- am I the only one who did the reading? ",MALE
+STEVE ROGERS,Does Loki need any particular kind of power source?,MALE
+BRUCE BANNER,He’s have to heat the Cube to a hundred and twenty million kelvin just to break through the Coulomb barrier.,MALE
+TONY STARK,"Unless, Selvig has figured out how to stabilize the Quantum Tunneling effect. ",MALE
+BRUCE BANNER,"Well, if he could do that he could achieve heavy-ion fusion at any reactor on the planet. ",MALE
+TONY STARK,Finally. Someone who speaks English.,MALE
+STEVE ROGERS,Is that what just happened?,MALE
+TONY STARK,"It’s good to meet you, Doctor Banner. Your work on anti-electronic collisions is unparalleled. And I’m a huge fan of the way you- lose control and turn into an enormous green rage monster. ",MALE
+BRUCE BANNER,...Thanks.,MALE
+NICK FURY,Doctor Banner is only here to track the Cube. I was hoping you might join him.,MALE
+STEVE ROGERS,I’d start with that stick of his. It may be magical but it works an awful lot like a HYDRA weapon.,MALE
+NICK FURY,"I don’t know about that, but it is powered by the Cube. And I like to know how Loki used it to turn two of the sharpest men I know into his personal flying monkeys. ",MALE
+THOR,Monkeys? I do not understand-,MALE
+STEVE ROGERS,I do!,MALE
+STEVE ROGERS,I...I understood that reference.,MALE
+TONY STARK,"Shall we play, Doctor? ",MALE
+BRUCE BANNER,"This way, sir.",MALE
+BRUCE BANNER,The Gamma readings are definitely consistent with Selvig’s reports on the Tesseract. But it’s gonna take weeks to process.,MALE
+TONY STARK,If we bypass their mainframe and direct route to the Homer cluster we can clock this at around six hundred teraflops.,MALE
+BRUCE BANNER,All I packed was a toothbrush.,MALE
+TONY STARK,"You know, you should come by Stark Tower some time. Top ten floors- all R and D. You’d love it, it’s a candy land. ",MALE
+BRUCE BANNER,Thanks but...last time I was in New York I kind of broke...Harlem.,MALE
+TONY STARK,"Well, I promise a stress free environment. No tension, no surprises. He zaps Banner in the side. ",MALE
+BRUCE BANNER,Ow!,MALE
+STEVE ROGERS,Hey!,MALE
+TONY STARK,Nothing?,MALE
+STEVE ROGERS,Are you nuts?,MALE
+TONY STARK,"Jury’s out! You really have got a lid on it, haven’t you? What’s your secret? Mellow jazz, bongo drums, huge bag of weed? ",MALE
+STEVE ROGERS,Is everything a joke to you?,MALE
+TONY STARK,Funny things are.,MALE
+STEVE ROGERS,"Threatening the safety of everyone on this ship isn’t funny. No offense, Doc. ",MALE
+BRUCE BANNER,No it’s alright. I wouldn’t have come aboard if I couldn’t handle pointy things.,MALE
+TONY STARK,"You’re tip-toeing, big man. You need to strut. ",MALE
+STEVE ROGERS,"And you need to focus on the problem, Mister Stark. ",MALE
+TONY STARK,"You think I’m not? Why did Fury call us in? Why now, why not before? What isn’t he telling us? I can’t do the equation unless I have all the variables. ",MALE
+STEVE ROGERS,You think Fury’s hiding something?,MALE
+TONY STARK,"He’s a spy. Captain, he’s the spy. His secrets have secrets. It’s bugging him to, isn’t it? ",MALE
+BRUCE BANNER,"Uh, Aah, I just wanna finish my work here and- ",MALE
+STEVE ROGERS,Doctor?,MALE
+BRUCE BANNER,"A warm light for all mankind,"" Loki’s jab at Fury about the Cube. ",MALE
+STEVE ROGERS,I heard it.,MALE
+BRUCE BANNER,"Well, I think that was meant for you.  Even if Barton didn’t tell Loki about the tower, it was still all over the news. ",MALE
+STEVE ROGERS,The Stark Tower? That big ugly building in New York?,MALE
+BRUCE BANNER,"It’s powered by an arc reactor, self-sustaining energy source. That building will run itself for, what, a year? ",MALE
+TONY STARK,"It’s just the prototype. I’m kind of the only name in clean energy right now, that’s what he’s getting at. ",MALE
+BRUCE BANNER,"So, why didn’t SHIELD bring him in on the Tesseract project? What are they even doing in the energy business in the first place? ",MALE
+TONY STARK,I should probably look into that as soon as my decryption program finishes breaking into all of SHIELD’s secure files.,MALE
+STEVE ROGERS,I’m sorry did you say-,MALE
+TONY STARK,JARVIS has been running it since I hit the bridge. In a few hours I’ll know every dirty secret SHIELD has ever tried to hide. Blueberry?,MALE
+STEVE ROGERS,Yet you’re confused about why they didn’t want you around.,MALE
+TONY STARK,"An intelligence organization that fears intelligence? Historically, not awesome. ",MALE
+STEVE ROGERS,"I think Loki’s trying to wind us up. This is a man who means to start a war and if we don’t stay focused he’ll succeed. We have orders, we should follow them. ",MALE
+TONY STARK,Following’s not really my style.,MALE
+STEVE ROGERS,"And you’re all about style, aren’t you? ",MALE
+TONY STARK,"Out of the people in this room, which one is ""A"" wearing a spangly outfit and ""B"" not of use? ",MALE
+BRUCE BANNER,"Steve, tell me none of this smells a little funky to you? ",MALE
+STEVE ROGERS,Just find the Cube.,MALE
+TONY STARK,That’s the guy my dad never shut up about? Wondering if they shouldn’t have kept him on ice.,MALE
+BRUCE BANNER,"Guy’s not wrong about Loki, he does have the jump on us. ",MALE
+TONY STARK,"What he’s got is an ACME dynamite kit. It’s gonna blow up in his face, and I’m gonna be there when it does. ",MALE
+BRUCE BANNER,I’ll read all about it.,MALE
+TONY STARK,"Mhm, or, you’ll be suiting up with the rest of us. ",MALE
+BRUCE BANNER,"Now, you see I don’t get a suit of armor. I’m exposed, like a nerve, it’s a nightmare. ",MALE
+TONY STARK,"You know, I’ve got a cluster shrapnel, trying every second to crawl its way into my heart. This stops it- He taps the arc reactor. -this little circle of light. It’s part of me now, not just armor. It’s a terrible privilege. ",MALE
+BRUCE BANNER,But you can control it.,MALE
+TONY STARK,Because I learned how.,MALE
+BRUCE BANNER,It’s different. ,MALE
+TONY STARK,"Hey, I read all about your accident. That much Gamma exposure- should’ve killed you. ",MALE
+BRUCE BANNER,So you’re saying that the Hulk- the Other Guy- saved my life? That’s nice. That’s nice sentiment. Saved it for- what?,MALE
+TONY STARK,I guess we’ll find out.,MALE
+BRUCE BANNER,You may not enjoy that.,MALE
+TONY STARK,And you just might.,MALE
+PHIL COULSON,As soon as Loki took the doctor we...,MALE
+PHIL COULSON,"...moved Jane Foster. We’ve got an excellent observatory in Tromsø. She was asked to consult there very suddenly yesterday. Handsome fee, private plane, very remote. She’ll be safe. ",MALE
+THOR,Thank you. It’s no accident Loki taking Erik Selvig. I dread what he plans for him once he’s done. Erik is a good man.,MALE
+PHIL COULSON,He talks about you a lot. You changed his life. You changed everything around here.,MALE
+THOR,"They were better as they were. We pretend on Asgard that we’re more advanced, but we- we come here battling like Bildschneip. ",MALE
+PHIL COULSON,Like what?,MALE
+THOR,"Bildschneip. You know, huge, scaly, big antlers. You don’t have those? ",MALE
+PHIL COULSON,No.,MALE
+THOR,"Huh! Well they are repulsive, and they trample everything in their path.  When I first came to earth, Loki’s rage followed me here and your people paid the price. And now again. In my youth I courted war. ",MALE
+NICK FURY,War hasn’t started yet. You think you can make Loki tell us where the Tesseract is?,MALE
+THOR,"I do not know. Loki’s mind is far afield, it’s not just power he craves, it’s vengeance upon me. There’s no pain would prise his need from him. ",MALE
+NICK FURY,"A lot of guys think that, until the pain starts. ",MALE
+THOR,What are you asking me to do?,MALE
+NICK FURY,"I’m asking, what are you prepared to do? ",MALE
+THOR,Loki is a prisoner.,MALE
+NICK FURY,Then why do I feel like he’s the only person on this boat that wants to be here?,MALE
+LOKI,Hm. There’s not many people that can sneak up on me.,MALE
+NATASHA ROMANOFF,But you figured I’d come.,FEMALE
+LOKI,"After. After whatever tortures Fury can concoct, you would appear as a friend, as a balm. And I would cooperate. ",MALE
+NATASHA ROMANOFF,I wanna know what you’ve done to Agent Barton.,FEMALE
+LOKI,I’d say I’ve expanded his mind.,MALE
+NATASHA ROMANOFF,And once you’ve won. Once you’re king of the mountain. What happens to his mind?,FEMALE
+LOKI,"Is this love, Agent Romanoff? ",MALE
+NATASHA ROMANOFF,Love is for children. I owe him a debt.,FEMALE
+LOKI,Tell me.,MALE
+NATASHA ROMANOFF,"Before I worked for SHIELD, I uh- well, I made a name for myself. I have a very specific skill set. I didn’t care who I used it for, or on. I got on SHIELD’s radar in a bad way. Agent Barton was sent to kill me, he made a different call. ",FEMALE
+LOKI,And what will you do if I vow to spare him?,MALE
+NATASHA ROMANOFF,Not let you out.,FEMALE
+LOKI,"Ah, no. But I like this. Your world in the balance, and you bargain for one man? ",MALE
+NATASHA ROMANOFF,"Regime’s fall everyday. I tend not to weep over that, I’m Russian, or I was. ",FEMALE
+LOKI,And what are you now?,MALE
+NATASHA ROMANOFF,It’s really not that complicated. I got red in my ledger. I’d like to wipe it out.,FEMALE
+LOKI,"Can you? Can you wipe out that much red? Drakov’s daughter? Sao Paulo? The hospital fire? Barton told me everything. Your ledger is dripping, it’s gushing red, and you think saving a man no more virtuous than yourself will change anything? This is the basest sentimentality. This is a child, a prayer. Pathetic.",MALE
+LOKI,...You lie and kill in the service of liars...,MALE
+LOKI,"...and killers. You pretend to be separate, to have your own code...",MALE
+LOKI,"...something that makes up for the horrors. But they are a part of you, and they will never go away.",MALE
+LOKI,"I won’t touch Barton! Not until I make him kill you. Slowly, intimately, in every way he knows you fear.  And then he’ll wake just long enough to see his good work, and when he screams I’ll split his skull! This is my bargain, you mewling quim! ",MALE
+NATASHA ROMANOFF,You’re a monster!,FEMALE
+LOKI,"Oh, no. You brought the monster.",MALE
+NATASHA ROMANOFF,"So, Banner? That’s your play. ",FEMALE
+LOKI,What?,MALE
+NATASHA ROMANOFF,"Loki means to unleash the Hulk. Keep Banner in the lab, I’m on my way. Send Thor as well. Thank you, for your cooperation!",FEMALE
+NICK FURY,"What are you doing, Mr. Stark? ",MALE
+TONY STARK,Uh- kind of been wondering the same thing about you.,MALE
+NICK FURY,You’re supposed to be locating the Tesseract.,MALE
+BRUCE BANNER,"We are, the model’s locked and we’re sweeping for the signature now. When we get a hit, we’ll have the location within half a mile. ",MALE
+TONY STARK,"And you’ll get your cube back, no muss, no fuss. What is Phase Two?",MALE
+STEVE ROGERS,"Phase Two is SHIELD used the Cube to make weapons. Sorry, computer was moving a little slow for me. ",MALE
+NICK FURY,"Rogers, we gathered everything related to the Tesseract. This does not mean that we’re- ",MALE
+TONY STARK,"I’m sorry, Nick.  What were you lying? ",MALE
+STEVE ROGERS,"I was wrong, Director. The world hasn’t changed a bit.",MALE
+BRUCE BANNER,Did you know about this?,MALE
+NATASHA ROMANOFF,"You wanna think about removing yourself from this environment, doctor? ",FEMALE
+BRUCE BANNER,"I was in Calcutta, I was pretty well removed. ",MALE
+NATASHA ROMANOFF,Loki’s manipulating you.,FEMALE
+BRUCE BANNER,And you’ve been doing what exactly?,MALE
+NATASHA ROMANOFF,You didn’t come here because I bat my eyelashes at you.,FEMALE
+BRUCE BANNER,"Yes, and I’m not leaving because suddenly you get a little twitchy. ",MALE
+BRUCE BANNER,I’d like to know why SHIELD is using the Tesseract to build weapons of mass destruction.,MALE
+NICK FURY,Because of him.,MALE
+THOR,Me?,MALE
+NICK FURY,"Last year earth had a visitor from another planet who had a grudge match that leveled a small town. We learned that not only are we not alone, but we are hopelessly- hilariously, out-gunned. ",MALE
+THOR,My people want nothing but peace with your planet.,MALE
+NICK FURY,"But you’re not the only people out there, are you? And, you’re not the only threat. The world’s filling up with people who can’t be matched, they can’t be controlled. ",MALE
+STEVE ROGERS,Like you controlled the cube!,MALE
+THOR,"Your work with the Tesseract is what drew Loki to it, and his allies. It is the signal to all the realms that the earth is ready for A HIGHER FORM OF WAR. ",MALE
+STEVE ROGERS,A higher form?!,MALE
+NICK FURY,You forced our hand! We had to come up with some-,MALE
+TONY STARK,Nuclear deterrent! ’Cause that always calms everything right down.,MALE
+NICK FURY,"Remind me again how you made your fortune, Stark? ",MALE
+STEVE ROGERS,"I’m sure if he still made weapons, Stark would be neck deep- ",MALE
+TONY STARK,Wait-Wait! Hold on! How is this now about me?,MALE
+STEVE ROGERS,"I’m sorry, isn’t everything? ",MALE
+THOR,I thought humans were more evolved than this.,MALE
+NICK FURY,"Excuse me, did we come to your planet and blow stuff up? ",MALE
+THOR,Tis your champion.,MALE
+NICK FURY,YOU’RE NOT MY CHAMPION!,MALE
+NATASHA ROMANOFF,Are you boys really that naive? S.H.I.E.L.D monitors potential threats.,FEMALE
+TONY STARK,You furious? I’m furious.,MALE
+BRUCE BANNER,And Captain America is on the threat poll?,MALE
+NATASHA ROMANOFF,We all are!,FEMALE
+NICK FURY,That’s not your concern doctor!,MALE
+TONY STARK,You’re on that list? Are you above or below angry bees?,MALE
+STEVE ROGERS,"I swear to God, Stark, one more crack... ",MALE
+TONY STARK,You’re a threat. VERBAL THREAT! I FEEL THREATENED!,MALE
+STEVE ROGERS,SHOW SOME RESPECT.,MALE
+TONY STARK,RESPECT WHAT!,MALE
+BRUCE BANNER,"YEAH MAN HANDLE ME NOW, THAT’LL BE GOOD!",MALE
+INTERCOM VOICE,Transport six-six-five-oh. Please relay your form code. Got you on the computer but not on the data log. What is your haul? Over.,MALE
+JET PILOT,Arms to ammunition. Over.,MALE
+THOR,"You speak of control, yet you court chaos! ",MALE
+BRUCE BANNER,"It’s his MO, isn’t it? I mean, what are we, a team? No, no, no. We’re a chemical mixture that makes chaos. We’re- we’re a time bomb. ",MALE
+NICK FURY,You need to step away.,MALE
+TONY STARK,Why shouldn’t they guy let off a little steam?,MALE
+STEVE ROGERS,You know damn well why! Back off!,MALE
+TONY STARK,"Oh, I’m starting to want you to make me. ",MALE
+STEVE ROGERS,"Yeah, big man in a suit of armor. Take that off, what are you? ",MALE
+TONY STARK,"Genius, billionaire, playboy, philanthropist. ",MALE
+STEVE ROGERS,"I know guys with none of that worth ten of you. I’ve seen the footage. The only thing you really fight for is yourself. You’re not the guy to make the sacrifice play, to lay down on a wire and let the other guy crawl over you. ",MALE
+TONY STARK,I think I would just cut the wire.,MALE
+STEVE ROGERS,"Always a way out. You know, you may not be a threat, but you better stop pretending to be a hero. ",MALE
+TONY STARK,"A hero, like you? You’re a laboratory experiment, Rogers. Everything special about you came out of a bottle.",MALE
+STEVE ROGERS,"Put on the suit, let’s go a few rounds. ",MALE
+THOR,"You people are so petty, and tiny. ",MALE
+BRUCE BANNER,"Yeah, this is a team. ",MALE
+NICK FURY,"Agent Romanoff, would you escort Dr. Banner back to his- ",MALE
+BRUCE BANNER,WHERE? YOU RENTED MY ROOM!,MALE
+NICK FURY,The cell was just-,MALE
+BRUCE BANNER,"IN CASE YOU NEEDED TO KILL ME. BUT YOU CAN’T, I KNOW, I TRIED!  I got low. I didn’t see an end so I put a bullet in my mouth and the other guy spit it out. So I moved on, I focused on helping other people. I was good until you dragged me back into this freak show and put everyone here at risk. You wanna know my secret, Agent Romanoff? You wanna know how I stay calm?",MALE
+STEVE ROGERS,"Doctor Banner, put down the scepter.",MALE
+NICK FURY,Got it!,MALE
+BRUCE BANNER,"Sorry, kids. You don’t get to see my party trick after all. ",MALE
+THOR,Located the Tesseract?,MALE
+TONY STARK,I can get there faster.,MALE
+STEVE ROGERS,"Look, all of us- ",MALE
+NOVAR,"The Tesseract belongs on Asgard, no human is a match for it.",MALE
+STEVE ROGERS,You’re not going alone!,MALE
+TONY STARK,You gonna stop me?,MALE
+STEVE ROGERS,"Put on the suit, let’s find out! ",MALE
+TONY STARK,I’m not afraid to hit an old man.,MALE
+STEVE ROGERS,Put on the suit.,MALE
+BRUCE BANNER,Oh-my-god.,MALE
+STEVE ROGERS,Put on the suit.,MALE
+TONY STARK,Yep.,MALE
+INTERCOM VOICE,All hands engaged.,MALE
+NICK FURY,Hill!,MALE
+MARIA HILL,Number Three engine is down.,FEMALE
+FEMALE CARRIER BRIDGE TECH,We’ve been hit.,FEMALE
+MARIA HILL,Did we get a run in? Talk to me.,FEMALE
+OFF SCREEN WORKER,We got a fire in Engine Three.,MALE
+CARRIER BRIDGE TECH 1,The line looks mostly in tact but it’s impossible to get out there to make repairs while we’re in the air.,MALE
+MARIA HILL,We lose one more engine we won’t be. Somebody’s gotta get outside and patch that engine.,FEMALE
+NICK FURY,"Stark, you copy that? ",MALE
+TONY STARK,I’m on it.,MALE
+NICK FURY,"Coulson, initiate defensive lock down in the contingent center. Then get to the armory. ",MALE
+NICK FURY,Romanoff!,MALE
+NATASHA ROMANOFF,Okay!,FEMALE
+NATASHA ROMANOFF,"We’re okay, right?",FEMALE
+CLINT BARTON,"Keep that engine down. Detention, wait for camera to go dark. Stay close.",MALE
+TONY STARK,Find engine three. I’ll meet you there.,MALE
+NATASHA ROMANOFF,"Doctor? Bruce, you gotta fight it. This is just what Loki wants. We’re gonna be okay. Listen to me.",FEMALE
+MAINTENANCE GUY,You hurt?,MALE
+NATASHA ROMANOFF,"We’re gonna be okay. Right? I swear on my life I will get you out of this, you will walk away, and never ever -- ",FEMALE
+BRUCE BANNER,Your life?,MALE
+NATASHA ROMANOFF,Bruce.,FEMALE
+NICK FURY,Bring the carrier to a one-eight-zero south. Take us to the water.,MALE
+SHIELD AGENT,We’re blind. Navigation re calibrated after the engine failure.,MALE
+NICK FURY,Is the sun coming up?,MALE
+SHIELD AGENT,"Yes, sir. ",MALE
+NICK FURY,Then put us on the left. Get us over water. One more turbine goes down then we drop.,MALE
+STEVE ROGERS,"Stark! Stark, I’m here.",MALE
+TONY STARK,Good. Let’s see what we got.,MALE
+TONY STARK,"I gotta get this super conducting cooling system back online before I can access the rotors, work on dislodging the debris. ",MALE
+TONY STARK,I need you to get to that engine control panel and tell me which relays are in overload position.,MALE
+TONY STARK,What’s it look like in there?,MALE
+STEVE ROGERS,It seems to run on some form of electricity.,MALE
+TONY STARK,"Well, you’re not wrong.",MALE
+THOR,"We’re not your enemies, Banner! Try to think!",MALE
+STEVE ROGERS,"’Kay, the relays are intact.",MALE
+STEVE ROGERS,What’s our next move?,MALE
+TONY STARK,"Even if I clear the rotors, this thing won’t re-engage without a jump.... ",MALE
+TONY STARK,...I’m gonna have to get in there and push.,MALE
+STEVE ROGERS,"Well, if that thing gets up to speed, you’ll get shredded! ",MALE
+TONY STARK,Then stay in the control unit and reverse polarity long enough to disengage maglev and that should-,MALE
+STEVE ROGERS,Speak English!,MALE
+TONY STARK,See that red lever?  It’ll slow the rotors down long enough for me to get out.,MALE
+TONY STARK,"Stand by it, wait for my word.",MALE
+NICK FURY,We need full evac on the lower hangar bed.,MALE
+MARIA HILL,GRENADE!,FEMALE
+INTERCOM VOICE,We’ve got perimeter breach. Hostiles are in SHIELD gear. Call out to every junction.,MALE
+INTERCOM VOICE,We’ve got the Hulk and Thor on Research Level Four. Levels Two and Three are gone.,MALE
+MARIA HILL,"Sir, the Hulk will tear this place apart! ",FEMALE
+NICK FURY,Get his attention.,MALE
+MARIA HILL,"Escort 6-Oh, proceed to Wishbone and...",FEMALE
+MARIA HILL,...engage hostile. Don’t get too close.,FEMALE
+YOUNG SHIELD PILOT,Copy.,MALE
+YOUNG SHIELD PILOT,Target acquired. Target engaged.,MALE
+NICK FURY,They are not getting through here so what the-,MALE
+INTERCOM VOICE,Engine One is now in shutdown.,MALE
+SHIELD WORKER,"Sir, we’ve lost all power in Engine One.",MALE
+NICK FURY,"It’s Barton, he took out our systems. He’s headed for the detention lab. Does anybody copy? ",MALE
+NATASHA ROMANOFF,This is Agent Romanoff. I copy. ,FEMALE
+NICK FURY,"Stark, we’re losing altitude. ",MALE
+TONY STARK,"Yep, noticed.",MALE
+LOKI,Are you ever not going to fall for that?,MALE
+LOKI,The humans think us immortal. Shall we test that?,MALE
+PHIL COULSON,Move away please.  Do you like this? We started working on the prototype after you sent the Destroyer. Even I don’t know what it does. Do you wanna find out?,MALE
+THOR,NO!,MALE
+CLINT BARTON,Natasha!,MALE
+PHIL COULSON,You’re going to lose.,MALE
+LOKI,Am I?,MALE
+PHIL COULSON,"It’s in your nature, ",MALE
+LOKI,"your heroes are scattered, your floating fortress falls from the sky. Where is my disadvantage? ",MALE
+PHIL COULSON,You lack conviction.,MALE
+LOKI,I don’t think I-,MALE
+PHIL COULSON,So that’s what it does.,MALE
+INTERCOM VOICE,All hands to your stations immediately.,MALE
+TONY STARK,Cap hit the lever!,MALE
+STEVE ROGERS,i need a minute here!,MALE
+TONY STARK,Lever! Now!,MALE
+TONY STARK,Uh-oh.,MALE
+PHIL COULSON,I’m sorry boss. They got rabbited.,MALE
+NICK FURY,Just stay awake. Eyes on me.,MALE
+PHIL COULSON,Oh I’m clockin’ out here.,MALE
+NICK FURY,Not an option.,MALE
+PHIL COULSON,"It’s okay, boss. This was never gonna work- if they didn’t have something- to",MALE
+NICK FURY,Agent Coulson is down.,MALE
+SHIELD WORKER,A medical team is on its way to your location.,MALE
+NICK FURY,They’re here.,MALE
+NICK FURY,They called it.,MALE
+NICK FURY,"These were in Phil Coulson’s jacket. Guess he never did get you to sign them.  We’re dead in the air up here. Our communications, location of the cube, Banner, Thor. I got nothing for you. Lost my one good eye. Think I had that coming.  Yes, we were going to build an arsenal with the Tesseract. I never put all my chips on that number, though, because I was playing something even riskier. There was an idea, Stark knows this, called the Avengers Initiative.   The idea was to bring together a group of remarkable people, see if they could become something more. See if they could work together when we needed them to, to fight the battles that we never could. Phil Coulson died still believing in that idea, in heroes.  Well, it’s an old fashioned notion.",MALE
+SECURITY GUARD,You fell out of the sky.,MALE
+BRUCE BANNER,Did I hurt anyone?,MALE
+SECURITY GUARD,There’s nobody around here to get hurt. You did scare the hell out of some pigeons though.,MALE
+BRUCE BANNER,Lucky.,MALE
+SECURITY GUARD,Or just good aim. You were awake when you fell.,MALE
+BRUCE BANNER,You saw?,MALE
+SECURITY GUARD,"The whole thing, right through the ceiling. Big and green and buck ass nude. Here- didn’t think those would fit you until you shrunk down to a regular size fella. ",MALE
+BRUCE BANNER,Thank you.,MALE
+SECURITY GUARD,Are you an alien?,MALE
+BRUCE BANNER,What?,MALE
+SECURITY GUARD,"From outer space, an alien? ",MALE
+BRUCE BANNER,No.,MALE
+SECURITY GUARD,"Well then, son, you’ve got a condition.",MALE
+SECURITY GUARD,"So, which one is it? ",MALE
+BRUCE BANNER,Sorry?,MALE
+SECURITY GUARD,"Are you a big guy that gets all little, or a little guy that, ah- sometimes blows up large? ",MALE
+BRUCE BANNER,You know- I’m not even sure.,MALE
+SECURITY GUARD,You got somewhere to go?,MALE
+BRUCE BANNER,Stark Tower. I- no. Yes.,MALE
+SECURITY GUARD,"I’d expect some confusion of the mind, since your body’s kind of all over the place, but it has to be one or the other.",MALE
+BRUCE BANNER,"I know where I could do the most good, but it’s where I can do the most harm. ",MALE
+SECURITY GUARD,"Well, that’s no different than anybody else. Me? I’m here is Jersey where I can’t do much of either. And since I’m not likely to move on from this placement, you may as well- pilfer my ride.",MALE
+BRUCE BANNER,I don’t know which way to go.,MALE
+SECURITY GUARD,"Your mind’s already made up, son. The rest of you will follow.",MALE
+NATASHA ROMANOFF,"Clint, you’re gonna be alright. ",FEMALE
+CLINT BARTON,You know that? Is that what you know? I gotta go in though. I have to flush him out.,MALE
+NATASHA ROMANOFF,"You gotta level out, it’s gonna take time. ",FEMALE
+CLINT BARTON,You don’t understand. Have you ever had someone take your brain and play? Pull you out and stuff something else in? You know what it’s like to be unmade?,MALE
+NATASHA ROMANOFF,You know that I do.,FEMALE
+CLINT BARTON,Why am I back? How did you get him out?,MALE
+NATASHA ROMANOFF,Cognitive recalibration. I hit you really hard in the head.,FEMALE
+CLINT BARTON,"Thanks.  Natasha, how many agents? ",MALE
+NATASHA ROMANOFF,"Don’t. Don’t do that to yourself, Clint. This is Loki. This is monsters and magic and nothing we were ever trained for. ",FEMALE
+CLINT BARTON,Loki. He get away?,MALE
+NATASHA ROMANOFF,Yeah. I don’t suppose you know where?,FEMALE
+CLINT BARTON,Didn’t need to know. Didn’t ask. He’s gonna make his play soon though. Today.,MALE
+NATASHA ROMANOFF,We gotta stop him.,FEMALE
+CLINT BARTON,Yeah? Who’s we?,MALE
+NATASHA ROMANOFF,I don’t know. Whoever is left.,FEMALE
+CLINT BARTON,"Well, if I put an arrow through Loki’s eye socket I’d sleep better I suppose. ",MALE
+NATASHA ROMANOFF,Now you sound like you.,FEMALE
+CLINT BARTON,"But you don’t. You’re a spy, not a soldier. Now you want to wade into a war. Why? What did Loki do to you? ",MALE
+NATASHA ROMANOFF,"He didn’t, I just- ",FEMALE
+CLINT BARTON,Natasha.,MALE
+NATASHA ROMANOFF,I’ve been compromised. I got red in my ledger. I’d like to wipe it out.,FEMALE
+STEVE ROGERS,Was he married?,MALE
+TONY STARK,"No. There was a uh- cellist, I think. ",MALE
+STEVE ROGERS,I’m sorry. He seemed like a good man.,MALE
+TONY STARK,He was an idiot.,MALE
+STEVE ROGERS,Why? For believing?,MALE
+TONY STARK,For taking on Loki alone.,MALE
+STEVE ROGERS,He was doing his job.,MALE
+TONY STARK,He was out of his league. He should have waited. He should have-,MALE
+STEVE ROGERS,"Sometimes there isn’t a way out, Tony. ",MALE
+TONY STARK,Right. How did that work for him?,MALE
+STEVE ROGERS,Is this the first time you’ve lost a soldier?,MALE
+TONY STARK,We are not soldiers! I’m not marching to Fury’s fife.,MALE
+STEVE ROGERS,"Neither am I. He’s got the same blood on his hands that Loki does, but right now we gotta put that behind us and get this done. Now Loki needs a power source, if we can put together a list-",MALE
+TONY STARK,He made it personal.,MALE
+STEVE ROGERS,That’s not the point.,MALE
+TONY STARK,That is the point. That’s Loki’s point. He hit us all right where we live. Why?,MALE
+STEVE ROGERS,To tear us apart.,MALE
+TONY STARK,"Yeah, divide and conquer is great but- he knows he has to take us out to win, right? That’s what he wants. He wants to beat us, he wants to be seen doing it. He wants an audience. ",MALE
+STEVE ROGERS,Right. I caught his act in Stuttgart.,MALE
+TONY STARK,"Yeah. That’s just previews, this is- this is opening night. And Loki, he’s a full-tail diva. He wants flowers, he wants parades, he wants a monument built to the skies with his name plastered....Son of-a-bitch.",MALE
+STEVE ROGERS,Time to go.,MALE
+NATASHA ROMANOFF,Go where?,FEMALE
+STEVE ROGERS,I’ll tell you on the way. Can you fly one of those jets?,MALE
+CLINT BARTON,I can.,MALE
+STEVE ROGERS,Got a suit?,MALE
+CLINT BARTON,Yeah.,MALE
+STEVE ROGERS,Then suit up.,MALE
+SHIELD ENGINEER,"Hey, you guys aren’t authorized to be in here. ",MALE
+STEVE ROGERS,"Son, just don’t!",MALE
+MARIA HILL,Sir.,FEMALE
+NICK FURY,Agent Hill.,MALE
+MARIA HILL,"Those cards, they were in Coulson’s locker, not in his jacket. ",FEMALE
+NICK FURY,They needed the push.,MALE
+INTERCOM VOICE,We’ve got unauthorized departure from Bay Six.,MALE
+NICK FURY,"They found it. Get our communications back up, whatever you have to do. I want eyes on everything. ",MALE
+MARIA HILL,"Yes, sir.",FEMALE
+JARVIS,"Sir, I turned off the arc reactor. The device is already self-sustaining ",MALE
+TONY STARK,"Shut it down, Dr. Selvig. ",MALE
+SELVIG,It’s too late! She can’t stop now. She wants to show us something! A new universe.,MALE
+TONY STARK,Okay.,MALE
+JARVIS,The barrier is pure energy. It’s unbreachable.,MALE
+TONY STARK,"Yeah, I got that.  I’m beat. ",MALE
+JARVIS,"Sir, the Mark Seven is not ready for deployment. ",MALE
+TONY STARK,"Then skip the spinning rims, we’re on the clock.",MALE
+LOKI,Please tell me you’re going to appeal to my humanity.,MALE
+TONY STARK,"Uh- actually, I’m planning to threaten you. ",MALE
+LOKI,You should have left your armor on for that.,MALE
+TONY STARK,"Yeah, it’s seen a bit of mileage. You’ve got the uh- blue stick of destiny. Would you like a drink? ",MALE
+LOKI,Stalling me won’t change anything.,MALE
+TONY STARK,"No, no, no- threatening. No drink? You sure? I’m having one. ",MALE
+LOKI,"The Chitauri are coming, nothing will change that. What have I to fear? ",MALE
+TONY STARK,"The Avengers. It’s what we call ourselves, sort of like a team. ’Earth’s Mightiest Heroes’ type of thing. ",MALE
+LOKI,"Yes, I’m met them. ",MALE
+TONY STARK,"Yeah, takes us a while to get any traction, I’ll give you that one. But, let’s do a head count here. Your brother, the Demi-God; A super soldier, a living legend who kind of lives up to the legend; a man with breath-taking anger management issues; a couple of master assassins, and you, big fella, you’ve managed to piss off every single one of them. ",MALE
+LOKI,That was the plan.,MALE
+TONY STARK,"Not a great plan. When they come, and they will, they’ll come for you. ",MALE
+LOKI,I have an army.,MALE
+TONY STARK,We have a Hulk.,MALE
+LOKI,"Oh, I thought the beast had wandered off. ",MALE
+TONY STARK,"Yeah- you’re missing the point. There’s no throne, there is no version of this, where you come out on top. Maybe your army comes and maybe it’s too much for us, but it’s all on you. ’Cause if we can’t protect the earth, you can be damned well sure we’ll avenge it.",MALE
+LOKI,"How will your friends have time for me, when they’re so busy fighting you? This usually works. ",MALE
+TONY STARK,"Well, performance issues. You know? JARVIS, anytime now.",MALE
+LOKI,You will all fall before me.,MALE
+TONY STARK,JARVIS. Deploy.,MALE
+TONY STARK,Deploy!,MALE
+TONY STARK,And there’s one other person you pissed off! His name is Phil.,MALE
+TONY STARK,Right! Army.,MALE
+THOR,"Loki, turn off the Tesseract or I’ll destroy it! ",MALE
+LOKI,You can’t. There is no stopping it. There is only the war!,MALE
+THOR,So be it.,MALE
+NATASHA ROMANOFF,"Stark, we’re on a three heading north east.",FEMALE
+TONY STARK,"What, did you stop for drive-thru? Swing that park, I’m gonna lay ’em out for you.",MALE
+JARVIS,"Sir, we have more incoming. ",MALE
+TONY STARK,Fine. Let’s keep them occupied.,MALE
+CLINT BARTON,Nat!,MALE
+NATASHA ROMANOFF,I see ’em.,FEMALE
+STEVE ROGERS,We gotta get back up there.,MALE
+STEVE ROGERS,"Stark, are you seeing this? ",MALE
+TONY STARK,Seeing. still working on believing...,MALE
+TONY STARK,...Where’s Banner? Has he shown up yet?,MALE
+STEVE ROGERS,Banner?,MALE
+TONY STARK,"Just keep me posted.  JARVIS, find me a soft spot.",MALE
+THOR,Look at this! Look around you! You think this madness will end with your rule?,MALE
+LOKI,It’s too late. It’s too late to stop it.,MALE
+THOR,"No. We can, together.",MALE
+LOKI,Sentiment!,MALE
+CLINT BARTON,We’ve got civilians trapped.,MALE
+STEVE ROGERS,Loki.  They’re fish in a barrel down there.,MALE
+NATASHA ROMANOFF,We got this. It’s good. Go!,FEMALE
+STEVE ROGERS,You think you can hold them off?,MALE
+CLINT BARTON,"Captain, it would be my genuine pleasure.",MALE
+NATASHA ROMANOFF,Just like Budapest all over again!,FEMALE
+CLINT BARTON,You and I remember Budapest very differently.,MALE
+YOUNG COP,It’s gonna be an hour before they scramble the National Guard.,MALE
+POLICE SERGEANT,National Guard!,MALE
+POLICE SERGEANT,Does the army know what’s happening here?,MALE
+YOUNG COP,Do we?,MALE
+STEVE ROGERS,"You need men in these buildings. There are people inside and they can be running right into the line of fire. You take them to the basement or through the subway, you keep them off the streets. I need a perimeter as far back as 39th. ",MALE
+POLICE SERGEANT,Why the hell should I take orders from you?,MALE
+POLICE SERGEANT,"I need men in those buildings, lead the people down and away from the streets. We gonna set up a perimeter all the way down to 39th street.",MALE
+TONY STARK,It noticed me... ...yay!,MALE
+STEVE ROGERS,What’s the story upstairs?,MALE
+THOR,The power surrounding the cube is impenetrable.,MALE
+TONY STARK,"Thor is right, we gotta deal with these guys. ",MALE
+NATASHA ROMANOFF,How do we do this?,FEMALE
+STEVE ROGERS,As a team.,MALE
+THOR,I have unfinished business with Loki.,MALE
+CLINT BARTON,Oh yeah! Get in line.,MALE
+STEVE ROGERS,"Save it. Loki’s gonna keep this fight focused on us and that’s what we need. Without him these things could run wild. We got Stark up top, he’s gonna need us to-",MALE
+BRUCE BANNER,"So, this all seems horrible. ",MALE
+NATASHA ROMANOFF,I’ve seen worse.,FEMALE
+BRUCE BANNER,Sorry.,MALE
+NATASHA ROMANOFF,"No, we could- use a little worse. ",FEMALE
+STEVE ROGERS,"Stark, we got him. ",MALE
+TONY STARK,Banner?,MALE
+STEVE ROGERS,Just like you said.,MALE
+TONY STARK,Then tell him to suit up. I’m bringing the party to you.,MALE
+NATASHA ROMANOFF,I don’t see how that’s a party.,FEMALE
+STEVE ROGERS,"Doctor Banner, now might be a really good time for you to get angry. ",MALE
+BRUCE BANNER,"That’s my secret, Cap. I’m always angry.",MALE
+TONY STARK,Hold On!,MALE
+LOKI,Send the rest.,MALE
+NATASHA ROMANOFF,Guys?,FEMALE
+TONY STARK,"Call it, Captain. ",MALE
+STEVE ROGERS,"Alright, listen up. Until we can close that portal up there, we’re gonna use containment. Barton, I want you on that roof, eyes on everything. Call out patterns and strays. Stark, you got the perimeter. Anything gets more than three blocks out, you turn it back or you turn it to ash. ",MALE
+CLINT BARTON,Wanna give me a lift?,MALE
+TONY STARK,"Right. Better clench up, Legolas.",MALE
+STEVE ROGERS,"Thor! You gotta try and bottleneck that portal, slow ’em down. You got the lightning, light the bastards up.",MALE
+STEVE ROGERS,"You and me, we stay here on the ground, keep the fighting here. And Hulk!  Smash!",MALE
+MARIA HILL,Sir. The council is on.,FEMALE
+CLINT BARTON,Stark. You gotta lot of strays on your tail.,MALE
+TONY STARK,Just tryin’ to keep them off the streets.,MALE
+CLINT BARTON,Well they can’t bank worth a damn.,MALE
+TONY STARK,I will roger that.,MALE
+TONY STARK,Oh- boy.,MALE
+TONY STARK,Nice call. What else you got?,MALE
+CLINT BARTON,"Well, Thor’s taking out a squadron down on 6th. ",MALE
+TONY STARK,And he didn’t invite me!,MALE
+NATASHA ROMANOFF,"Captain, none of this is gonna mean a damn thing if we don’t close that portal. ",FEMALE
+STEVE ROGERS,Our biggest guns couldn’t touch it.,MALE
+NATASHA ROMANOFF,"Well, maybe it’s not about guns. ",FEMALE
+STEVE ROGERS,"You wanna get up there, you’re gonna need a ride.",MALE
+NATASHA ROMANOFF,I got a ride. I could use a boost though.,FEMALE
+STEVE ROGERS,You sure about this?,MALE
+NATASHA ROMANOFF,"Yeah, it’s gonna be fun!",FEMALE
+NATASHA ROMANOFF,"Turn, turn, Ah!",FEMALE
+CLINT BARTON,"Captain, the bank on 42nd, past Madison. They cornered a lot of civilians in there. ",MALE
+STEVE ROGERS,I’m on it.,MALE
+STEVE ROGERS,Everyone clear out!,MALE
+COUNCILWOMAN,Director Fury. The council has made a decision...,FEMALE
+NICK FURY,"I recognize the council has made a decision, but given that it’s a stupid ass decision, I’ve elected to ignore it. ",MALE
+COUNCILMAN,"Director, you’re closer than any of our subs, you scramble that jet-",MALE
+NICK FURY,"That is the island of Manhattan, Councilman. ",MALE
+NICK FURY,"Until I’m certain my team can’t hold it, I will not order a nuclear strike against a civilian population. ",MALE
+COUNCILMAN,"If we don’t hold them in the air, we lose everything. ",MALE
+NICK FURY,"I’d send that bird out, we already have.",MALE
+NATASHA ROMANOFF,Oh you! Hawkeye!,FEMALE
+CLINT BARTON,"Nat, what are you doing? ",MALE
+NATASHA ROMANOFF,"Uh, a little help!",FEMALE
+CLINT BARTON,I got it.,MALE
+LOKI,"ENOUGH! You are, all of you, beneath me! I AM GOD, YOU DULL CREATURE, AND I WILL NOT BE BULLIED BY-",MALE
+BRUCE BANNER,Puny God.,MALE
+SELVIG,The scepter.,MALE
+NATASHA ROMANOFF,Doctor.,FEMALE
+SELVIG,"Loki’s scepter, the energy- the Tesseract can’t fight. You can’t protect against yourself. ",MALE
+NATASHA ROMANOFF,It’s not your fault. You didn’t know what you were doing.,FEMALE
+SELVIG,"Well, actually I think I did. I built in a safety to cut the power source. ",MALE
+NATASHA ROMANOFF,Loki’s scepter.,FEMALE
+SELVIG,It may be able to close the portal. And I’m looking right at it.,MALE
+JARVIS,"Sir, we will lose power before we penetrate that shell.",MALE
+TONY STARK,"JARVIS, you ever hear the tale of Jonah? ",MALE
+JARVIS,I wouldn’t consider him a role model.,MALE
+COUNCILWOMAN,Director Fury is no longer in command. Override seven-alpha-one-one.,FEMALE
+JET PILOT,Seven-alpha-one-one confirmed. We’re go for takeoff.,MALE
+MARIA HILL,"SIR, WE HAVE A BIRD IN MOTION! Anyone on the deck we have a rogue bird. We need to shut it down! Repeat, takeoff is not authorized!",FEMALE
+NICK FURY,"Stark, you hear me? You have a missile headed straight for the city.",MALE
+TONY STARK,How long?,MALE
+NICK FURY,Three minutes. Max. Stay load can wipe out mid-town.,MALE
+TONY STARK,"JARVIS, put everything we got into the thrusters. ",MALE
+JARVIS,I just did.,MALE
+JET PILOT,"Package is sent. Detonation in two minutes, thirty seconds. Mark.",MALE
+THOR,You ready for another bout?,MALE
+STEVE ROGERS,"What, you gettin’ sleepy?",MALE
+SELVIG,Right at the crown!,MALE
+NATASHA ROMANOFF,I can close it. Can anybody copy? I can shut the portal down!,FEMALE
+STEVE ROGERS,Do it!,MALE
+TONY STARK,"No, wait. ",MALE
+STEVE ROGERS,"Stark, these things are still coming! ",MALE
+TONY STARK,"I got a nuke coming in, it’s gonna blow in less than a minute.",MALE
+TONY STARK,And I know just where to put it.,MALE
+STEVE ROGERS,"Stark, you know that’s a one way trip. ",MALE
+TONY STARK,Save the rest for the turn J.,MALE
+JARVIS,"Sir, shall I try Miss Potts? ",MALE
+TONY STARK,Might as well.,MALE
+REPORTER,Streets in New York City have become a battle ground. The army is here trying to contain the violence but clearly it is outmatch-,MALE
+REPORTER,...Billionaire Tony Stark’s Iron Man-,MALE
+JARVIS,"Sorry, Miss- ",MALE
+NATASHA ROMANOFF,"Come on, Stark. ",FEMALE
+STEVE ROGERS,Close it.,MALE
+STEVE ROGERS,Son of a gun!,MALE
+THOR,He’s not slowing down.,MALE
+TONY STARK,What the hell? What just happened? Please tell me nobody kissed me.,MALE
+STEVE ROGERS,We won.,MALE
+TONY STARK,"Alright, Hey. Alright. Good job, guys. Let’s just not come in tomorrow. Let’s just take a day. You ever tried shawarma? There’s a shawarma joint about two blocks from here. I don’t know what it is, but I wanna try it. ",MALE
+THOR,We’re not finished yet.,MALE
+TONY STARK,And then shawarma after?,MALE
+LOKI,"If it’s all the same to you, I’ll have that drink now.",MALE
+MALE REPORTER,Despite the dev...,MALE
+MALE REPORTER,"...devastation of what has been confirmed as an extraterrestrial attack, the extraordinary heroics of the group known as the Avengers- ",MALE
+MALE CITIZEN,"It’s really great knowing they’re out there, you know. That someone’s watching over us. ",MALE
+FEMALE CITIZEN,"I love you, Thor! ",FEMALE
+HUSBAND,I just don’t feel safe with those thing out there.,MALE
+WIFE,It seems like there’s a lot they’re not telling us.,FEMALE
+STAN LEE,Superheroes? In New York? Give me a break!,MALE
+THE SENATOR,These so called heroes have to be held responsible for the destruction done to the city. This was their fight. Where are they now?,MALE
+REPORTER,"Tough questions are being asked about the Avengers themselves, their sudden appearance and equally sudden disappearance. ",MALE
+WAITRESS,"What, that this is all somehow their fault?",FEMALE
+WAITRESS,"Captain America saved my life. Wherever he is, and wherever any of them are, I would just- I would wanna say thank you.",FEMALE
+COUNCILMAN 2,Where are the Avengers?,MALE
+NICK FURY,I’m not currently tracking their whereabouts. I’d say they’ve earned a leave of absence.,MALE
+COUNCILWOMAN,And the Tesseract?,FEMALE
+NICK FURY,The Tesseract is where belongs...out of our reach.,MALE
+COUNCILMAN,That’s not your call.,MALE
+NICK FURY,I didn’t make it. I just didn’t argue with the god that did.,MALE
+COUNCILMAN,So you let him take it...,MALE
+COUNCILMAN,"and the war criminal Loki, who should be answering for his crime. ",MALE
+NICK FURY,Oh I think he will be.,MALE
+COUNCILWOMAN,I don’t think you understand what you’ve started...,FEMALE
+COUNCILWOMAN,...letting The Avengers loose on this world. They’re dangerous.,FEMALE
+NICK FURY,"They surely are, and the whole world knows it. ",MALE
+NICK FURY,Every world knows it!,MALE
+COUNCILMAN,Was that the point in all this? A statement.,MALE
+NICK FURY,A promise.,MALE
+MARIA HILL,"Sir, how does it work now...?",FEMALE
+MARIA HILL,"...They’ve gone their separate ways, some pretty extremely far. We get into a situation like this again, what happens then? ",FEMALE
+NICK FURY,They’ll come back!,MALE
+MARIA HILL,Really sure about that?,FEMALE
+NICK FURY,I am.,MALE
+MARIA HILL,Why?,FEMALE
+NICK FURY,Because we’ll need them to.,MALE
+THE OTHER,"The humans, they are not the cowering wretches we were promised. They stand. They are unruly and therefore cannot be ruled.",MALE
+THE OTHER,"To challenge them, is to court Death.",MALE
