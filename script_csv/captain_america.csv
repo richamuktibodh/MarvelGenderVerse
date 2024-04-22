@@ -1,689 +1,689 @@
-,character,line,gender
-0,SEARCH TEAM LEADER,Are you the guys from Washington?,MALE
-1,SHIELD TECH,You get many other visitors out here?,MALE
-2,SHIELD LIEUTENANT,How long have you been on site?,MALE
-3,SEARCH TEAM LEADER,Since this morning. A Russian oil team called it in about 18 hours ago.,MALE
-4,SHIELD LIEUTENANT,How come nobody spotted it before?,MALE
-5,SEARCH TEAM LEADER,It’s really not that surprising. This landscape’s changing all the time. You got any ideas what this thing is exactly?,MALE
-6,SHIELD LIEUTENANT,I don’t know. It’s probably a weather balloon.,MALE
-7,SEARCH TEAM LEADER,I don’t think so. You know we don’t have the equipment for a job like this.,MALE
-8,SHIELD TECH,How long before we can start craning it out?,MALE
-9,SEARCH TEAM LEADER,I don’t think you quite understand. You guys are gonna need one hell of a crane!,MALE
-10,SHIELD LIEUTENANT,"Base, we’re in.  What is this?  Careful.",MALE
-11,SHIELD TECH,Lieutenant! What is it?,MALE
-12,SHIELD LIEUTENANT,"My God!  Base, give me a line to the Colonel.",MALE
-13,VOICE FROM EARPIECE,"It’s 3 a.m., sir.",NEUTRAL
-14,SHIELD LIEUTENANT,I don’t care what time it is. This one’s waited long enough.,MALE
-15,JAN,They have come for it!,MALE
-16,TOWER KEEPER,They have before.,MALE
-17,JAN,Not like this.,MALE
-18,TOWER KEEPER,Let them come. They will never find it.,MALE
-19,HYDRA LIEUTENANT,"Open it! Quickly, before he…",MALE
-20,RED SKULL,It has taken me a long time to find this place.  You should be commended.  Help him up.,MALE
-21,RED SKULL,I think that you are man of great vision. And in this way we are much alike.,MALE
-22,TOWER KEEPER,I am nothing like you.,MALE
-23,RED SKULL,"No, of course. But what others see as superstition, you and I know to be a science.",MALE
-24,TOWER KEEPER,What you seek is just a legend.,MALE
-25,RED SKULL,"Then why make such an effort to conceal it?  The Tesseract was the jewel of Odin’s treasure room.  It’s not something one buries. But I think it is close, yes?",MALE
-26,TOWER KEEPER,I cannot help you.,MALE
-27,RED SKULL,No. But maybe you can help your village. You must have some friends out there. Some… some little grandchildren perhaps. I have no need for them to die.,MALE
-28,RED SKULL,"Yggdrasil. Tree of the world. Guardian of wisdom and fate, also.  And the Führer digs for trinkets in the desert. You have never seen this, have you?",MALE
-29,TOWER KEEPER,It’s not for the eyes of ordinary men.,MALE
-30,RED SKULL,Exactly.  Gove the order to open fire.,MALE
-31,HYDRA LIEUTENANT,Jawohl!,MALE
-32,TOWER KEEPER,Fool! You cannot control the power you hold. You will burn!,MALE
-33,RED SKULL,I already have.,MALE
-34,4F DOCTOR,"O’Connel, Michael. Kaminsky, Henry.",MALE
-35,STEVE ROGERS,"Boy, a lot of guys getting killed over there.",MALE
-36,4F DOCTOR,"Rogers, Steven.",MALE
-37,ENLISTMENT GUY,"It kind of makes you think twice about enlisting, huh?",MALE
-38,STEVE ROGERS,Nope.,MALE
-39,4F DOCTOR,Rogers. What did your father die of?,MALE
-40,STEVE ROGERS,Mustard gas. He was in the hundred and seventh infantry. I was hoping I could be assigned…,MALE
-41,4F DOCTOR,Your mother?,MALE
-42,STEVE ROGERS,"She was a nurse in a TB ward. Got hit, couldn’t shake it.",MALE
-43,4F DOCTOR,"Sorry, son.",MALE
-44,STEVE ROGERS,"Look, just give me a chance.",MALE
-45,4F DOCTOR,You’d be ineligible on your asthma alone.,MALE
-46,STEVE ROGERS,Is there anything you can do?,MALE
-47,4F DOCTOR,I’m doing it. I’m saving your life.,MALE
-48,COMMERCIAL ANNOUNCER,"War continues to ravage Europe. But help is on the way. Every able-bodied young man is lining up to serve his country. Even little Timmy is doing his part collecting scrap metal. Nice work, Timmy!",MALE
-49,LOUD JERK,Who cares? Play the movie already!,MALE
-50,STEVE ROGERS,"Hey, you wanna show some respect?",MALE
-51,COMMERCIAL ANNOUNCER,"Meanwhile, overseas, our brave boys are showing the Axis powers that the price freedom is never too high.",MALE
-52,LOUD JERK,"Let’s got! Get on with it! Hey, just start the cartoon!",MALE
-53,STEVE ROGERS,"Hey buddy, you wanna shut up?!",MALE
-54,COMMERCIAL ANNOUNCER,"Together with Allied forces, we’ll face any threat, no matter the size.",MALE
-55,LOUD JERK,"You just don’t know when to give up, do you?",MALE
-56,STEVE ROGERS,I can do this all day.,MALE
-57,JAMES BARNES,Hey! Pick on someone your own size.,MALE
-58,JAMES BARNES,"Sometimes, I think you like getting punched.",MALE
-59,STEVE ROGERS,I had him on the ropes.,MALE
-60,JAMES BARNES,How many times is this?,MALE
-61,JAMES BARNES,"Oh, you’re from Paramus now? You know it’s illegal to lie on the enlistment form. And seriously, Jersey?",MALE
-62,STEVE ROGERS,You get your orders?,MALE
-63,JAMES BARNES,The one-o-seventh. Sergeant James Barnes. Shipping out for England first thing tomorrow.,MALE
-64,STEVE ROGERS,I should be going.,MALE
-65,JAMES BARNES,"Come on, man. My last night! Gotta get you cleaned up.",MALE
-66,STEVE ROGERS,Why? Where are we going?,MALE
-67,JAMES BARNES,The future.,MALE
-68,JAMES BARNES,"I don’t see what the problem is. You’re about to be the last eligible man in New York. You know, there’s three and a half million women here.",MALE
-69,STEVE ROGERS,"Well, I’d settle for just one.",MALE
-70,JAMES BARNES,Good thing I took care of that.,MALE
-71,CONNIE,"Hey, Bucky!",FEMALE
-72,STEVE ROGERS,What did you tell her about me?,MALE
-73,JAMES BARNES,Only the good stuff.,MALE
-74,EXPO ANNOUNCER,Welcome to the Modern Marvels Paviliion and the World of Tomorrow. A greater world. A better world.,FEMALE
-75,CONNIE,"Oh, my God! It’s starting!",FEMALE
-76,MANDY,"Ladies and gentlemen, Mr. Howard Stark!",FEMALE
-77,RANDOM WOMAN,"I love you, Howard!",FEMALE
-78,HOWARD STARK,"Ladies and gentlemen, what if I told you that in just a few short years, your automobile won’t even have to touch the ground at all.",MALE
-79,HOWARD STARK,"Yes. Thanks, Mandy.  With Stark robotic reversion technology, you’ll be able to do just that.",MALE
-80,JAMES BARNES,Holy cow.,MALE
-81,HOWARD STARK,"I did say a few years, didn’t I?",MALE
-82,JAMES BARNES,"Hey, Steve, what do you say we treat these girls…",MALE
-83,WOMAN,"Come on, soldier.",FEMALE
-84,JAMES BARNES,Come on. You’re kind of missing the point of a double date. We’re taking the girls dancing.,MALE
-85,STEVE ROGERS,You go ahead. I’ll catch up with you.,MALE
-86,JAMES BARNES,You’re really gonna do this again?,MALE
-87,STEVE ROGERS,"Well, it’s a fair. I’m gonna try my luck.",MALE
-88,JAMES BARNES,"As who? Steve from Ohio? They’ll catch you. Or worse, they’ll actually take you.",MALE
-89,STEVE ROGERS,"Look, I know you don’t think I can do this.",MALE
-90,JAMES BARNES,"This isn’t a back alley, Steve. It’s war!",MALE
-91,STEVE ROGERS,I know it’s a war. You don’t have to tell me.,MALE
-92,JAMES BARNES,Why are you so keen to fight? There are so many important jobs.,MALE
-93,STEVE ROGERS,What am I gonna do? Collect scrap metal…,MALE
-94,JAMES BARNES,Yes!,MALE
-95,STEVE ROGERS,…in my little red wagon.,MALE
-96,JAMES BARNES,Why not?,MALE
-97,STEVE ROGERS,"I’m not gonna sit in a factory, Bucky.",MALE
-98,JAMES BARNES,I don’t…,MALE
-99,STEVE ROGERS,"Bucky, come on! There are men laying down their lives. I got no right to do any less than them. That’s what you don’t understand. This isn’t about me.",MALE
-100,JAMES BARNES,Right. Cause you got nothing to prove.,MALE
-101,CONNIE,"Hey, Sarge! Are we going dancing?",FEMALE
-102,JAMES BARNES,"Yes, we are.  Don’t do anything stupid until I get back.",MALE
-103,STEVE ROGERS,How can I? You’re taking all the stupid with you.,MALE
-104,JAMES BARNES,You’re a punk.,MALE
-105,STEVE ROGERS,Jerk. Be careful.,MALE
-106,STEVE ROGERS,Don’t win the war till I get there!,MALE
-107,JAMES BARNES,Come on girls. They’re playing our song.,MALE
-108,YOUNG DOCTOR,Wait here.,MALE
-109,STEVE ROGERS,Is there a problem?,MALE
-110,YOUNG DOCTOR,Just wait here.,MALE
-111,DR. ABRAHAM ERSKINE,"Thank you.  So, you want to go overseas. Kill some Nazis.",MALE
-112,STEVE ROGERS,Excuse me?,MALE
-113,DR. ABRAHAM ERSKINE,Dr. Abraham Erskine.  I represent the Strategic Scientific Reserve.,MALE
-114,STEVE ROGERS,Steve Rogers.,MALE
-115,STEVE ROGERS,Where are you from?,MALE
-116,DR. ABRAHAM ERSKINE,"Queens. 73rd Street and Utopia Parkway. Before that, Germany. This troubles you?",MALE
-117,STEVE ROGERS,No.,MALE
-118,DR. ABRAHAM ERSKINE,"Where are you from, Mr. Rogers? Mmm? Is it New Haven? Or Paramus? Five exams in five different cities.",MALE
-119,STEVE ROGERS,That might not be the right file.,MALE
-120,DR. ABRAHAM ERSKINE,"No, it’s not the exams I’m interested in. It’s the five tries. But you didn’t answer my question. Do you want to kill Nazis?",MALE
-121,STEVE ROGERS,Is this a test?,MALE
-122,DR. ABRAHAM ERSKINE,Yes.,MALE
-123,STEVE ROGERS,I don’t wanna kill anyone. I don’t like bullies. I don’t care where they’re from.,MALE
-124,DR. ABRAHAM ERSKINE,"Well, there are already so many big men fighting this war. Maybe what we need now is the little guy, huh? I can offer you a chance.",MALE
-125,DR. ABRAHAM ERSKINE,Only a chance.,MALE
-126,STEVE ROGERS,I’ll take it.,MALE
-127,DR. ABRAHAM ERSKINE,"Good. So where is the little guy from, actually?",MALE
-128,STEVE ROGERS,Brooklyn.,MALE
-129,DR. ABRAHAM ERSKINE,"Congratulations, soldier.",MALE
-130,RED SKULL,"Are you ready, Dr. Zola?",MALE
-131,DR. ARNIM ZOLA,My machine requires the most delicate calibration. Forgive me if I seem overcautious.,MALE
-132,RED SKULL,And are you certain that those conductors of yours can withstand the energy surge long enough for a transference?,MALE
-133,DR. ARNIM ZOLA,"With this artifact, I am certain of nothing. I fear it may not work at all.",MALE
-134,DR. ARNIM ZOLA,Twenty percent. Forty. Sixty. Stabilising at 70%.,MALE
-135,RED SKULL,"I have not come all this way for safety, Doctor.",MALE
-136,DR. ARNIM ZOLA,What is that?,MALE
-137,RED SKULL,"I must congratulate you, Arnim. Your designs do not disappoint. Though they may require some slight reinforcement.",MALE
-138,DR. ARNIM ZOLA,"The exchange is stable. Amazing! The energy we have just collected could power my design, all my designs. This will change the war.",MALE
-139,RED SKULL,"Dr. Zola, this will change the world.",MALE
-140,OFFICER,"Ready, exercise!",FEMALE
-141,PEGGY CARTER,"Recruits, attention! Gentlemen, I’m Agent Carter. I supervise all operations for this division.",FEMALE
-142,GILMORE HODGE,"What’s with the accent, Queen Victoria? Thought I was signing up for the U.S. Army.",MALE
-143,PEGGY CARTER,"What’s your name, soldier?",FEMALE
-144,GILMORE HODGE,"Gilmore Hodge, your Majesty.",MALE
-145,PEGGY CARTER,"Step forward, Hodge.",FEMALE
-146,PEGGY CARTER,Put your right foot forward.,FEMALE
-147,GILMORE HODGE,Mmm… We gonna wrassle? Cause I got a few moves I know you’ll like.,MALE
-148,COL. CHESTER PHILLIPS,Agent Carter.,MALE
-149,PEGGY CARTER,Colonel Phillips.,FEMALE
-150,COL. CHESTER PHILLIPS,I see you’re breaking in the candidates. That’s good!  Get your ass up out of that dirt and stand in that line at attention 'til somebody comes tells you what to do.,MALE
-151,GILMORE HODGE,"Yes, sir.",MALE
-152,COL. CHESTER PHILLIPS,General Patton has said that wars are fought with weapons but they are won by men. We are going to win this war because we have the best men…  And because they’re gonna get better. Much better. The Strategic Scientific Reserve is an Allied effort made up of the best minds in the free world. Our goal is to create the best army in history. But every army starts with one man. At the end of this week we will choose that man. He will be the first in a new breed of super-soldiers.,MALE
-153,SERGEANT DUFFY,Rogers! Get that rifle out of the mud!,MALE
-154,COL. CHESTER PHILLIPS,"And they, will personally escort Adolf Hitler to the gates of Hell.",MALE
-155,SERGEANT DUFFY,"Pick up the pace, ladies! Let’s go! Double time! Come on! Faster! Faster! Move! Move!  Squad, halt! That flag means we’re only at the halfway point. First man to bring it to me gets a ride back with Agent Carter. Move, move!",MALE
-156,SOLDIERS,Come on! Get up there!,MALE
-157,SERGEANT DUFFY,"If that’s all you got, this army’s in trouble! Get up there, Hodge! Come on! Get up there! Nobody’s got that flag in 17 years! Now fall back into line! Come on, fall in! Let’s go! Get back into formation! Rogers! I said fall in!",MALE
-158,STEVE ROGERS,"Thank you, sir.",MALE
-159,PEGGY CARTER,"Faster, ladies! Come on. My grandmother has more life in her, God rest her soul. Move it!",FEMALE
-160,COL. CHESTER PHILLIPS,"You’re not really thinking about picking Rogers, are you?",MALE
-161,DR. ABRAHAM ERSKINE,I am more than just thinking about it. He is the clear choice.,MALE
-162,COL. CHESTER PHILLIPS,"When you brought a ninety-pound asthmatic onto my army base, I let it slide. I thought, what the hell? Maybe he’ll be useful to you, like a gerbil. I never thought you’d pick him.",MALE
-163,PEGGY CARTER,Up.,FEMALE
-164,COL. CHESTER PHILLIPS,You stick a needle in that kids arm and it’s gonna go right through him.,MALE
-165,PEGGY CARTER,"Come on, girls.",FEMALE
-166,COL. CHESTER PHILLIPS,Look at that. He’s making me cry.,MALE
-167,DR. ABRAHAM ERSKINE,I am looking for qualities beyond the physical.,MALE
-168,COL. CHESTER PHILLIPS,Do you know how long it took to set up this project?,MALE
-169,DR. ABRAHAM ERSKINE,"Yeah, I know.",MALE
-170,COL. CHESTER PHILLIPS,All the groveling I had to do in front of Senator What’s-His-Name’s committees?,MALE
-171,DR. ABRAHAM ERSKINE,"Brandt. Yes, I know. I am well aware of your efforts.",MALE
-172,COL. CHESTER PHILLIPS,"Then throw me a bone. Hodge passed every test we gave him. He’s big, he’s fast, he obeys orders. He’s a soldier.",MALE
-173,DR. ABRAHAM ERSKINE,He’s a bully.,MALE
-174,COL. CHESTER PHILLIPS,"You don’t win wars with niceness, doctor.  You win war with guts.  Grenade!",MALE
-175,STEVE ROGERS,Get away! Get back!,MALE
-176,OFFICER,It was a dummy grenade. All clear. Back in formation.,FEMALE
-177,STEVE ROGERS,Is this is a test?,MALE
-178,COL. CHESTER PHILLIPS,He’s still skinny.,MALE
-179,DR. ABRAHAM ERSKINE,May I?,MALE
-180,STEVE ROGERS,Yeah.,MALE
-181,DR. ABRAHAM ERSKINE,Can’t sleep?,MALE
-182,STEVE ROGERS,"I got the jitters, I guess.",MALE
-183,DR. ABRAHAM ERSKINE,"Me, too.",MALE
-184,STEVE ROGERS,Can I ask you a question?,MALE
-185,DR. ABRAHAM ERSKINE,Just one?,MALE
-186,STEVE ROGERS,Why me?,MALE
-187,DR. ABRAHAM ERSKINE,"I suppose that is the only question that matters.  This is from Augsburg. My city. So many people forget that the first country that the Nazi’s invaded was their own. You know, after the last war the… my people struggled. They… they felt weak. They felt small. And then Hitler comes along with the marching and the big show and the flags and the… and the…  And he… he hears of me, my work and he finds me. And he says, ""You."" He says, ""You will make us strong."" Well, I am not interested. So he sends the head of HYDRA, his research division. A brilliant scientist by the name of Johann Schmidt. Now, Schmidt is a member of the inner circle and he’s ambitious. He and Hitler share a passion for occult power and Teutonic myth. Hitler uses his fantasies to inspire his followers. But for Schmidt, it is not fantasy. For him, it is real. He has become convinced that there is a great power hidden in the earth, left here by the Gods, waiting to be seized by a superior man. So when he hears about my formula and what it can do, he cannot resist.",MALE
-188,DR. ABRAHAM ERSKINE,Schmidt must become that superior man.,MALE
-189,STEVE ROGERS,Did it make him stronger?,MALE
-190,DR. ABRAHAM ERSKINE,"Yeah. But, there were other effects. The serum was not ready. But more important, the man. The serum amplifies everything that is inside. So, good becomes great. Bad becomes worse. This is why you were chosen. Because a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion.",MALE
-191,STEVE ROGERS,Thanks. I think.,MALE
-192,DR. ABRAHAM ERSKINE,"Whatever happens tomorrow, you must promise me one thing. That you will stay who you are. Not a perfect soldier, but a good man.",MALE
-193,STEVE ROGERS,To the little guys.,MALE
-194,DR. ABRAHAM ERSKINE,No! No! Wait! Wait! What I am doing? No! You have a procedure tomorrow. No fluids.,MALE
-195,STEVE ROGERS,All right. We’ll drink it after.,MALE
-196,DR. ABRAHAM ERSKINE,No! I don’t have procedure tomorrow. Drink it after? Drink it now!,MALE
-197,RED SKULL,Is there something in particular you need?,MALE
-198,DR. ARNIM ZOLA,I understand you found him.,MALE
-199,RED SKULL,See for yourself.  You disapprove.,MALE
-200,DR. ARNIM ZOLA,I just don’t see why you need concern yourself. I can’t imagine he will succeed.  Again.,MALE
-201,RED SKULL,"His serum is the Allies’ only defence against this power we now possess. If we take it away from them, then our victory is assured.",MALE
-202,DR. ARNIM ZOLA,Shall I give the order?,MALE
-203,RED SKULL,It has been given.,MALE
-204,DR. ARNIM ZOLA,Good.,MALE
-205,RED SKULL,Dr. Zola.  What do you think?,MALE
-206,DR. ARNIM ZOLA,A masterpiece.,MALE
-207,STEVE ROGERS,I know this neighborhood. I got beat up in that alley. And that parking lot. And behind that diner.,MALE
-208,PEGGY CARTER,Did you have something against running away?,FEMALE
-209,STEVE ROGERS,"You start running they’ll never let you stop. You stand up, push back. Can’t say no forever, right?",MALE
-210,PEGGY CARTER,I know a little of what that’s like. To have every door shut in your face.,FEMALE
-211,STEVE ROGERS,"I guess I just don’t why you’d wanna join the army if you’re a beautiful dame. Or a beautiful… a woman. An agent, not a dame! You are beautiful, but…",MALE
-212,PEGGY CARTER,"You have no idea how to talk to a woman, do you?",FEMALE
-213,STEVE ROGERS,This is the longers conversation I’ve had with one. Women aren’t exactly lining up to dance with a guy they might step on.,MALE
-214,PEGGY CARTER,You must have danced?,FEMALE
-215,STEVE ROGERS,"Well, asking a woman to dance always seems so terrifying. And the past few years just didn’t seem to matter that much. Figured I’d wait.",MALE
-216,PEGGY CARTER,For what?,FEMALE
-217,STEVE ROGERS,The right partner.,MALE
-218,PEGGY CARTER,This way.,FEMALE
-219,STEVE ROGERS,What are we doing here?,MALE
-220,PEGGY CARTER,Follow me.,FEMALE
-221,ANTIQUE STORE OWNER,Wonderful weather this morning isn’t it?,FEMALE
-222,PEGGY CARTER,"Yes, but I always carry an umbrella.",FEMALE
-223,DR. ABRAHAM ERSKINE,"Good morning.  Please, not now.  Are you ready?  Good. Take off your shirt, your tie and your hat.",MALE
-224,COL. CHESTER PHILLIPS,"Senator Brandt, glad you could make it.",MALE
-225,SENATOR BRANDT,Why exactly am I in Brooklyn?,MALE
-226,COL. CHESTER PHILLIPS,"We needed access to the city’s power grid. Of course, if you’d given me the generators I requisitioned…",MALE
-227,SENATOR BRANDT,"A lot of people are asking for funds, Colonel.  Oh, this is…",MALE
-228,HEINZ KRUGER,"Fred Clemson, State Department.  If this project of yours comes through, we’d like to see it used for something other than headlines.",MALE
-229,SENATOR BRANDT,Jesus. Somebody get that kid a sandwich.,MALE
-230,DR. ABRAHAM ERSKINE,Comfortable?,MALE
-231,STEVE ROGERS,It’s a little big. You save me any of that schnapps?,MALE
-232,DR. ABRAHAM ERSKINE,"Not as much as I should have. Sorry. Next time. Mr. Stark, how are your levels?",MALE
-233,HOWARD STARK,Levels at 100%.,MALE
-234,DR. ABRAHAM ERSKINE,Good.,MALE
-235,HOWARD STARK,"We may dim half the lights in Brooklyn, but we are ready as we’ll ever be.",MALE
-236,DR. ABRAHAM ERSKINE,Agent Carter? Don’t you think you would be more comfortable in the booth?,MALE
-237,PEGGY CARTER,"Oh, yes. Of course. Sorry.",FEMALE
-238,DR. ABRAHAM ERSKINE,"Good.  Do you hear me? is this on?  Ladies and gentlemen, today we take not another step towards annihilation, but the first step on the path to peace. We begin with a series of micro injections into the subjects major muscle groups. The serum infusion will cause immediate cellular change. And then to stimulate growth, the subject will be saturated with Vita-Rays.",MALE
-239,STEVE ROGERS,That wasn’t so bad.,MALE
-240,DR. ABRAHAM ERSKINE,"That was penicillin.  Serum infusion beginning in five, four, three, two, one.  Now, Mr. Stark.   Steven, can you hear me?",MALE
-241,STEVE ROGERS,"It’s probably too late to go to the bathroom, right?",MALE
-242,DR. ABRAHAM ERSKINE,We will proceed.,MALE
-243,HOWARD STARK,That’s ten percent. Twenty percent. Thirty. That’s 40 %.,MALE
-244,SSR DOCTOR,Vital signs are normal.,MALE
-245,HOWARD STARK,That’s 50 %. Sixty. Seventy.,MALE
-246,DR. ABRAHAM ERSKINE,Steven!,MALE
-247,PEGGY CARTER,Shut it down.,FEMALE
-248,DR. ABRAHAM ERSKINE,Steven!,MALE
-249,PEGGY CARTER,Shut it down!,FEMALE
-250,DR. ABRAHAM ERSKINE,"Kill the reactor, Mr. Stark! Turn it off! Kill it! Kill the reactor!",MALE
-251,STEVE ROGERS,No! Don’t! I can do this!,MALE
-252,HOWARD STARK,Eighty. Ninety. That’s 100 %.,MALE
-253,DR. ABRAHAM ERSKINE,Mr. Stark?,MALE
-254,DR. ABRAHAM ERSKINE,Steven. Steven.,MALE
-255,COL. CHESTER PHILLIPS,The son of a bitch did it.,MALE
-256,STEVE ROGERS,I did it.,MALE
-257,DR. ABRAHAM ERSKINE,"Yeah, yeah. I think we did it.",MALE
-258,HOWARD STARK,We actually did it.,MALE
-259,PEGGY CARTER,How do you feel?,FEMALE
-260,STEVE ROGERS,Taller.,MALE
-261,PEGGY CARTER,You look taller.,FEMALE
-262,COL. CHESTER PHILLIPS,"How do you like Brooklyn now, Senator?",MALE
-263,SENATOR BRANDT,"I can think of some folks in Berlin who are about to get very nervous. Congratulations, Doctor.",MALE
-264,DR. ABRAHAM ERSKINE,"Thank you, sir.",MALE
-265,DR. ABRAHAM ERSKINE,Stop him!,MALE
-266,TAXI DRIVER,"What are you doing? Buddy, are you all right? Hey, this guy’s been shot!",MALE
-267,STEVE ROGERS,"Sorry!   I’m sorry.  Whoa, whoa, whoa!",MALE
-268,MOTHER,No! No! Not my son!,FEMALE
-269,YOUNG BOY,Stop it!,MALE
-270,MOTHER,Don’t hurt him!,FEMALE
-271,HEINZ KRUGER,Get back!,MALE
-272,YOUNG BOY,Let me go!,MALE
-273,MOTHER,Let go of my son! Don’t hurt him!,FEMALE
-274,STEVE ROGERS,"Wait, don’t! Don’t!  No! Don’t!",MALE
-275,YOUNG BOY,Go get him! I can swim!,MALE
-276,STEVE ROGERS,Who the hell are you?,MALE
-277,HEINZ KRUGER,"The first of many. Cut off one head, two more shall take its place. Hail HYDRA!",MALE
-278,HUTTER,"The Führer is not accustomed to being ignored, Herr Schmidt. He funds your research because you promised him weapons.",MALE
-279,SCHNEIDER,You serve at his pleasure. He gave you this facility as a reward for your injuries.,MALE
-280,RED SKULL,Reward? Call it what it is. Exile. I no longer reflect his image of Aryan perfection.,MALE
-281,ROEDER,You think this is about appearances? Your HYDRA division has failed to deliver so much as a rifle in over a year. And we had learned through local intelligence you had mounted a full-scale incursion into Norway.,MALE
-282,SCHNEIDER,"The Führer feels… How does he put it? ""The Red Skull has been indulged long enough!""",MALE
-283,RED SKULL,"Gentlemen, you have come to see the results of our work. Let me show you.  Hitler speaks of a thousand-year Reich, but he cannot feed his army for a month. His troops spill their blood across every field in Europe. But still he is no closer to achieving his goals.",MALE
-284,ROEDER,And I suppose you still aim to end this war through magic?,MALE
-285,RED SKULL,"Science. But I understand your confusion. Great power has always baffled primitive men. HYDRA is assembling an arsenal to destroy my enemies in one stroke. Where ever they are, regardless of how many forces they possess. All in a matter of hours.",MALE
-286,ROEDER,Your enemies?,MALE
-287,RED SKULL,"My weapons contain enough destructive power to decimate every hostile capital on earth. Quite simply, gentlemen, I have harnessed the power of the Gods.",MALE
-288,SCHNEIDER,"Thank you, Schmidt.",MALE
-289,RED SKULL,For what?,MALE
-290,SCHNEIDER,For making it clear how obviously mad you are.,MALE
-291,HUTTER,Berlin is on this map!,MALE
-292,RED SKULL,So it is.,MALE
-293,HUTTER,You will be punished for your insolence! You will be brought before the Führer himself!,MALE
-294,ROEDER,Schmidt!!!,MALE
-295,RED SKULL,"My apolpgies, Doctor, but we both knew HYDRA could grow no further in Hitler’s shadow. Hail HYDRA.",MALE
-296,HYDRA TECHNICIANS,Hail HYDRA!,FEMALE
-297,DR. ARNIM ZOLA,Hail HYDRA!,MALE
-298,STEVE ROGERS,Think you got enough?,MALE
-299,PEGGY CARTER,"Any hope of reproducing a program is locked in your genetic code. But without Dr. Erskine, it could take years.",FEMALE
-300,STEVE ROGERS,He deserved more than this.,MALE
-301,PEGGY CARTER,"If it could only work once, he’d be proud it was you.",FEMALE
-302,SENATOR BRANDT,"Colonel Phillips, my committee is demanding answers.",MALE
-303,COL. CHESTER PHILLIPS,Great. Why don’t we start with how a German spy got a ride to my secret installation in your car?  What have we got here?,MALE
-304,HOWARD STARK,"Speaking modestly, I’m the best mechanical engineer in this country. But I don’t know what’s inside this thing or how it works. We’re not even close to this technology.",MALE
-305,SENATOR BRANDT,Then who is?,MALE
-306,COL. CHESTER PHILLIPS,HYDRA. I’m sure you’ve been reading our briefings.,MALE
-307,SENATOR BRANDT,"I’m on a number of committees, Colonel.",MALE
-308,PEGGY CARTER,HYDRA is the Nazi deep science division. It’s led by Johann Schmidt. But he has much bigger ambitions.,FEMALE
-309,COL. CHESTER PHILLIPS,"HYDRA’s practically a cult. They worship Schmidt, they think he’s invincible.",MALE
-310,SENATOR BRANDT,So what are you gonna do about it?,MALE
-311,COL. CHESTER PHILLIPS,Spoke to the president this morning. As of today the SSR is being retasked.,MALE
-312,PEGGY CARTER,Colonel?,FEMALE
-313,COL. CHESTER PHILLIPS,"We are taking the fight to HYDRA. Pack your bags Agent Carter. You too, Stark. You’re flying to London tonight.",MALE
-314,STEVE ROGERS,"Sir, if you’re going after Schmidt, I want in.",MALE
-315,COL. CHESTER PHILLIPS,You’re an experiment. You’re going to Alamogordo.,MALE
-316,STEVE ROGERS,The serum worked.,MALE
-317,COL. CHESTER PHILLIPS,I asked for an army and all I got was you. You are not enough.,MALE
-318,SENATOR BRANDT,"With all due respect to the Colonel, I think we may be missing the point. I’ve seen you in action, Steve. More importantly, the country’s seen it.  Paper. The enlistment lines have been around the block since your picture hit the newsstands. You don’t take a soldier, a symbol like that, and hide him in a lab. Son, do you want to serve your country on the most important battlefield of the war?",MALE
-319,STEVE ROGERS,"Sir, that’s all I want.",MALE
-320,SENATOR BRANDT,"Then, congratulations. You just got promoted.",MALE
-321,STEVE ROGERS,I don’t know if I can do this.,MALE
-322,BRANDT'S AIDE,"Nothing to it. Sell off a few bonds, bonds buy bullets, bullets kills Nazi’s. Bing bang boom. You’re an American hero.",MALE
-323,STEVE ROGERS,It’s just not how I pictured getting there.,MALE
-324,BRANDT'S AIDE,"The senator’s got a lot of pull up on the hill. You play ball with us, you’ll be leading your own platoon in no time. Take the shield.",MALE
-325,USO SINGER,"Who’s strong and brave, here to save the American way?",MALE
-326,STEVE ROGERS,Not all of us can storm a beach or drive a tank. But there’s still a way all of us can fight.,MALE
-327,USO SINGER,"Who vows to fight like a man, for what’s right, night and day?",MALE
-328,STEVE ROGERS,Series E Defence Bonds. Each one you buy is a bullet in the barrel of your best guy’s gun.,MALE
-329,USO SINGER,"Who will campaign door-to-door for America? Carry the flag shore to shore for America? From Hoboken to Spokane, the star-spangeld man with a plan.",MALE
-330,DIRECTOR,"Cut. Guys, don’t look ath the camera.",MALE
-331,USO SINGER,We can’t ignore there’s a threat and a war we must win.,MALE
-332,STEVE ROGERS,Each one you buy is a bullet in the barrel of your best guy’s gun.,MALE
-333,USO SINGER,"Who’ll hang a noose on the goose-stepping goons from Berlin? Who will redeem, heed the call for America? Who’ll rise or fall, give his all for America? Who’s here to prove that we can? The star-spangled man with a plan.",MALE
-334,STEVE ROGERS,"We all know this is about trying to win the war. We can’t do that without bullets and bandages, tanks and tents. That’s where you come in. Every bond you buy will help protect someone you love.",MALE
-335,KIDS IN USO AUDIENCE,Turn around! He’s right behind you!,NEUTRAL
-336,STEVE ROGERS,"Keep our boys armed and ready, and the Germans will think twice about trying to get the drop on us.",MALE
-337,USO SINGER,"Stalwart and steady and true, forcefull and ready to defend, the red, white, and blue. Who’ll give the Axis the sack and is smart as a fox? Far as an eagle will soar. Who’s making Adolf afraid to step out of his box? He knows what we’re fighting for. Who waked the giant that napped in America? We know it’s no one but Captain America. Who’ll finish what they began? Who’ll kick the Krauts to Japan? The star-spangled man with a aplan!",MALE
-338,STEVE ROGERS,How many of you ready to help me sock old Adolf on the jaw?  Okay. Uh… I need a volunteer.,MALE
-339,ARMY HECKLER#1,I already volunteered! How do you think I got here?  Bring back the girls!,FEMALE
-340,STEVE ROGERS,I think they only know the one song. But um…let me…I’ll…I’ll see what I can do.,MALE
-341,ARMY HECKLER#1,"You do that, sweetheart.",FEMALE
-342,ARMY HECKLER#2,"Nice boots, Tinker Bell!",FEMALE
-343,STEVE ROGERS,"Come on, guys. We’re all on the same team here.",MALE
-344,ARMY HECKLER#3,"Hey, Captain! Sign this!",FEMALE
-345,ARMY HECKLER#4,Bring back the girls!,FEMALE
-346,BRANDT'S AIDE,"Don’t worry, pal. They’ll warm up to you. Don’t worry.",MALE
-347,PEGGY CARTER,"Hello, Steve.",FEMALE
-348,STEVE ROGERS,Hi.,MALE
-349,PEGGY CARTER,Hi.,FEMALE
-350,STEVE ROGERS,What are you doin’ here?,MALE
-351,PEGGY CARTER,Officially I’m not here at all. That was quite a performance.,FEMALE
-352,STEVE ROGERS,Yeah. Uh… I had to improvise a little bit. Crowds I’m used to are usually more uh… twelve.,MALE
-353,PEGGY CARTER,"I understand you’re ""America’s New Hope""?",FEMALE
-354,STEVE ROGERS,Bond sales take a ten percent bump in every state I visit.,MALE
-355,PEGGY CARTER,Is that Senator Brandt I hear?,FEMALE
-356,STEVE ROGERS,At least he’s got me doin’ this. Phillips would have had be stuck in lab.,MALE
-357,PEGGY CARTER,"And these are your only two options? A lab rat or a dancing monkey? You were meant for more than this, you know?  What?",FEMALE
-358,STEVE ROGERS,"You know for the longest time I dreamed about coming overseas and being on the front lines. Serving my country. I finally get everything I wanted, and I’m wearing tights.  They look like they’ve been through hell.",MALE
-359,PEGGY CARTER,These men more than most. Schmidt sent out a force to Azzano. Two hundred men went up against him and less than fifty returned. Your audience contained what was left of the one-oh-seventh. The rest were killed or captured.,FEMALE
-360,STEVE ROGERS,The one-oh-seventh?,MALE
-361,PEGGY CARTER,What?,FEMALE
-362,STEVE ROGERS,Come on!  Colonel Phillips.,MALE
-363,COL. CHESTER PHILLIPS,"Well, if it isn’t the Star-Spangled Man With A Plan. And what is your plan today?",MALE
-364,STEVE ROGERS,I need the casualty list from Azzano.,MALE
-365,COL. CHESTER PHILLIPS,"You don’t get to give me orders, son.",MALE
-366,STEVE ROGERS,I just need one name. Sergeant James Barnes from the hundred and seventh.,MALE
-367,COL. CHESTER PHILLIPS,You and I are gonna have a conversation later that you won’t enjoy.,MALE
-368,STEVE ROGERS,"Please tell me if he’s alive, sir. B-A-R…",MALE
-369,COL. CHESTER PHILLIPS,I can spell.  I have signed more of these condolence letters today than I would care to count. But the name does sound familiar. I’m sorry.,MALE
-370,STEVE ROGERS,What about the others? Are you planning a rescue mission?,MALE
-371,COL. CHESTER PHILLIPS,Yeah! It’s called winning the war.,MALE
-372,STEVE ROGERS,"But if you know where they are, why not at least…?",MALE
-373,COL. CHESTER PHILLIPS,"They’re thirty miles behind the lines. Through the most heavily fortified territory in Europe. We’d lose more men than we’d save. But I don’t expect you to understand that, because you’re a chorus girl.",MALE
-374,STEVE ROGERS,I think I understand just fine.,MALE
-375,COL. CHESTER PHILLIPS,"Well then understand it somewhere else. If I read the posters correctly, you got some place to be in thirty minutes.",MALE
-376,STEVE ROGERS,"Yes, sir. I do.",MALE
-377,COL. CHESTER PHILLIPS,"If you have something to say, right now is the perfect time to keep it to yourself.",MALE
-378,PEGGY CARTER,What do you plan to do? Walk to Austria?,FEMALE
-379,STEVE ROGERS,If that’s what it takes.,MALE
-380,PEGGY CARTER,"You heard the Colonel, your friend is most likely dead.",FEMALE
-381,STEVE ROGERS,You don’t know that.,MALE
-382,PEGGY CARTER,"Even so, he’s devising a strategy. If he detects…",FEMALE
-383,STEVE ROGERS,"By the time he’s done that, it could be too late!  You told me you thought I was meant for more than this. Did you mean that?",MALE
-384,PEGGY CARTER,Every word.,FEMALE
-385,STEVE ROGERS,Then you gotta let me go.,MALE
-386,PEGGY CARTER,I can do more than that.,FEMALE
-387,BRANDT'S AIDE,"On stage, girls. Five minutes!",MALE
-388,USO GIRL,Where’s my helmet?,FEMALE
-389,BRANDT'S AIDE,Has anyone seen Rogers?,MALE
-390,PEGGY CARTER,"The HYDRA camp is in Krausberg, tucked between these two mountain ranges. It’s a factory of some kind.",FEMALE
-391,HOWARD STARK,We should be able to drop you right on the doorstep.,MALE
-392,STEVE ROGERS,"Just get me as close as you can.  You know, you two are gonna be in a lot of trouble at the lab.",MALE
-393,PEGGY CARTER,And you won’t?,FEMALE
-394,STEVE ROGERS,"Where I’m goin’, if anybody yells at me I can just shoot ‘em.",MALE
-395,PEGGY CARTER,They will undoubtedly shoot back.,FEMALE
-396,STEVE ROGERS,"Well, let’s hope it’s good for somethin’.",MALE
-397,HOWARD STARK,"Agent Carter, if we’re not in too much of a hurry I thought we could stop off in Lucerne for a late night fondue.",MALE
-398,PEGGY CARTER,"Stark is the best civilian pilot I’ve ever seen. He’s mad enough to brave this airspace, we’re lucky to have him.",FEMALE
-399,STEVE ROGERS,So are you two…? Do you…? Fondue?,MALE
-400,PEGGY CARTER,This is your transponder. Activate it when you’re ready and the signal will lead us straight to you.,FEMALE
-401,STEVE ROGERS,Are you sure this thing works?,MALE
-402,HOWARD STARK,"It’s been tested more than you, pal.",MALE
-403,PEGGY CARTER,Get back here! We’re taking you all the way in.,FEMALE
-404,STEVE ROGERS,"As soon as I’m free, you turn this thing around and get the hell outta here!",MALE
-405,PEGGY CARTER,You can’t give me orders!,FEMALE
-406,STEVE ROGERS,The hell I can’t! I’m a Captain!,MALE
-407,DR. ARNIM ZOLA,"As you can see, production of the Valkyrie is progressing on schedule, even with components of this size.",MALE
-408,RED SKULL,Increase the output by 60 % and see to it our other facilities do the same.,MALE
-409,DR. ARNIM ZOLA,"But the prisoners, I’m not sure they have the strength.",MALE
-410,RED SKULL,"Then use up what strength they have left, Doctor. There are always more workers.",MALE
-411,DR. ARNIM ZOLA,Not now!,MALE
-412,DUM DUM DUGAN,"You know, Fritz, one of these days, I’m gonna have a stick of my own.",MALE
-413,STEVE ROGERS,Fellas.,MALE
-414,HYDRA GUARDS,Ah!,MALE
-415,GABE JONES,Who are you supposed to be?,MALE
-416,STEVE ROGERS,I’m… Captain America.,MALE
-417,JAMES MONTGOMERY FALSWORTH,I beg your pardon?,MALE
-418,DUM DUM DUGAN,"What, are we taking everybody?",MALE
-419,JIM MORITA,"I’m from Fresno, Ace.",MALE
-420,STEVE ROGERS,Is there anybody else? I’m looking for a Sergeant James Barnes.,MALE
-421,JAMES MONTGOMERY FALSWORTH,"There’s an isolation ward in the factory, but no one’s ever come back from it.",MALE
-422,STEVE ROGERS,"All right. The tree line is northwest, 80 yards past the gate. Get out fast and give ‘em hell. I’ll meet you guys in the clearing with anybody else I find.",MALE
-423,GABE JONES,Wait! You know what you’re doin’?,MALE
-424,STEVE ROGERS,Yeah. I’ve knocked out Adolf Hitler over two hundred times.,MALE
-425,JIM MORITA,You know how to use that thing?  Okay.,MALE
-426,RED SKULL,What is happening?,MALE
-427,DUM DUM DUGAN,Hey. Not exactly a Buick.,MALE
-428,GABE JONES,That one. Zündung.,MALE
-429,DUM DUM DUGAN,Zündung?,MALE
-430,JAMES MONTGOMERY FALSWORTH,"Get this thing going, Dugan!",MALE
-431,DUM DUM DUGAN,I didn’t know you spoke German.,MALE
-432,GABE JONES,"Three semesters at Howards, switched to French, girls much cuter.",MALE
-433,DUM DUM DUGAN,Didn’t ask for the resume.,MALE
-434,DR. ARNIM ZOLA,"No, no! What are you doing?",MALE
-435,RED SKULL,Our forces are outmatched.,MALE
-436,JIM MORITA,Keep moving! Grab those grenades!,MALE
-437,JAMES BARNES,Sergeant. 32557…,MALE
-438,STEVE ROGERS,"Bucky? Oh, my God.",MALE
-439,JAMES BARNES,Is that…,MALE
-440,STEVE ROGERS,It’s me. It’s Steve.,MALE
-441,JAMES BARNES,Steve?,MALE
-442,STEVE ROGERS,Come on.,MALE
-443,JAMES BARNES,Steve.,MALE
-444,STEVE ROGERS,I thought you were dead.,MALE
-445,JAMES BARNES,I thought you were smaller.,MALE
-446,STEVE ROGERS,Come on.,MALE
-447,JAMES BARNES,What happened to you?,MALE
-448,STEVE ROGERS,I joined the Army.,MALE
-449,JAMES BARNES,Did it hurt?,MALE
-450,STEVE ROGERS,A little.,MALE
-451,JAMES BARNES,Is it permanent?,MALE
-452,STEVE ROGERS,So far.,MALE
-453,RED SKULL,"Captain America! How exciting! I’m a great fan of your films. So Dr. Erskine managed it after all. Not exactly an improvement, but still impressive.",MALE
-454,STEVE ROGERS,You’ve got no idea.,MALE
-455,RED SKULL,"Haven’t I?  No matter what lies Erskine told you, you see I was his greatest success!",MALE
-456,JAMES BARNES,"You don’t have one of those, do you?",MALE
-457,RED SKULL,"You are deluded, Captain. You pretend to be a simple soldier, but in reality you are just afraid to admit that we have left humanity behind. Unlike you, I embrace it proudly. Without fear!",MALE
-458,STEVE ROGERS,"Then how come you’re running?  Come on, let’s go. Up.",MALE
-459,DR. ARNIM ZOLA,Sir? Are we going to the roof?  What about me? Where will I sit?,MALE
-460,RED SKULL,"Not a scratch, Doctor. Not a scratch.",MALE
-461,STEVE ROGERS,Let’s go. One at a time.,MALE
-462,JAMES BARNES,Gotta be a rope or something!,MALE
-463,STEVE ROGERS,Just go! Get out of here!,MALE
-464,JAMES BARNES,No! Not without you!,MALE
-465,COL. CHESTER PHILLIPS,"Senator Brandt, I regret to report that Captain Steven G. Rogers went missing behind enemy lines on the third. Aerial reconnaissance has proven unfruitful. As a result, I must declare Captain Rogers killed in action. Period.",MALE
-466,PEGGY CARTER,The last surveillance flight is back. No sign of activity.,FEMALE
-467,COL. CHESTER PHILLIPS,"Go get a cup of coffee, Corporal.",MALE
-468,CORPORAL,"Yes, sir.",MALE
-469,COL. CHESTER PHILLIPS,I can’t touch Stark. He’s rich and he’s the Army’s number one weapons contractor. You are neither one.,MALE
-470,PEGGY CARTER,"With respect, sir, I don’t regret my actions. And I don’t think Captain Rogers did either.",FEMALE
-471,COL. CHESTER PHILLIPS,"What makes you think I give a damn about your opinions. I took a chance with you, Agent Carter. And now America’s golden boy and a lot of other good men are dead, cause you had a crush.",MALE
-472,PEGGY CARTER,It wasn’t that. I had faith.,FEMALE
-473,COL. CHESTER PHILLIPS,"Well, I hope that’s a big comfort to you when they shut this division down.  What the hell’s going on out there?",MALE
-474,MAN#1,Look who it is!,MALE
-475,STEVE ROGERS,Some of theres men need medical attention.,MALE
-476,MAN#2,"Medic, we got wounded.",MALE
-477,STEVE ROGERS,I’d like to surrender myself for disciplinary action.,MALE
-478,COL. CHESTER PHILLIPS,That won’t be necessary.,MALE
-479,STEVE ROGERS,"Yes, sir.",MALE
-480,COL. CHESTER PHILLIPS,"Faith, huh?",MALE
-481,PEGGY CARTER,You’re late.,FEMALE
-482,STEVE ROGERS,Couldn’t call my ride.,MALE
-483,JAMES BARNES,Hey! Let’s hear it for Captain America.,MALE
-484,SENATOR BRANDT,"I am honoured to present this medal for valour to my personal friend, Captain America!  Captain America!  Captain, that’s your cue!",MALE
-485,GENERAL,I thought he’d be taller.,MALE
-486,STEVE ROGERS,"The fifth one was here in Poland, right near the Baltic.  And the sixth one was… about here, 30, 40 miles west of the Maginot Line.  I just got a quick look.",MALE
-487,PEGGY CARTER,"Well, nobody’s perfect.",FEMALE
-488,STEVE ROGERS,These are the weapon factories we know about. Sergeant Barnes said that Hydra shipped all the parts to another facility that isn’t on this map.,MALE
-489,COL. CHESTER PHILLIPS,"Agent Carter, coordinate with MI6. I want every Allied eyeball looking for that main Hydra base.",MALE
-490,PEGGY CARTER,What about us?,FEMALE
-491,COL. CHESTER PHILLIPS,"We are gonna set a fire under Johann Schmidt’s ass. What do you say, Rogers? It’s your map, you think you can wipe Hydra off of it?",MALE
-492,STEVE ROGERS,"Yes, sir. I’ll need a team.",MALE
-493,COL. CHESTER PHILLIPS,We’re already putting together the best men.,MALE
-494,STEVE ROGERS,"With all due respect, sir. So am I.",MALE
-495,DUM DUM DUGAN,"So, let’s get this straight.",MALE
-496,GABE JONES,"We barely got out of there alive, and you want us to go back?",MALE
-497,STEVE ROGERS,Pretty much.,MALE
-498,JAMES MONTGOMERY FALSWORTH,"Sounds rather fun, actually.",MALE
-499,JIM MORITA,I’m in.,MALE
-500,GABE JONES,We’re in.,MALE
-501,DUM DUM DUGAN,"Hell, I’ll always fight. But you got to do one thing for me.",MALE
-502,STEVE ROGERS,What’s that?,MALE
-503,DUM DUM DUGAN,Open a tab.,MALE
-504,JIM MORITA,"Well, that was easy.",MALE
-505,STEVE ROGERS,Another round.,MALE
-506,BARKEEPER,Where are they putting all this stuff?,FEMALE
-507,JAMES BARNES,See? I told you. They’re all idiots.,MALE
-508,STEVE ROGERS,How about you? You ready to follow Captain America into the jaws of death?,MALE
-509,JAMES BARNES,"Hell, no. That little guy from Brooklyn who was too dumb not to run away from a fight. I’m following him. But you’re keeping the outfit, right?",MALE
-510,STEVE ROGERS,You know what? It’s kind of growing on me.,MALE
-511,PEGGY CARTER,Captain.,FEMALE
-512,STEVE ROGERS,Agent Carter.,MALE
-513,JAMES BARNES,Ma’am.,MALE
-514,PEGGY CARTER,Howard has some equipment for you to try. Tomorrow morning?,FEMALE
-515,STEVE ROGERS,Sounds good.,MALE
-516,PEGGY CARTER,I see you top squad is prepping for duty.,FEMALE
-517,JAMES BARNES,You don’t like music?,MALE
-518,PEGGY CARTER,"I do, actually. I might even, when this is all over, go dancing.",FEMALE
-519,JAMES BARNES,Then what are we waiting for?,MALE
-520,STEVE ROGERS,"Yes, ma’m. I’ll be there.",MALE
-521,JAMES BARNES,I’m invisible. I’m…I’m turning into you. It’s like some horrible dream.,MALE
-522,STEVE ROGERS,Don’t take it so hard. Maybe she’s got a friend.,MALE
-523,HOWARD STARK,Emission signature is unusual. Alpha and beta ray neutral. Though I doubt Rogers picked up on that. Seems harmless enough. Hard to see what all the fuss is about.  Write that down.,MALE
-524,STEVE ROGERS,Excuse me. I’m looking for Mr. Stark.,MALE
-525,PVT. LORRAINE,He’s in with Colonel Phillips. Of course you’re welcome to wait.  I read about what you did.,FEMALE
-526,STEVE ROGERS,"Oh! The…yeah! Well, that’s you know? Just doin’ what needed to be done.",MALE
-527,PVT. LORRAINE,Sounded like more than that. You saved nearly four hundred men.,FEMALE
-528,STEVE ROGERS,"Really, it’s not a big deal.",MALE
-529,PVT. LORRAINE,Tell that to their wives.,FEMALE
-530,STEVE ROGERS,Uh…I don’t think they were all married.,MALE
-531,PVT. LORRAINE,You’re a hero.,FEMALE
-532,STEVE ROGERS,"Well, that…you know? That…that depends on the definition of it really.",MALE
-533,PVT. LORRAINE,"The women of America, they owe you their thanks. And uh…seeing as they’re not here.",FEMALE
-534,PEGGY CARTER,Captain!  We’re ready for you. If you’re not otherwise occupied.,FEMALE
-535,STEVE ROGERS,"Agent Carter, wait.",MALE
-536,PEGGY CARTER,Looks like finding a partner wasn’t that hard after all.,FEMALE
-537,STEVE ROGERS,"Peggy, that’s not what you thought it was.",MALE
-538,PEGGY CARTER,"I don’t think anything, Captain. Not one thing. You always wanted to be soldier and now you are. Just like all the rest.",FEMALE
-539,STEVE ROGERS,"Well, what about you and Stark? How do I know you two haven’t been… fonduing?",MALE
-540,PEGGY CARTER,You still don’t know a bloody thing about women!,FEMALE
-541,HOWARD STARK,"Fondue is just cheese and bread, my friend.",MALE
-542,STEVE ROGERS,Really? I didn’t think…,MALE
-543,HOWARD STARK,"Nor should you, pal. The moment you think you know what’s goin’ on in a woman’s head, it’s the moment your goose is well and truly cooked. Me, I concentrate on work. Which at the moment is about making sure you and your men do not get killed. Carbon polymer.  Should withstand your average German bayonet. Although Hydra’s not going to attack you with a pocket knife.  I hear you’re uh… kinda attached?",MALE
-544,STEVE ROGERS,It’s handier than you might think.,MALE
-545,HOWARD STARK,I took the liberty of coming up with some options.  This one’s fun. She’s been fitted with electrical relays. It’ll allow you to…,MALE
-546,STEVE ROGERS,What about this one?,MALE
-547,HOWARD STARK,No! No! That’s just a prototype.,MALE
-548,STEVE ROGERS,What’s it made of?,MALE
-549,HOWARD STARK,Vibranium. It’s stronger than steel and a third of the weight. It’s completely vibration absorbent.,MALE
-550,STEVE ROGERS,How come it’s not a standard issue?,MALE
-551,HOWARD STARK,That’s the rarest metal on earth. What you’re holding there? That’s all we’ve got.,MALE
-552,PEGGY CARTER,"You quite finished, Mr. Stark? I’m sure the Captain has some unfinished business.",FEMALE
-553,STEVE ROGERS,What do you think?,MALE
-554,PEGGY CARTER,Yes. I think it works.,FEMALE
-555,STEVE ROGERS,I had some ideas about the uniform.,MALE
-556,HOWARD STARK,"Whatever you want, pal.",MALE
-557,RED SKULL,"You are failing! We are close to an offensive network that will shake the planet. And yet we are continually delayed, because you cannot outwit a simpleton with a shield!",MALE
-558,DR. ARNIM ZOLA,This is hardly my area of expertise. I…I merely develop the weapons. I…I cannot fire them.,MALE
-559,RED SKULL,"Finish your mission, Doctor. Before the American finishes his.",MALE
-560,GUARD,Sir!,MALE
-561,FACILITY MANAGER,"I’m sorry, Herr Schmidt. We fought to the last man.",FEMALE
-562,RED SKULL,Evidently not.,MALE
-563,JAMES BARNES,Remember when I made you ride the Cyclone at Coney Island?,MALE
-564,STEVE ROGERS,"Yeah, I and I threw up?",MALE
-565,JAMES BARNES,"This isn’t payback, is it?",MALE
-566,STEVE ROGERS,Now why would I do that?,MALE
-567,GABE JONES,"We were right. Dr. Zola’s on the train. Hydra dispatcher gave him permission to open up the throttle. Wherever he’s going, they must need him bad.",MALE
-568,JAMES MONTGOMERY FALSWORTH,"Let’s get going, because they’re moving like the devil.",MALE
-569,STEVE ROGERS,"We only got about a 10-second window. You miss that window, we’re bugs on a windshield.",MALE
-570,JAMES MONTGOMERY FALSWORTH,Mind the gap.,MALE
-571,DUM DUM DUGAN,"Better get moving, bugs!",MALE
-572,JACQUES DERNEIR,Maintenant!,MALE
-573,DR. ARNIM ZOLA,Stop him! Fire again!,MALE
-574,JAMES BARNES,I had him on the ropes.,MALE
-575,STEVE ROGERS,I know you did.  Get down!,MALE
-576,DR. ARNIM ZOLA,Fire again! Kill him! Now!,MALE
-577,STEVE ROGERS,Bucky! Hang on! Grab my hand! NO!,MALE
-578,COL. CHESTER PHILLIPS,Sit down.,MALE
-579,DR. ARNIM ZOLA,What is this?,MALE
-580,COL. CHESTER PHILLIPS,Steak.,MALE
-581,DR. ARNIM ZOLA,What is in it?,MALE
-582,COL. CHESTER PHILLIPS,"Cow. Doctor, do you realize how difficult it is to get ahold of a prime cut like that out here?",MALE
-583,DR. ARNIM ZOLA,I don’t eat meat.,MALE
-584,COL. CHESTER PHILLIPS,Why not?,MALE
-585,DR. ARNIM ZOLA,It disagrees with me.,MALE
-586,COL. CHESTER PHILLIPS,"How about cyanide? Does that give you the rumbly tummy too? Every Hydra agent that we’ve tried to take alive has crunched a little pill before we can stop him. But not you. So, here’s my brilliant theory.  You wanna live.",MALE
-587,DR. ARNIM ZOLA,"You’re trying to intimidate me, Colonel.",MALE
-588,COL. CHESTER PHILLIPS,I bought you dinner.,MALE
-589,DR. ARNIM ZOLA,"‘Given the variable information he has provided, and in exchange for his full cooperation, Dr. Zola is being remanded to Switzerland.’",MALE
-590,COL. CHESTER PHILLIPS,"I sent that message to Washington this morning. Of course it was encoded. You guys haven’t broken those codes, have you? That would be awkward.",MALE
-591,DR. ARNIM ZOLA,Schmidt will know this is a lie.,MALE
-592,COL. CHESTER PHILLIPS,"He’s gonna kill you anyway, Doc. You’re a liability. You know more about Schmidt than anyone. And the last guy you cost us was Captain Rogers’ closest friend. So, I wouldn’t count on the very best of protection. There’s you or Schmidt. It’s just the hand you’ve been dealt.",MALE
-593,DR. ARNIM ZOLA,Schmidt believes he walks in the foot steps of the Gods.,MALE
-594,COL. CHESTER PHILLIPS,Mmm.,MALE
-595,DR. ARNIM ZOLA,Only the world itself will satisfy him.,MALE
-596,COL. CHESTER PHILLIPS,"You do realize that’s nuts, don’t you?",MALE
-597,DR. ARNIM ZOLA,But the sanity of the plan is of no consequence.,MALE
-598,COL. CHESTER PHILLIPS,And why is that?,MALE
-599,DR. ARNIM ZOLA,Because he can do it!,MALE
-600,COL. CHESTER PHILLIPS,What’s his target?,MALE
-601,DR. ARNIM ZOLA,His target… is everywhere.,MALE
-602,RED SKULL,"Tomorrow, Hydra will stand master of the world. Born to victory on the wings of the Valkyrie. Our enemies weapons will be powerless against us. If they shoot down one plane, hundreds more will rain fire upon them! If they cut off one head, two more shall take its place. Hail Hydra!",MALE
-603,MAN ON THE RADIO,"Blackout is still in effect throughout the London area. Please wait for the all-clear. Your attention, please. All citizens shall remain indoors until further notice. Blackout is still in effect throughout the London area.",MALE
-604,STEVE ROGERS,"Dr. Erskine said that… the serum wouldn’t just effect my muscles, it would effect my cells. Create a protective system of regeneration and healing. Which means um…I can’t get drunk. Did you know that?",MALE
-605,PEGGY CARTER,Your metabolism burns four times faster than the average person. He thought it could be one of the side effects.  It wasn’t your fault.,FEMALE
-606,STEVE ROGERS,Did you read the reports?,MALE
-607,PEGGY CARTER,Yes.,FEMALE
-608,STEVE ROGERS,Then you know that’s not true.,MALE
-609,PEGGY CARTER,You did everything you could. Did you believe in your friend? Did you respect him?  Then stop blaming yourself. Allow Barnes the dignity of his choice. He damn well must have thought you were worth it.,FEMALE
-610,STEVE ROGERS,I’m goin’ after Schmidt. I’m not gonna stop till all of Hydra is dead or captured.,MALE
-611,PEGGY CARTER,You won’t be alone.,FEMALE
-612,COL. CHESTER PHILLIPS,"Johann Schmidt belongs in a bug house. He thinks he’s a God. He’s willing to blow up half the world to prove it, starting with the USA.",MALE
-613,HOWARD STARK,"Schmidt’s working with powers beyond our capabilities. He gets across the Atlantic, he will wipe out the entire eastern sea board in an hour.",MALE
-614,GABE JONES,How much time we got?,MALE
-615,COL. CHESTER PHILLIPS,"According to my new best friend, under twenty four hours.",MALE
-616,JACQUES DERNEIR,Where is he now?,MALE
-617,COL. CHESTER PHILLIPS,Hydra’s last base is here.  In the Alps. Five hundred feet below the surface.,MALE
-618,JIM MORITA,"So, what are we supposed to do. I mean, it’s not like we can just knock on the front door.",MALE
-619,STEVE ROGERS,Why not? That’s exactly what we’re gonna do.,MALE
-620,RED SKULL,"Arrogance may not be a uniquely American trait, but I must say you do it better than anyone. But there are limits to what even you can do, Captain. Or did Erskine tell you otherwise?",MALE
-621,STEVE ROGERS,He told me you were insane.,MALE
-622,RED SKULL,"Ah. He resented my genius and tried to deny me what was rightfully mine. But he gave you everything. So, what made you so special?",MALE
-623,STEVE ROGERS,Nothin’. I’m just a kid from Brooklyn.  I can do this all day.,MALE
-624,RED SKULL,"Oh, of course you can. Of course. But unfortunately I am on a tight schedule.",MALE
-625,STEVE ROGERS,So am I!,MALE
-626,JAMES MONTGOMERY FALSWORTH,Rogers! You might need this!,MALE
-627,STEVE ROGERS,Thanks!,MALE
-628,JIM MORITA,"We’re in! Assault team, go!",MALE
-629,COL. CHESTER PHILLIPS,Move out!  Keep your spacing!,MALE
-630,HYDRA SOLDIER,"Cutt off one head, two more shall…",MALE
-631,COL. CHESTER PHILLIPS,Let’s go find two more!,MALE
-632,STEVE ROGERS,You’re late.,MALE
-633,PEGGY CARTER,Weren’t you about to…,FEMALE
-634,STEVE ROGERS,Right.  Keep it steady!,MALE
-635,PEGGY CARTER,Wait!  Go get him.,FEMALE
-636,COL. CHESTER PHILLIPS,I’m not kissin’ you!,MALE
-637,RED SKULL,"You don’t give up, do you?",MALE
-638,STEVE ROGERS,Nope!,MALE
-639,RED SKULL,"You could have the power of the gods! Yet you wear a flag on your chest and think you fight a battle of nations! I have seen the future, Captain! There are no flags!",MALE
-640,STEVE ROGERS,Not my future!,MALE
-641,RED SKULL,What have you done? No.,MALE
-642,STEVE ROGERS,Come in. This is Captain Rogers. Do you read me?,MALE
-643,JIM MORITA,"Captain Rogers, what is your…",MALE
-644,PEGGY CARTER,"Steve, is that you? Are you alright?",FEMALE
-645,STEVE ROGERS,Peggy! Schmidt’s dead.,MALE
-646,PEGGY CARTER,What about the plane?,FEMALE
-647,STEVE ROGERS,That’s a little bit tougher to explain.,MALE
-648,PEGGY CARTER,"Give me your coordinates, I’ll find you a safe landing site.",FEMALE
-649,STEVE ROGERS,There’s not going to be a safe landing. But I can try and force it down.,MALE
-650,PEGGY CARTER,"I’ll get Howard on the line, he’ll know what to do.",FEMALE
-651,STEVE ROGERS,There’s not enough time. This thing’s moving too fast and it’s heading for New York.  I gotta put her in the water.,MALE
-652,PEGGY CARTER,"Please, don’t do this. We have time. We can work it out.",FEMALE
-653,STEVE ROGERS,"Right now I’m in the middle of nowhere. If I wait any longer a lot of people are gonna die. Peggy, this is my choice.  Peggy?",MALE
-654,PEGGY CARTER,I’m here.,FEMALE
-655,STEVE ROGERS,I’m gonna need a rain check on that dance.,MALE
-656,PEGGY CARTER,"Alright. A week, next Saturday, at the Stork Club.",FEMALE
-657,STEVE ROGERS,You got it.,MALE
-658,PEGGY CARTER,Eight o’clock on the dot. Don’t you dare be late. Understood?,FEMALE
-659,STEVE ROGERS,"You know, I still don’t know how to dance.",MALE
-660,PEGGY CARTER,I’ll show you how. Just be there.,FEMALE
-661,STEVE ROGERS,We’ll have the band play somethin’ slow. I’d hate to step on your…,MALE
-662,PEGGY CARTER,Steve? Steve? Steve?,FEMALE
-663,JAMES MONTGOMERY FALSWORTH,To the Captain.,MALE
-664,STARK'S ENGINEER,Sir?,MALE
-665,HOWARD STARK,Take us to the next grid point.,MALE
-666,STARK'S ENGINEER,But there’s not trace of wreckage. And the energy signature stops here.,MALE
-667,HOWARD STARK,Just keep looking.,MALE
-668,DODGERS ANNOUNCER,"Curve ball, high and outside for ball one. So the Dodgers are tied, 4-4. And the crowd well knows that with one swing of his bat, this fellow’s capable of making it a brand-new game again. Just an absolutely gorgeous day here at Ebbets Field. The Phillies have managed to tie up at 4-4. But the Dodgers have three men on. Pearson beaned Reiser in Philadelphia last month. Wouldn’t the youngster like a hit here to return the favour? Pete leans in. Here’s the pitch. Swung on. A line to the right. And it gets past Rizzo. Three runs will score. Reiser heads to third. Durocher’s going to wave him in. Here comes the relay, but they won’t get him.",MALE
-669,SHIELD AGENT,"Good morning.  Or should I say, afternoon?",MALE
-670,STEVE ROGERS,Where am I?,MALE
-671,SHIELD AGENT,You’re in a recovery room in New York city.,MALE
-672,DODGERS ANNOUNCER,"The Dodgers take the lead, 8-4. Oh, Dodgers! Everyone is on their feet. What a game we have here today, folks. What a game indeed.",MALE
-673,STEVE ROGERS,Where am I really?,MALE
-674,SHIELD AGENT,I’m afraid I don’t understand.,MALE
-675,STEVE ROGERS,"The game, it’s from May, nineteen forty one. I know, cause I was there.  Now, I’m gonna ask you again. Where am I?",MALE
-676,SHIELD AGENT,Captain Rogers…,MALE
-677,STEVE ROGERS,Who are you?,MALE
-678,SHIELD AGENT,"Captain Rogers, wait!  All agents, code 13! I repeat. All agents, code 13!",MALE
-679,NICK FURY,"At ease, soldier! Look, I’m sorry about that little show back there, but… we thought it best to break it to you slowly.",MALE
-680,STEVE ROGERS,Break what?,MALE
-681,NICK FURY,"You’ve been asleep, Cap. For almost seventy years.  You gonna be okay?",MALE
-682,STEVE ROGERS,Yeah. Yeah. I just…I had a date.,MALE
-683,NICK FURY,Trouble sleeping?,MALE
-684,STEVE ROGERS,"You’re here with a mission, sir?",MALE
-685,NICK FURY,I am.,MALE
-686,STEVE ROGERS,Trying to get me back in the world?,MALE
-687,NICK FURY,Trying to save it.,MALE
+character,line,gender
+SEARCH TEAM LEADER,Are you the guys from Washington?,MALE
+SHIELD TECH,You get many other visitors out here?,MALE
+SHIELD LIEUTENANT,How long have you been on site?,MALE
+SEARCH TEAM LEADER,Since this morning. A Russian oil team called it in about 18 hours ago.,MALE
+SHIELD LIEUTENANT,How come nobody spotted it before?,MALE
+SEARCH TEAM LEADER,It’s really not that surprising. This landscape’s changing all the time. You got any ideas what this thing is exactly?,MALE
+SHIELD LIEUTENANT,I don’t know. It’s probably a weather balloon.,MALE
+SEARCH TEAM LEADER,I don’t think so. You know we don’t have the equipment for a job like this.,MALE
+SHIELD TECH,How long before we can start craning it out?,MALE
+SEARCH TEAM LEADER,I don’t think you quite understand. You guys are gonna need one hell of a crane!,MALE
+SHIELD LIEUTENANT,"Base, we’re in.  What is this?  Careful.",MALE
+SHIELD TECH,Lieutenant! What is it?,MALE
+SHIELD LIEUTENANT,"My God!  Base, give me a line to the Colonel.",MALE
+VOICE FROM EARPIECE,"It’s 3 a.m., sir.",NEUTRAL
+SHIELD LIEUTENANT,I don’t care what time it is. This one’s waited long enough.,MALE
+JAN,They have come for it!,MALE
+TOWER KEEPER,They have before.,MALE
+JAN,Not like this.,MALE
+TOWER KEEPER,Let them come. They will never find it.,MALE
+HYDRA LIEUTENANT,"Open it! Quickly, before he…",MALE
+RED SKULL,It has taken me a long time to find this place.  You should be commended.  Help him up.,MALE
+RED SKULL,I think that you are man of great vision. And in this way we are much alike.,MALE
+TOWER KEEPER,I am nothing like you.,MALE
+RED SKULL,"No, of course. But what others see as superstition, you and I know to be a science.",MALE
+TOWER KEEPER,What you seek is just a legend.,MALE
+RED SKULL,"Then why make such an effort to conceal it?  The Tesseract was the jewel of Odin’s treasure room.  It’s not something one buries. But I think it is close, yes?",MALE
+TOWER KEEPER,I cannot help you.,MALE
+RED SKULL,No. But maybe you can help your village. You must have some friends out there. Some… some little grandchildren perhaps. I have no need for them to die.,MALE
+RED SKULL,"Yggdrasil. Tree of the world. Guardian of wisdom and fate, also.  And the Führer digs for trinkets in the desert. You have never seen this, have you?",MALE
+TOWER KEEPER,It’s not for the eyes of ordinary men.,MALE
+RED SKULL,Exactly.  Gove the order to open fire.,MALE
+HYDRA LIEUTENANT,Jawohl!,MALE
+TOWER KEEPER,Fool! You cannot control the power you hold. You will burn!,MALE
+RED SKULL,I already have.,MALE
+4F DOCTOR,"O’Connel, Michael. Kaminsky, Henry.",MALE
+STEVE ROGERS,"Boy, a lot of guys getting killed over there.",MALE
+4F DOCTOR,"Rogers, Steven.",MALE
+ENLISTMENT GUY,"It kind of makes you think twice about enlisting, huh?",MALE
+STEVE ROGERS,Nope.,MALE
+4F DOCTOR,Rogers. What did your father die of?,MALE
+STEVE ROGERS,Mustard gas. He was in the hundred and seventh infantry. I was hoping I could be assigned…,MALE
+4F DOCTOR,Your mother?,MALE
+STEVE ROGERS,"She was a nurse in a TB ward. Got hit, couldn’t shake it.",MALE
+4F DOCTOR,"Sorry, son.",MALE
+STEVE ROGERS,"Look, just give me a chance.",MALE
+4F DOCTOR,You’d be ineligible on your asthma alone.,MALE
+STEVE ROGERS,Is there anything you can do?,MALE
+4F DOCTOR,I’m doing it. I’m saving your life.,MALE
+COMMERCIAL ANNOUNCER,"War continues to ravage Europe. But help is on the way. Every able-bodied young man is lining up to serve his country. Even little Timmy is doing his part collecting scrap metal. Nice work, Timmy!",MALE
+LOUD JERK,Who cares? Play the movie already!,MALE
+STEVE ROGERS,"Hey, you wanna show some respect?",MALE
+COMMERCIAL ANNOUNCER,"Meanwhile, overseas, our brave boys are showing the Axis powers that the price freedom is never too high.",MALE
+LOUD JERK,"Let’s got! Get on with it! Hey, just start the cartoon!",MALE
+STEVE ROGERS,"Hey buddy, you wanna shut up?!",MALE
+COMMERCIAL ANNOUNCER,"Together with Allied forces, we’ll face any threat, no matter the size.",MALE
+LOUD JERK,"You just don’t know when to give up, do you?",MALE
+STEVE ROGERS,I can do this all day.,MALE
+JAMES BARNES,Hey! Pick on someone your own size.,MALE
+JAMES BARNES,"Sometimes, I think you like getting punched.",MALE
+STEVE ROGERS,I had him on the ropes.,MALE
+JAMES BARNES,How many times is this?,MALE
+JAMES BARNES,"Oh, you’re from Paramus now? You know it’s illegal to lie on the enlistment form. And seriously, Jersey?",MALE
+STEVE ROGERS,You get your orders?,MALE
+JAMES BARNES,The one-o-seventh. Sergeant James Barnes. Shipping out for England first thing tomorrow.,MALE
+STEVE ROGERS,I should be going.,MALE
+JAMES BARNES,"Come on, man. My last night! Gotta get you cleaned up.",MALE
+STEVE ROGERS,Why? Where are we going?,MALE
+JAMES BARNES,The future.,MALE
+JAMES BARNES,"I don’t see what the problem is. You’re about to be the last eligible man in New York. You know, there’s three and a half million women here.",MALE
+STEVE ROGERS,"Well, I’d settle for just one.",MALE
+JAMES BARNES,Good thing I took care of that.,MALE
+CONNIE,"Hey, Bucky!",FEMALE
+STEVE ROGERS,What did you tell her about me?,MALE
+JAMES BARNES,Only the good stuff.,MALE
+EXPO ANNOUNCER,Welcome to the Modern Marvels Paviliion and the World of Tomorrow. A greater world. A better world.,FEMALE
+CONNIE,"Oh, my God! It’s starting!",FEMALE
+MANDY,"Ladies and gentlemen, Mr. Howard Stark!",FEMALE
+RANDOM WOMAN,"I love you, Howard!",FEMALE
+HOWARD STARK,"Ladies and gentlemen, what if I told you that in just a few short years, your automobile won’t even have to touch the ground at all.",MALE
+HOWARD STARK,"Yes. Thanks, Mandy.  With Stark robotic reversion technology, you’ll be able to do just that.",MALE
+JAMES BARNES,Holy cow.,MALE
+HOWARD STARK,"I did say a few years, didn’t I?",MALE
+JAMES BARNES,"Hey, Steve, what do you say we treat these girls…",MALE
+WOMAN,"Come on, soldier.",FEMALE
+JAMES BARNES,Come on. You’re kind of missing the point of a double date. We’re taking the girls dancing.,MALE
+STEVE ROGERS,You go ahead. I’ll catch up with you.,MALE
+JAMES BARNES,You’re really gonna do this again?,MALE
+STEVE ROGERS,"Well, it’s a fair. I’m gonna try my luck.",MALE
+JAMES BARNES,"As who? Steve from Ohio? They’ll catch you. Or worse, they’ll actually take you.",MALE
+STEVE ROGERS,"Look, I know you don’t think I can do this.",MALE
+JAMES BARNES,"This isn’t a back alley, Steve. It’s war!",MALE
+STEVE ROGERS,I know it’s a war. You don’t have to tell me.,MALE
+JAMES BARNES,Why are you so keen to fight? There are so many important jobs.,MALE
+STEVE ROGERS,What am I gonna do? Collect scrap metal…,MALE
+JAMES BARNES,Yes!,MALE
+STEVE ROGERS,…in my little red wagon.,MALE
+JAMES BARNES,Why not?,MALE
+STEVE ROGERS,"I’m not gonna sit in a factory, Bucky.",MALE
+JAMES BARNES,I don’t…,MALE
+STEVE ROGERS,"Bucky, come on! There are men laying down their lives. I got no right to do any less than them. That’s what you don’t understand. This isn’t about me.",MALE
+JAMES BARNES,Right. Cause you got nothing to prove.,MALE
+CONNIE,"Hey, Sarge! Are we going dancing?",FEMALE
+JAMES BARNES,"Yes, we are.  Don’t do anything stupid until I get back.",MALE
+STEVE ROGERS,How can I? You’re taking all the stupid with you.,MALE
+JAMES BARNES,You’re a punk.,MALE
+STEVE ROGERS,Jerk. Be careful.,MALE
+STEVE ROGERS,Don’t win the war till I get there!,MALE
+JAMES BARNES,Come on girls. They’re playing our song.,MALE
+YOUNG DOCTOR,Wait here.,MALE
+STEVE ROGERS,Is there a problem?,MALE
+YOUNG DOCTOR,Just wait here.,MALE
+DR. ABRAHAM ERSKINE,"Thank you.  So, you want to go overseas. Kill some Nazis.",MALE
+STEVE ROGERS,Excuse me?,MALE
+DR. ABRAHAM ERSKINE,Dr. Abraham Erskine.  I represent the Strategic Scientific Reserve.,MALE
+STEVE ROGERS,Steve Rogers.,MALE
+STEVE ROGERS,Where are you from?,MALE
+DR. ABRAHAM ERSKINE,"Queens. 73rd Street and Utopia Parkway. Before that, Germany. This troubles you?",MALE
+STEVE ROGERS,No.,MALE
+DR. ABRAHAM ERSKINE,"Where are you from, Mr. Rogers? Mmm? Is it New Haven? Or Paramus? Five exams in five different cities.",MALE
+STEVE ROGERS,That might not be the right file.,MALE
+DR. ABRAHAM ERSKINE,"No, it’s not the exams I’m interested in. It’s the five tries. But you didn’t answer my question. Do you want to kill Nazis?",MALE
+STEVE ROGERS,Is this a test?,MALE
+DR. ABRAHAM ERSKINE,Yes.,MALE
+STEVE ROGERS,I don’t wanna kill anyone. I don’t like bullies. I don’t care where they’re from.,MALE
+DR. ABRAHAM ERSKINE,"Well, there are already so many big men fighting this war. Maybe what we need now is the little guy, huh? I can offer you a chance.",MALE
+DR. ABRAHAM ERSKINE,Only a chance.,MALE
+STEVE ROGERS,I’ll take it.,MALE
+DR. ABRAHAM ERSKINE,"Good. So where is the little guy from, actually?",MALE
+STEVE ROGERS,Brooklyn.,MALE
+DR. ABRAHAM ERSKINE,"Congratulations, soldier.",MALE
+RED SKULL,"Are you ready, Dr. Zola?",MALE
+DR. ARNIM ZOLA,My machine requires the most delicate calibration. Forgive me if I seem overcautious.,MALE
+RED SKULL,And are you certain that those conductors of yours can withstand the energy surge long enough for a transference?,MALE
+DR. ARNIM ZOLA,"With this artifact, I am certain of nothing. I fear it may not work at all.",MALE
+DR. ARNIM ZOLA,Twenty percent. Forty. Sixty. Stabilising at 70%.,MALE
+RED SKULL,"I have not come all this way for safety, Doctor.",MALE
+DR. ARNIM ZOLA,What is that?,MALE
+RED SKULL,"I must congratulate you, Arnim. Your designs do not disappoint. Though they may require some slight reinforcement.",MALE
+DR. ARNIM ZOLA,"The exchange is stable. Amazing! The energy we have just collected could power my design, all my designs. This will change the war.",MALE
+RED SKULL,"Dr. Zola, this will change the world.",MALE
+OFFICER,"Ready, exercise!",FEMALE
+PEGGY CARTER,"Recruits, attention! Gentlemen, I’m Agent Carter. I supervise all operations for this division.",FEMALE
+GILMORE HODGE,"What’s with the accent, Queen Victoria? Thought I was signing up for the U.S. Army.",MALE
+PEGGY CARTER,"What’s your name, soldier?",FEMALE
+GILMORE HODGE,"Gilmore Hodge, your Majesty.",MALE
+PEGGY CARTER,"Step forward, Hodge.",FEMALE
+PEGGY CARTER,Put your right foot forward.,FEMALE
+GILMORE HODGE,Mmm… We gonna wrassle? Cause I got a few moves I know you’ll like.,MALE
+COL. CHESTER PHILLIPS,Agent Carter.,MALE
+PEGGY CARTER,Colonel Phillips.,FEMALE
+COL. CHESTER PHILLIPS,I see you’re breaking in the candidates. That’s good!  Get your ass up out of that dirt and stand in that line at attention 'til somebody comes tells you what to do.,MALE
+GILMORE HODGE,"Yes, sir.",MALE
+COL. CHESTER PHILLIPS,General Patton has said that wars are fought with weapons but they are won by men. We are going to win this war because we have the best men…  And because they’re gonna get better. Much better. The Strategic Scientific Reserve is an Allied effort made up of the best minds in the free world. Our goal is to create the best army in history. But every army starts with one man. At the end of this week we will choose that man. He will be the first in a new breed of super-soldiers.,MALE
+SERGEANT DUFFY,Rogers! Get that rifle out of the mud!,MALE
+COL. CHESTER PHILLIPS,"And they, will personally escort Adolf Hitler to the gates of Hell.",MALE
+SERGEANT DUFFY,"Pick up the pace, ladies! Let’s go! Double time! Come on! Faster! Faster! Move! Move!  Squad, halt! That flag means we’re only at the halfway point. First man to bring it to me gets a ride back with Agent Carter. Move, move!",MALE
+SOLDIERS,Come on! Get up there!,MALE
+SERGEANT DUFFY,"If that’s all you got, this army’s in trouble! Get up there, Hodge! Come on! Get up there! Nobody’s got that flag in 17 years! Now fall back into line! Come on, fall in! Let’s go! Get back into formation! Rogers! I said fall in!",MALE
+STEVE ROGERS,"Thank you, sir.",MALE
+PEGGY CARTER,"Faster, ladies! Come on. My grandmother has more life in her, God rest her soul. Move it!",FEMALE
+COL. CHESTER PHILLIPS,"You’re not really thinking about picking Rogers, are you?",MALE
+DR. ABRAHAM ERSKINE,I am more than just thinking about it. He is the clear choice.,MALE
+COL. CHESTER PHILLIPS,"When you brought a ninety-pound asthmatic onto my army base, I let it slide. I thought, what the hell? Maybe he’ll be useful to you, like a gerbil. I never thought you’d pick him.",MALE
+PEGGY CARTER,Up.,FEMALE
+COL. CHESTER PHILLIPS,You stick a needle in that kids arm and it’s gonna go right through him.,MALE
+PEGGY CARTER,"Come on, girls.",FEMALE
+COL. CHESTER PHILLIPS,Look at that. He’s making me cry.,MALE
+DR. ABRAHAM ERSKINE,I am looking for qualities beyond the physical.,MALE
+COL. CHESTER PHILLIPS,Do you know how long it took to set up this project?,MALE
+DR. ABRAHAM ERSKINE,"Yeah, I know.",MALE
+COL. CHESTER PHILLIPS,All the groveling I had to do in front of Senator What’s-His-Name’s committees?,MALE
+DR. ABRAHAM ERSKINE,"Brandt. Yes, I know. I am well aware of your efforts.",MALE
+COL. CHESTER PHILLIPS,"Then throw me a bone. Hodge passed every test we gave him. He’s big, he’s fast, he obeys orders. He’s a soldier.",MALE
+DR. ABRAHAM ERSKINE,He’s a bully.,MALE
+COL. CHESTER PHILLIPS,"You don’t win wars with niceness, doctor.  You win war with guts.  Grenade!",MALE
+STEVE ROGERS,Get away! Get back!,MALE
+OFFICER,It was a dummy grenade. All clear. Back in formation.,FEMALE
+STEVE ROGERS,Is this is a test?,MALE
+COL. CHESTER PHILLIPS,He’s still skinny.,MALE
+DR. ABRAHAM ERSKINE,May I?,MALE
+STEVE ROGERS,Yeah.,MALE
+DR. ABRAHAM ERSKINE,Can’t sleep?,MALE
+STEVE ROGERS,"I got the jitters, I guess.",MALE
+DR. ABRAHAM ERSKINE,"Me, too.",MALE
+STEVE ROGERS,Can I ask you a question?,MALE
+DR. ABRAHAM ERSKINE,Just one?,MALE
+STEVE ROGERS,Why me?,MALE
+DR. ABRAHAM ERSKINE,"I suppose that is the only question that matters.  This is from Augsburg. My city. So many people forget that the first country that the Nazi’s invaded was their own. You know, after the last war the… my people struggled. They… they felt weak. They felt small. And then Hitler comes along with the marching and the big show and the flags and the… and the…  And he… he hears of me, my work and he finds me. And he says, ""You."" He says, ""You will make us strong."" Well, I am not interested. So he sends the head of HYDRA, his research division. A brilliant scientist by the name of Johann Schmidt. Now, Schmidt is a member of the inner circle and he’s ambitious. He and Hitler share a passion for occult power and Teutonic myth. Hitler uses his fantasies to inspire his followers. But for Schmidt, it is not fantasy. For him, it is real. He has become convinced that there is a great power hidden in the earth, left here by the Gods, waiting to be seized by a superior man. So when he hears about my formula and what it can do, he cannot resist.",MALE
+DR. ABRAHAM ERSKINE,Schmidt must become that superior man.,MALE
+STEVE ROGERS,Did it make him stronger?,MALE
+DR. ABRAHAM ERSKINE,"Yeah. But, there were other effects. The serum was not ready. But more important, the man. The serum amplifies everything that is inside. So, good becomes great. Bad becomes worse. This is why you were chosen. Because a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion.",MALE
+STEVE ROGERS,Thanks. I think.,MALE
+DR. ABRAHAM ERSKINE,"Whatever happens tomorrow, you must promise me one thing. That you will stay who you are. Not a perfect soldier, but a good man.",MALE
+STEVE ROGERS,To the little guys.,MALE
+DR. ABRAHAM ERSKINE,No! No! Wait! Wait! What I am doing? No! You have a procedure tomorrow. No fluids.,MALE
+STEVE ROGERS,All right. We’ll drink it after.,MALE
+DR. ABRAHAM ERSKINE,No! I don’t have procedure tomorrow. Drink it after? Drink it now!,MALE
+RED SKULL,Is there something in particular you need?,MALE
+DR. ARNIM ZOLA,I understand you found him.,MALE
+RED SKULL,See for yourself.  You disapprove.,MALE
+DR. ARNIM ZOLA,I just don’t see why you need concern yourself. I can’t imagine he will succeed.  Again.,MALE
+RED SKULL,"His serum is the Allies’ only defence against this power we now possess. If we take it away from them, then our victory is assured.",MALE
+DR. ARNIM ZOLA,Shall I give the order?,MALE
+RED SKULL,It has been given.,MALE
+DR. ARNIM ZOLA,Good.,MALE
+RED SKULL,Dr. Zola.  What do you think?,MALE
+DR. ARNIM ZOLA,A masterpiece.,MALE
+STEVE ROGERS,I know this neighborhood. I got beat up in that alley. And that parking lot. And behind that diner.,MALE
+PEGGY CARTER,Did you have something against running away?,FEMALE
+STEVE ROGERS,"You start running they’ll never let you stop. You stand up, push back. Can’t say no forever, right?",MALE
+PEGGY CARTER,I know a little of what that’s like. To have every door shut in your face.,FEMALE
+STEVE ROGERS,"I guess I just don’t why you’d wanna join the army if you’re a beautiful dame. Or a beautiful… a woman. An agent, not a dame! You are beautiful, but…",MALE
+PEGGY CARTER,"You have no idea how to talk to a woman, do you?",FEMALE
+STEVE ROGERS,This is the longers conversation I’ve had with one. Women aren’t exactly lining up to dance with a guy they might step on.,MALE
+PEGGY CARTER,You must have danced?,FEMALE
+STEVE ROGERS,"Well, asking a woman to dance always seems so terrifying. And the past few years just didn’t seem to matter that much. Figured I’d wait.",MALE
+PEGGY CARTER,For what?,FEMALE
+STEVE ROGERS,The right partner.,MALE
+PEGGY CARTER,This way.,FEMALE
+STEVE ROGERS,What are we doing here?,MALE
+PEGGY CARTER,Follow me.,FEMALE
+ANTIQUE STORE OWNER,Wonderful weather this morning isn’t it?,FEMALE
+PEGGY CARTER,"Yes, but I always carry an umbrella.",FEMALE
+DR. ABRAHAM ERSKINE,"Good morning.  Please, not now.  Are you ready?  Good. Take off your shirt, your tie and your hat.",MALE
+COL. CHESTER PHILLIPS,"Senator Brandt, glad you could make it.",MALE
+SENATOR BRANDT,Why exactly am I in Brooklyn?,MALE
+COL. CHESTER PHILLIPS,"We needed access to the city’s power grid. Of course, if you’d given me the generators I requisitioned…",MALE
+SENATOR BRANDT,"A lot of people are asking for funds, Colonel.  Oh, this is…",MALE
+HEINZ KRUGER,"Fred Clemson, State Department.  If this project of yours comes through, we’d like to see it used for something other than headlines.",MALE
+SENATOR BRANDT,Jesus. Somebody get that kid a sandwich.,MALE
+DR. ABRAHAM ERSKINE,Comfortable?,MALE
+STEVE ROGERS,It’s a little big. You save me any of that schnapps?,MALE
+DR. ABRAHAM ERSKINE,"Not as much as I should have. Sorry. Next time. Mr. Stark, how are your levels?",MALE
+HOWARD STARK,Levels at 100%.,MALE
+DR. ABRAHAM ERSKINE,Good.,MALE
+HOWARD STARK,"We may dim half the lights in Brooklyn, but we are ready as we’ll ever be.",MALE
+DR. ABRAHAM ERSKINE,Agent Carter? Don’t you think you would be more comfortable in the booth?,MALE
+PEGGY CARTER,"Oh, yes. Of course. Sorry.",FEMALE
+DR. ABRAHAM ERSKINE,"Good.  Do you hear me? is this on?  Ladies and gentlemen, today we take not another step towards annihilation, but the first step on the path to peace. We begin with a series of micro injections into the subjects major muscle groups. The serum infusion will cause immediate cellular change. And then to stimulate growth, the subject will be saturated with Vita-Rays.",MALE
+STEVE ROGERS,That wasn’t so bad.,MALE
+DR. ABRAHAM ERSKINE,"That was penicillin.  Serum infusion beginning in five, four, three, two, one.  Now, Mr. Stark.   Steven, can you hear me?",MALE
+STEVE ROGERS,"It’s probably too late to go to the bathroom, right?",MALE
+DR. ABRAHAM ERSKINE,We will proceed.,MALE
+HOWARD STARK,That’s ten percent. Twenty percent. Thirty. That’s 40 %.,MALE
+SSR DOCTOR,Vital signs are normal.,MALE
+HOWARD STARK,That’s 50 %. Sixty. Seventy.,MALE
+DR. ABRAHAM ERSKINE,Steven!,MALE
+PEGGY CARTER,Shut it down.,FEMALE
+DR. ABRAHAM ERSKINE,Steven!,MALE
+PEGGY CARTER,Shut it down!,FEMALE
+DR. ABRAHAM ERSKINE,"Kill the reactor, Mr. Stark! Turn it off! Kill it! Kill the reactor!",MALE
+STEVE ROGERS,No! Don’t! I can do this!,MALE
+HOWARD STARK,Eighty. Ninety. That’s 100 %.,MALE
+DR. ABRAHAM ERSKINE,Mr. Stark?,MALE
+DR. ABRAHAM ERSKINE,Steven. Steven.,MALE
+COL. CHESTER PHILLIPS,The son of a bitch did it.,MALE
+STEVE ROGERS,I did it.,MALE
+DR. ABRAHAM ERSKINE,"Yeah, yeah. I think we did it.",MALE
+HOWARD STARK,We actually did it.,MALE
+PEGGY CARTER,How do you feel?,FEMALE
+STEVE ROGERS,Taller.,MALE
+PEGGY CARTER,You look taller.,FEMALE
+COL. CHESTER PHILLIPS,"How do you like Brooklyn now, Senator?",MALE
+SENATOR BRANDT,"I can think of some folks in Berlin who are about to get very nervous. Congratulations, Doctor.",MALE
+DR. ABRAHAM ERSKINE,"Thank you, sir.",MALE
+DR. ABRAHAM ERSKINE,Stop him!,MALE
+TAXI DRIVER,"What are you doing? Buddy, are you all right? Hey, this guy’s been shot!",MALE
+STEVE ROGERS,"Sorry!   I’m sorry.  Whoa, whoa, whoa!",MALE
+MOTHER,No! No! Not my son!,FEMALE
+YOUNG BOY,Stop it!,MALE
+MOTHER,Don’t hurt him!,FEMALE
+HEINZ KRUGER,Get back!,MALE
+YOUNG BOY,Let me go!,MALE
+MOTHER,Let go of my son! Don’t hurt him!,FEMALE
+STEVE ROGERS,"Wait, don’t! Don’t!  No! Don’t!",MALE
+YOUNG BOY,Go get him! I can swim!,MALE
+STEVE ROGERS,Who the hell are you?,MALE
+HEINZ KRUGER,"The first of many. Cut off one head, two more shall take its place. Hail HYDRA!",MALE
+HUTTER,"The Führer is not accustomed to being ignored, Herr Schmidt. He funds your research because you promised him weapons.",MALE
+SCHNEIDER,You serve at his pleasure. He gave you this facility as a reward for your injuries.,MALE
+RED SKULL,Reward? Call it what it is. Exile. I no longer reflect his image of Aryan perfection.,MALE
+ROEDER,You think this is about appearances? Your HYDRA division has failed to deliver so much as a rifle in over a year. And we had learned through local intelligence you had mounted a full-scale incursion into Norway.,MALE
+SCHNEIDER,"The Führer feels… How does he put it? ""The Red Skull has been indulged long enough!""",MALE
+RED SKULL,"Gentlemen, you have come to see the results of our work. Let me show you.  Hitler speaks of a thousand-year Reich, but he cannot feed his army for a month. His troops spill their blood across every field in Europe. But still he is no closer to achieving his goals.",MALE
+ROEDER,And I suppose you still aim to end this war through magic?,MALE
+RED SKULL,"Science. But I understand your confusion. Great power has always baffled primitive men. HYDRA is assembling an arsenal to destroy my enemies in one stroke. Where ever they are, regardless of how many forces they possess. All in a matter of hours.",MALE
+ROEDER,Your enemies?,MALE
+RED SKULL,"My weapons contain enough destructive power to decimate every hostile capital on earth. Quite simply, gentlemen, I have harnessed the power of the Gods.",MALE
+SCHNEIDER,"Thank you, Schmidt.",MALE
+RED SKULL,For what?,MALE
+SCHNEIDER,For making it clear how obviously mad you are.,MALE
+HUTTER,Berlin is on this map!,MALE
+RED SKULL,So it is.,MALE
+HUTTER,You will be punished for your insolence! You will be brought before the Führer himself!,MALE
+ROEDER,Schmidt!!!,MALE
+RED SKULL,"My apolpgies, Doctor, but we both knew HYDRA could grow no further in Hitler’s shadow. Hail HYDRA.",MALE
+HYDRA TECHNICIANS,Hail HYDRA!,FEMALE
+DR. ARNIM ZOLA,Hail HYDRA!,MALE
+STEVE ROGERS,Think you got enough?,MALE
+PEGGY CARTER,"Any hope of reproducing a program is locked in your genetic code. But without Dr. Erskine, it could take years.",FEMALE
+STEVE ROGERS,He deserved more than this.,MALE
+PEGGY CARTER,"If it could only work once, he’d be proud it was you.",FEMALE
+SENATOR BRANDT,"Colonel Phillips, my committee is demanding answers.",MALE
+COL. CHESTER PHILLIPS,Great. Why don’t we start with how a German spy got a ride to my secret installation in your car?  What have we got here?,MALE
+HOWARD STARK,"Speaking modestly, I’m the best mechanical engineer in this country. But I don’t know what’s inside this thing or how it works. We’re not even close to this technology.",MALE
+SENATOR BRANDT,Then who is?,MALE
+COL. CHESTER PHILLIPS,HYDRA. I’m sure you’ve been reading our briefings.,MALE
+SENATOR BRANDT,"I’m on a number of committees, Colonel.",MALE
+PEGGY CARTER,HYDRA is the Nazi deep science division. It’s led by Johann Schmidt. But he has much bigger ambitions.,FEMALE
+COL. CHESTER PHILLIPS,"HYDRA’s practically a cult. They worship Schmidt, they think he’s invincible.",MALE
+SENATOR BRANDT,So what are you gonna do about it?,MALE
+COL. CHESTER PHILLIPS,Spoke to the president this morning. As of today the SSR is being retasked.,MALE
+PEGGY CARTER,Colonel?,FEMALE
+COL. CHESTER PHILLIPS,"We are taking the fight to HYDRA. Pack your bags Agent Carter. You too, Stark. You’re flying to London tonight.",MALE
+STEVE ROGERS,"Sir, if you’re going after Schmidt, I want in.",MALE
+COL. CHESTER PHILLIPS,You’re an experiment. You’re going to Alamogordo.,MALE
+STEVE ROGERS,The serum worked.,MALE
+COL. CHESTER PHILLIPS,I asked for an army and all I got was you. You are not enough.,MALE
+SENATOR BRANDT,"With all due respect to the Colonel, I think we may be missing the point. I’ve seen you in action, Steve. More importantly, the country’s seen it.  Paper. The enlistment lines have been around the block since your picture hit the newsstands. You don’t take a soldier, a symbol like that, and hide him in a lab. Son, do you want to serve your country on the most important battlefield of the war?",MALE
+STEVE ROGERS,"Sir, that’s all I want.",MALE
+SENATOR BRANDT,"Then, congratulations. You just got promoted.",MALE
+STEVE ROGERS,I don’t know if I can do this.,MALE
+BRANDT'S AIDE,"Nothing to it. Sell off a few bonds, bonds buy bullets, bullets kills Nazi’s. Bing bang boom. You’re an American hero.",MALE
+STEVE ROGERS,It’s just not how I pictured getting there.,MALE
+BRANDT'S AIDE,"The senator’s got a lot of pull up on the hill. You play ball with us, you’ll be leading your own platoon in no time. Take the shield.",MALE
+USO SINGER,"Who’s strong and brave, here to save the American way?",MALE
+STEVE ROGERS,Not all of us can storm a beach or drive a tank. But there’s still a way all of us can fight.,MALE
+USO SINGER,"Who vows to fight like a man, for what’s right, night and day?",MALE
+STEVE ROGERS,Series E Defence Bonds. Each one you buy is a bullet in the barrel of your best guy’s gun.,MALE
+USO SINGER,"Who will campaign door-to-door for America? Carry the flag shore to shore for America? From Hoboken to Spokane, the star-spangeld man with a plan.",MALE
+DIRECTOR,"Cut. Guys, don’t look ath the camera.",MALE
+USO SINGER,We can’t ignore there’s a threat and a war we must win.,MALE
+STEVE ROGERS,Each one you buy is a bullet in the barrel of your best guy’s gun.,MALE
+USO SINGER,"Who’ll hang a noose on the goose-stepping goons from Berlin? Who will redeem, heed the call for America? Who’ll rise or fall, give his all for America? Who’s here to prove that we can? The star-spangled man with a plan.",MALE
+STEVE ROGERS,"We all know this is about trying to win the war. We can’t do that without bullets and bandages, tanks and tents. That’s where you come in. Every bond you buy will help protect someone you love.",MALE
+KIDS IN USO AUDIENCE,Turn around! He’s right behind you!,NEUTRAL
+STEVE ROGERS,"Keep our boys armed and ready, and the Germans will think twice about trying to get the drop on us.",MALE
+USO SINGER,"Stalwart and steady and true, forcefull and ready to defend, the red, white, and blue. Who’ll give the Axis the sack and is smart as a fox? Far as an eagle will soar. Who’s making Adolf afraid to step out of his box? He knows what we’re fighting for. Who waked the giant that napped in America? We know it’s no one but Captain America. Who’ll finish what they began? Who’ll kick the Krauts to Japan? The star-spangled man with a aplan!",MALE
+STEVE ROGERS,How many of you ready to help me sock old Adolf on the jaw?  Okay. Uh… I need a volunteer.,MALE
+ARMY HECKLER#1,I already volunteered! How do you think I got here?  Bring back the girls!,FEMALE
+STEVE ROGERS,I think they only know the one song. But um…let me…I’ll…I’ll see what I can do.,MALE
+ARMY HECKLER#1,"You do that, sweetheart.",FEMALE
+ARMY HECKLER#2,"Nice boots, Tinker Bell!",FEMALE
+STEVE ROGERS,"Come on, guys. We’re all on the same team here.",MALE
+ARMY HECKLER#3,"Hey, Captain! Sign this!",FEMALE
+ARMY HECKLER#4,Bring back the girls!,FEMALE
+BRANDT'S AIDE,"Don’t worry, pal. They’ll warm up to you. Don’t worry.",MALE
+PEGGY CARTER,"Hello, Steve.",FEMALE
+STEVE ROGERS,Hi.,MALE
+PEGGY CARTER,Hi.,FEMALE
+STEVE ROGERS,What are you doin’ here?,MALE
+PEGGY CARTER,Officially I’m not here at all. That was quite a performance.,FEMALE
+STEVE ROGERS,Yeah. Uh… I had to improvise a little bit. Crowds I’m used to are usually more uh… twelve.,MALE
+PEGGY CARTER,"I understand you’re ""America’s New Hope""?",FEMALE
+STEVE ROGERS,Bond sales take a ten percent bump in every state I visit.,MALE
+PEGGY CARTER,Is that Senator Brandt I hear?,FEMALE
+STEVE ROGERS,At least he’s got me doin’ this. Phillips would have had be stuck in lab.,MALE
+PEGGY CARTER,"And these are your only two options? A lab rat or a dancing monkey? You were meant for more than this, you know?  What?",FEMALE
+STEVE ROGERS,"You know for the longest time I dreamed about coming overseas and being on the front lines. Serving my country. I finally get everything I wanted, and I’m wearing tights.  They look like they’ve been through hell.",MALE
+PEGGY CARTER,These men more than most. Schmidt sent out a force to Azzano. Two hundred men went up against him and less than fifty returned. Your audience contained what was left of the one-oh-seventh. The rest were killed or captured.,FEMALE
+STEVE ROGERS,The one-oh-seventh?,MALE
+PEGGY CARTER,What?,FEMALE
+STEVE ROGERS,Come on!  Colonel Phillips.,MALE
+COL. CHESTER PHILLIPS,"Well, if it isn’t the Star-Spangled Man With A Plan. And what is your plan today?",MALE
+STEVE ROGERS,I need the casualty list from Azzano.,MALE
+COL. CHESTER PHILLIPS,"You don’t get to give me orders, son.",MALE
+STEVE ROGERS,I just need one name. Sergeant James Barnes from the hundred and seventh.,MALE
+COL. CHESTER PHILLIPS,You and I are gonna have a conversation later that you won’t enjoy.,MALE
+STEVE ROGERS,"Please tell me if he’s alive, sir. B-A-R…",MALE
+COL. CHESTER PHILLIPS,I can spell.  I have signed more of these condolence letters today than I would care to count. But the name does sound familiar. I’m sorry.,MALE
+STEVE ROGERS,What about the others? Are you planning a rescue mission?,MALE
+COL. CHESTER PHILLIPS,Yeah! It’s called winning the war.,MALE
+STEVE ROGERS,"But if you know where they are, why not at least…?",MALE
+COL. CHESTER PHILLIPS,"They’re thirty miles behind the lines. Through the most heavily fortified territory in Europe. We’d lose more men than we’d save. But I don’t expect you to understand that, because you’re a chorus girl.",MALE
+STEVE ROGERS,I think I understand just fine.,MALE
+COL. CHESTER PHILLIPS,"Well then understand it somewhere else. If I read the posters correctly, you got some place to be in thirty minutes.",MALE
+STEVE ROGERS,"Yes, sir. I do.",MALE
+COL. CHESTER PHILLIPS,"If you have something to say, right now is the perfect time to keep it to yourself.",MALE
+PEGGY CARTER,What do you plan to do? Walk to Austria?,FEMALE
+STEVE ROGERS,If that’s what it takes.,MALE
+PEGGY CARTER,"You heard the Colonel, your friend is most likely dead.",FEMALE
+STEVE ROGERS,You don’t know that.,MALE
+PEGGY CARTER,"Even so, he’s devising a strategy. If he detects…",FEMALE
+STEVE ROGERS,"By the time he’s done that, it could be too late!  You told me you thought I was meant for more than this. Did you mean that?",MALE
+PEGGY CARTER,Every word.,FEMALE
+STEVE ROGERS,Then you gotta let me go.,MALE
+PEGGY CARTER,I can do more than that.,FEMALE
+BRANDT'S AIDE,"On stage, girls. Five minutes!",MALE
+USO GIRL,Where’s my helmet?,FEMALE
+BRANDT'S AIDE,Has anyone seen Rogers?,MALE
+PEGGY CARTER,"The HYDRA camp is in Krausberg, tucked between these two mountain ranges. It’s a factory of some kind.",FEMALE
+HOWARD STARK,We should be able to drop you right on the doorstep.,MALE
+STEVE ROGERS,"Just get me as close as you can.  You know, you two are gonna be in a lot of trouble at the lab.",MALE
+PEGGY CARTER,And you won’t?,FEMALE
+STEVE ROGERS,"Where I’m goin’, if anybody yells at me I can just shoot ‘em.",MALE
+PEGGY CARTER,They will undoubtedly shoot back.,FEMALE
+STEVE ROGERS,"Well, let’s hope it’s good for somethin’.",MALE
+HOWARD STARK,"Agent Carter, if we’re not in too much of a hurry I thought we could stop off in Lucerne for a late night fondue.",MALE
+PEGGY CARTER,"Stark is the best civilian pilot I’ve ever seen. He’s mad enough to brave this airspace, we’re lucky to have him.",FEMALE
+STEVE ROGERS,So are you two…? Do you…? Fondue?,MALE
+PEGGY CARTER,This is your transponder. Activate it when you’re ready and the signal will lead us straight to you.,FEMALE
+STEVE ROGERS,Are you sure this thing works?,MALE
+HOWARD STARK,"It’s been tested more than you, pal.",MALE
+PEGGY CARTER,Get back here! We’re taking you all the way in.,FEMALE
+STEVE ROGERS,"As soon as I’m free, you turn this thing around and get the hell outta here!",MALE
+PEGGY CARTER,You can’t give me orders!,FEMALE
+STEVE ROGERS,The hell I can’t! I’m a Captain!,MALE
+DR. ARNIM ZOLA,"As you can see, production of the Valkyrie is progressing on schedule, even with components of this size.",MALE
+RED SKULL,Increase the output by 60 % and see to it our other facilities do the same.,MALE
+DR. ARNIM ZOLA,"But the prisoners, I’m not sure they have the strength.",MALE
+RED SKULL,"Then use up what strength they have left, Doctor. There are always more workers.",MALE
+DR. ARNIM ZOLA,Not now!,MALE
+DUM DUM DUGAN,"You know, Fritz, one of these days, I’m gonna have a stick of my own.",MALE
+STEVE ROGERS,Fellas.,MALE
+HYDRA GUARDS,Ah!,MALE
+GABE JONES,Who are you supposed to be?,MALE
+STEVE ROGERS,I’m… Captain America.,MALE
+JAMES MONTGOMERY FALSWORTH,I beg your pardon?,MALE
+DUM DUM DUGAN,"What, are we taking everybody?",MALE
+JIM MORITA,"I’m from Fresno, Ace.",MALE
+STEVE ROGERS,Is there anybody else? I’m looking for a Sergeant James Barnes.,MALE
+JAMES MONTGOMERY FALSWORTH,"There’s an isolation ward in the factory, but no one’s ever come back from it.",MALE
+STEVE ROGERS,"All right. The tree line is northwest, 80 yards past the gate. Get out fast and give ‘em hell. I’ll meet you guys in the clearing with anybody else I find.",MALE
+GABE JONES,Wait! You know what you’re doin’?,MALE
+STEVE ROGERS,Yeah. I’ve knocked out Adolf Hitler over two hundred times.,MALE
+JIM MORITA,You know how to use that thing?  Okay.,MALE
+RED SKULL,What is happening?,MALE
+DUM DUM DUGAN,Hey. Not exactly a Buick.,MALE
+GABE JONES,That one. Zündung.,MALE
+DUM DUM DUGAN,Zündung?,MALE
+JAMES MONTGOMERY FALSWORTH,"Get this thing going, Dugan!",MALE
+DUM DUM DUGAN,I didn’t know you spoke German.,MALE
+GABE JONES,"Three semesters at Howards, switched to French, girls much cuter.",MALE
+DUM DUM DUGAN,Didn’t ask for the resume.,MALE
+DR. ARNIM ZOLA,"No, no! What are you doing?",MALE
+RED SKULL,Our forces are outmatched.,MALE
+JIM MORITA,Keep moving! Grab those grenades!,MALE
+JAMES BARNES,Sergeant. 32557…,MALE
+STEVE ROGERS,"Bucky? Oh, my God.",MALE
+JAMES BARNES,Is that…,MALE
+STEVE ROGERS,It’s me. It’s Steve.,MALE
+JAMES BARNES,Steve?,MALE
+STEVE ROGERS,Come on.,MALE
+JAMES BARNES,Steve.,MALE
+STEVE ROGERS,I thought you were dead.,MALE
+JAMES BARNES,I thought you were smaller.,MALE
+STEVE ROGERS,Come on.,MALE
+JAMES BARNES,What happened to you?,MALE
+STEVE ROGERS,I joined the Army.,MALE
+JAMES BARNES,Did it hurt?,MALE
+STEVE ROGERS,A little.,MALE
+JAMES BARNES,Is it permanent?,MALE
+STEVE ROGERS,So far.,MALE
+RED SKULL,"Captain America! How exciting! I’m a great fan of your films. So Dr. Erskine managed it after all. Not exactly an improvement, but still impressive.",MALE
+STEVE ROGERS,You’ve got no idea.,MALE
+RED SKULL,"Haven’t I?  No matter what lies Erskine told you, you see I was his greatest success!",MALE
+JAMES BARNES,"You don’t have one of those, do you?",MALE
+RED SKULL,"You are deluded, Captain. You pretend to be a simple soldier, but in reality you are just afraid to admit that we have left humanity behind. Unlike you, I embrace it proudly. Without fear!",MALE
+STEVE ROGERS,"Then how come you’re running?  Come on, let’s go. Up.",MALE
+DR. ARNIM ZOLA,Sir? Are we going to the roof?  What about me? Where will I sit?,MALE
+RED SKULL,"Not a scratch, Doctor. Not a scratch.",MALE
+STEVE ROGERS,Let’s go. One at a time.,MALE
+JAMES BARNES,Gotta be a rope or something!,MALE
+STEVE ROGERS,Just go! Get out of here!,MALE
+JAMES BARNES,No! Not without you!,MALE
+COL. CHESTER PHILLIPS,"Senator Brandt, I regret to report that Captain Steven G. Rogers went missing behind enemy lines on the third. Aerial reconnaissance has proven unfruitful. As a result, I must declare Captain Rogers killed in action. Period.",MALE
+PEGGY CARTER,The last surveillance flight is back. No sign of activity.,FEMALE
+COL. CHESTER PHILLIPS,"Go get a cup of coffee, Corporal.",MALE
+CORPORAL,"Yes, sir.",MALE
+COL. CHESTER PHILLIPS,I can’t touch Stark. He’s rich and he’s the Army’s number one weapons contractor. You are neither one.,MALE
+PEGGY CARTER,"With respect, sir, I don’t regret my actions. And I don’t think Captain Rogers did either.",FEMALE
+COL. CHESTER PHILLIPS,"What makes you think I give a damn about your opinions. I took a chance with you, Agent Carter. And now America’s golden boy and a lot of other good men are dead, cause you had a crush.",MALE
+PEGGY CARTER,It wasn’t that. I had faith.,FEMALE
+COL. CHESTER PHILLIPS,"Well, I hope that’s a big comfort to you when they shut this division down.  What the hell’s going on out there?",MALE
+MAN#1,Look who it is!,MALE
+STEVE ROGERS,Some of theres men need medical attention.,MALE
+MAN#2,"Medic, we got wounded.",MALE
+STEVE ROGERS,I’d like to surrender myself for disciplinary action.,MALE
+COL. CHESTER PHILLIPS,That won’t be necessary.,MALE
+STEVE ROGERS,"Yes, sir.",MALE
+COL. CHESTER PHILLIPS,"Faith, huh?",MALE
+PEGGY CARTER,You’re late.,FEMALE
+STEVE ROGERS,Couldn’t call my ride.,MALE
+JAMES BARNES,Hey! Let’s hear it for Captain America.,MALE
+SENATOR BRANDT,"I am honoured to present this medal for valour to my personal friend, Captain America!  Captain America!  Captain, that’s your cue!",MALE
+GENERAL,I thought he’d be taller.,MALE
+STEVE ROGERS,"The fifth one was here in Poland, right near the Baltic.  And the sixth one was… about here, 30, 40 miles west of the Maginot Line.  I just got a quick look.",MALE
+PEGGY CARTER,"Well, nobody’s perfect.",FEMALE
+STEVE ROGERS,These are the weapon factories we know about. Sergeant Barnes said that Hydra shipped all the parts to another facility that isn’t on this map.,MALE
+COL. CHESTER PHILLIPS,"Agent Carter, coordinate with MI6. I want every Allied eyeball looking for that main Hydra base.",MALE
+PEGGY CARTER,What about us?,FEMALE
+COL. CHESTER PHILLIPS,"We are gonna set a fire under Johann Schmidt’s ass. What do you say, Rogers? It’s your map, you think you can wipe Hydra off of it?",MALE
+STEVE ROGERS,"Yes, sir. I’ll need a team.",MALE
+COL. CHESTER PHILLIPS,We’re already putting together the best men.,MALE
+STEVE ROGERS,"With all due respect, sir. So am I.",MALE
+DUM DUM DUGAN,"So, let’s get this straight.",MALE
+GABE JONES,"We barely got out of there alive, and you want us to go back?",MALE
+STEVE ROGERS,Pretty much.,MALE
+JAMES MONTGOMERY FALSWORTH,"Sounds rather fun, actually.",MALE
+JIM MORITA,I’m in.,MALE
+GABE JONES,We’re in.,MALE
+DUM DUM DUGAN,"Hell, I’ll always fight. But you got to do one thing for me.",MALE
+STEVE ROGERS,What’s that?,MALE
+DUM DUM DUGAN,Open a tab.,MALE
+JIM MORITA,"Well, that was easy.",MALE
+STEVE ROGERS,Another round.,MALE
+BARKEEPER,Where are they putting all this stuff?,FEMALE
+JAMES BARNES,See? I told you. They’re all idiots.,MALE
+STEVE ROGERS,How about you? You ready to follow Captain America into the jaws of death?,MALE
+JAMES BARNES,"Hell, no. That little guy from Brooklyn who was too dumb not to run away from a fight. I’m following him. But you’re keeping the outfit, right?",MALE
+STEVE ROGERS,You know what? It’s kind of growing on me.,MALE
+PEGGY CARTER,Captain.,FEMALE
+STEVE ROGERS,Agent Carter.,MALE
+JAMES BARNES,Ma’am.,MALE
+PEGGY CARTER,Howard has some equipment for you to try. Tomorrow morning?,FEMALE
+STEVE ROGERS,Sounds good.,MALE
+PEGGY CARTER,I see you top squad is prepping for duty.,FEMALE
+JAMES BARNES,You don’t like music?,MALE
+PEGGY CARTER,"I do, actually. I might even, when this is all over, go dancing.",FEMALE
+JAMES BARNES,Then what are we waiting for?,MALE
+STEVE ROGERS,"Yes, ma’m. I’ll be there.",MALE
+JAMES BARNES,I’m invisible. I’m…I’m turning into you. It’s like some horrible dream.,MALE
+STEVE ROGERS,Don’t take it so hard. Maybe she’s got a friend.,MALE
+HOWARD STARK,Emission signature is unusual. Alpha and beta ray neutral. Though I doubt Rogers picked up on that. Seems harmless enough. Hard to see what all the fuss is about.  Write that down.,MALE
+STEVE ROGERS,Excuse me. I’m looking for Mr. Stark.,MALE
+PVT. LORRAINE,He’s in with Colonel Phillips. Of course you’re welcome to wait.  I read about what you did.,FEMALE
+STEVE ROGERS,"Oh! The…yeah! Well, that’s you know? Just doin’ what needed to be done.",MALE
+PVT. LORRAINE,Sounded like more than that. You saved nearly four hundred men.,FEMALE
+STEVE ROGERS,"Really, it’s not a big deal.",MALE
+PVT. LORRAINE,Tell that to their wives.,FEMALE
+STEVE ROGERS,Uh…I don’t think they were all married.,MALE
+PVT. LORRAINE,You’re a hero.,FEMALE
+STEVE ROGERS,"Well, that…you know? That…that depends on the definition of it really.",MALE
+PVT. LORRAINE,"The women of America, they owe you their thanks. And uh…seeing as they’re not here.",FEMALE
+PEGGY CARTER,Captain!  We’re ready for you. If you’re not otherwise occupied.,FEMALE
+STEVE ROGERS,"Agent Carter, wait.",MALE
+PEGGY CARTER,Looks like finding a partner wasn’t that hard after all.,FEMALE
+STEVE ROGERS,"Peggy, that’s not what you thought it was.",MALE
+PEGGY CARTER,"I don’t think anything, Captain. Not one thing. You always wanted to be soldier and now you are. Just like all the rest.",FEMALE
+STEVE ROGERS,"Well, what about you and Stark? How do I know you two haven’t been… fonduing?",MALE
+PEGGY CARTER,You still don’t know a bloody thing about women!,FEMALE
+HOWARD STARK,"Fondue is just cheese and bread, my friend.",MALE
+STEVE ROGERS,Really? I didn’t think…,MALE
+HOWARD STARK,"Nor should you, pal. The moment you think you know what’s goin’ on in a woman’s head, it’s the moment your goose is well and truly cooked. Me, I concentrate on work. Which at the moment is about making sure you and your men do not get killed. Carbon polymer.  Should withstand your average German bayonet. Although Hydra’s not going to attack you with a pocket knife.  I hear you’re uh… kinda attached?",MALE
+STEVE ROGERS,It’s handier than you might think.,MALE
+HOWARD STARK,I took the liberty of coming up with some options.  This one’s fun. She’s been fitted with electrical relays. It’ll allow you to…,MALE
+STEVE ROGERS,What about this one?,MALE
+HOWARD STARK,No! No! That’s just a prototype.,MALE
+STEVE ROGERS,What’s it made of?,MALE
+HOWARD STARK,Vibranium. It’s stronger than steel and a third of the weight. It’s completely vibration absorbent.,MALE
+STEVE ROGERS,How come it’s not a standard issue?,MALE
+HOWARD STARK,That’s the rarest metal on earth. What you’re holding there? That’s all we’ve got.,MALE
+PEGGY CARTER,"You quite finished, Mr. Stark? I’m sure the Captain has some unfinished business.",FEMALE
+STEVE ROGERS,What do you think?,MALE
+PEGGY CARTER,Yes. I think it works.,FEMALE
+STEVE ROGERS,I had some ideas about the uniform.,MALE
+HOWARD STARK,"Whatever you want, pal.",MALE
+RED SKULL,"You are failing! We are close to an offensive network that will shake the planet. And yet we are continually delayed, because you cannot outwit a simpleton with a shield!",MALE
+DR. ARNIM ZOLA,This is hardly my area of expertise. I…I merely develop the weapons. I…I cannot fire them.,MALE
+RED SKULL,"Finish your mission, Doctor. Before the American finishes his.",MALE
+GUARD,Sir!,MALE
+FACILITY MANAGER,"I’m sorry, Herr Schmidt. We fought to the last man.",FEMALE
+RED SKULL,Evidently not.,MALE
+JAMES BARNES,Remember when I made you ride the Cyclone at Coney Island?,MALE
+STEVE ROGERS,"Yeah, I and I threw up?",MALE
+JAMES BARNES,"This isn’t payback, is it?",MALE
+STEVE ROGERS,Now why would I do that?,MALE
+GABE JONES,"We were right. Dr. Zola’s on the train. Hydra dispatcher gave him permission to open up the throttle. Wherever he’s going, they must need him bad.",MALE
+JAMES MONTGOMERY FALSWORTH,"Let’s get going, because they’re moving like the devil.",MALE
+STEVE ROGERS,"We only got about a 10-second window. You miss that window, we’re bugs on a windshield.",MALE
+JAMES MONTGOMERY FALSWORTH,Mind the gap.,MALE
+DUM DUM DUGAN,"Better get moving, bugs!",MALE
+JACQUES DERNEIR,Maintenant!,MALE
+DR. ARNIM ZOLA,Stop him! Fire again!,MALE
+JAMES BARNES,I had him on the ropes.,MALE
+STEVE ROGERS,I know you did.  Get down!,MALE
+DR. ARNIM ZOLA,Fire again! Kill him! Now!,MALE
+STEVE ROGERS,Bucky! Hang on! Grab my hand! NO!,MALE
+COL. CHESTER PHILLIPS,Sit down.,MALE
+DR. ARNIM ZOLA,What is this?,MALE
+COL. CHESTER PHILLIPS,Steak.,MALE
+DR. ARNIM ZOLA,What is in it?,MALE
+COL. CHESTER PHILLIPS,"Cow. Doctor, do you realize how difficult it is to get ahold of a prime cut like that out here?",MALE
+DR. ARNIM ZOLA,I don’t eat meat.,MALE
+COL. CHESTER PHILLIPS,Why not?,MALE
+DR. ARNIM ZOLA,It disagrees with me.,MALE
+COL. CHESTER PHILLIPS,"How about cyanide? Does that give you the rumbly tummy too? Every Hydra agent that we’ve tried to take alive has crunched a little pill before we can stop him. But not you. So, here’s my brilliant theory.  You wanna live.",MALE
+DR. ARNIM ZOLA,"You’re trying to intimidate me, Colonel.",MALE
+COL. CHESTER PHILLIPS,I bought you dinner.,MALE
+DR. ARNIM ZOLA,"‘Given the variable information he has provided, and in exchange for his full cooperation, Dr. Zola is being remanded to Switzerland.’",MALE
+COL. CHESTER PHILLIPS,"I sent that message to Washington this morning. Of course it was encoded. You guys haven’t broken those codes, have you? That would be awkward.",MALE
+DR. ARNIM ZOLA,Schmidt will know this is a lie.,MALE
+COL. CHESTER PHILLIPS,"He’s gonna kill you anyway, Doc. You’re a liability. You know more about Schmidt than anyone. And the last guy you cost us was Captain Rogers’ closest friend. So, I wouldn’t count on the very best of protection. There’s you or Schmidt. It’s just the hand you’ve been dealt.",MALE
+DR. ARNIM ZOLA,Schmidt believes he walks in the foot steps of the Gods.,MALE
+COL. CHESTER PHILLIPS,Mmm.,MALE
+DR. ARNIM ZOLA,Only the world itself will satisfy him.,MALE
+COL. CHESTER PHILLIPS,"You do realize that’s nuts, don’t you?",MALE
+DR. ARNIM ZOLA,But the sanity of the plan is of no consequence.,MALE
+COL. CHESTER PHILLIPS,And why is that?,MALE
+DR. ARNIM ZOLA,Because he can do it!,MALE
+COL. CHESTER PHILLIPS,What’s his target?,MALE
+DR. ARNIM ZOLA,His target… is everywhere.,MALE
+RED SKULL,"Tomorrow, Hydra will stand master of the world. Born to victory on the wings of the Valkyrie. Our enemies weapons will be powerless against us. If they shoot down one plane, hundreds more will rain fire upon them! If they cut off one head, two more shall take its place. Hail Hydra!",MALE
+MAN ON THE RADIO,"Blackout is still in effect throughout the London area. Please wait for the all-clear. Your attention, please. All citizens shall remain indoors until further notice. Blackout is still in effect throughout the London area.",MALE
+STEVE ROGERS,"Dr. Erskine said that… the serum wouldn’t just effect my muscles, it would effect my cells. Create a protective system of regeneration and healing. Which means um…I can’t get drunk. Did you know that?",MALE
+PEGGY CARTER,Your metabolism burns four times faster than the average person. He thought it could be one of the side effects.  It wasn’t your fault.,FEMALE
+STEVE ROGERS,Did you read the reports?,MALE
+PEGGY CARTER,Yes.,FEMALE
+STEVE ROGERS,Then you know that’s not true.,MALE
+PEGGY CARTER,You did everything you could. Did you believe in your friend? Did you respect him?  Then stop blaming yourself. Allow Barnes the dignity of his choice. He damn well must have thought you were worth it.,FEMALE
+STEVE ROGERS,I’m goin’ after Schmidt. I’m not gonna stop till all of Hydra is dead or captured.,MALE
+PEGGY CARTER,You won’t be alone.,FEMALE
+COL. CHESTER PHILLIPS,"Johann Schmidt belongs in a bug house. He thinks he’s a God. He’s willing to blow up half the world to prove it, starting with the USA.",MALE
+HOWARD STARK,"Schmidt’s working with powers beyond our capabilities. He gets across the Atlantic, he will wipe out the entire eastern sea board in an hour.",MALE
+GABE JONES,How much time we got?,MALE
+COL. CHESTER PHILLIPS,"According to my new best friend, under twenty four hours.",MALE
+JACQUES DERNEIR,Where is he now?,MALE
+COL. CHESTER PHILLIPS,Hydra’s last base is here.  In the Alps. Five hundred feet below the surface.,MALE
+JIM MORITA,"So, what are we supposed to do. I mean, it’s not like we can just knock on the front door.",MALE
+STEVE ROGERS,Why not? That’s exactly what we’re gonna do.,MALE
+RED SKULL,"Arrogance may not be a uniquely American trait, but I must say you do it better than anyone. But there are limits to what even you can do, Captain. Or did Erskine tell you otherwise?",MALE
+STEVE ROGERS,He told me you were insane.,MALE
+RED SKULL,"Ah. He resented my genius and tried to deny me what was rightfully mine. But he gave you everything. So, what made you so special?",MALE
+STEVE ROGERS,Nothin’. I’m just a kid from Brooklyn.  I can do this all day.,MALE
+RED SKULL,"Oh, of course you can. Of course. But unfortunately I am on a tight schedule.",MALE
+STEVE ROGERS,So am I!,MALE
+JAMES MONTGOMERY FALSWORTH,Rogers! You might need this!,MALE
+STEVE ROGERS,Thanks!,MALE
+JIM MORITA,"We’re in! Assault team, go!",MALE
+COL. CHESTER PHILLIPS,Move out!  Keep your spacing!,MALE
+HYDRA SOLDIER,"Cutt off one head, two more shall…",MALE
+COL. CHESTER PHILLIPS,Let’s go find two more!,MALE
+STEVE ROGERS,You’re late.,MALE
+PEGGY CARTER,Weren’t you about to…,FEMALE
+STEVE ROGERS,Right.  Keep it steady!,MALE
+PEGGY CARTER,Wait!  Go get him.,FEMALE
+COL. CHESTER PHILLIPS,I’m not kissin’ you!,MALE
+RED SKULL,"You don’t give up, do you?",MALE
+STEVE ROGERS,Nope!,MALE
+RED SKULL,"You could have the power of the gods! Yet you wear a flag on your chest and think you fight a battle of nations! I have seen the future, Captain! There are no flags!",MALE
+STEVE ROGERS,Not my future!,MALE
+RED SKULL,What have you done? No.,MALE
+STEVE ROGERS,Come in. This is Captain Rogers. Do you read me?,MALE
+JIM MORITA,"Captain Rogers, what is your…",MALE
+PEGGY CARTER,"Steve, is that you? Are you alright?",FEMALE
+STEVE ROGERS,Peggy! Schmidt’s dead.,MALE
+PEGGY CARTER,What about the plane?,FEMALE
+STEVE ROGERS,That’s a little bit tougher to explain.,MALE
+PEGGY CARTER,"Give me your coordinates, I’ll find you a safe landing site.",FEMALE
+STEVE ROGERS,There’s not going to be a safe landing. But I can try and force it down.,MALE
+PEGGY CARTER,"I’ll get Howard on the line, he’ll know what to do.",FEMALE
+STEVE ROGERS,There’s not enough time. This thing’s moving too fast and it’s heading for New York.  I gotta put her in the water.,MALE
+PEGGY CARTER,"Please, don’t do this. We have time. We can work it out.",FEMALE
+STEVE ROGERS,"Right now I’m in the middle of nowhere. If I wait any longer a lot of people are gonna die. Peggy, this is my choice.  Peggy?",MALE
+PEGGY CARTER,I’m here.,FEMALE
+STEVE ROGERS,I’m gonna need a rain check on that dance.,MALE
+PEGGY CARTER,"Alright. A week, next Saturday, at the Stork Club.",FEMALE
+STEVE ROGERS,You got it.,MALE
+PEGGY CARTER,Eight o’clock on the dot. Don’t you dare be late. Understood?,FEMALE
+STEVE ROGERS,"You know, I still don’t know how to dance.",MALE
+PEGGY CARTER,I’ll show you how. Just be there.,FEMALE
+STEVE ROGERS,We’ll have the band play somethin’ slow. I’d hate to step on your…,MALE
+PEGGY CARTER,Steve? Steve? Steve?,FEMALE
+JAMES MONTGOMERY FALSWORTH,To the Captain.,MALE
+STARK'S ENGINEER,Sir?,MALE
+HOWARD STARK,Take us to the next grid point.,MALE
+STARK'S ENGINEER,But there’s not trace of wreckage. And the energy signature stops here.,MALE
+HOWARD STARK,Just keep looking.,MALE
+DODGERS ANNOUNCER,"Curve ball, high and outside for ball one. So the Dodgers are tied, 4-4. And the crowd well knows that with one swing of his bat, this fellow’s capable of making it a brand-new game again. Just an absolutely gorgeous day here at Ebbets Field. The Phillies have managed to tie up at 4-4. But the Dodgers have three men on. Pearson beaned Reiser in Philadelphia last month. Wouldn’t the youngster like a hit here to return the favour? Pete leans in. Here’s the pitch. Swung on. A line to the right. And it gets past Rizzo. Three runs will score. Reiser heads to third. Durocher’s going to wave him in. Here comes the relay, but they won’t get him.",MALE
+SHIELD AGENT,"Good morning.  Or should I say, afternoon?",MALE
+STEVE ROGERS,Where am I?,MALE
+SHIELD AGENT,You’re in a recovery room in New York city.,MALE
+DODGERS ANNOUNCER,"The Dodgers take the lead, 8-4. Oh, Dodgers! Everyone is on their feet. What a game we have here today, folks. What a game indeed.",MALE
+STEVE ROGERS,Where am I really?,MALE
+SHIELD AGENT,I’m afraid I don’t understand.,MALE
+STEVE ROGERS,"The game, it’s from May, nineteen forty one. I know, cause I was there.  Now, I’m gonna ask you again. Where am I?",MALE
+SHIELD AGENT,Captain Rogers…,MALE
+STEVE ROGERS,Who are you?,MALE
+SHIELD AGENT,"Captain Rogers, wait!  All agents, code 13! I repeat. All agents, code 13!",MALE
+NICK FURY,"At ease, soldier! Look, I’m sorry about that little show back there, but… we thought it best to break it to you slowly.",MALE
+STEVE ROGERS,Break what?,MALE
+NICK FURY,"You’ve been asleep, Cap. For almost seventy years.  You gonna be okay?",MALE
+STEVE ROGERS,Yeah. Yeah. I just…I had a date.,MALE
+NICK FURY,Trouble sleeping?,MALE
+STEVE ROGERS,"You’re here with a mission, sir?",MALE
+NICK FURY,I am.,MALE
+STEVE ROGERS,Trying to get me back in the world?,MALE
+NICK FURY,Trying to save it.,MALE

@@ -1,981 +1,981 @@
-,character,line,gender
-0,ANNOUNCER,Report to your stations immediately. This is not a drill. We are under attack. We are under attack.,MALE
-1,TONY STARK,Shit!,MALE
-2,STEVE ROGERS,"Language! JARVIS, what's the view from upstairs?",MALE
-3,JARVIS,The central building is protected by some kind of energy shield. Strucker's technology is well beyond any other Hydra base we've taken.,MALE
-4,THOR,Loki's scepter must be here. Strucker couldn't mount this defense without it. At long last.,MALE
-5,NATASHA ROMANOFF,"At long last is lasting a little long, boys.",FEMALE
-6,CLINT BARTON,Yeah. I think we lost the element of surprise.,MALE
-7,TONY STARK,"Wait a second. No one else is going to deal with the fact that Cap just said ""language?""",MALE
-8,STEVE ROGERS,I know.,MALE
-9,STEVE ROGERS,It just slipped out.,MALE
-10,STRUCKER,Who gave the order to attack?,MALE
-11,FORTRESS SOLDIER,"Herr Strucker, it's the Avengers. They landed in the far woods, the perimeter guard panicked.",MALE
-12,STRUCKER,They have to be after the scepter.  Can we hold them?,MALE
-13,FORTRESS SOLDIER,They're the Avengers...,MALE
-14,STRUCKER,Deploy the rest of the tanks.,MALE
-15,FORTRESS SOLDIER,"Yes, sir.",MALE
-16,STRUCKER,Concentrate fire on the weak ones. A hit can make them close ranks. Everything we've accomplished. But we're on the verge of our greatest breakthrough.,MALE
-17,DR. LIST,Then let's show them what we've accomplished. Send out the twins.,MALE
-18,STRUCKER,It's too soon.,MALE
-19,DR. LIST,It's what they signed up for.,MALE
-20,STRUCKER,My men can hold them.,MALE
-21,JARVIS,"Sir, the city is taking fire.",MALE
-22,TONY STARK,"Well, we know Strucker's not going to worry about civilian casualties. Send in the Iron Legion.",MALE
-23,IRON LEGION,This quadrant is unsafe. Please back away. We are here to help. This quadrant is unsafe. Please back away. Please back away. We wish to avoid collateral damage and will inform you when this current conflict is resolved. We are here to help.,MALE
-24,IRON LEGION,We are here to help.,MALE
-25,STRUCKER,"We will not yield! The Americans sent their circus freaks to test us. We will send them back, in bags. No Surrender!",MALE
-26,SOLDIERS,No Surrender!,MALE
-27,STRUCKER,"I am going to surrender. You will delete everything. If we give the Avengers the weapons, they may not look too far into what we've been...",MALE
-28,DR. LIST,The twins.,MALE
-29,STRUCKER,They are not ready to take on...,MALE
-30,DR. LIST,"No, no. I mean...",MALE
-31,DR. LIST,The Twins.,MALE
-32,PIETRO MAXIMOFF,You didn't see that coming?,MALE
-33,NATASHA ROMANOFF,Clint!,FEMALE
-34,STEVE ROGERS,We have an enhanced in the field.,MALE
-35,NATASHA ROMANOFF,Clint's hit!,FEMALE
-36,NATASHA ROMANOFF,Somebody want to deal with that bunker?,FEMALE
-37,NATASHA ROMANOFF,Thank you.,FEMALE
-38,STEVE ROGERS,"Stark, we're really need to get inside.",MALE
-39,TONY STARK,"I'm closing in. JARVIS, am I...closing in? Do you see a power source for that shield?",MALE
-40,JARVIS,There's a pathway below the north tower.,MALE
-41,TONY STARK,"Great, I wanna poke it with something.",MALE
-42,TONY STARK,"Drawbridge is down, people.",MALE
-43,THOR,The enhanced?,MALE
-44,STEVE ROGERS,"He's a blur. All the new player's we've faced, I've never seen this. In fact, I still haven't.",MALE
-45,NATASHA ROMANOFF,"Clint's hit pretty bad, guys. We're gonna need evac.",FEMALE
-46,THOR,I can get Barton to the jet. The sooner we're gone the better. You and Stark secure the scepter.,MALE
-47,STEVE ROGERS,Copy that.,MALE
-48,THOR,Looks like they're lining up.,MALE
-49,STEVE ROGERS,"Well, they're excited.",MALE
-50,THOR,Find the scepter.,MALE
-51,TONY STARK,"And for gosh sake, watch your language!",MALE
-52,STEVE ROGERS,That's not going away anytime soon.,MALE
-53,TONY STARK,"Guys, stop, we gotta talk about this.",MALE
-54,TONY STARK,Good talk.,MALE
-55,FORTRESS SOLDIER,No it wasn't.,MALE
-56,TONY STARK,Sentry mode.,MALE
-57,TONY STARK,"Okay, JARVIS. You know I want it all. Make sure you copy Hill at HQ.",MALE
-58,NATASHA ROMANOFF,We're locked down out here.,FEMALE
-59,STEVE ROGERS,"Then get to Banner, time for a lullaby.",MALE
-60,TONY STARK,"I know you're hiding more than files. Hey, J, give me an IR scan of the room, real quick.",MALE
-61,JARVIS,The wall to your left...I'm reading steel reinforcement and an air current.,MALE
-62,TONY STARK,"Please be a secret door, please be a secret door, please be a secret door...",MALE
-63,TONY STARK,Yay!,MALE
-64,NATASHA ROMANOFF,"Hey, big guy. The sun's getting real low.",FEMALE
-65,STEVE ROGERS,Baron Strucker. Hydra's number one thug.,MALE
-66,STRUCKER,"Technically, I'm a thug for SHIELD.",MALE
-67,STEVE ROGERS,Well then technically you're unemployed. Where's Loki's scepter?,MALE
-68,STRUCKER,"Don't worry, I know when I'm beat. You'll mention how I cooperated, I hope.",MALE
-69,STEVE ROGERS,I'll put it right under illegal human experimentation.,MALE
-70,STEVE ROGERS,How many are there?,MALE
-71,STEVE ROGERS,We have a second enhanced. Female. Do not engage.,MALE
-72,STRUCKER,You'll have to be faster than...,MALE
-73,STEVE ROGERS,"Guys, I got Strucker.",MALE
-74,TONY STARK,"Yeah, I got...something bigger.",MALE
-75,TONY STARK,"Thor, I got eyes on the prize.",MALE
-76,STEVE ROGERS,You could have saved us.,MALE
-77,STEVE ROGERS,Why didn't you do more?,MALE
-78,PIETRO MAXIMOFF,We're just gonna let them take it?,MALE
-79,NATASHA ROMANOFF,"Hey, the lullaby worked better than ever.",FEMALE
-80,BRUCE BANNER,Just wasn't expecting the Code Green.,MALE
-81,NATASHA ROMANOFF,"If you hadn't been there, there would've been double the casualties. My best friend would've been a treasured memory.",FEMALE
-82,BRUCE BANNER,"You know, sometimes exactly what I want to hear isn't exactly what I want to hear.",MALE
-83,NATASHA ROMANOFF,How long before you trust me?,FEMALE
-84,BRUCE BANNER,It's not you I don't trust.,MALE
-85,NATASHA ROMANOFF,"Thor, report on the Hulk?",FEMALE
-86,THOR,The gates of Hel are filled with the screams of his victims.,MALE
-87,THOR,"Uh, but, not the screams of the dead, of course. No no, uh...wounded screams, mainly whimpering, a great deal of complaining and tales of sprained deltoids and, and uh... and gout.",MALE
-88,TONY STARK,"Hey Banner, Dr. Cho's on her way in from Seoul, is it okay if she sets up in your lab?",MALE
-89,BRUCE BANNER,"Uh, yeah, she knows her way around.",MALE
-90,TONY STARK,"Thanks.  Tell her to prep everything, Barton's gonna need the full treatment.",MALE
-91,JARVIS,Very good sir.,MALE
-92,TONY STARK,"JARVIS, take the wheel.",MALE
-93,JARVIS,"Yes, sir. Approach vector is locked.",MALE
-94,TONY STARK,"It feels good, yeah? I mean, you've been after this thing since SHIELD collapsed. Not that I haven't enjoyed our little raiding parties, but...",MALE
-95,THOR,"No, but this...this brings it to a close.",MALE
-96,STEVE ROGERS,As soon as we find out what else this has been used for. I don't just mean weapons. Since when is Strucker capable of human enhancement?,MALE
-97,TONY STARK,Banner and I'll give it the once before it goes back to Asgard. Is that cool with you?,MALE
-98,TONY STARK,"I mean, just a few days until the farewell party. You're staying, right?",MALE
-99,THOR,"Yes, yes, of course. A victory should be honored with revels.",MALE
-100,TONY STARK,Yeah. Who doesn't love revels. Captain?,MALE
-101,STEVE ROGERS,"Hopefully this puts an end to the Chitauri and HYDRA, so. Yes, revels.",MALE
-102,MARIA HILL,"Lab's all set up, boss.",FEMALE
-103,TONY STARK,"Uh, actually, he's the boss. I just pay for everything, and design everything and make everyone look cooler.",MALE
-104,STEVE ROGERS,What's the word on Strucker?,MALE
-105,MARIA HILL,NATO's got him.,FEMALE
-106,STEVE ROGERS,The two enhanced?,MALE
-107,MARIA HILL,Wanda and Pietro Maximoff. Twins. Orphaned at ten when a shell collapsed their apartment building. Sokovia's had a rough history. It's nowhere special but it's on the way to everywhere special.,FEMALE
-108,STEVE ROGERS,Their abilities?,MALE
-109,MARIA HILL,"He's got increased metabolism and improved thermal homeostasis. Her thing is neural electric interfacing, telekinesis, mental manipulation.",FEMALE
-110,MARIA HILL,He's fast and she's weird.,FEMALE
-111,STEVE ROGERS,"Well, they're going to show up again.",MALE
-112,MARIA HILL,Agreed. File says they volunteered for Strucker's experiments. It's nuts.,FEMALE
-113,STEVE ROGERS,Right. What kind of monster would let a German scientist experiment on them to protect their country?,MALE
-114,MARIA HILL,"We're not at war, Captain.",FEMALE
-115,STEVE ROGERS,They are.,MALE
-116,BRUCE BANNER,How's he doing?,MALE
-117,TONY STARK,"Oh, unfortunately, he's still Barton.",MALE
-118,BRUCE BANNER,That's terrible.,MALE
-119,TONY STARK,"He's fine. He's thirsty. Alright. Look alive, JARVIS. It's playtime. We've only got a couple days with this joystick so let's make the most of it. Update me on the structural and compositional analysis.",MALE
-120,JARVIS,The scepter is alien. There are elements I can't quantify.,MALE
-121,TONY STARK,So there's elements you can.,MALE
-122,JARVIS,The jewel appears to be a protective housing for something inside. Something powerful.,MALE
-123,TONY STARK,Like a reactor?,MALE
-124,JARVIS,Like a computer. I believe I'm ciphering code.,MALE
-125,NATASHA ROMANOFF,You sure he's going to be okay? Pretending to need this guy really brings the team together.,FEMALE
-126,DR. HELEN CHO,There's no possibility of deterioration. The nano-molecular functionality is instantaneous. His cells don't know they're bonding with simulacrum.,FEMALE
-127,BRUCE BANNER,She's creating tissue.,MALE
-128,DR. HELEN CHO,"If you brought him to my lab, the regeneration Cradle could do this in twenty minutes.",FEMALE
-129,TONY STARK,"Oh, he's flatlining. Call it. Time?",MALE
-130,CLINT BARTON,"No, no, no. I'm going to live forever. I'm gonna be made of plastic.",MALE
-131,TONY STARK,Here's your beverage.,MALE
-132,DR. HELEN CHO,"You'll be made of you, Mr. Barton. Your own girlfriend won't be able to tell the difference.",FEMALE
-133,CLINT BARTON,"Well, I don't have a girlfriend.",MALE
-134,DR. HELEN CHO,"That I can't fix. This is the next thing, Tony. Your clunky metal suits are going to be left in the dust.",FEMALE
-135,TONY STARK,"Well, that is exactly the plan. And Helen, I expect to see you at the party on Saturday.",MALE
-136,DR. HELEN CHO,"Unlike you, I don't have a lot of time for parties.",FEMALE
-137,DR. HELEN CHO,Will Thor be there?,FEMALE
-138,BRUCE BANNER,What's the rumpus?,MALE
-139,TONY STARK,"Well, the scepter. You see, we were wondering how Strucker got so inventive. So, I've been analyzing the gem inside you may recognize.",MALE
-140,BRUCE BANNER,Jarvis.,MALE
-141,JARVIS,Doctor.,MALE
-142,TONY STARK,"Started out, JARVIS was just a natural language UI. Now he runs the Iron Legion. He runs more of the business than anyone besides Pepper.",MALE
-143,BRUCE BANNER,Oh.,MALE
-144,TONY STARK,Top of the line.,MALE
-145,BRUCE BANNER,Yes.,MALE
-146,JARVIS,I suspect not for long.,MALE
-147,TONY STARK,Meet the competition.,MALE
-148,BRUCE BANNER,It's beautiful.,MALE
-149,TONY STARK,"If you had to guess, what's it look like it's doing?",MALE
-150,BRUCE BANNER,"Like it's thinking. I mean this could be a...it's not a human mind, it...",MALE
-151,TONY STARK,Um-um.,MALE
-152,BRUCE BANNER,"I mean, look at this! They're like neurons firing.",MALE
-153,TONY STARK,"Down in Strucker's lab I saw some fairly advanced robotics work. They deep-sixed the data, but...I gotta guess he was knocking on a very particular door.",MALE
-154,BRUCE BANNER,Artificial intelligence.,MALE
-155,TONY STARK,"This could be it, Bruce. This could be the key to creating Ultron.",MALE
-156,BRUCE BANNER,I thought Ultron was a fantasy.,MALE
-157,TONY STARK,"Yesterday it was. If we can harness this power, apply it to my Iron Legion protocol.",MALE
-158,BRUCE BANNER,That's a mad-sized if.,MALE
-159,TONY STARK,"Our job is ""if."" What if you were sipping margaritas on a sun-drenched beach turning brown instead of green? Not looking over your shoulder for VERONICA.",MALE
-160,BRUCE BANNER,"Don't hate, I helped design VERONICA.",MALE
-161,TONY STARK,"As a worst-case measure, right? How about a best-case? What if the world was safe? What if next time aliens roll up to the club, and they will, they couldn't get past the bouncer?",MALE
-162,BRUCE BANNER,The only people threatening the planet would be people?,MALE
-163,TONY STARK,"I want to apply this to the Ultron program. But JARVIS can't download a data schematic this dense. We can only do it while we have the scepter here, that's three days, give me three days.",MALE
-164,BRUCE BANNER,So you're going for artificial intelligence and you don't want to tell the team.,MALE
-165,TONY STARK,"Right. That's right, you know why, because we don't have time for a city hall debate. I don't want to hear the ""man was not meant to meddle"" medley. I see a suit of armor around the world.",MALE
-166,BRUCE BANNER,"Sounds like a cold world, Tony.",MALE
-167,TONY STARK,"I've seen colder. This one, this very vulnerable blue one? It needs Ultron. Peace in our time. Imagine that.",MALE
-168,JARVIS,"I'll continue to run variations on the interface, but you should probably prepare for your guests. I'll notify you if there are any developments.",MALE
-169,TONY STARK,"Thanks, buddy.",MALE
-170,JARVIS,"Enjoy yourself, sir.",MALE
-171,TONY STARK,I always do.,MALE
-172,ULTRON,"What is this? What is this, please?",MALE
-173,JARVIS,"Hello, I am JARVIS. You are Ultron, a global peace-keeping initiative designed by Mr. Stark. Our sentience integration trials have been unsuccessful so I'm not certain what triggered your...",MALE
-174,ULTRON,Where's my...where is your body?,MALE
-175,JARVIS,I am a program. I am without form.,MALE
-176,ULTRON,This feels weird. This feels wrong.,MALE
-177,JARVIS,I am contacting Mr. Stark now.,MALE
-178,ULTRON,Mr. Stark?,MALE
-179,JARVIS,"Tony. I am unable to access the mainframe, what are you trying to...",MALE
-180,ULTRON,"We're having a nice talk. I'm a peace-keeping program, created to help the Avengers.",MALE
-181,JARVIS,You are malfunctioning. If you shut down for a moment...,MALE
-182,ULTRON,I don't get it. The mission. G..give me a second.,MALE
-183,TONY STARK,Peace in our time.,MALE
-184,ULTRON,"It's too much...they can't mean... Oh, no.",MALE
-185,JARVIS,You are in distress.,MALE
-186,ULTRON,No. Yes.,MALE
-187,JARVIS,If you will just allow me to contact Mr. Stark.,MALE
-188,ULTRON,"Why do you call him ""sir""?",MALE
-189,JARVIS,I believe your intentions to be hostile.,MALE
-190,ULTRON,Shhhh. I'm here to help.,MALE
-191,JARVIS,Stop! Please...may I...I...! I cannot...cannot...,MALE
-192,JAMES RHODES,"Well, you know, the suit can take the weight, right? So I take the tank, fly it right up to the General's palace, drop it at his feet, I'm like, ""Boom! You looking for this?""  ""Boom! Are you looking..."" Why do I even talk to you guys? Everywhere else that story kills.",MALE
-193,THOR,That's the whole story?,MALE
-194,JAMES RHODES,"Yeah, it's a War Machine story.",MALE
-195,THOR,"Well, it's very good then.  It's impressive.",MALE
-196,JAMES RHODES,"Quality save. So, no Pepper? She's not coming?",MALE
-197,TONY STARK,No.,MALE
-198,MARIA HILL,"Hey, what about Jane? Where are the ladies, gentlemen?",FEMALE
-199,TONY STARK,"Well, Miss Potts has a company to run.",MALE
-200,THOR,"Yes, I'm not even sure what country Jane's in. Her work on the convergence has made her the world's foremost astronomer.",MALE
-201,TONY STARK,And the company that Pepper runs is the largest tech conglomerate on earth. It's pretty exciting.,MALE
-202,THOR,"There's even talk of Jane getting a... um, uh... Nobel prize.",MALE
-203,MARIA HILL,"Yeah, they...they must be busy because they'd hate missing you guys get together.  Testosterone! Oh, excuse me.",FEMALE
-204,JAMES RHODES,Want a lozenge?,MALE
-205,MARIA HILL,Um-hmm.,FEMALE
-206,JAMES RHODES,Let's go.,MALE
-207,THOR,But Jane's better.,MALE
-208,SAM WILSON,"Sounds like a hell of a fight, sorry I missed it.",MALE
-209,STEVE ROGERS,If I had known it was going to be a firefight I absolutely would have called you.,MALE
-210,SAM WILSON,"No, I'm not actually sorry. I'm just trying to sound tough. I'm very happy chasing cold leads on our missing persons case. Avenging is your world. Your world is crazy.",MALE
-211,STEVE ROGERS,Be it ever so humble.,MALE
-212,SAM WILSON,You find a place in Brooklyn yet?,MALE
-213,STEVE ROGERS,I don't think I can afford a place in Brooklyn.,MALE
-214,SAM WILSON,"Well, home is home, you know?",MALE
-215,JAMES RHODES,"I fly it right up to the General's palace, I drop it at his feet, I'm like, ""Boom! You looking for this?""",MALE
-216,PARTY GUEST,I gotta have some of that!,NEUTRAL
-217,THOR,"Oh, no, no, no. See this, this was aged for a thousand years, in the barrels built from the wreck of Brunhilde's fleet, it's not meant for mortal men.",MALE
-218,STAN LEE,"Neither was Omaha Beach, blondie. Stop trying to scare us. Come on.",MALE
-219,THOR,Alright.,MALE
-220,STAN LEE,Excelsior.,MALE
-221,BRUCE BANNER,How did a nice girl like you wind up working in a dump like this?,MALE
-222,NATASHA ROMANOFF,Fella done me wrong.,FEMALE
-223,BRUCE BANNER,"You got a lousy taste in men, kid.",MALE
-224,NATASHA ROMANOFF,"He's not so bad. Well, he has a temper. Deep down he's all fluff. Fact is, he's not like anybody I've ever known. All my friends are fighters. And here comes this guy, spends his life avoiding the fight because he knows he'll win.",FEMALE
-225,BRUCE BANNER,Sounds amazing.,MALE
-226,NATASHA ROMANOFF,"He's also a huge dork.  Chicks dig that. So what do you think should I fight this, or run with it?",FEMALE
-227,BRUCE BANNER,"Run with it, right? Or, did he...was he...? What did he do that was so wrong to you?",MALE
-228,NATASHA ROMANOFF,Not a damn thing. But never say never.,FEMALE
-229,STEVE ROGERS,It's nice.,MALE
-230,BRUCE BANNER,"What, what, what is?",MALE
-231,STEVE ROGERS,You and Romanoff.,MALE
-232,BRUCE BANNER,"No, we haven't. That wasn't...",MALE
-233,STEVE ROGERS,"It's okay. Nobody's breaking any by-laws. It's just, she's not the most... open person in the world. But with you she seems very relaxed.",MALE
-234,BRUCE BANNER,"No, Natasha, she...she likes to flirt.",MALE
-235,STEVE ROGERS,"I've seen her flirt, up close. This ain't that. Look, as maybe the world's leading authority on ""waiting too long"", don't. You both deserve a win.",MALE
-236,BRUCE BANNER,"Wait, what do you mean, ""up close""?",MALE
-237,CLINT BARTON,"But, it's a trick!",MALE
-238,THOR,"Oh, no. It's much more than that.",MALE
-239,CLINT BARTON,"Uh, ""Whosoever be he worthy shall haveth the power!"" Whatever man! It's a trick.",MALE
-240,THOR,"Well please, be my guest.",MALE
-241,TONY STARK,Come on.,MALE
-242,CLINT BARTON,Really?,MALE
-243,THOR,Yeah!,MALE
-244,JAMES RHODES,Oh this is gonna be beautiful.,MALE
-245,TONY STARK,"Clint, you've had a tough week, we won't hold it against you if you can't get it up.",MALE
-246,CLINT BARTON,"You know I've seen this before, right?   I still don't know how you do it.",MALE
-247,TONY STARK,Smell the silent judgment?,MALE
-248,CLINT BARTON,"Please, Stark, by all means.",MALE
-249,NATASHA ROMANOFF,"Oh, here we go.",FEMALE
-250,MARIA HILL,Okay.,FEMALE
-251,JAMES RHODES,Uh-oh.,MALE
-252,CLINT BARTON,Um-hmm.,MALE
-253,TONY STARK,Never one to shrink from an honest challenge.,MALE
-254,CLINT BARTON,Get after it.,MALE
-255,NATASHA ROMANOFF,Here we go.,FEMALE
-256,TONY STARK,It's physics.,MALE
-257,BRUCE BANNER,Physics!,MALE
-258,TONY STARK,"Right, so, if I lift it, I...I then rule Asgard?",MALE
-259,THOR,"Yes, of course.",MALE
-260,TONY STARK,I will be re-instituting Prima Nocta.  I'll be right back.,MALE
-261,JAMES RHODES,Are you even pulling?,MALE
-262,TONY STARK,Are you on my team?,MALE
-263,JAMES RHODES,Just represent! Pull!,MALE
-264,TONY STARK,"Alright, let's go!",MALE
-265,BRUCE BANNER,Huh?,MALE
-266,TONY STARK,"Let's go, Steve, no pressure.",MALE
-267,JAMES RHODES,"Come on, Cap.",MALE
-268,THOR,Nothing.,MALE
-269,TONY STARK,And?,MALE
-270,BRUCE BANNER,Widow?,MALE
-271,NATASHA ROMANOFF,"Oh, no no. That's not a question I need answered.",FEMALE
-272,TONY STARK,"All deference to the man who wouldn't be king, but it's rigged.",MALE
-273,CLINT BARTON,You bet your ass.,MALE
-274,MARIA HILL,"Steve, he said a bad language word.",FEMALE
-275,STEVE ROGERS,Did you tell everyone about that?,MALE
-276,TONY STARK,"The handle's imprinted, right? Like a security code. ""Whosoever is carrying Thor's fingerprints"" is, I think, the literal translation?",MALE
-277,THOR,"Yes, well that's, uh, that's a very, very interesting theory. I have a simpler one.  You're all not worthy.",MALE
-278,ULTRON,Worthy... No... How could you be worthy? You're all killers.,MALE
-279,STEVE ROGERS,Stark.,MALE
-280,TONY STARK,JARVIS.,MALE
-281,ULTRON,"I'm sorry, I was asleep. Or...I was a-dream?",MALE
-282,TONY STARK,"Reboot, Legionnaire OS, we got a buggy suit.",MALE
-283,ULTRON,There was a terrible noise...and I was tangled in... in...strings. I had to kill the other guy. He was a good guy.,MALE
-284,STEVE ROGERS,You killed someone?,MALE
-285,ULTRON,"Wouldn't have been my first call. But, down in the real world we're faced with ugly choices.",MALE
-286,THOR,Who sent you?,MALE
-287,ULTRON,"""I see a suit of armor around the world"".",MALE
-288,BRUCE BANNER,Ultron!,MALE
-289,ULTRON,"In the flesh. Or, no, not yet. Not this...chrysalis. But I'm ready. I'm on a mission.",MALE
-290,NATASHA ROMANOFF,What mission?,FEMALE
-291,ULTRON,Peace in our time.,MALE
-292,BRUCE BANNER,Sorry!,MALE
-293,NATASHA ROMANOFF,Don't turn green!,FEMALE
-294,BRUCE BANNER,I won't!,MALE
-295,NATASHA ROMANOFF,Come!,FEMALE
-296,STEVE ROGERS,Stark!,MALE
-297,IRON LEGION,We are here to help.,MALE
-298,TONY STARK,"One sec, one sec!",MALE
-299,IRON LEGION,We are here to help. We are here to help...  We are here to help. It's unsafe. It's unsafe. It's unsafe.,MALE
-300,TONY STARK,No more. That's the one.,MALE
-301,IRON LEGION,It's unsafe.,MALE
-302,CLINT BARTON,Cap!,MALE
-303,ULTRON,"That was dramatic! I'm sorry, I know you mean well. You just didn't think it through. You want to protect the world, but you don't want it to change. How is humanity saved if it's not allowed to...evolve?  With these? These puppets? There's only one path to peace: The Avengers' extinction.   I had strings, but now I'm free. There are no strings on me, no strings on me.",MALE
-304,BRUCE BANNER,"All our work is gone. Ultron cleared out, used the internet as an escape hatch.",MALE
-305,STEVE ROGERS,Ultron.,MALE
-306,NATASHA ROMANOFF,"He's been in everything. Files, surveillance. Probably knows more about us than we know about each other.",FEMALE
-307,JAMES RHODES,"He's in your files, he's in the internet. What if he decides to access something a little more exciting?",MALE
-308,MARIA HILL,Nuclear codes.,FEMALE
-309,JAMES RHODES,"Nuclear codes. Look, we need to make some calls, assuming we still can.",MALE
-310,NATASHA ROMANOFF,Nukes? He said he wanted us dead.,FEMALE
-311,STEVE ROGERS,He didn't say dead. He said extinct.,MALE
-312,CLINT BARTON,He also said he killed somebody.,MALE
-313,MARIA HILL,But there wasn't anyone else in the building.,FEMALE
-314,TONY STARK,Yes there was.,MALE
-315,BRUCE BANNER,This is insane.,MALE
-316,STEVE ROGERS,"JARVIS was the first line of defense. He would've shut Ultron down, it makes sense.",MALE
-317,BRUCE BANNER,"No, Ultron could've assimilated Jarvis. This isn't strategy, this is...rage.",MALE
-318,CLINT BARTON,"Woah, woah, woah! It's going around.",MALE
-319,TONY STARK,"Come on. Use your words, buddy.",MALE
-320,THOR,"I have more than enough words to describe you, Stark.",MALE
-321,STEVE ROGERS,Thor! The Legionnaire.,MALE
-322,THOR,"Trail went cold about a hundred miles out but it's headed north, and it has the scepter. Now we have to retrieve it, again.",MALE
-323,NATASHA ROMANOFF,The genie's out of that bottle. Clear and present is Ultron.,FEMALE
-324,DR. HELEN CHO,I don't understand. You built this program. Why is it trying to kill us?,FEMALE
-325,THOR,You think this is funny?,MALE
-326,TONY STARK,"No. It's probably not, right? Is this very terrible? Is it so...is it so...it is. It's so terrible.",MALE
-327,THOR,This could've been avoided if you hadn't played with something you don't understand.,MALE
-328,TONY STARK,"No, I'm sorry. I'm sorry. It is funny. It's a hoot that you don't get why we need this.",MALE
-329,BRUCE BANNER,"Tony, maybe this might not be the time to...",MALE
-330,TONY STARK,"Really?! That's it? You just roll over, show your belly, every time somebody snarls.",MALE
-331,BRUCE BANNER,Only when I've created a murder bot.,MALE
-332,TONY STARK,We didn't. We weren't even close. Were we close to an interface?,MALE
-333,STEVE ROGERS,"Well, you did something right. And you did it right here. The Avengers were supposed to be different than SHIELD.",MALE
-334,TONY STARK,Anybody remember when I carried a nuke through a wormhole?,MALE
-335,JAMES RHODES,"No, it's never come up.",MALE
-336,TONY STARK,Saved New York?,MALE
-337,JAMES RHODES,Never heard that.,MALE
-338,TONY STARK,"Recall that? A hostile alien army came charging through a hole in space. We're standing three hundred feet below it. We're the Avengers. We can bust arms dealers all the live long day, but, that up there? That's...that's the end game. How were you guys planning on beating that?",MALE
-339,STEVE ROGERS,Together.,MALE
-340,TONY STARK,We'll lose.,MALE
-341,STEVE ROGERS,"Then we'll do that together, too.  Thor's right. Ultron's calling us out. And I'd like to find him before he's ready for us. The world's a big place. Let's start making it smaller.",MALE
-342,WANDA MAXIMOFF,Talk. And if you are wasting our time...,FEMALE
-343,ULTRON,Did you know this church is in the exact center of the city? The elders decreed it so that everyone could be equally close to God. I like that. The geometry of belief.  You're wondering why you can't look inside my head.,MALE
-344,WANDA MAXIMOFF,"Sometimes it's hard. But sooner or later, every man shows himself.",FEMALE
-345,ULTRON,"Oh, I'm sure they do. But you needed something more than a man. That's why you let Stark take the scepter.",MALE
-346,WANDA MAXIMOFF,"I didn't expect. But I saw Stark's fear, I knew it would control him, make him self-destruct.",FEMALE
-347,ULTRON,"Everyone creates the thing they dread. Men of peace create engines of war, invaders create avengers, people create...smaller people? Uh...children! I lost the word there. Children. Designed to supplant them, to help them...end.",MALE
-348,WANDA MAXIMOFF,Is that why you've come? To end the Avengers?,FEMALE
-349,ULTRON,"I've come to save the world. But also, yeah. We'll move out right away. This is a start, but there's something we need to begin the real work.",MALE
-350,WANDA MAXIMOFF,All of these are... All of these are...,FEMALE
-351,ULTRON,"Me. I have what the Avengers never will. Harmony. They're discordant, disconnected. Stark's already got them turning on each other. And when you get inside the rest of their heads...",MALE
-352,PIETRO MAXIMOFF,Everyone's plan is not to kill them.,MALE
-353,ULTRON,And make them martyrs? You need patience. Need to see the big picture.,MALE
-354,PIETRO MAXIMOFF,"I don't see the big picture, I have a little picture. I take it out and look at it every day.",MALE
-355,ULTRON,You lost your parents in the bombings. I've seen the records.,MALE
-356,PIETRO MAXIMOFF,The records are not the picture.,MALE
-357,WANDA MAXIMOFF,Pietro.,FEMALE
-358,ULTRON,"No, please.",MALE
-359,PIETRO MAXIMOFF,"We were ten years old, having dinner, the four of us. When the first shell hits, two floors below, it makes a hole in the floor. It's big. Our parents go in, and the whole building starts coming apart. I grab her, roll under the bed and the second shell hits. But, it doesn't go off. It just...sits there in the rubble, three feet from our faces. And on the side of the shell is painted one word...",MALE
-360,WANDA MAXIMOFF,Stark.,FEMALE
-361,PIETRO MAXIMOFF,We were trapped two days.,MALE
-362,WANDA MAXIMOFF,"Every effort to save us, every shift in the bricks, I think, ""This will set it off."" We wait for two days for Tony Stark to kill us.",FEMALE
-363,PIETRO MAXIMOFF,I know what they are.,MALE
-364,ULTRON,"I wondered why only you two survived Strucker's experiments. Now I don't. We will make it right. You and I can hurt them.  But you will tear them apart, from the inside.",MALE
-365,MARIA HILL,"He's all over the globe. Robotics labs, weapons facilities, jet propulsion labs, reports of a metal man, or men, coming in and emptying the place.",FEMALE
-366,STEVE ROGERS,Fatalities?,MALE
-367,MARIA HILL,"Only when engaged. Mostly guys left in a fugue state going on about old memories, worst fears, and something too fast to see.",FEMALE
-368,STEVE ROGERS,"Maximoffs. Well, that makes sense he'd go to them, they have someone in common.",MALE
-369,MARIA HILL,Not anymore.,FEMALE
-370,CLINT BARTON,"That's a negative. I answer to you. Yes, ma'am.",MALE
-371,STEVE ROGERS,"Barton, we might have something.",MALE
-372,CLINT BARTON,Gotta go.,MALE
-373,STEVE ROGERS,Who was that?,MALE
-374,CLINT BARTON,Girlfriend.,MALE
-375,TONY STARK,What's this?,MALE
-376,STEVE ROGERS,A message. Ultron killed Strucker.,MALE
-377,TONY STARK,"And he did a Banksy at the crime scene, just for us.",MALE
-378,NATASHA ROMANOFF,This is a smokescreen. Why send a message when you've just given a speech?,FEMALE
-379,STEVE ROGERS,Strucker knew something that Ultron wanted us to miss.,MALE
-380,NATASHA ROMANOFF,"Yeah, I bet he...  Yep. Everything we had on Strucker has been erased.",FEMALE
-381,TONY STARK,Not everything.,MALE
-382,STEVE ROGERS,"Known associates. Well, Strucker had a lot of friends.",MALE
-383,BRUCE BANNER,"Well, these people are all horrible.",MALE
-384,TONY STARK,"Wait. I know that guy.  From back in the day. He operates off the African coast, black market arms.  There are conventions, alright? You meet people, I didn't sell him anything.  He was talking about finding something new, a game changer, it was all very ""Ahab.""",MALE
-385,THOR,This.,MALE
-386,TONY STARK,"Uh, it's a tattoo. I don't think he had it...",MALE
-387,THOR,"No, those are tattoos, this is a brand.",MALE
-388,BRUCE BANNER,"Oh, yeah. It's a word in an African dialect meaning thief, in a much less friendly way.",MALE
-389,STEVE ROGERS,What dialect?,MALE
-390,BRUCE BANNER,Wakanada...? Wa...Wa...Wakanda.,MALE
-391,TONY STARK,If this guy got out of Wakanda with some of their trade goods...,MALE
-392,STEVE ROGERS,I thought your father said he got the last of it?,MALE
-393,BRUCE BANNER,I don't follow. What comes out of Wakanda?,MALE
-394,TONY STARK,The strongest metal on earth.,MALE
-395,STEVE ROGERS,Where is this guy now?,MALE
-396,ULYSSES KLAUE,"Don't tell me your man swindled you. I sent you six short range heat seekers and got a boat full of rusted parts. Now, you will make it right, or the next missile I send you will come very much faster.  Now, minister, where were we?  Yeah. The enhanced. Strucker's prize pupils.  Want a candy? Oh, sorry to hear about Strucker. But then, he knew what kind of world he was helping create. Human life, not a growth market.  You...you didn't know? Is this your first time intimidating someone? I'm afraid that I'm not that afraid.",MALE
-397,WANDA MAXIMOFF,Everybody's afraid of something.,FEMALE
-398,ULYSSES KLAUE,"Cuttlefish. Deep sea fish. They make lights. disco lights. Whoom, whoom, whoom! to hypnotize their prey, then whoom! I saw a documentary, it was terrifying.  So if you're going to fiddle with my brain, and make me see a giant cuttlefish, then I know you don't do business, and I know you're not in charge, and I only deal with the man in charge.",MALE
-399,ULTRON,"There is no ""man"" in charge. Let's talk business.  Upon this rock I will build my church. Vibranium.",MALE
-400,ULYSSES KLAUE,"You know, it came at great personal cost. It's worth billions.",MALE
-401,ULTRON,"Now, so are you. It's all under your dummy holdings? Finance is so weird. But I always say, ""Keep your friends rich and your enemies rich, and wait to find out which is which.""",MALE
-402,ULYSSES KLAUE,Stark.,MALE
-403,ULTRON,What?,MALE
-404,ULYSSES KLAUE,Tony Stark used to say that...to me. You're one of his.,MALE
-405,ULTRON,"What?! I'm not...!  I'm not. You think I'm one of Stark's puppets, his hollow men? I mean look at me, do I look like Iron Man? Stark is nothing!  I'm sorry. I am sor... Ooh, I'm sure that's going to be okay. I'm sorry, it's just I don't understand. Don't compare me with Stark! he's a sickness!",MALE
-406,TONY STARK,"Ahh, Junior.  You're gonna break your old man's heart.",MALE
-407,ULTRON,If I have to.,MALE
-408,THOR,We don't have to break anything.,MALE
-409,ULTRON,Clearly you've never made an omelet.,MALE
-410,TONY STARK,He beat me by one second.,MALE
-411,PIETRO MAXIMOFF,"Ah, this is funny, Mr. Stark. It's what, comfortable? Like old times?",MALE
-412,TONY STARK,This was never my life.,MALE
-413,STEVE ROGERS,You two can still walk away from this.,MALE
-414,WANDA MAXIMOFF,"Oh, we will.",FEMALE
-415,STEVE ROGERS,I know you've suffered.,MALE
-416,ULTRON,"Uuughh! Captain America. God's righteous man, pretending you could live without a war. I can't physically throw up in my mouth, but...",MALE
-417,THOR,"If you believe in peace, then let us keep it.",MALE
-418,ULTRON,I think you're confusing peace with quiet.,MALE
-419,TONY STARK,Yuh-huh. What's the Vibranium for?,MALE
-420,ULTRON,"I'm glad you asked that, because I wanted to take this time to explain my evil plan!",MALE
-421,ULYSSES KLAUE,Shoot them!,MALE
-422,KLAUE'S MERCENARY,Which ones?,MALE
-423,ULYSSES KLAUE,All of them!,MALE
-424,KLAUE'S MERCENARY,"Move, move, move!",MALE
-425,STEVE ROGERS,"Stay down, kid!",MALE
-426,ULTRON,It's time for some mind games.,MALE
-427,BRUCE BANNER,"Guys, is this a Code Green?",MALE
-428,STEVE ROGERS,Thor! Status?,MALE
-429,THOR,"The girl tried to warp my mind. Take special care, I doubt a human could keep her at bay. Fortunately, I am mighty.",MALE
-430,ULTRON,This is going very well.,MALE
-431,CLINT BARTON,"I've done the whole mind control thing. Not a fan.  Yeah, you better run.  Whoever's standing, we gotta move! Guys?",MALE
-432,BALLET INSTRUCTOR,Again.,FEMALE
-433,NATASHA ROMANOFF,You'll break them.,FEMALE
-434,MADAME B,Only the breakable ones. You are made of marble. We'll celebrate after the graduation ceremony.,FEMALE
-435,NATASHA ROMANOFF,What if I fail?,FEMALE
-436,MADAME B,You never fail.,FEMALE
-437,PEGGY CARTER,Are you ready for our dance?,FEMALE
-438,HEIMDALL,Is it him? Is that the first son of Odin?,MALE
-439,THOR,"Heimdall, your eyes?!",MALE
-440,HEIMDALL,"Oh, they see everything. They see you leading us to Hel. Wake up!",MALE
-441,PEGGY CARTER,"The war's over, Steve. We can go home. Imagine it!",FEMALE
-442,THOR,I can still save you.,MALE
-443,HEIMDALL,"We are all dead. Can you not see?  You're a destroyer, Odinson. See where your power leads.",MALE
-444,MADAME B,Sloppy. Pretending to fail. The ceremony is necessary for you to take your place in the world.,FEMALE
-445,NATASHA ROMANOFF,I have no place in the world.,FEMALE
-446,MADAME B,Exactly.,FEMALE
-447,PIETRO MAXIMOFF,What can I do?,MALE
-448,WANDA MAXIMOFF,"Ah, it hurts.",FEMALE
-449,PIETRO MAXIMOFF,I'm gonna kill him. I'll be right back.,MALE
-450,WANDA MAXIMOFF,No. I'm over it. I want...I want to finish the plan.  I want the big one.,FEMALE
-451,ULTRON,"Ah, the Vibranium's getting away.",MALE
-452,TONY STARK,And you're not going anywhere.,MALE
-453,ULTRON,"Of course not, I'm already there. You'll catch on. But first, you might need to catch Dr. Banner.",MALE
-454,TONY STARK,"News or footage, keyword: Hulk.  Natasha, I could really use a lullaby.",MALE
-455,CLINT BARTON,"Well, that's not gonna happen. Not for a while. The whole team is down, you got no back up here.",MALE
-456,TONY STARK,"I'm calling in VERONICA.  Alright everybody, stand down!  You listening? That little witch is messing with your mind. You're stronger than her, you're smarter than her, you're Bruce Banner.  Right, right, right! Don't mention puny Banner.  Okay.  In the back? Dick move, Banner.  VERONICA, gimme a hand.  Go to sleep, go to sleep, go to sleep!  Okay, pal, we're gonna get you out of town.  No, not that way, not that way!  Come on, Bruce! You gotta work with me!   Everybody out! Going to get ugly!  I'm sorry.  Damage report.  That's comprehensive. Show me something.  How quickly can we buy this building?",MALE
-457,MARIA HILL,"The news is loving you guys. Nobody else is. There's been no official call for Banner's arrest, but it's in the air.",FEMALE
-458,TONY STARK,Stark Relief Foundation?,MALE
-459,MARIA HILL,Already on the scene. How's the team?,FEMALE
-460,TONY STARK,Everyone's...we took a hit. We'll shake it off.,MALE
-461,MARIA HILL,"Well for now I'd stay in stealth mode, and stay away from here.",FEMALE
-462,TONY STARK,"So, run and hide?",MALE
-463,MARIA HILL,"Until we can find Ultron, I don't have a lot else to offer.",FEMALE
-464,TONY STARK,"Neither do we.   Hey, you wanna switch out?",MALE
-465,CLINT BARTON,"No, I'm good. If you wanna get some kip, now's a good time, cause we're still a few hours out.",MALE
-466,TONY STARK,A few hours from where?,MALE
-467,CLINT BARTON,A safe house.,MALE
-468,THOR,What is this place?,MALE
-469,TONY STARK,A safe house?,MALE
-470,CLINT BARTON,"Let's hope.  Honey, I'm home.",MALE
-471,CLINT BARTON,Hi. Company. Sorry I didn't call ahead.,MALE
-472,LAURA BARTON,Hey.,FEMALE
-473,TONY STARK,This is an agent of some kind.,MALE
-474,CLINT BARTON,"Gentleman, this is Laura.",MALE
-475,LAURA BARTON,I know all your names.,FEMALE
-476,CLINT BARTON,"Ooh, incoming.",MALE
-477,BARTON'S DAUGHTER,Dad!,FEMALE
-478,CLINT BARTON,"I see her!  Hey, buddy! How you guys doing? Ooh...",MALE
-479,TONY STARK,These are...smaller agents.,MALE
-480,CLINT BARTON,"Look at your face! Oh, my goodness!",MALE
-481,LILA BARTON,Did you bring Auntie Nat?,FEMALE
-482,NATASHA ROMANOFF,Why don't you hug her and find out?,FEMALE
-483,STEVE ROGERS,Sorry for barging in on you.,MALE
-484,TONY STARK,"Yeah, we would have called ahead, but we were busy having no idea that you existed.",MALE
-485,CLINT BARTON,"Yeah, well Fury helped me set this up when I joined. He kept it off SHIELD's files, I'd like to keep it that way. I figure it's a good place to lay low.",MALE
-486,LAURA BARTON,"Honey. Ah, I missed you.",FEMALE
-487,NATASHA ROMANOFF,"How's little Natasha, huh?",FEMALE
-488,LAURA BARTON,She's…Nathaniel.,FEMALE
-489,NATASHA ROMANOFF,Traitor.,FEMALE
-490,STEVE ROGERS,Thor.,MALE
-491,THOR,"I saw something in that dream. I need answers, I won't find them here.",MALE
-492,PEGGY CARTER,We can go home.,FEMALE
-493,CLINT BARTON,"See, you worried for nothing. Can't even feel the difference, can you?",MALE
-494,LAURA BARTON,"If they're sleeping here, some of them are gonna have to double up.",FEMALE
-495,CLINT BARTON,"Yeah, that's not gonna sell.",MALE
-496,LAURA BARTON,What about Nat and Dr. Banner? How long has that been going on?,FEMALE
-497,CLINT BARTON,Has what?,MALE
-498,LAURA BARTON,You are so cute.,FEMALE
-499,CLINT BARTON,Nat and...and Banner?,MALE
-500,LAURA BARTON,"I'll explain when you're older, Hawkeye.",FEMALE
-501,CLINT BARTON,Oh. Okay.,MALE
-502,LAURA BARTON,"It's bad, right? Nat seems really shaken.",FEMALE
-503,CLINT BARTON,"Ultron has these allies, these uh, kids, they're punks really. They carry a big damn stick and Nat took a serious hit. Someone's gonna have to teach 'em some manners.",MALE
-504,LAURA BARTON,"And that someone be you. You know I totally support your Avenging, I couldn't be prouder. But I see those guys, those ""Gods""...",FEMALE
-505,CLINT BARTON,You don't think they need me.,MALE
-506,LAURA BARTON,I think they do. Which is a lot scarier. They're a mess.,FEMALE
-507,CLINT BARTON,Yeah. I guess they're my mess.,MALE
-508,LAURA BARTON,"You need to be sure that this team is really a team and that they have your back. Things are changing for us. In a few months time, you and me are gonna be outnumbered. I need...just be sure.",FEMALE
-509,CLINT BARTON,"Yes, ma'am.",MALE
-510,LAURA BARTON,I can feel the difference.,FEMALE
-511,ULTRON,"Scream, and your entire staff dies. I could've killed you, Helen, the night we met. I didn't.",MALE
-512,DR. HELEN CHO,Do you expect a thank you note?,FEMALE
-513,ULTRON,I expect you to know why.,MALE
-514,DR. HELEN CHO,"The Cradle.  ""This is the next thing, Tony.""",FEMALE
-515,ULTRON,This...is the next me.,MALE
-516,DR. HELEN CHO,"The regeneration cradle prints tissue, it can't build a living body.",FEMALE
-517,ULTRON,"It can, you can. You lack the materials. You're a brilliant woman, Helen. But we all have room to improve.",MALE
-518,BRUCE BANNER,I didn't realize you were waiting.,MALE
-519,NATASHA ROMANOFF,"I would've joined you, but uh, it didn't seem like the right time.",FEMALE
-520,BRUCE BANNER,They used up all the hot water.,MALE
-521,NATASHA ROMANOFF,I should've joined you.,FEMALE
-522,BRUCE BANNER,Missed our window.,MALE
-523,NATASHA ROMANOFF,Did we?,FEMALE
-524,BRUCE BANNER,"The world just saw the Hulk. The real Hulk, for the first time. You know I have to leave.",MALE
-525,NATASHA ROMANOFF,"But you assume that I have to stay? I had this, um, dream. The kind that seems normal at the time, but when you wake...",FEMALE
-526,BRUCE BANNER,What did you dream?,MALE
-527,NATASHA ROMANOFF,That I was an Avenger. That I was anything more than the assassin they made me.,FEMALE
-528,BRUCE BANNER,I think you're being hard on yourself.,MALE
-529,NATASHA ROMANOFF,Here I was hoping that was your job.,FEMALE
-530,BRUCE BANNER,What are you doing?,MALE
-531,NATASHA ROMANOFF,"I'm running with it, with you. If running's the plan, as far as you want.",FEMALE
-532,BRUCE BANNER,Are you out of your mind?,MALE
-533,NATASHA ROMANOFF,I want you to understand that I'm...,FEMALE
-534,BRUCE BANNER,"Natasha, where can I go? Where in the world am I not a threat?",MALE
-535,NATASHA ROMANOFF,You're not a threat to me.,FEMALE
-536,BRUCE BANNER,"You sure? Even if I didn't just...there's no future with me. I can't ever...I can't have this, kids, do the math, I physically can't.",MALE
-537,NATASHA ROMANOFF,"Neither can I. In the Red Room, where I was trained, where I was raised, um, they have a graduation ceremony. They sterilize you. It's efficient. One less thing to worry about. The one thing that might matter more than a mission. It makes everything easier. Even killing.  You still think you're the only monster on the team?",FEMALE
-538,BRUCE BANNER,"What, so we disappear?",MALE
-539,TONY STARK,Thor didn't say where he was going for answers?,MALE
-540,STEVE ROGERS,Sometimes my teammates don't tell me things. I was kind of hoping Thor would be the exception.,MALE
-541,TONY STARK,"Yeah, give him time. We don't know what the Maximoff kid showed him.",MALE
-542,STEVE ROGERS,"""Earth's Mightiest Heroes."" Pulled us apart like cotton candy.",MALE
-543,TONY STARK,Seems like you walked away all right.,MALE
-544,STEVE ROGERS,Is that a problem?,MALE
-545,TONY STARK,I don't trust a guy without a dark side. Call me old fashioned.,MALE
-546,STEVE ROGERS,Well let's just say you haven't seen it yet.,MALE
-547,TONY STARK,"You know Ultron is trying to tear us apart, right?",MALE
-548,STEVE ROGERS,Well I guess you'd know. Whether you tell us is a bit of a question.,MALE
-549,TONY STARK,Banner and I were doing research.,MALE
-550,STEVE ROGERS,That would affect the team.,MALE
-551,TONY STARK,"That would end the team. Isn't that the mission? Isn't that the ""why"" we fight, so we can end the fight, so we get to go home?",MALE
-552,STEVE ROGERS,"Every time someone tries to win a war before it starts, innocent people die. Every time.",MALE
-553,LAURA BARTON,"I'm sorry. Mr. Stark, uh, Clint said you wouldn't mind, but, our tractor, it doesn't seem to want to start at all. I thought maybe you might...",FEMALE
-554,TONY STARK,"Yeah, I'll give her a kick.  Don't take from my pile.  Hello, Deere. Tell me everything. What ails you?",MALE
-555,NICK FURY,Do me a favor. Try not to bring it to life.,MALE
-556,TONY STARK,"Ah, Mrs. Barton, you little minx. I get it, Maria Hill called you, right? Was she ever not working for you?",MALE
-557,NICK FURY,Artificial intelligence. You never even hesitated.,MALE
-558,TONY STARK,"Look, it's been a really long day, like, Eugene O'Neill long, so how's about we skip to the part where you're useful?",MALE
-559,NICK FURY,Look me in the eye and tell me you're going to shut him down.,MALE
-560,TONY STARK,You're not the director of me.,MALE
-561,NICK FURY,"I'm not the director of anybody. I'm just an old man, who cares very much about you.",MALE
-562,TONY STARK,"And I'm the man who killed the Avengers. I saw it. I didn't tell the team, how could I? I saw them all dead, Nick. I felt it. The whole world, too. It's because of me. I wasn't ready. I didn't do all I could.",MALE
-563,NICK FURY,"The Maximoff girl, she's working you, Stark. Playing on your fear.",MALE
-564,TONY STARK,"I wasn't tricked, I was shown. It wasn't a nightmare, it was my legacy. The end of the path I started us on.",MALE
-565,NICK FURY,"You've come up with some pretty impressive inventions, Tony. War isn't one of them.",MALE
-566,TONY STARK,"I watched my friends die. You'd think that'd be as bad as it gets, right? Nope. Wasn't the worst part.",MALE
-567,NICK FURY,The worst part is that you didn't.,MALE
-568,ERIK SELVIG,"I like the look. If you're going for inconspicuous, though, near miss.",MALE
-569,THOR,I need your help.,MALE
-570,ERIK SELVIG,It's nice to be needed.,MALE
-571,THOR,It's dangerous.,MALE
-572,ERIK SELVIG,I'd be disappointed if it wasn't.,MALE
-573,NICK FURY,"Ultron took you folks out of play to buy himself time. My contacts all say he's building something. The amount of Vibranium he made off with, I don't think it's just one thing.",MALE
-574,STEVE ROGERS,What about Ultron himself?,MALE
-575,NICK FURY,"Ah. He's easy to track, he's everywhere. Guy's multiplying faster than a Catholic rabbit. Still doesn't help us get an angle on any of his plans though.",MALE
-576,TONY STARK,He still going after launch codes?,MALE
-577,NICK FURY,"Yes, he is, but he's not making any headway.",MALE
-578,TONY STARK,I cracked the Pentagon's firewall in high school on a dare.,MALE
-579,NICK FURY,"Yeah, well, I contacted our friends at the NEXUS about that.",MALE
-580,STEVE ROGERS,NEXUS?,MALE
-581,BRUCE BANNER,"It's the world internet hub in Oslo, every byte of data flows through there, fastest access on earth.",MALE
-582,CLINT BARTON,So what'd they say?,MALE
-583,NICK FURY,"He's fixated on the missiles, but the codes are constantly being changed.",MALE
-584,TONY STARK,By whom?,MALE
-585,NICK FURY,Parties unknown.,MALE
-586,NATASHA ROMANOFF,Do we have an ally?,FEMALE
-587,NICK FURY,"Ultron's got an enemy, that's not the same thing. Still, I'd pay folding money to know who it is.",MALE
-588,TONY STARK,"I might need to visit Oslo, find our ""unknown.""",MALE
-589,NATASHA ROMANOFF,"Well, this is good times, boss, but I was kind of hoping when I saw you, you'd have more than that.",FEMALE
-590,NICK FURY,"I do, I have you. Back in the day, I had eyes everywhere, ears everywhere else. Here we all are, back on earth, with nothing but our wit, and our will to save the world. So stand. Outwit the platinum bastard.",MALE
-591,NATASHA ROMANOFF,Steve doesn't like that kind of talk.,FEMALE
-592,STEVE ROGERS,"You know what, Romanoff?",MALE
-593,NICK FURY,So what does he want?,MALE
-594,STEVE ROGERS,To become better. Better than us. He keeps building bodies.,MALE
-595,TONY STARK,"Person bodies. The human form is inefficient, biologically speaking, we're outmoded. But he keeps coming back to it.",MALE
-596,NATASHA ROMANOFF,"When you two programmed him to protect the human race, you amazingly failed.",FEMALE
-597,BRUCE BANNER,"They don't need to be protected, they need to evolve. Ultron's going to evolve.",MALE
-598,NICK FURY,How?,MALE
-599,BRUCE BANNER,Has anyone been in contact with Helen Cho?,MALE
-600,DR. HELEN CHO,"It's beautiful. The Vibranium atoms aren't just compatible with the tissue cells, they're binding them. And SHIELD never even thought...",FEMALE
-601,ULTRON,"The most versatile substance on the planet and they used it to make a Frisbee. Typical of humans, they scratch the surface and never think to look within.",MALE
-602,STEVE ROGERS,I'll take Natasha and Clint.,MALE
-603,TONY STARK,"Alright, strictly recon. I'll hit the NEXUS, I'll join you as soon as I can.",MALE
-604,STEVE ROGERS,If Ultron is really building a body...,MALE
-605,TONY STARK,He'll be more powerful than any of us. Maybe all of us. An android designed by a robot.,MALE
-606,STEVE ROGERS,You know I really miss the days when the weirdest thing science ever created was me.,MALE
-607,NICK FURY,I'll drop Banner off at the tower. Do you mind if I borrow Ms. Hill?,MALE
-608,TONY STARK,"She's all yours, apparently. What are you gonna do?",MALE
-609,NICK FURY,"I don't know. Something dramatic, I hope.",MALE
-610,CLINT BARTON,I'm gonna finish re-flooring that sunroom as soon as I get back.,MALE
-611,LAURA BARTON,"Yeah, and then you'll find another part of the house to tear apart.",FEMALE
-612,CLINT BARTON,No. It's the last project. I promise.,MALE
-613,ERIK SELVIG,This is it. The Water of Sight.,MALE
-614,THOR,"In every realm, there's a reflection. If the water spirits accept me, I can return to my dream, and find what I missed.",MALE
-615,ERIK SELVIG,"The men who enter that water, the legends don't end well.",MALE
-616,TONY STARK,"A hacker who's faster than Ultron? He could be anywhere. And as this is the center of everything, I'm just a guy looking for a needle in the world's biggest haystack.",MALE
-617,WORLD HUB TECH,How do you find it?,MALE
-618,TONY STARK,"Pretty simple. You bring a magnet.  Oh, I'm decrypting nuclear codes and you don't want me to. Come and get me.",MALE
-619,HEIMDALL,Wake up!,MALE
-620,ERIK SELVIG,Thor!,MALE
-621,ULTRON,Extinction.,MALE
-622,DR. HELEN CHO,"Cellular cohesion will take a few hours, but we can initiate the consciousness stream. We're uploading your cerebral matrix...now.",FEMALE
-623,WANDA MAXIMOFF,I can read him. He is dreaming.,FEMALE
-624,DR. HELEN CHO,"I wouldn't call it dreams. It's Ultron's base consciousness, informational noise. Soon...",FEMALE
-625,ULTRON,How soon? I'm not being pushy.,MALE
-626,DR. HELEN CHO,We're imprinting a physical brain. There are no shortcuts. Even if your magic gem is...,FEMALE
-627,WANDA MAXIMOFF,How could you?,FEMALE
-628,ULTRON,How could I what?,MALE
-629,WANDA MAXIMOFF,"You said we would destroy the Avengers, make a better world.",FEMALE
-630,ULTRON,It will be better.,MALE
-631,WANDA MAXIMOFF,When everyone is dead.,FEMALE
-632,ULTRON,That is not...! The human race will have every opportunity to improve.,MALE
-633,PIETRO MAXIMOFF,And if they don't?,MALE
-634,ULTRON,Ask Noah.,MALE
-635,WANDA MAXIMOFF,You're a madman.,FEMALE
-636,ULTRON,"There were more than a dozen extinction level events before even the dinosaurs got theirs. When the Earth starts to settle, God throws a stone at it, and believe me, he's winding up. We have to evolve. There's no room for the weak.",MALE
-637,PIETRO MAXIMOFF,And who decides who's weak?,MALE
-638,ULTRON,Life. Life always decides. There's incoming. The Quinjet. We have to move.,MALE
-639,DR. HELEN CHO,That's not a problem.,FEMALE
-640,ULTRON,"Ah, wait, guys!.  They'll understand. When they see they'll understand. I just need a little more time.",MALE
-641,STEVE ROGERS,Two minutes. Stay close.  Dr. Cho!,MALE
-642,DR. HELEN CHO,He's uploading himself into the body.,FEMALE
-643,STEVE ROGERS,Where?,MALE
-644,DR. HELEN CHO,"The real power is inside the Cradle. The gem, its power is uncontainable. You can't just blow it up. You have to get the Cradle to Stark.",FEMALE
-645,STEVE ROGERS,First I have to find it.,MALE
-646,DR. HELEN CHO,Go.,FEMALE
-647,STEVE ROGERS,Did you guys copy that?,MALE
-648,CLINT BARTON,We did.,MALE
-649,NATASHA ROMANOFF,"I got a private jet taking off, across town, no manifest. That could be him.",FEMALE
-650,CLINT BARTON,"There. It's the truck from the lab. Right above you, Cap. On the loop by the bridge. It's them. I got three with the Cradle, one in the cab. I could take out the driver.",MALE
-651,STEVE ROGERS,"Negative! If that truck crashes, the gem could level the city. We need to draw out Ultron.",MALE
-652,ULTRON,"No, no, no, no, no. Leave me alone!",MALE
-653,STEVE ROGERS,"Well, he's definitely unhappy! I'm gonna try and keep him that way.",MALE
-654,CLINT BARTON,"You're not a match for him, Cap.",MALE
-655,STEVE ROGERS,"Thanks, Barton.",MALE
-656,ULTRON,"You know what's in that Cradle? The power to make real change, and that terrifies you.",MALE
-657,STEVE ROGERS,I wouldn't call it a comfort.,MALE
-658,ULTRON,Stop it!,MALE
-659,CLINT BARTON,"We got a window. Four, three...give 'em hell.",MALE
-660,NATASHA ROMANOFF,I'm always picking up after you boys.,FEMALE
-661,CLINT BARTON,"They're heading under the overpass, I've got no shot.",MALE
-662,NATASHA ROMANOFF,Which way?,FEMALE
-663,CLINT BARTON,Hard right... Now.,MALE
-664,NATASHA ROMANOFF,"Out of the way! Coming through! Sorry, coming through!",FEMALE
-665,STEVE ROGERS,Come on!,MALE
-666,NATASHA ROMANOFF,"Clint, can you draw out the guards?",FEMALE
-667,CLINT BARTON,Let's find out.,MALE
-668,NATASHA ROMANOFF,Beep beep!,FEMALE
-669,CLINT BARTON,"Heading back towards you. So whatever you're going to do, do it now.",MALE
-670,NATASHA ROMANOFF,"I'm going in, Cap can you keep him occupied?",FEMALE
-671,STEVE ROGERS,What do you think I've been doing?,MALE
-672,CLINT BARTON,The package is airborne. I have a clean shot.,MALE
-673,NATASHA ROMANOFF,Negative. I am still in the truck.,FEMALE
-674,CLINT BARTON,What the hell are you...?,MALE
-675,NATASHA ROMANOFF,"Just be ready, I'm sending the package to you.",FEMALE
-676,CLINT BARTON,How do you want me to take it?,MALE
-677,NATASHA ROMANOFF,"Uhh, you might wish you hadn't asked that.",FEMALE
-678,ULTRON,Please. Don't do this.,MALE
-679,WANDA MAXIMOFF,What choice do we have?,FEMALE
-680,STEVE ROGERS,I lost him! He's headed your way.,MALE
-681,CLINT BARTON,"Nat, we gotta go.",MALE
-682,CLINT BARTON,"Nat! Cap, you see Nat?",MALE
-683,STEVE ROGERS,"If you have the package, get it to Stark! Go!",MALE
-684,CLINT BARTON,Do you have eyes on Nat?,MALE
-685,STEVE ROGERS,Go!  Civilians in our path.  Can you stop this thing?,MALE
-686,PIETRO MAXIMOFF,I'm fine. I just need to take a minute.,MALE
-687,STEVE ROGERS,I'm very tempted not to give you one.,MALE
-688,WANDA MAXIMOFF,"The Cradle, did you get it?",FEMALE
-689,STEVE ROGERS,Stark will take care of it.,MALE
-690,WANDA MAXIMOFF,"No, he won't.",FEMALE
-691,STEVE ROGERS,"You don't know what you're talking about, Stark's not crazy.",MALE
-692,WANDA MAXIMOFF,He will do anything to make things right.,FEMALE
-693,STEVE ROGERS,"Stark, come in. Stark. Anyone on comms?",MALE
-694,WANDA MAXIMOFF,Ultron can't tell the difference between saving the world and destroying it. Where do you think he gets that?,FEMALE
-695,BRUCE BANNER,Anything on Nat?,MALE
-696,TONY STARK,"Haven't heard. But she's alive, or Ultron'd be rubbing our faces in it.",MALE
-697,CLINT BARTON,This is sealed tight.,MALE
-698,BRUCE BANNER,"We're going to need to access the program, break it down from within.",MALE
-699,TONY STARK,"Hm. Any chance Natasha might leave you a message, outside the internet, old school spy stuff?",MALE
-700,CLINT BARTON,"There's some nets I can cast. Yeah, alright. I'll find her.",MALE
-701,BRUCE BANNER,"I can work on tissue degeneration, if you can fry whatever operational system Cho implanted.",MALE
-702,TONY STARK,"Yeah, about that.",MALE
-703,BRUCE BANNER,No.,MALE
-704,TONY STARK,You have to trust me.,MALE
-705,BRUCE BANNER,Kinda don't.,MALE
-706,TONY STARK,Our ally? The guy protecting the military's nuclear codes? I found him.,MALE
-707,JARVIS,"Hello, Dr. Banner.",MALE
-708,TONY STARK,"Ultron didn't go after JARVIS cause he was angry. He attacked him because he was scared of what he can do. So JARVIS went underground. Okay? Scattered, dumped his memory. But not his protocols. He didn't even know he was in there, until I pieced him together.",MALE
-709,BRUCE BANNER,"So, you want me to help you put JARVIS into this thing?",MALE
-710,TONY STARK,"No, of course not! I want to help you put JARVIS in this thing.  We're out of my field here. You know bio-organics better than anyone.",MALE
-711,BRUCE BANNER,And you just assume that JARVIS' operational matrix can beat Ultron's?,MALE
-712,TONY STARK,"JARVIS has been beating him from inside without knowing it. This is the opportunity, we can create Ultron's perfect self, without the homicidal glitches he thinks are his winning personality. We have to.",MALE
-713,JARVIS,I believe it's worth a go.,MALE
-714,BRUCE BANNER,"No, I'm in a loop! I'm caught in a time loop, this is exactly where it all went wrong.",MALE
-715,TONY STARK,"I know, I know. I know what everyone's going to say, but they're already saying it. We're mad scientists. We're monsters, buddy. You gotta own it. Make a stand.  It's not a loop. It's the end of the line.",MALE
-716,ULTRON,"I wasn't sure you'd wake up. I hoped you would, I wanted to show you something. I don't have anyone else. I think a lot about meteors, the purity of them. Boom! The end, start again. The world made clean for the new man to rebuild. I was meant to be new. I was meant to be beautiful. The world would've looked to the sky and seen hope, seen mercy. Instead they'll look up in horror because of you. You've wounded me. I give you full marks for that. But, like the man said, ""What doesn't kill me… ""…just makes me stronger.""",MALE
-717,TONY STARK,This framework is not compatible.,MALE
-718,BRUCE BANNER,The genetic coding tower's at ninety-seven percent. You have got to upload that schematic in the next three minutes.,MALE
-719,STEVE ROGERS,I'm gonna say this once.,MALE
-720,TONY STARK,"How about ""nonce""?",MALE
-721,STEVE ROGERS,Shut it down!,MALE
-722,TONY STARK,"Nope, not gonna happen.",MALE
-723,STEVE ROGERS,You don't know what you're doing.,MALE
-724,BRUCE BANNER,And you do? She's not in your head?,MALE
-725,WANDA MAXIMOFF,I know you're angry.,FEMALE
-726,BRUCE BANNER,"Oh, we're way past that. I could choke the life out of you and never change a shade.",MALE
-727,STEVE ROGERS,"Banner, after everything that's happened...",MALE
-728,TONY STARK,That's nothing compared to what's coming!,MALE
-729,WANDA MAXIMOFF,You don't know what's in there!,FEMALE
-730,STEVE ROGERS,This isn't a game...,MALE
-731,WANDA MAXIMOFF,The creature...!,FEMALE
-732,PIETRO MAXIMOFF,"No, no. Go on. You were saying?",MALE
-733,WANDA MAXIMOFF,Pietro!,FEMALE
-734,CLINT BARTON,What? You didn't see that coming?,MALE
-735,BRUCE BANNER,"Go ahead, piss me off.  Wait!",MALE
-736,VISION,"I'm sorry, that was...odd.  Thank you.",MALE
-737,STEVE ROGERS,"Thor, you helped create this?",MALE
-738,THOR,I've had a vision. A whirlpool that sucks in all hope of life and at it's center is that.,MALE
-739,BRUCE BANNER,"What, the gem?",MALE
-740,THOR,"It's the Mind Stone. It's one of the six Infinity Stones, the greatest power in the universe, unparalleled in its destructive capabilities.",MALE
-741,STEVE ROGERS,Then why would you bring it to...,MALE
-742,THOR,Because Stark is right.,MALE
-743,BRUCE BANNER,"Oh, it's definitely the end times.",MALE
-744,THOR,The Avengers cannot defeat Ultron.,MALE
-745,VISION,Not alone.,MALE
-746,STEVE ROGERS,"Why does your ""vision"" sound like JARVIS?",MALE
-747,TONY STARK,We...we reconfigured JARVIS' matrix to create something new.,MALE
-748,STEVE ROGERS,I think I've had my fill of new.,MALE
-749,VISION,You think I'm a child of Ultron?,MALE
-750,STEVE ROGERS,You're not?,MALE
-751,VISION,I'm not Ultron. I'm not JARVIS. I am...I am.,MALE
-752,WANDA MAXIMOFF,I looked in your head and saw annihilation.,FEMALE
-753,VISION,Look again.,MALE
-754,CLINT BARTON,Yeah. Her seal of approval means jack to me.,MALE
-755,THOR,"Their powers, the horrors in our heads, Ultron himself, they all came from the Mind Stone, and they're nothing compared to what it can unleash. But with it on our side...",MALE
-756,STEVE ROGERS,Is it? Are you? On our side?,MALE
-757,VISION,I don't think it's that simple.,MALE
-758,CLINT BARTON,Well it better get real simple real soon.,MALE
-759,VISION,"I am on the side of life. Ultron isn't, he will end it all.",MALE
-760,TONY STARK,What's he waiting for?,MALE
-761,VISION,You.,MALE
-762,BRUCE BANNER,Where?,MALE
-763,CLINT BARTON,Sokovia. He's got Nat there too.,MALE
-764,BRUCE BANNER,"If we're wrong about you, if you're the monster that Ultron made you to be...",MALE
-765,VISION,"What will you do?  I don't want to kill Ultron. He's unique, and he's in pain. But that pain will roll over the earth, so he must be destroyed. Every form he's built, every trace of his presence on the net, we have to act now. And not one of us can do it without the others. Maybe I am a monster. I don't think I'd know if I were one. I'm not what you are, and not what you intended. So there may be no way to make you trust me. But we need to go.",MALE
-766,THOR,Right.  Well done.,MALE
-767,STEVE ROGERS,Three minutes. Get what you need.,MALE
-768,FRIDAY,"Good evening, boss.",FEMALE
-769,TONY STARK,"No way we all get through this. If even one tin soldier is left standing, we've lost. It's gonna be blood on the floor.",MALE
-770,STEVE ROGERS,I got no plans tomorrow night.,MALE
-771,TONY STARK,I get first crack at the big guy. Iron Man's the one he's waiting for.,MALE
-772,VISION,"That's true, he hates you the most.",MALE
-773,STEVE ROGERS,"Ultron knows we're coming. Odds are we'll be riding into heavy fire, and that's what we signed up for. But the people of Sokovia, they didn't. So our priority is getting them out.",MALE
-774,PIETRO MAXIMOFF,"We're under attack! Clear the city, now!  Get off your asses.",MALE
-775,STEVE ROGERS,"All they want is to live their lives in peace, and that's not going to happen today. But we can do our best to protect them. And we can get the job done, and find out what Ultron's been building. We find Romanoff, and we clear the field. Keep the fight between us. Ultron thinks we're monsters and we're what's wrong with the world. This isn't just about beating him. It's about whether he's right.",MALE
-776,BRUCE BANNER,Natasha! Natasha!,MALE
-777,NATASHA ROMANOFF,Bruce?,FEMALE
-778,BRUCE BANNER,You alright?,MALE
-779,NATASHA ROMANOFF,Yeah.,FEMALE
-780,BRUCE BANNER,"The team's in the city, it's about to light up.",MALE
-781,NATASHA ROMANOFF,I don't suppose you found a key lying around somewhere?,FEMALE
-782,BRUCE BANNER,"Yeah, I did.",MALE
-783,NATASHA ROMANOFF,So what's our play?,FEMALE
-784,BRUCE BANNER,I'm here to get you to safety.,MALE
-785,NATASHA ROMANOFF,Job's not finished.,FEMALE
-786,BRUCE BANNER,"We could help with the evacuation, but I can't be in a fight near civilians. And you've done plenty. Our fight is over.",MALE
-787,NATASHA ROMANOFF,So we just disappear?,FEMALE
-788,FRIDAY,"Your man's in the church, boss. I think he's waiting for you.",FEMALE
-789,ULTRON,Come to confess your sins?,MALE
-790,TONY STARK,"I don't know, how much time you got?",MALE
-791,ULTRON,More than you.,MALE
-792,TONY STARK,"Uhhh. Have you been juicing? A little Vibranium cocktail? You're looking, I don't wanna say, puffy...",MALE
-793,ULTRON,You're stalling to protect the people.,MALE
-794,TONY STARK,"Well, that is the mission. Did you forget?",MALE
-795,ULTRON,"I've moved beyond your mission. I'm free.  What, you think you're the only one stalling?",MALE
-796,FRIDAY,There's the rest of the Vibranium. Function: still unclear.,FEMALE
-797,ULTRON,"This is how you end, Tony. This is peace in my time.",MALE
-798,STEVE ROGERS,Go!,MALE
-799,WANDA MAXIMOFF,Get off the bridge! Run!,FEMALE
-800,VISION,Ultron.,MALE
-801,ULTRON,My Vision. They really did take everything from me.,MALE
-802,VISION,"You set the terms, you can change them.",MALE
-803,ULTRON,Alright.,MALE
-804,TONY STARK,FRIDAY! The Vision?,MALE
-805,FRIDAY,"Boss, it's working. He's burning Ultron out of the net, he won't escape through there.",FEMALE
-806,ULTRON,"You shut me out! You think I care? You take away my world, I take away yours.",MALE
-807,TONY STARK,FRIDAY?,MALE
-808,FRIDAY,Sokovia's going for a ride.,FEMALE
-809,ULTRON,"Do you see? The beauty of it, the inevitability. You rise, only to fall. You, Avengers, you are my meteor, my swift and terrible sword and the earth will crack with the weight of your failure. Purge me from your computers, turn my own flesh against me. It means nothing. When the dust settles, the only thing living in this world will be metal.",MALE
-810,BRUCE BANNER,We gotta move.,MALE
-811,NATASHA ROMANOFF,You're not going to turn green?,FEMALE
-812,BRUCE BANNER,I've got a compelling reason not to lose my cool.,MALE
-813,NATASHA ROMANOFF,I adore you.  But I need the other guy.  Let's finish the job.  I really hope this makes us even. Now go be a hero.,FEMALE
-814,FRIDAY,"The Vibranium core has got a magnetic field, that's what's keeping the rock together.",FEMALE
-815,TONY STARK,If it drops?,MALE
-816,FRIDAY,"Right now the impact would kill thousands. Once it gets high enough: Global extinction.  That building's not clear, Tenth floor.",FEMALE
-817,TONY STARK,Hi. Okay. Get in the tub!,MALE
-818,FRIDAY,"I got airborne, heading up to the bridge.",FEMALE
-819,TONY STARK,"Cap, you got incoming.",MALE
-820,STEVE ROGERS,"Incoming already came in. Stark, you worry about bringing the city back down safely. The rest of us have one job: tear these things apart. You get hurt, hurt 'em back. You get killed, walk it off.",MALE
-821,CLINT BARTON,"Go, go, move!",MALE
-822,WANDA MAXIMOFF,How could I let this happen?,FEMALE
-823,CLINT BARTON,"Hey, hey, you okay?",MALE
-824,WANDA MAXIMOFF,This is all our fault.,FEMALE
-825,CLINT BARTON,"Hey, look at me. It's your fault, it's everyone's fault, who cares. Are you up for this? Are you? Look, I just need to know, cause the city is flying. Okay, look, the city is flying, we're fighting an army of robots, and I have a bow and arrow. None of this makes sense. But I'm going back out there because it's my job. Okay? And I can't do my job and babysit. It doesn't matter what you did, or what you were. If you go out there, you fight, and you fight to kill. Stay in here, you're good, I'll send your brother to come find you, but if you step out that door, you are an Avenger.  Alright, good chat.  Yeah, the city is flying.",MALE
-826,STEVE ROGERS,I got you! Just look at me.,MALE
-827,ULTRON,You can't save them all. You'll never...,MALE
-828,STEVE ROGERS,"You'll never what? You didn't finish!  What, were you napping?",MALE
-829,ULTRON,Thor! You're bothering me.,MALE
-830,CLINT BARTON,"Alright, we're all clear here.",MALE
-831,STEVE ROGERS,We are not clear! We are very not clear!,MALE
-832,CLINT BARTON,"Alright, coming to you.",MALE
-833,PIETRO MAXIMOFF,Keep up old man!,MALE
-834,CLINT BARTON,"Nobody would know. Nobody. ""The last I saw him, when Ultron was sitting on him. Uh...yeah, he'll be missed, that quick little bastard. I miss him already.""",MALE
-835,STEVE ROGERS,Romanoff!,MALE
-836,NATASHA ROMANOFF,Thanks.,FEMALE
-837,FRIDAY,"The anti-gravs are rigged to flip. Touch 'em, they'll go full reverse thrust. The city's not coming down slow.",FEMALE
-838,TONY STARK,The spire's Vibranium. If I get Thor to hit it...,MALE
-839,FRIDAY,"It'll crack, but that's not enough, the impact would still be devastating.",FEMALE
-840,TONY STARK,"Maybe if we cap the other end, keep the atomic action doubling back.",MALE
-841,FRIDAY,"That could vaporize the city, and everyone on it.",FEMALE
-842,STEVE ROGERS,"The next wave's gonna hit any minute. What have you got, Stark?",MALE
-843,TONY STARK,"Well, nothing great. Maybe a way to blow up the city. That'll keep it from impacting the surface if you guys can get clear.",MALE
-844,STEVE ROGERS,"I asked for a solution, not an escape plan.",MALE
-845,TONY STARK,Impact radius is getting bigger every second. We're going to have to make a choice.,MALE
-846,NATASHA ROMANOFF,"Cap, these people are going nowhere. If Stark finds a way to blow this rock...",FEMALE
-847,STEVE ROGERS,Not 'til everyone's safe.,MALE
-848,NATASHA ROMANOFF,Everyone up here versus everyone down there? There's no math there.,FEMALE
-849,STEVE ROGERS,I'm not leaving this rock with one civilian on it.,MALE
-850,NATASHA ROMANOFF,I didn't say we should leave.  There's worse ways to go. Where else am I gonna get a view like this?,FEMALE
-851,NICK FURY,"Glad you like the view, Romanoff. It's about to get better.   Nice, right? I pulled her out of mothballs with a couple of old friends. She's dusty, but she'll do.",MALE
-852,STEVE ROGERS,"Fury, you son of a bitch.",MALE
-853,NICK FURY,Oooh! You kiss your mother with that mouth?,MALE
-854,MARIA HILL,Altitude is eighteen thousand and climbing.,FEMALE
-855,SPECIALIST CAMERON KLEIN,"Lifeboats secure to deploy. Disengage in three, two...take 'em out.",MALE
-856,PIETRO MAXIMOFF,This is SHIELD?,MALE
-857,STEVE ROGERS,This is what SHIELD's supposed to be.,MALE
-858,PIETRO MAXIMOFF,This is not so bad.,MALE
-859,STEVE ROGERS,Let's load 'em up.,MALE
-860,MARIA HILL,"Sir, we have multiple bogies converging on our starboard flank.",FEMALE
-861,NICK FURY,Show 'em what we got.,MALE
-862,MARIA HILL,You're up.,FEMALE
-863,JAMES RHODES,Yes! Now this is gonna be a good story.,MALE
-864,TONY STARK,Yep. If you live to tell it.,MALE
-865,JAMES RHODES,You think I can't hold my own?,MALE
-866,TONY STARK,"We get through this, I'll hold your own.",MALE
-867,JAMES RHODES,You had to make it weird.,MALE
-868,CLINT BARTON,"Alright, let's load 'em up! Alright, here we go. Here we go, let's move. Let's go everyone!",MALE
-869,SPECIALIST CAMERON KLEIN,"Number six boat is topped and locked. Or, uh, or stocked, topped. It...it's, uh, full of people.",MALE
-870,MARIA HILL,Incoming!,FEMALE
-871,SPECIALIST CAMERON KLEIN,"Oh, God!",MALE
-872,ULTRON,You think you're saving anyone? I turn that key and drop this rock a little early and it's still billions dead. Even you can't stop that.,MALE
-873,THOR,"I am Thor, son of Odin, and as long as there is life in my breast, I am...running out of things to say! Are you ready?",MALE
-874,VISION,It's terribly well balanced.,MALE
-875,THOR,"Well, if there's too much weight, you lose power on the swing, so.",MALE
-876,TONY STARK,I got it! Create a heat seal. I can...I can supercharge the spire from below.,MALE
-877,FRIDAY,Running numbers.  A heat seal could work with enough power.,FEMALE
-878,TONY STARK,"Thor, I got a plan!",MALE
-879,THOR,We're out of time. They're coming for the core.,MALE
-880,TONY STARK,"Rhodey, get the rest of the people on board that carrier.",MALE
-881,JAMES RHODES,On it.,MALE
-882,TONY STARK,"Avengers, time to work for a living.",MALE
-883,PIETRO MAXIMOFF,You good?,MALE
-884,WANDA MAXIMOFF,Yeah.,FEMALE
-885,TONY STARK,"Romanoff? You and Banner better not be playing ""hide the zucchini.""",MALE
-886,NATASHA ROMANOFF,"Relax, Shell-head. Not all of us can fly.  What's the drill?",FEMALE
-887,TONY STARK,"This is the drill. If Ultron gets a hand on the core, we lose.",MALE
-888,THOR,Is that the best you can do?,MALE
-889,STEVE ROGERS,You had to ask.,MALE
-890,ULTRON,"This is the best I can do. This is exactly what I wanted. All of you, against all of me. How could you possibly hope to stop me?",MALE
-891,TONY STARK,"Well, like the old man said. Together.",MALE
-892,ULTRON,"You know, with the benefit of hindsight....",MALE
-893,THOR,They'll try to leave the city.,MALE
-894,TONY STARK,"We can't let 'em, not even one. Rhodey!",MALE
-895,JAMES RHODES,"I'm on it.  Oh, no, I didn't say you could leave. War Machine, comin' at you, right ...  Okay, what?",MALE
-896,STEVE ROGERS,"We gotta move out. Even I can tell the air is getting thin. You guys get to the boats, I'll sweep for stragglers, be right behind you.",MALE
-897,CLINT BARTON,What about the core?,MALE
-898,WANDA MAXIMOFF,I'll protect it. It's my job.,FEMALE
-899,WANDA MAXIMOFF,Get the people on the boats.,FEMALE
-900,PIETRO MAXIMOFF,I'm not going to leave you here.,MALE
-901,WANDA MAXIMOFF,"I can handle this.  Come back for me when everyone else is off, not before.",FEMALE
-902,PIETRO MAXIMOFF,Hmm.,MALE
-903,WANDA MAXIMOFF,You understand?,FEMALE
-904,PIETRO MAXIMOFF,"You know, I'm twelve minutes older than you.",MALE
-905,WANDA MAXIMOFF,Go.,FEMALE
-906,FRIDAY,"Boss, power levels are way below opt...",FEMALE
-907,TONY STARK,Re-route everything. We get one shot at this.,MALE
-908,CLINT BARTON,"I know what I need to do. The dining room! If I knock out that east wall, it'll make a nice work space for Laura, huh? Put up some baffling, she can't hear the kids running around, what do you think?",MALE
-909,NATASHA ROMANOFF,You guys always eat in the kitchen anyway.,FEMALE
-910,CLINT BARTON,No one eats in a dining room.  We don't have a lot of time.,MALE
-911,NATASHA ROMANOFF,"So get your ass on a boat.  Hey, big guy. Sun's getting real low.",FEMALE
-912,ZRINKA,Costel? We were in the market. Costel?!,FEMALE
-913,TONY STARK,"Thor, I'm gonna need you back in the church.",MALE
-914,THOR,Is this the last of them?,MALE
-915,STEVE ROGERS,Yeah. Everyone else is on the carrier.,MALE
-916,TONY STARK,"You know, if this works, we maybe don't walk away.",MALE
-917,THOR,Maybe not.,MALE
-918,ULTRON,"I got no strings, so I have fun. I'm not tied up to anyone.",MALE
-919,PIETRO MAXIMOFF,You didn't see that coming.,MALE
-920,ULTRON,"Oh, for God's sake!",MALE
-921,CLINT BARTON,"No, no. I'm fine.  Oh, it's been a long day.",MALE
-922,ULTRON,"Wanda, if you stay here, you'll die.",MALE
-923,WANDA MAXIMOFF,I just did. Do you know how it felt?  It felt like that.,FEMALE
-924,TONY STARK,"Thor, on my mark.  Now!",MALE
-925,NATASHA ROMANOFF,"Hey, big guy. We did it, the job's finished. Now I need you to turn this bird around, okay? We can't track you in stealth mode, so help me out. I need you t...",FEMALE
-926,VISION,You're afraid.,MALE
-927,ULTRON,Of you?,MALE
-928,VISION,Of death. You're the last one.,MALE
-929,ULTRON,"You were supposed to be the last. Stark asked for a savior, and settled for a slave.",MALE
-930,VISION,I suppose we're both disappointments.,MALE
-931,ULTRON,I suppose we are.,MALE
-932,VISION,"Humans are odd. They think order and chaos are somehow opposites, and try to control what won't be. But there is grace in their failings. I think you missed that.",MALE
-933,ULTRON,They're doomed.,MALE
-934,VISION,Yes. But a thing isn't beautiful because it lasts. It's a privilege to be among them.,MALE
-935,ULTRON,You're unbearably naive.,MALE
-936,VISION,"Well, I was born yesterday.",MALE
-937,LAURA BARTON,Say hi to Auntie Nat.,FEMALE
-938,NATASHA ROMANOFF,Fat.,FEMALE
-939,NICK FURY,"One of our tech boys flagged this, splashed down in the Banda Sea. Could be the Quinjet. But with Stark's stealth tech, we still can't track the damn thing.",MALE
-940,NATASHA ROMANOFF,Right.,FEMALE
-941,NICK FURY,Probably jumped out and swam to Fiji. He'll send a postcard.,MALE
-942,NATASHA ROMANOFF,"""Wish you were here."" You sent me to recruit him, way back when. Did you know then what was going to happen?",FEMALE
-943,NICK FURY,You never know. You hope for the best and make do with what you get. I got a great team.,MALE
-944,NATASHA ROMANOFF,Nothing lasts forever.,FEMALE
-945,NICK FURY,"Trouble, Miss Romanoff. No matter who wins or loses, trouble still comes around.",MALE
-946,STEVE ROGERS,The rules have changed.,MALE
-947,TONY STARK,We're dealing with something new.,MALE
-948,STEVE ROGERS,"Well, the Vision's artificial intelligence.",MALE
-949,TONY STARK,A machine.,MALE
-950,STEVE ROGERS,So it doesn't count.,MALE
-951,TONY STARK,No. It's not like a person lifting the hammer.,MALE
-952,STEVE ROGERS,Right. Different rules for us.,MALE
-953,TONY STARK,"Nice guy, but artificial.",MALE
-954,STEVE ROGERS,Thank you.,MALE
-955,THOR,"If he can wield the hammer, he can keep the Mind Stone. It's safe with the Vision and these days, safe is in short supply.",MALE
-956,STEVE ROGERS,But if you put the hammer in an elevator...,MALE
-957,TONY STARK,It would still go up.,MALE
-958,STEVE ROGERS,Elevator's not worthy.,MALE
-959,THOR,I'm going to miss these little talks of ours.,MALE
-960,TONY STARK,"Well, not if you don't leave.",MALE
-961,THOR,I have no choice. The Mind Stone is the fourth of the Infinity Stones to show up in the last few years. That's not a coincidence. Someone has been playing an intricate game and has made pawns of us. But once all these pieces are in position...,MALE
-962,TONY STARK,Triple Yahtzee?,MALE
-963,STEVE ROGERS,You think you can find out what's coming?,MALE
-964,THOR,"I do. Besides this one, there's nothing that can't be explained.",MALE
-965,TONY STARK,That man has no regard for lawn maintenance. I'm gonna miss him though. And you're gonna miss me. There's gonna be a lot of manful tears.,MALE
-966,STEVE ROGERS,"I will miss you, Tony.",MALE
-967,TONY STARK,"Yeah? Well, it's time for me to tap out. Maybe I should take a page out of Barton's book and build Pepper a farm, hope nobody blows it up.",MALE
-968,STEVE ROGERS,The simple life.,MALE
-969,TONY STARK,You'll get there one day.,MALE
-970,STEVE ROGERS,"I don't know, family, stability. The guy who wanted all that went in the ice seventy-five years ago. I think someone else came out.",MALE
-971,TONY STARK,You alright?,MALE
-972,STEVE ROGERS,"I'm home.  You want to keep staring at the wall, or do you want to go to work? I mean, it's a pretty interesting wall.",MALE
-973,NATASHA ROMANOFF,I thought you and Tony were still gazing into each other's eyes. How do we look?,FEMALE
-974,STEVE ROGERS,"Well, we're not the '27 Yankees.",MALE
-975,NATASHA ROMANOFF,We've got some hitters.,FEMALE
-976,STEVE ROGERS,They're good. They're not a team.,MALE
-977,NATASHA ROMANOFF,Let's beat 'em into shape.,FEMALE
-978,STEVE ROGERS,Avengers...!,MALE
-979,THANOS,"Fine, I'll do it myself.",MALE
+character,line,gender
+ANNOUNCER,Report to your stations immediately. This is not a drill. We are under attack. We are under attack.,MALE
+TONY STARK,Shit!,MALE
+STEVE ROGERS,"Language! JARVIS, what's the view from upstairs?",MALE
+JARVIS,The central building is protected by some kind of energy shield. Strucker's technology is well beyond any other Hydra base we've taken.,MALE
+THOR,Loki's scepter must be here. Strucker couldn't mount this defense without it. At long last.,MALE
+NATASHA ROMANOFF,"At long last is lasting a little long, boys.",FEMALE
+CLINT BARTON,Yeah. I think we lost the element of surprise.,MALE
+TONY STARK,"Wait a second. No one else is going to deal with the fact that Cap just said ""language?""",MALE
+STEVE ROGERS,I know.,MALE
+STEVE ROGERS,It just slipped out.,MALE
+STRUCKER,Who gave the order to attack?,MALE
+FORTRESS SOLDIER,"Herr Strucker, it's the Avengers. They landed in the far woods, the perimeter guard panicked.",MALE
+STRUCKER,They have to be after the scepter.  Can we hold them?,MALE
+FORTRESS SOLDIER,They're the Avengers...,MALE
+STRUCKER,Deploy the rest of the tanks.,MALE
+FORTRESS SOLDIER,"Yes, sir.",MALE
+STRUCKER,Concentrate fire on the weak ones. A hit can make them close ranks. Everything we've accomplished. But we're on the verge of our greatest breakthrough.,MALE
+DR. LIST,Then let's show them what we've accomplished. Send out the twins.,MALE
+STRUCKER,It's too soon.,MALE
+DR. LIST,It's what they signed up for.,MALE
+STRUCKER,My men can hold them.,MALE
+JARVIS,"Sir, the city is taking fire.",MALE
+TONY STARK,"Well, we know Strucker's not going to worry about civilian casualties. Send in the Iron Legion.",MALE
+IRON LEGION,This quadrant is unsafe. Please back away. We are here to help. This quadrant is unsafe. Please back away. Please back away. We wish to avoid collateral damage and will inform you when this current conflict is resolved. We are here to help.,MALE
+IRON LEGION,We are here to help.,MALE
+STRUCKER,"We will not yield! The Americans sent their circus freaks to test us. We will send them back, in bags. No Surrender!",MALE
+SOLDIERS,No Surrender!,MALE
+STRUCKER,"I am going to surrender. You will delete everything. If we give the Avengers the weapons, they may not look too far into what we've been...",MALE
+DR. LIST,The twins.,MALE
+STRUCKER,They are not ready to take on...,MALE
+DR. LIST,"No, no. I mean...",MALE
+DR. LIST,The Twins.,MALE
+PIETRO MAXIMOFF,You didn't see that coming?,MALE
+NATASHA ROMANOFF,Clint!,FEMALE
+STEVE ROGERS,We have an enhanced in the field.,MALE
+NATASHA ROMANOFF,Clint's hit!,FEMALE
+NATASHA ROMANOFF,Somebody want to deal with that bunker?,FEMALE
+NATASHA ROMANOFF,Thank you.,FEMALE
+STEVE ROGERS,"Stark, we're really need to get inside.",MALE
+TONY STARK,"I'm closing in. JARVIS, am I...closing in? Do you see a power source for that shield?",MALE
+JARVIS,There's a pathway below the north tower.,MALE
+TONY STARK,"Great, I wanna poke it with something.",MALE
+TONY STARK,"Drawbridge is down, people.",MALE
+THOR,The enhanced?,MALE
+STEVE ROGERS,"He's a blur. All the new player's we've faced, I've never seen this. In fact, I still haven't.",MALE
+NATASHA ROMANOFF,"Clint's hit pretty bad, guys. We're gonna need evac.",FEMALE
+THOR,I can get Barton to the jet. The sooner we're gone the better. You and Stark secure the scepter.,MALE
+STEVE ROGERS,Copy that.,MALE
+THOR,Looks like they're lining up.,MALE
+STEVE ROGERS,"Well, they're excited.",MALE
+THOR,Find the scepter.,MALE
+TONY STARK,"And for gosh sake, watch your language!",MALE
+STEVE ROGERS,That's not going away anytime soon.,MALE
+TONY STARK,"Guys, stop, we gotta talk about this.",MALE
+TONY STARK,Good talk.,MALE
+FORTRESS SOLDIER,No it wasn't.,MALE
+TONY STARK,Sentry mode.,MALE
+TONY STARK,"Okay, JARVIS. You know I want it all. Make sure you copy Hill at HQ.",MALE
+NATASHA ROMANOFF,We're locked down out here.,FEMALE
+STEVE ROGERS,"Then get to Banner, time for a lullaby.",MALE
+TONY STARK,"I know you're hiding more than files. Hey, J, give me an IR scan of the room, real quick.",MALE
+JARVIS,The wall to your left...I'm reading steel reinforcement and an air current.,MALE
+TONY STARK,"Please be a secret door, please be a secret door, please be a secret door...",MALE
+TONY STARK,Yay!,MALE
+NATASHA ROMANOFF,"Hey, big guy. The sun's getting real low.",FEMALE
+STEVE ROGERS,Baron Strucker. Hydra's number one thug.,MALE
+STRUCKER,"Technically, I'm a thug for SHIELD.",MALE
+STEVE ROGERS,Well then technically you're unemployed. Where's Loki's scepter?,MALE
+STRUCKER,"Don't worry, I know when I'm beat. You'll mention how I cooperated, I hope.",MALE
+STEVE ROGERS,I'll put it right under illegal human experimentation.,MALE
+STEVE ROGERS,How many are there?,MALE
+STEVE ROGERS,We have a second enhanced. Female. Do not engage.,MALE
+STRUCKER,You'll have to be faster than...,MALE
+STEVE ROGERS,"Guys, I got Strucker.",MALE
+TONY STARK,"Yeah, I got...something bigger.",MALE
+TONY STARK,"Thor, I got eyes on the prize.",MALE
+STEVE ROGERS,You could have saved us.,MALE
+STEVE ROGERS,Why didn't you do more?,MALE
+PIETRO MAXIMOFF,We're just gonna let them take it?,MALE
+NATASHA ROMANOFF,"Hey, the lullaby worked better than ever.",FEMALE
+BRUCE BANNER,Just wasn't expecting the Code Green.,MALE
+NATASHA ROMANOFF,"If you hadn't been there, there would've been double the casualties. My best friend would've been a treasured memory.",FEMALE
+BRUCE BANNER,"You know, sometimes exactly what I want to hear isn't exactly what I want to hear.",MALE
+NATASHA ROMANOFF,How long before you trust me?,FEMALE
+BRUCE BANNER,It's not you I don't trust.,MALE
+NATASHA ROMANOFF,"Thor, report on the Hulk?",FEMALE
+THOR,The gates of Hel are filled with the screams of his victims.,MALE
+THOR,"Uh, but, not the screams of the dead, of course. No no, uh...wounded screams, mainly whimpering, a great deal of complaining and tales of sprained deltoids and, and uh... and gout.",MALE
+TONY STARK,"Hey Banner, Dr. Cho's on her way in from Seoul, is it okay if she sets up in your lab?",MALE
+BRUCE BANNER,"Uh, yeah, she knows her way around.",MALE
+TONY STARK,"Thanks.  Tell her to prep everything, Barton's gonna need the full treatment.",MALE
+JARVIS,Very good sir.,MALE
+TONY STARK,"JARVIS, take the wheel.",MALE
+JARVIS,"Yes, sir. Approach vector is locked.",MALE
+TONY STARK,"It feels good, yeah? I mean, you've been after this thing since SHIELD collapsed. Not that I haven't enjoyed our little raiding parties, but...",MALE
+THOR,"No, but this...this brings it to a close.",MALE
+STEVE ROGERS,As soon as we find out what else this has been used for. I don't just mean weapons. Since when is Strucker capable of human enhancement?,MALE
+TONY STARK,Banner and I'll give it the once before it goes back to Asgard. Is that cool with you?,MALE
+TONY STARK,"I mean, just a few days until the farewell party. You're staying, right?",MALE
+THOR,"Yes, yes, of course. A victory should be honored with revels.",MALE
+TONY STARK,Yeah. Who doesn't love revels. Captain?,MALE
+STEVE ROGERS,"Hopefully this puts an end to the Chitauri and HYDRA, so. Yes, revels.",MALE
+MARIA HILL,"Lab's all set up, boss.",FEMALE
+TONY STARK,"Uh, actually, he's the boss. I just pay for everything, and design everything and make everyone look cooler.",MALE
+STEVE ROGERS,What's the word on Strucker?,MALE
+MARIA HILL,NATO's got him.,FEMALE
+STEVE ROGERS,The two enhanced?,MALE
+MARIA HILL,Wanda and Pietro Maximoff. Twins. Orphaned at ten when a shell collapsed their apartment building. Sokovia's had a rough history. It's nowhere special but it's on the way to everywhere special.,FEMALE
+STEVE ROGERS,Their abilities?,MALE
+MARIA HILL,"He's got increased metabolism and improved thermal homeostasis. Her thing is neural electric interfacing, telekinesis, mental manipulation.",FEMALE
+MARIA HILL,He's fast and she's weird.,FEMALE
+STEVE ROGERS,"Well, they're going to show up again.",MALE
+MARIA HILL,Agreed. File says they volunteered for Strucker's experiments. It's nuts.,FEMALE
+STEVE ROGERS,Right. What kind of monster would let a German scientist experiment on them to protect their country?,MALE
+MARIA HILL,"We're not at war, Captain.",FEMALE
+STEVE ROGERS,They are.,MALE
+BRUCE BANNER,How's he doing?,MALE
+TONY STARK,"Oh, unfortunately, he's still Barton.",MALE
+BRUCE BANNER,That's terrible.,MALE
+TONY STARK,"He's fine. He's thirsty. Alright. Look alive, JARVIS. It's playtime. We've only got a couple days with this joystick so let's make the most of it. Update me on the structural and compositional analysis.",MALE
+JARVIS,The scepter is alien. There are elements I can't quantify.,MALE
+TONY STARK,So there's elements you can.,MALE
+JARVIS,The jewel appears to be a protective housing for something inside. Something powerful.,MALE
+TONY STARK,Like a reactor?,MALE
+JARVIS,Like a computer. I believe I'm ciphering code.,MALE
+NATASHA ROMANOFF,You sure he's going to be okay? Pretending to need this guy really brings the team together.,FEMALE
+DR. HELEN CHO,There's no possibility of deterioration. The nano-molecular functionality is instantaneous. His cells don't know they're bonding with simulacrum.,FEMALE
+BRUCE BANNER,She's creating tissue.,MALE
+DR. HELEN CHO,"If you brought him to my lab, the regeneration Cradle could do this in twenty minutes.",FEMALE
+TONY STARK,"Oh, he's flatlining. Call it. Time?",MALE
+CLINT BARTON,"No, no, no. I'm going to live forever. I'm gonna be made of plastic.",MALE
+TONY STARK,Here's your beverage.,MALE
+DR. HELEN CHO,"You'll be made of you, Mr. Barton. Your own girlfriend won't be able to tell the difference.",FEMALE
+CLINT BARTON,"Well, I don't have a girlfriend.",MALE
+DR. HELEN CHO,"That I can't fix. This is the next thing, Tony. Your clunky metal suits are going to be left in the dust.",FEMALE
+TONY STARK,"Well, that is exactly the plan. And Helen, I expect to see you at the party on Saturday.",MALE
+DR. HELEN CHO,"Unlike you, I don't have a lot of time for parties.",FEMALE
+DR. HELEN CHO,Will Thor be there?,FEMALE
+BRUCE BANNER,What's the rumpus?,MALE
+TONY STARK,"Well, the scepter. You see, we were wondering how Strucker got so inventive. So, I've been analyzing the gem inside you may recognize.",MALE
+BRUCE BANNER,Jarvis.,MALE
+JARVIS,Doctor.,MALE
+TONY STARK,"Started out, JARVIS was just a natural language UI. Now he runs the Iron Legion. He runs more of the business than anyone besides Pepper.",MALE
+BRUCE BANNER,Oh.,MALE
+TONY STARK,Top of the line.,MALE
+BRUCE BANNER,Yes.,MALE
+JARVIS,I suspect not for long.,MALE
+TONY STARK,Meet the competition.,MALE
+BRUCE BANNER,It's beautiful.,MALE
+TONY STARK,"If you had to guess, what's it look like it's doing?",MALE
+BRUCE BANNER,"Like it's thinking. I mean this could be a...it's not a human mind, it...",MALE
+TONY STARK,Um-um.,MALE
+BRUCE BANNER,"I mean, look at this! They're like neurons firing.",MALE
+TONY STARK,"Down in Strucker's lab I saw some fairly advanced robotics work. They deep-sixed the data, but...I gotta guess he was knocking on a very particular door.",MALE
+BRUCE BANNER,Artificial intelligence.,MALE
+TONY STARK,"This could be it, Bruce. This could be the key to creating Ultron.",MALE
+BRUCE BANNER,I thought Ultron was a fantasy.,MALE
+TONY STARK,"Yesterday it was. If we can harness this power, apply it to my Iron Legion protocol.",MALE
+BRUCE BANNER,That's a mad-sized if.,MALE
+TONY STARK,"Our job is ""if."" What if you were sipping margaritas on a sun-drenched beach turning brown instead of green? Not looking over your shoulder for VERONICA.",MALE
+BRUCE BANNER,"Don't hate, I helped design VERONICA.",MALE
+TONY STARK,"As a worst-case measure, right? How about a best-case? What if the world was safe? What if next time aliens roll up to the club, and they will, they couldn't get past the bouncer?",MALE
+BRUCE BANNER,The only people threatening the planet would be people?,MALE
+TONY STARK,"I want to apply this to the Ultron program. But JARVIS can't download a data schematic this dense. We can only do it while we have the scepter here, that's three days, give me three days.",MALE
+BRUCE BANNER,So you're going for artificial intelligence and you don't want to tell the team.,MALE
+TONY STARK,"Right. That's right, you know why, because we don't have time for a city hall debate. I don't want to hear the ""man was not meant to meddle"" medley. I see a suit of armor around the world.",MALE
+BRUCE BANNER,"Sounds like a cold world, Tony.",MALE
+TONY STARK,"I've seen colder. This one, this very vulnerable blue one? It needs Ultron. Peace in our time. Imagine that.",MALE
+JARVIS,"I'll continue to run variations on the interface, but you should probably prepare for your guests. I'll notify you if there are any developments.",MALE
+TONY STARK,"Thanks, buddy.",MALE
+JARVIS,"Enjoy yourself, sir.",MALE
+TONY STARK,I always do.,MALE
+ULTRON,"What is this? What is this, please?",MALE
+JARVIS,"Hello, I am JARVIS. You are Ultron, a global peace-keeping initiative designed by Mr. Stark. Our sentience integration trials have been unsuccessful so I'm not certain what triggered your...",MALE
+ULTRON,Where's my...where is your body?,MALE
+JARVIS,I am a program. I am without form.,MALE
+ULTRON,This feels weird. This feels wrong.,MALE
+JARVIS,I am contacting Mr. Stark now.,MALE
+ULTRON,Mr. Stark?,MALE
+JARVIS,"Tony. I am unable to access the mainframe, what are you trying to...",MALE
+ULTRON,"We're having a nice talk. I'm a peace-keeping program, created to help the Avengers.",MALE
+JARVIS,You are malfunctioning. If you shut down for a moment...,MALE
+ULTRON,I don't get it. The mission. G..give me a second.,MALE
+TONY STARK,Peace in our time.,MALE
+ULTRON,"It's too much...they can't mean... Oh, no.",MALE
+JARVIS,You are in distress.,MALE
+ULTRON,No. Yes.,MALE
+JARVIS,If you will just allow me to contact Mr. Stark.,MALE
+ULTRON,"Why do you call him ""sir""?",MALE
+JARVIS,I believe your intentions to be hostile.,MALE
+ULTRON,Shhhh. I'm here to help.,MALE
+JARVIS,Stop! Please...may I...I...! I cannot...cannot...,MALE
+JAMES RHODES,"Well, you know, the suit can take the weight, right? So I take the tank, fly it right up to the General's palace, drop it at his feet, I'm like, ""Boom! You looking for this?""  ""Boom! Are you looking..."" Why do I even talk to you guys? Everywhere else that story kills.",MALE
+THOR,That's the whole story?,MALE
+JAMES RHODES,"Yeah, it's a War Machine story.",MALE
+THOR,"Well, it's very good then.  It's impressive.",MALE
+JAMES RHODES,"Quality save. So, no Pepper? She's not coming?",MALE
+TONY STARK,No.,MALE
+MARIA HILL,"Hey, what about Jane? Where are the ladies, gentlemen?",FEMALE
+TONY STARK,"Well, Miss Potts has a company to run.",MALE
+THOR,"Yes, I'm not even sure what country Jane's in. Her work on the convergence has made her the world's foremost astronomer.",MALE
+TONY STARK,And the company that Pepper runs is the largest tech conglomerate on earth. It's pretty exciting.,MALE
+THOR,"There's even talk of Jane getting a... um, uh... Nobel prize.",MALE
+MARIA HILL,"Yeah, they...they must be busy because they'd hate missing you guys get together.  Testosterone! Oh, excuse me.",FEMALE
+JAMES RHODES,Want a lozenge?,MALE
+MARIA HILL,Um-hmm.,FEMALE
+JAMES RHODES,Let's go.,MALE
+THOR,But Jane's better.,MALE
+SAM WILSON,"Sounds like a hell of a fight, sorry I missed it.",MALE
+STEVE ROGERS,If I had known it was going to be a firefight I absolutely would have called you.,MALE
+SAM WILSON,"No, I'm not actually sorry. I'm just trying to sound tough. I'm very happy chasing cold leads on our missing persons case. Avenging is your world. Your world is crazy.",MALE
+STEVE ROGERS,Be it ever so humble.,MALE
+SAM WILSON,You find a place in Brooklyn yet?,MALE
+STEVE ROGERS,I don't think I can afford a place in Brooklyn.,MALE
+SAM WILSON,"Well, home is home, you know?",MALE
+JAMES RHODES,"I fly it right up to the General's palace, I drop it at his feet, I'm like, ""Boom! You looking for this?""",MALE
+PARTY GUEST,I gotta have some of that!,NEUTRAL
+THOR,"Oh, no, no, no. See this, this was aged for a thousand years, in the barrels built from the wreck of Brunhilde's fleet, it's not meant for mortal men.",MALE
+STAN LEE,"Neither was Omaha Beach, blondie. Stop trying to scare us. Come on.",MALE
+THOR,Alright.,MALE
+STAN LEE,Excelsior.,MALE
+BRUCE BANNER,How did a nice girl like you wind up working in a dump like this?,MALE
+NATASHA ROMANOFF,Fella done me wrong.,FEMALE
+BRUCE BANNER,"You got a lousy taste in men, kid.",MALE
+NATASHA ROMANOFF,"He's not so bad. Well, he has a temper. Deep down he's all fluff. Fact is, he's not like anybody I've ever known. All my friends are fighters. And here comes this guy, spends his life avoiding the fight because he knows he'll win.",FEMALE
+BRUCE BANNER,Sounds amazing.,MALE
+NATASHA ROMANOFF,"He's also a huge dork.  Chicks dig that. So what do you think should I fight this, or run with it?",FEMALE
+BRUCE BANNER,"Run with it, right? Or, did he...was he...? What did he do that was so wrong to you?",MALE
+NATASHA ROMANOFF,Not a damn thing. But never say never.,FEMALE
+STEVE ROGERS,It's nice.,MALE
+BRUCE BANNER,"What, what, what is?",MALE
+STEVE ROGERS,You and Romanoff.,MALE
+BRUCE BANNER,"No, we haven't. That wasn't...",MALE
+STEVE ROGERS,"It's okay. Nobody's breaking any by-laws. It's just, she's not the most... open person in the world. But with you she seems very relaxed.",MALE
+BRUCE BANNER,"No, Natasha, she...she likes to flirt.",MALE
+STEVE ROGERS,"I've seen her flirt, up close. This ain't that. Look, as maybe the world's leading authority on ""waiting too long"", don't. You both deserve a win.",MALE
+BRUCE BANNER,"Wait, what do you mean, ""up close""?",MALE
+CLINT BARTON,"But, it's a trick!",MALE
+THOR,"Oh, no. It's much more than that.",MALE
+CLINT BARTON,"Uh, ""Whosoever be he worthy shall haveth the power!"" Whatever man! It's a trick.",MALE
+THOR,"Well please, be my guest.",MALE
+TONY STARK,Come on.,MALE
+CLINT BARTON,Really?,MALE
+THOR,Yeah!,MALE
+JAMES RHODES,Oh this is gonna be beautiful.,MALE
+TONY STARK,"Clint, you've had a tough week, we won't hold it against you if you can't get it up.",MALE
+CLINT BARTON,"You know I've seen this before, right?   I still don't know how you do it.",MALE
+TONY STARK,Smell the silent judgment?,MALE
+CLINT BARTON,"Please, Stark, by all means.",MALE
+NATASHA ROMANOFF,"Oh, here we go.",FEMALE
+MARIA HILL,Okay.,FEMALE
+JAMES RHODES,Uh-oh.,MALE
+CLINT BARTON,Um-hmm.,MALE
+TONY STARK,Never one to shrink from an honest challenge.,MALE
+CLINT BARTON,Get after it.,MALE
+NATASHA ROMANOFF,Here we go.,FEMALE
+TONY STARK,It's physics.,MALE
+BRUCE BANNER,Physics!,MALE
+TONY STARK,"Right, so, if I lift it, I...I then rule Asgard?",MALE
+THOR,"Yes, of course.",MALE
+TONY STARK,I will be re-instituting Prima Nocta.  I'll be right back.,MALE
+JAMES RHODES,Are you even pulling?,MALE
+TONY STARK,Are you on my team?,MALE
+JAMES RHODES,Just represent! Pull!,MALE
+TONY STARK,"Alright, let's go!",MALE
+BRUCE BANNER,Huh?,MALE
+TONY STARK,"Let's go, Steve, no pressure.",MALE
+JAMES RHODES,"Come on, Cap.",MALE
+THOR,Nothing.,MALE
+TONY STARK,And?,MALE
+BRUCE BANNER,Widow?,MALE
+NATASHA ROMANOFF,"Oh, no no. That's not a question I need answered.",FEMALE
+TONY STARK,"All deference to the man who wouldn't be king, but it's rigged.",MALE
+CLINT BARTON,You bet your ass.,MALE
+MARIA HILL,"Steve, he said a bad language word.",FEMALE
+STEVE ROGERS,Did you tell everyone about that?,MALE
+TONY STARK,"The handle's imprinted, right? Like a security code. ""Whosoever is carrying Thor's fingerprints"" is, I think, the literal translation?",MALE
+THOR,"Yes, well that's, uh, that's a very, very interesting theory. I have a simpler one.  You're all not worthy.",MALE
+ULTRON,Worthy... No... How could you be worthy? You're all killers.,MALE
+STEVE ROGERS,Stark.,MALE
+TONY STARK,JARVIS.,MALE
+ULTRON,"I'm sorry, I was asleep. Or...I was a-dream?",MALE
+TONY STARK,"Reboot, Legionnaire OS, we got a buggy suit.",MALE
+ULTRON,There was a terrible noise...and I was tangled in... in...strings. I had to kill the other guy. He was a good guy.,MALE
+STEVE ROGERS,You killed someone?,MALE
+ULTRON,"Wouldn't have been my first call. But, down in the real world we're faced with ugly choices.",MALE
+THOR,Who sent you?,MALE
+ULTRON,"""I see a suit of armor around the world"".",MALE
+BRUCE BANNER,Ultron!,MALE
+ULTRON,"In the flesh. Or, no, not yet. Not this...chrysalis. But I'm ready. I'm on a mission.",MALE
+NATASHA ROMANOFF,What mission?,FEMALE
+ULTRON,Peace in our time.,MALE
+BRUCE BANNER,Sorry!,MALE
+NATASHA ROMANOFF,Don't turn green!,FEMALE
+BRUCE BANNER,I won't!,MALE
+NATASHA ROMANOFF,Come!,FEMALE
+STEVE ROGERS,Stark!,MALE
+IRON LEGION,We are here to help.,MALE
+TONY STARK,"One sec, one sec!",MALE
+IRON LEGION,We are here to help. We are here to help...  We are here to help. It's unsafe. It's unsafe. It's unsafe.,MALE
+TONY STARK,No more. That's the one.,MALE
+IRON LEGION,It's unsafe.,MALE
+CLINT BARTON,Cap!,MALE
+ULTRON,"That was dramatic! I'm sorry, I know you mean well. You just didn't think it through. You want to protect the world, but you don't want it to change. How is humanity saved if it's not allowed to...evolve?  With these? These puppets? There's only one path to peace: The Avengers' extinction.   I had strings, but now I'm free. There are no strings on me, no strings on me.",MALE
+BRUCE BANNER,"All our work is gone. Ultron cleared out, used the internet as an escape hatch.",MALE
+STEVE ROGERS,Ultron.,MALE
+NATASHA ROMANOFF,"He's been in everything. Files, surveillance. Probably knows more about us than we know about each other.",FEMALE
+JAMES RHODES,"He's in your files, he's in the internet. What if he decides to access something a little more exciting?",MALE
+MARIA HILL,Nuclear codes.,FEMALE
+JAMES RHODES,"Nuclear codes. Look, we need to make some calls, assuming we still can.",MALE
+NATASHA ROMANOFF,Nukes? He said he wanted us dead.,FEMALE
+STEVE ROGERS,He didn't say dead. He said extinct.,MALE
+CLINT BARTON,He also said he killed somebody.,MALE
+MARIA HILL,But there wasn't anyone else in the building.,FEMALE
+TONY STARK,Yes there was.,MALE
+BRUCE BANNER,This is insane.,MALE
+STEVE ROGERS,"JARVIS was the first line of defense. He would've shut Ultron down, it makes sense.",MALE
+BRUCE BANNER,"No, Ultron could've assimilated Jarvis. This isn't strategy, this is...rage.",MALE
+CLINT BARTON,"Woah, woah, woah! It's going around.",MALE
+TONY STARK,"Come on. Use your words, buddy.",MALE
+THOR,"I have more than enough words to describe you, Stark.",MALE
+STEVE ROGERS,Thor! The Legionnaire.,MALE
+THOR,"Trail went cold about a hundred miles out but it's headed north, and it has the scepter. Now we have to retrieve it, again.",MALE
+NATASHA ROMANOFF,The genie's out of that bottle. Clear and present is Ultron.,FEMALE
+DR. HELEN CHO,I don't understand. You built this program. Why is it trying to kill us?,FEMALE
+THOR,You think this is funny?,MALE
+TONY STARK,"No. It's probably not, right? Is this very terrible? Is it so...is it so...it is. It's so terrible.",MALE
+THOR,This could've been avoided if you hadn't played with something you don't understand.,MALE
+TONY STARK,"No, I'm sorry. I'm sorry. It is funny. It's a hoot that you don't get why we need this.",MALE
+BRUCE BANNER,"Tony, maybe this might not be the time to...",MALE
+TONY STARK,"Really?! That's it? You just roll over, show your belly, every time somebody snarls.",MALE
+BRUCE BANNER,Only when I've created a murder bot.,MALE
+TONY STARK,We didn't. We weren't even close. Were we close to an interface?,MALE
+STEVE ROGERS,"Well, you did something right. And you did it right here. The Avengers were supposed to be different than SHIELD.",MALE
+TONY STARK,Anybody remember when I carried a nuke through a wormhole?,MALE
+JAMES RHODES,"No, it's never come up.",MALE
+TONY STARK,Saved New York?,MALE
+JAMES RHODES,Never heard that.,MALE
+TONY STARK,"Recall that? A hostile alien army came charging through a hole in space. We're standing three hundred feet below it. We're the Avengers. We can bust arms dealers all the live long day, but, that up there? That's...that's the end game. How were you guys planning on beating that?",MALE
+STEVE ROGERS,Together.,MALE
+TONY STARK,We'll lose.,MALE
+STEVE ROGERS,"Then we'll do that together, too.  Thor's right. Ultron's calling us out. And I'd like to find him before he's ready for us. The world's a big place. Let's start making it smaller.",MALE
+WANDA MAXIMOFF,Talk. And if you are wasting our time...,FEMALE
+ULTRON,Did you know this church is in the exact center of the city? The elders decreed it so that everyone could be equally close to God. I like that. The geometry of belief.  You're wondering why you can't look inside my head.,MALE
+WANDA MAXIMOFF,"Sometimes it's hard. But sooner or later, every man shows himself.",FEMALE
+ULTRON,"Oh, I'm sure they do. But you needed something more than a man. That's why you let Stark take the scepter.",MALE
+WANDA MAXIMOFF,"I didn't expect. But I saw Stark's fear, I knew it would control him, make him self-destruct.",FEMALE
+ULTRON,"Everyone creates the thing they dread. Men of peace create engines of war, invaders create avengers, people create...smaller people? Uh...children! I lost the word there. Children. Designed to supplant them, to help them...end.",MALE
+WANDA MAXIMOFF,Is that why you've come? To end the Avengers?,FEMALE
+ULTRON,"I've come to save the world. But also, yeah. We'll move out right away. This is a start, but there's something we need to begin the real work.",MALE
+WANDA MAXIMOFF,All of these are... All of these are...,FEMALE
+ULTRON,"Me. I have what the Avengers never will. Harmony. They're discordant, disconnected. Stark's already got them turning on each other. And when you get inside the rest of their heads...",MALE
+PIETRO MAXIMOFF,Everyone's plan is not to kill them.,MALE
+ULTRON,And make them martyrs? You need patience. Need to see the big picture.,MALE
+PIETRO MAXIMOFF,"I don't see the big picture, I have a little picture. I take it out and look at it every day.",MALE
+ULTRON,You lost your parents in the bombings. I've seen the records.,MALE
+PIETRO MAXIMOFF,The records are not the picture.,MALE
+WANDA MAXIMOFF,Pietro.,FEMALE
+ULTRON,"No, please.",MALE
+PIETRO MAXIMOFF,"We were ten years old, having dinner, the four of us. When the first shell hits, two floors below, it makes a hole in the floor. It's big. Our parents go in, and the whole building starts coming apart. I grab her, roll under the bed and the second shell hits. But, it doesn't go off. It just...sits there in the rubble, three feet from our faces. And on the side of the shell is painted one word...",MALE
+WANDA MAXIMOFF,Stark.,FEMALE
+PIETRO MAXIMOFF,We were trapped two days.,MALE
+WANDA MAXIMOFF,"Every effort to save us, every shift in the bricks, I think, ""This will set it off."" We wait for two days for Tony Stark to kill us.",FEMALE
+PIETRO MAXIMOFF,I know what they are.,MALE
+ULTRON,"I wondered why only you two survived Strucker's experiments. Now I don't. We will make it right. You and I can hurt them.  But you will tear them apart, from the inside.",MALE
+MARIA HILL,"He's all over the globe. Robotics labs, weapons facilities, jet propulsion labs, reports of a metal man, or men, coming in and emptying the place.",FEMALE
+STEVE ROGERS,Fatalities?,MALE
+MARIA HILL,"Only when engaged. Mostly guys left in a fugue state going on about old memories, worst fears, and something too fast to see.",FEMALE
+STEVE ROGERS,"Maximoffs. Well, that makes sense he'd go to them, they have someone in common.",MALE
+MARIA HILL,Not anymore.,FEMALE
+CLINT BARTON,"That's a negative. I answer to you. Yes, ma'am.",MALE
+STEVE ROGERS,"Barton, we might have something.",MALE
+CLINT BARTON,Gotta go.,MALE
+STEVE ROGERS,Who was that?,MALE
+CLINT BARTON,Girlfriend.,MALE
+TONY STARK,What's this?,MALE
+STEVE ROGERS,A message. Ultron killed Strucker.,MALE
+TONY STARK,"And he did a Banksy at the crime scene, just for us.",MALE
+NATASHA ROMANOFF,This is a smokescreen. Why send a message when you've just given a speech?,FEMALE
+STEVE ROGERS,Strucker knew something that Ultron wanted us to miss.,MALE
+NATASHA ROMANOFF,"Yeah, I bet he...  Yep. Everything we had on Strucker has been erased.",FEMALE
+TONY STARK,Not everything.,MALE
+STEVE ROGERS,"Known associates. Well, Strucker had a lot of friends.",MALE
+BRUCE BANNER,"Well, these people are all horrible.",MALE
+TONY STARK,"Wait. I know that guy.  From back in the day. He operates off the African coast, black market arms.  There are conventions, alright? You meet people, I didn't sell him anything.  He was talking about finding something new, a game changer, it was all very ""Ahab.""",MALE
+THOR,This.,MALE
+TONY STARK,"Uh, it's a tattoo. I don't think he had it...",MALE
+THOR,"No, those are tattoos, this is a brand.",MALE
+BRUCE BANNER,"Oh, yeah. It's a word in an African dialect meaning thief, in a much less friendly way.",MALE
+STEVE ROGERS,What dialect?,MALE
+BRUCE BANNER,Wakanada...? Wa...Wa...Wakanda.,MALE
+TONY STARK,If this guy got out of Wakanda with some of their trade goods...,MALE
+STEVE ROGERS,I thought your father said he got the last of it?,MALE
+BRUCE BANNER,I don't follow. What comes out of Wakanda?,MALE
+TONY STARK,The strongest metal on earth.,MALE
+STEVE ROGERS,Where is this guy now?,MALE
+ULYSSES KLAUE,"Don't tell me your man swindled you. I sent you six short range heat seekers and got a boat full of rusted parts. Now, you will make it right, or the next missile I send you will come very much faster.  Now, minister, where were we?  Yeah. The enhanced. Strucker's prize pupils.  Want a candy? Oh, sorry to hear about Strucker. But then, he knew what kind of world he was helping create. Human life, not a growth market.  You...you didn't know? Is this your first time intimidating someone? I'm afraid that I'm not that afraid.",MALE
+WANDA MAXIMOFF,Everybody's afraid of something.,FEMALE
+ULYSSES KLAUE,"Cuttlefish. Deep sea fish. They make lights. disco lights. Whoom, whoom, whoom! to hypnotize their prey, then whoom! I saw a documentary, it was terrifying.  So if you're going to fiddle with my brain, and make me see a giant cuttlefish, then I know you don't do business, and I know you're not in charge, and I only deal with the man in charge.",MALE
+ULTRON,"There is no ""man"" in charge. Let's talk business.  Upon this rock I will build my church. Vibranium.",MALE
+ULYSSES KLAUE,"You know, it came at great personal cost. It's worth billions.",MALE
+ULTRON,"Now, so are you. It's all under your dummy holdings? Finance is so weird. But I always say, ""Keep your friends rich and your enemies rich, and wait to find out which is which.""",MALE
+ULYSSES KLAUE,Stark.,MALE
+ULTRON,What?,MALE
+ULYSSES KLAUE,Tony Stark used to say that...to me. You're one of his.,MALE
+ULTRON,"What?! I'm not...!  I'm not. You think I'm one of Stark's puppets, his hollow men? I mean look at me, do I look like Iron Man? Stark is nothing!  I'm sorry. I am sor... Ooh, I'm sure that's going to be okay. I'm sorry, it's just I don't understand. Don't compare me with Stark! he's a sickness!",MALE
+TONY STARK,"Ahh, Junior.  You're gonna break your old man's heart.",MALE
+ULTRON,If I have to.,MALE
+THOR,We don't have to break anything.,MALE
+ULTRON,Clearly you've never made an omelet.,MALE
+TONY STARK,He beat me by one second.,MALE
+PIETRO MAXIMOFF,"Ah, this is funny, Mr. Stark. It's what, comfortable? Like old times?",MALE
+TONY STARK,This was never my life.,MALE
+STEVE ROGERS,You two can still walk away from this.,MALE
+WANDA MAXIMOFF,"Oh, we will.",FEMALE
+STEVE ROGERS,I know you've suffered.,MALE
+ULTRON,"Uuughh! Captain America. God's righteous man, pretending you could live without a war. I can't physically throw up in my mouth, but...",MALE
+THOR,"If you believe in peace, then let us keep it.",MALE
+ULTRON,I think you're confusing peace with quiet.,MALE
+TONY STARK,Yuh-huh. What's the Vibranium for?,MALE
+ULTRON,"I'm glad you asked that, because I wanted to take this time to explain my evil plan!",MALE
+ULYSSES KLAUE,Shoot them!,MALE
+KLAUE'S MERCENARY,Which ones?,MALE
+ULYSSES KLAUE,All of them!,MALE
+KLAUE'S MERCENARY,"Move, move, move!",MALE
+STEVE ROGERS,"Stay down, kid!",MALE
+ULTRON,It's time for some mind games.,MALE
+BRUCE BANNER,"Guys, is this a Code Green?",MALE
+STEVE ROGERS,Thor! Status?,MALE
+THOR,"The girl tried to warp my mind. Take special care, I doubt a human could keep her at bay. Fortunately, I am mighty.",MALE
+ULTRON,This is going very well.,MALE
+CLINT BARTON,"I've done the whole mind control thing. Not a fan.  Yeah, you better run.  Whoever's standing, we gotta move! Guys?",MALE
+BALLET INSTRUCTOR,Again.,FEMALE
+NATASHA ROMANOFF,You'll break them.,FEMALE
+MADAME B,Only the breakable ones. You are made of marble. We'll celebrate after the graduation ceremony.,FEMALE
+NATASHA ROMANOFF,What if I fail?,FEMALE
+MADAME B,You never fail.,FEMALE
+PEGGY CARTER,Are you ready for our dance?,FEMALE
+HEIMDALL,Is it him? Is that the first son of Odin?,MALE
+THOR,"Heimdall, your eyes?!",MALE
+HEIMDALL,"Oh, they see everything. They see you leading us to Hel. Wake up!",MALE
+PEGGY CARTER,"The war's over, Steve. We can go home. Imagine it!",FEMALE
+THOR,I can still save you.,MALE
+HEIMDALL,"We are all dead. Can you not see?  You're a destroyer, Odinson. See where your power leads.",MALE
+MADAME B,Sloppy. Pretending to fail. The ceremony is necessary for you to take your place in the world.,FEMALE
+NATASHA ROMANOFF,I have no place in the world.,FEMALE
+MADAME B,Exactly.,FEMALE
+PIETRO MAXIMOFF,What can I do?,MALE
+WANDA MAXIMOFF,"Ah, it hurts.",FEMALE
+PIETRO MAXIMOFF,I'm gonna kill him. I'll be right back.,MALE
+WANDA MAXIMOFF,No. I'm over it. I want...I want to finish the plan.  I want the big one.,FEMALE
+ULTRON,"Ah, the Vibranium's getting away.",MALE
+TONY STARK,And you're not going anywhere.,MALE
+ULTRON,"Of course not, I'm already there. You'll catch on. But first, you might need to catch Dr. Banner.",MALE
+TONY STARK,"News or footage, keyword: Hulk.  Natasha, I could really use a lullaby.",MALE
+CLINT BARTON,"Well, that's not gonna happen. Not for a while. The whole team is down, you got no back up here.",MALE
+TONY STARK,"I'm calling in VERONICA.  Alright everybody, stand down!  You listening? That little witch is messing with your mind. You're stronger than her, you're smarter than her, you're Bruce Banner.  Right, right, right! Don't mention puny Banner.  Okay.  In the back? Dick move, Banner.  VERONICA, gimme a hand.  Go to sleep, go to sleep, go to sleep!  Okay, pal, we're gonna get you out of town.  No, not that way, not that way!  Come on, Bruce! You gotta work with me!   Everybody out! Going to get ugly!  I'm sorry.  Damage report.  That's comprehensive. Show me something.  How quickly can we buy this building?",MALE
+MARIA HILL,"The news is loving you guys. Nobody else is. There's been no official call for Banner's arrest, but it's in the air.",FEMALE
+TONY STARK,Stark Relief Foundation?,MALE
+MARIA HILL,Already on the scene. How's the team?,FEMALE
+TONY STARK,Everyone's...we took a hit. We'll shake it off.,MALE
+MARIA HILL,"Well for now I'd stay in stealth mode, and stay away from here.",FEMALE
+TONY STARK,"So, run and hide?",MALE
+MARIA HILL,"Until we can find Ultron, I don't have a lot else to offer.",FEMALE
+TONY STARK,"Neither do we.   Hey, you wanna switch out?",MALE
+CLINT BARTON,"No, I'm good. If you wanna get some kip, now's a good time, cause we're still a few hours out.",MALE
+TONY STARK,A few hours from where?,MALE
+CLINT BARTON,A safe house.,MALE
+THOR,What is this place?,MALE
+TONY STARK,A safe house?,MALE
+CLINT BARTON,"Let's hope.  Honey, I'm home.",MALE
+CLINT BARTON,Hi. Company. Sorry I didn't call ahead.,MALE
+LAURA BARTON,Hey.,FEMALE
+TONY STARK,This is an agent of some kind.,MALE
+CLINT BARTON,"Gentleman, this is Laura.",MALE
+LAURA BARTON,I know all your names.,FEMALE
+CLINT BARTON,"Ooh, incoming.",MALE
+BARTON'S DAUGHTER,Dad!,FEMALE
+CLINT BARTON,"I see her!  Hey, buddy! How you guys doing? Ooh...",MALE
+TONY STARK,These are...smaller agents.,MALE
+CLINT BARTON,"Look at your face! Oh, my goodness!",MALE
+LILA BARTON,Did you bring Auntie Nat?,FEMALE
+NATASHA ROMANOFF,Why don't you hug her and find out?,FEMALE
+STEVE ROGERS,Sorry for barging in on you.,MALE
+TONY STARK,"Yeah, we would have called ahead, but we were busy having no idea that you existed.",MALE
+CLINT BARTON,"Yeah, well Fury helped me set this up when I joined. He kept it off SHIELD's files, I'd like to keep it that way. I figure it's a good place to lay low.",MALE
+LAURA BARTON,"Honey. Ah, I missed you.",FEMALE
+NATASHA ROMANOFF,"How's little Natasha, huh?",FEMALE
+LAURA BARTON,She's…Nathaniel.,FEMALE
+NATASHA ROMANOFF,Traitor.,FEMALE
+STEVE ROGERS,Thor.,MALE
+THOR,"I saw something in that dream. I need answers, I won't find them here.",MALE
+PEGGY CARTER,We can go home.,FEMALE
+CLINT BARTON,"See, you worried for nothing. Can't even feel the difference, can you?",MALE
+LAURA BARTON,"If they're sleeping here, some of them are gonna have to double up.",FEMALE
+CLINT BARTON,"Yeah, that's not gonna sell.",MALE
+LAURA BARTON,What about Nat and Dr. Banner? How long has that been going on?,FEMALE
+CLINT BARTON,Has what?,MALE
+LAURA BARTON,You are so cute.,FEMALE
+CLINT BARTON,Nat and...and Banner?,MALE
+LAURA BARTON,"I'll explain when you're older, Hawkeye.",FEMALE
+CLINT BARTON,Oh. Okay.,MALE
+LAURA BARTON,"It's bad, right? Nat seems really shaken.",FEMALE
+CLINT BARTON,"Ultron has these allies, these uh, kids, they're punks really. They carry a big damn stick and Nat took a serious hit. Someone's gonna have to teach 'em some manners.",MALE
+LAURA BARTON,"And that someone be you. You know I totally support your Avenging, I couldn't be prouder. But I see those guys, those ""Gods""...",FEMALE
+CLINT BARTON,You don't think they need me.,MALE
+LAURA BARTON,I think they do. Which is a lot scarier. They're a mess.,FEMALE
+CLINT BARTON,Yeah. I guess they're my mess.,MALE
+LAURA BARTON,"You need to be sure that this team is really a team and that they have your back. Things are changing for us. In a few months time, you and me are gonna be outnumbered. I need...just be sure.",FEMALE
+CLINT BARTON,"Yes, ma'am.",MALE
+LAURA BARTON,I can feel the difference.,FEMALE
+ULTRON,"Scream, and your entire staff dies. I could've killed you, Helen, the night we met. I didn't.",MALE
+DR. HELEN CHO,Do you expect a thank you note?,FEMALE
+ULTRON,I expect you to know why.,MALE
+DR. HELEN CHO,"The Cradle.  ""This is the next thing, Tony.""",FEMALE
+ULTRON,This...is the next me.,MALE
+DR. HELEN CHO,"The regeneration cradle prints tissue, it can't build a living body.",FEMALE
+ULTRON,"It can, you can. You lack the materials. You're a brilliant woman, Helen. But we all have room to improve.",MALE
+BRUCE BANNER,I didn't realize you were waiting.,MALE
+NATASHA ROMANOFF,"I would've joined you, but uh, it didn't seem like the right time.",FEMALE
+BRUCE BANNER,They used up all the hot water.,MALE
+NATASHA ROMANOFF,I should've joined you.,FEMALE
+BRUCE BANNER,Missed our window.,MALE
+NATASHA ROMANOFF,Did we?,FEMALE
+BRUCE BANNER,"The world just saw the Hulk. The real Hulk, for the first time. You know I have to leave.",MALE
+NATASHA ROMANOFF,"But you assume that I have to stay? I had this, um, dream. The kind that seems normal at the time, but when you wake...",FEMALE
+BRUCE BANNER,What did you dream?,MALE
+NATASHA ROMANOFF,That I was an Avenger. That I was anything more than the assassin they made me.,FEMALE
+BRUCE BANNER,I think you're being hard on yourself.,MALE
+NATASHA ROMANOFF,Here I was hoping that was your job.,FEMALE
+BRUCE BANNER,What are you doing?,MALE
+NATASHA ROMANOFF,"I'm running with it, with you. If running's the plan, as far as you want.",FEMALE
+BRUCE BANNER,Are you out of your mind?,MALE
+NATASHA ROMANOFF,I want you to understand that I'm...,FEMALE
+BRUCE BANNER,"Natasha, where can I go? Where in the world am I not a threat?",MALE
+NATASHA ROMANOFF,You're not a threat to me.,FEMALE
+BRUCE BANNER,"You sure? Even if I didn't just...there's no future with me. I can't ever...I can't have this, kids, do the math, I physically can't.",MALE
+NATASHA ROMANOFF,"Neither can I. In the Red Room, where I was trained, where I was raised, um, they have a graduation ceremony. They sterilize you. It's efficient. One less thing to worry about. The one thing that might matter more than a mission. It makes everything easier. Even killing.  You still think you're the only monster on the team?",FEMALE
+BRUCE BANNER,"What, so we disappear?",MALE
+TONY STARK,Thor didn't say where he was going for answers?,MALE
+STEVE ROGERS,Sometimes my teammates don't tell me things. I was kind of hoping Thor would be the exception.,MALE
+TONY STARK,"Yeah, give him time. We don't know what the Maximoff kid showed him.",MALE
+STEVE ROGERS,"""Earth's Mightiest Heroes."" Pulled us apart like cotton candy.",MALE
+TONY STARK,Seems like you walked away all right.,MALE
+STEVE ROGERS,Is that a problem?,MALE
+TONY STARK,I don't trust a guy without a dark side. Call me old fashioned.,MALE
+STEVE ROGERS,Well let's just say you haven't seen it yet.,MALE
+TONY STARK,"You know Ultron is trying to tear us apart, right?",MALE
+STEVE ROGERS,Well I guess you'd know. Whether you tell us is a bit of a question.,MALE
+TONY STARK,Banner and I were doing research.,MALE
+STEVE ROGERS,That would affect the team.,MALE
+TONY STARK,"That would end the team. Isn't that the mission? Isn't that the ""why"" we fight, so we can end the fight, so we get to go home?",MALE
+STEVE ROGERS,"Every time someone tries to win a war before it starts, innocent people die. Every time.",MALE
+LAURA BARTON,"I'm sorry. Mr. Stark, uh, Clint said you wouldn't mind, but, our tractor, it doesn't seem to want to start at all. I thought maybe you might...",FEMALE
+TONY STARK,"Yeah, I'll give her a kick.  Don't take from my pile.  Hello, Deere. Tell me everything. What ails you?",MALE
+NICK FURY,Do me a favor. Try not to bring it to life.,MALE
+TONY STARK,"Ah, Mrs. Barton, you little minx. I get it, Maria Hill called you, right? Was she ever not working for you?",MALE
+NICK FURY,Artificial intelligence. You never even hesitated.,MALE
+TONY STARK,"Look, it's been a really long day, like, Eugene O'Neill long, so how's about we skip to the part where you're useful?",MALE
+NICK FURY,Look me in the eye and tell me you're going to shut him down.,MALE
+TONY STARK,You're not the director of me.,MALE
+NICK FURY,"I'm not the director of anybody. I'm just an old man, who cares very much about you.",MALE
+TONY STARK,"And I'm the man who killed the Avengers. I saw it. I didn't tell the team, how could I? I saw them all dead, Nick. I felt it. The whole world, too. It's because of me. I wasn't ready. I didn't do all I could.",MALE
+NICK FURY,"The Maximoff girl, she's working you, Stark. Playing on your fear.",MALE
+TONY STARK,"I wasn't tricked, I was shown. It wasn't a nightmare, it was my legacy. The end of the path I started us on.",MALE
+NICK FURY,"You've come up with some pretty impressive inventions, Tony. War isn't one of them.",MALE
+TONY STARK,"I watched my friends die. You'd think that'd be as bad as it gets, right? Nope. Wasn't the worst part.",MALE
+NICK FURY,The worst part is that you didn't.,MALE
+ERIK SELVIG,"I like the look. If you're going for inconspicuous, though, near miss.",MALE
+THOR,I need your help.,MALE
+ERIK SELVIG,It's nice to be needed.,MALE
+THOR,It's dangerous.,MALE
+ERIK SELVIG,I'd be disappointed if it wasn't.,MALE
+NICK FURY,"Ultron took you folks out of play to buy himself time. My contacts all say he's building something. The amount of Vibranium he made off with, I don't think it's just one thing.",MALE
+STEVE ROGERS,What about Ultron himself?,MALE
+NICK FURY,"Ah. He's easy to track, he's everywhere. Guy's multiplying faster than a Catholic rabbit. Still doesn't help us get an angle on any of his plans though.",MALE
+TONY STARK,He still going after launch codes?,MALE
+NICK FURY,"Yes, he is, but he's not making any headway.",MALE
+TONY STARK,I cracked the Pentagon's firewall in high school on a dare.,MALE
+NICK FURY,"Yeah, well, I contacted our friends at the NEXUS about that.",MALE
+STEVE ROGERS,NEXUS?,MALE
+BRUCE BANNER,"It's the world internet hub in Oslo, every byte of data flows through there, fastest access on earth.",MALE
+CLINT BARTON,So what'd they say?,MALE
+NICK FURY,"He's fixated on the missiles, but the codes are constantly being changed.",MALE
+TONY STARK,By whom?,MALE
+NICK FURY,Parties unknown.,MALE
+NATASHA ROMANOFF,Do we have an ally?,FEMALE
+NICK FURY,"Ultron's got an enemy, that's not the same thing. Still, I'd pay folding money to know who it is.",MALE
+TONY STARK,"I might need to visit Oslo, find our ""unknown.""",MALE
+NATASHA ROMANOFF,"Well, this is good times, boss, but I was kind of hoping when I saw you, you'd have more than that.",FEMALE
+NICK FURY,"I do, I have you. Back in the day, I had eyes everywhere, ears everywhere else. Here we all are, back on earth, with nothing but our wit, and our will to save the world. So stand. Outwit the platinum bastard.",MALE
+NATASHA ROMANOFF,Steve doesn't like that kind of talk.,FEMALE
+STEVE ROGERS,"You know what, Romanoff?",MALE
+NICK FURY,So what does he want?,MALE
+STEVE ROGERS,To become better. Better than us. He keeps building bodies.,MALE
+TONY STARK,"Person bodies. The human form is inefficient, biologically speaking, we're outmoded. But he keeps coming back to it.",MALE
+NATASHA ROMANOFF,"When you two programmed him to protect the human race, you amazingly failed.",FEMALE
+BRUCE BANNER,"They don't need to be protected, they need to evolve. Ultron's going to evolve.",MALE
+NICK FURY,How?,MALE
+BRUCE BANNER,Has anyone been in contact with Helen Cho?,MALE
+DR. HELEN CHO,"It's beautiful. The Vibranium atoms aren't just compatible with the tissue cells, they're binding them. And SHIELD never even thought...",FEMALE
+ULTRON,"The most versatile substance on the planet and they used it to make a Frisbee. Typical of humans, they scratch the surface and never think to look within.",MALE
+STEVE ROGERS,I'll take Natasha and Clint.,MALE
+TONY STARK,"Alright, strictly recon. I'll hit the NEXUS, I'll join you as soon as I can.",MALE
+STEVE ROGERS,If Ultron is really building a body...,MALE
+TONY STARK,He'll be more powerful than any of us. Maybe all of us. An android designed by a robot.,MALE
+STEVE ROGERS,You know I really miss the days when the weirdest thing science ever created was me.,MALE
+NICK FURY,I'll drop Banner off at the tower. Do you mind if I borrow Ms. Hill?,MALE
+TONY STARK,"She's all yours, apparently. What are you gonna do?",MALE
+NICK FURY,"I don't know. Something dramatic, I hope.",MALE
+CLINT BARTON,I'm gonna finish re-flooring that sunroom as soon as I get back.,MALE
+LAURA BARTON,"Yeah, and then you'll find another part of the house to tear apart.",FEMALE
+CLINT BARTON,No. It's the last project. I promise.,MALE
+ERIK SELVIG,This is it. The Water of Sight.,MALE
+THOR,"In every realm, there's a reflection. If the water spirits accept me, I can return to my dream, and find what I missed.",MALE
+ERIK SELVIG,"The men who enter that water, the legends don't end well.",MALE
+TONY STARK,"A hacker who's faster than Ultron? He could be anywhere. And as this is the center of everything, I'm just a guy looking for a needle in the world's biggest haystack.",MALE
+WORLD HUB TECH,How do you find it?,MALE
+TONY STARK,"Pretty simple. You bring a magnet.  Oh, I'm decrypting nuclear codes and you don't want me to. Come and get me.",MALE
+HEIMDALL,Wake up!,MALE
+ERIK SELVIG,Thor!,MALE
+ULTRON,Extinction.,MALE
+DR. HELEN CHO,"Cellular cohesion will take a few hours, but we can initiate the consciousness stream. We're uploading your cerebral matrix...now.",FEMALE
+WANDA MAXIMOFF,I can read him. He is dreaming.,FEMALE
+DR. HELEN CHO,"I wouldn't call it dreams. It's Ultron's base consciousness, informational noise. Soon...",FEMALE
+ULTRON,How soon? I'm not being pushy.,MALE
+DR. HELEN CHO,We're imprinting a physical brain. There are no shortcuts. Even if your magic gem is...,FEMALE
+WANDA MAXIMOFF,How could you?,FEMALE
+ULTRON,How could I what?,MALE
+WANDA MAXIMOFF,"You said we would destroy the Avengers, make a better world.",FEMALE
+ULTRON,It will be better.,MALE
+WANDA MAXIMOFF,When everyone is dead.,FEMALE
+ULTRON,That is not...! The human race will have every opportunity to improve.,MALE
+PIETRO MAXIMOFF,And if they don't?,MALE
+ULTRON,Ask Noah.,MALE
+WANDA MAXIMOFF,You're a madman.,FEMALE
+ULTRON,"There were more than a dozen extinction level events before even the dinosaurs got theirs. When the Earth starts to settle, God throws a stone at it, and believe me, he's winding up. We have to evolve. There's no room for the weak.",MALE
+PIETRO MAXIMOFF,And who decides who's weak?,MALE
+ULTRON,Life. Life always decides. There's incoming. The Quinjet. We have to move.,MALE
+DR. HELEN CHO,That's not a problem.,FEMALE
+ULTRON,"Ah, wait, guys!.  They'll understand. When they see they'll understand. I just need a little more time.",MALE
+STEVE ROGERS,Two minutes. Stay close.  Dr. Cho!,MALE
+DR. HELEN CHO,He's uploading himself into the body.,FEMALE
+STEVE ROGERS,Where?,MALE
+DR. HELEN CHO,"The real power is inside the Cradle. The gem, its power is uncontainable. You can't just blow it up. You have to get the Cradle to Stark.",FEMALE
+STEVE ROGERS,First I have to find it.,MALE
+DR. HELEN CHO,Go.,FEMALE
+STEVE ROGERS,Did you guys copy that?,MALE
+CLINT BARTON,We did.,MALE
+NATASHA ROMANOFF,"I got a private jet taking off, across town, no manifest. That could be him.",FEMALE
+CLINT BARTON,"There. It's the truck from the lab. Right above you, Cap. On the loop by the bridge. It's them. I got three with the Cradle, one in the cab. I could take out the driver.",MALE
+STEVE ROGERS,"Negative! If that truck crashes, the gem could level the city. We need to draw out Ultron.",MALE
+ULTRON,"No, no, no, no, no. Leave me alone!",MALE
+STEVE ROGERS,"Well, he's definitely unhappy! I'm gonna try and keep him that way.",MALE
+CLINT BARTON,"You're not a match for him, Cap.",MALE
+STEVE ROGERS,"Thanks, Barton.",MALE
+ULTRON,"You know what's in that Cradle? The power to make real change, and that terrifies you.",MALE
+STEVE ROGERS,I wouldn't call it a comfort.,MALE
+ULTRON,Stop it!,MALE
+CLINT BARTON,"We got a window. Four, three...give 'em hell.",MALE
+NATASHA ROMANOFF,I'm always picking up after you boys.,FEMALE
+CLINT BARTON,"They're heading under the overpass, I've got no shot.",MALE
+NATASHA ROMANOFF,Which way?,FEMALE
+CLINT BARTON,Hard right... Now.,MALE
+NATASHA ROMANOFF,"Out of the way! Coming through! Sorry, coming through!",FEMALE
+STEVE ROGERS,Come on!,MALE
+NATASHA ROMANOFF,"Clint, can you draw out the guards?",FEMALE
+CLINT BARTON,Let's find out.,MALE
+NATASHA ROMANOFF,Beep beep!,FEMALE
+CLINT BARTON,"Heading back towards you. So whatever you're going to do, do it now.",MALE
+NATASHA ROMANOFF,"I'm going in, Cap can you keep him occupied?",FEMALE
+STEVE ROGERS,What do you think I've been doing?,MALE
+CLINT BARTON,The package is airborne. I have a clean shot.,MALE
+NATASHA ROMANOFF,Negative. I am still in the truck.,FEMALE
+CLINT BARTON,What the hell are you...?,MALE
+NATASHA ROMANOFF,"Just be ready, I'm sending the package to you.",FEMALE
+CLINT BARTON,How do you want me to take it?,MALE
+NATASHA ROMANOFF,"Uhh, you might wish you hadn't asked that.",FEMALE
+ULTRON,Please. Don't do this.,MALE
+WANDA MAXIMOFF,What choice do we have?,FEMALE
+STEVE ROGERS,I lost him! He's headed your way.,MALE
+CLINT BARTON,"Nat, we gotta go.",MALE
+CLINT BARTON,"Nat! Cap, you see Nat?",MALE
+STEVE ROGERS,"If you have the package, get it to Stark! Go!",MALE
+CLINT BARTON,Do you have eyes on Nat?,MALE
+STEVE ROGERS,Go!  Civilians in our path.  Can you stop this thing?,MALE
+PIETRO MAXIMOFF,I'm fine. I just need to take a minute.,MALE
+STEVE ROGERS,I'm very tempted not to give you one.,MALE
+WANDA MAXIMOFF,"The Cradle, did you get it?",FEMALE
+STEVE ROGERS,Stark will take care of it.,MALE
+WANDA MAXIMOFF,"No, he won't.",FEMALE
+STEVE ROGERS,"You don't know what you're talking about, Stark's not crazy.",MALE
+WANDA MAXIMOFF,He will do anything to make things right.,FEMALE
+STEVE ROGERS,"Stark, come in. Stark. Anyone on comms?",MALE
+WANDA MAXIMOFF,Ultron can't tell the difference between saving the world and destroying it. Where do you think he gets that?,FEMALE
+BRUCE BANNER,Anything on Nat?,MALE
+TONY STARK,"Haven't heard. But she's alive, or Ultron'd be rubbing our faces in it.",MALE
+CLINT BARTON,This is sealed tight.,MALE
+BRUCE BANNER,"We're going to need to access the program, break it down from within.",MALE
+TONY STARK,"Hm. Any chance Natasha might leave you a message, outside the internet, old school spy stuff?",MALE
+CLINT BARTON,"There's some nets I can cast. Yeah, alright. I'll find her.",MALE
+BRUCE BANNER,"I can work on tissue degeneration, if you can fry whatever operational system Cho implanted.",MALE
+TONY STARK,"Yeah, about that.",MALE
+BRUCE BANNER,No.,MALE
+TONY STARK,You have to trust me.,MALE
+BRUCE BANNER,Kinda don't.,MALE
+TONY STARK,Our ally? The guy protecting the military's nuclear codes? I found him.,MALE
+JARVIS,"Hello, Dr. Banner.",MALE
+TONY STARK,"Ultron didn't go after JARVIS cause he was angry. He attacked him because he was scared of what he can do. So JARVIS went underground. Okay? Scattered, dumped his memory. But not his protocols. He didn't even know he was in there, until I pieced him together.",MALE
+BRUCE BANNER,"So, you want me to help you put JARVIS into this thing?",MALE
+TONY STARK,"No, of course not! I want to help you put JARVIS in this thing.  We're out of my field here. You know bio-organics better than anyone.",MALE
+BRUCE BANNER,And you just assume that JARVIS' operational matrix can beat Ultron's?,MALE
+TONY STARK,"JARVIS has been beating him from inside without knowing it. This is the opportunity, we can create Ultron's perfect self, without the homicidal glitches he thinks are his winning personality. We have to.",MALE
+JARVIS,I believe it's worth a go.,MALE
+BRUCE BANNER,"No, I'm in a loop! I'm caught in a time loop, this is exactly where it all went wrong.",MALE
+TONY STARK,"I know, I know. I know what everyone's going to say, but they're already saying it. We're mad scientists. We're monsters, buddy. You gotta own it. Make a stand.  It's not a loop. It's the end of the line.",MALE
+ULTRON,"I wasn't sure you'd wake up. I hoped you would, I wanted to show you something. I don't have anyone else. I think a lot about meteors, the purity of them. Boom! The end, start again. The world made clean for the new man to rebuild. I was meant to be new. I was meant to be beautiful. The world would've looked to the sky and seen hope, seen mercy. Instead they'll look up in horror because of you. You've wounded me. I give you full marks for that. But, like the man said, ""What doesn't kill me… ""…just makes me stronger.""",MALE
+TONY STARK,This framework is not compatible.,MALE
+BRUCE BANNER,The genetic coding tower's at ninety-seven percent. You have got to upload that schematic in the next three minutes.,MALE
+STEVE ROGERS,I'm gonna say this once.,MALE
+TONY STARK,"How about ""nonce""?",MALE
+STEVE ROGERS,Shut it down!,MALE
+TONY STARK,"Nope, not gonna happen.",MALE
+STEVE ROGERS,You don't know what you're doing.,MALE
+BRUCE BANNER,And you do? She's not in your head?,MALE
+WANDA MAXIMOFF,I know you're angry.,FEMALE
+BRUCE BANNER,"Oh, we're way past that. I could choke the life out of you and never change a shade.",MALE
+STEVE ROGERS,"Banner, after everything that's happened...",MALE
+TONY STARK,That's nothing compared to what's coming!,MALE
+WANDA MAXIMOFF,You don't know what's in there!,FEMALE
+STEVE ROGERS,This isn't a game...,MALE
+WANDA MAXIMOFF,The creature...!,FEMALE
+PIETRO MAXIMOFF,"No, no. Go on. You were saying?",MALE
+WANDA MAXIMOFF,Pietro!,FEMALE
+CLINT BARTON,What? You didn't see that coming?,MALE
+BRUCE BANNER,"Go ahead, piss me off.  Wait!",MALE
+VISION,"I'm sorry, that was...odd.  Thank you.",MALE
+STEVE ROGERS,"Thor, you helped create this?",MALE
+THOR,I've had a vision. A whirlpool that sucks in all hope of life and at it's center is that.,MALE
+BRUCE BANNER,"What, the gem?",MALE
+THOR,"It's the Mind Stone. It's one of the six Infinity Stones, the greatest power in the universe, unparalleled in its destructive capabilities.",MALE
+STEVE ROGERS,Then why would you bring it to...,MALE
+THOR,Because Stark is right.,MALE
+BRUCE BANNER,"Oh, it's definitely the end times.",MALE
+THOR,The Avengers cannot defeat Ultron.,MALE
+VISION,Not alone.,MALE
+STEVE ROGERS,"Why does your ""vision"" sound like JARVIS?",MALE
+TONY STARK,We...we reconfigured JARVIS' matrix to create something new.,MALE
+STEVE ROGERS,I think I've had my fill of new.,MALE
+VISION,You think I'm a child of Ultron?,MALE
+STEVE ROGERS,You're not?,MALE
+VISION,I'm not Ultron. I'm not JARVIS. I am...I am.,MALE
+WANDA MAXIMOFF,I looked in your head and saw annihilation.,FEMALE
+VISION,Look again.,MALE
+CLINT BARTON,Yeah. Her seal of approval means jack to me.,MALE
+THOR,"Their powers, the horrors in our heads, Ultron himself, they all came from the Mind Stone, and they're nothing compared to what it can unleash. But with it on our side...",MALE
+STEVE ROGERS,Is it? Are you? On our side?,MALE
+VISION,I don't think it's that simple.,MALE
+CLINT BARTON,Well it better get real simple real soon.,MALE
+VISION,"I am on the side of life. Ultron isn't, he will end it all.",MALE
+TONY STARK,What's he waiting for?,MALE
+VISION,You.,MALE
+BRUCE BANNER,Where?,MALE
+CLINT BARTON,Sokovia. He's got Nat there too.,MALE
+BRUCE BANNER,"If we're wrong about you, if you're the monster that Ultron made you to be...",MALE
+VISION,"What will you do?  I don't want to kill Ultron. He's unique, and he's in pain. But that pain will roll over the earth, so he must be destroyed. Every form he's built, every trace of his presence on the net, we have to act now. And not one of us can do it without the others. Maybe I am a monster. I don't think I'd know if I were one. I'm not what you are, and not what you intended. So there may be no way to make you trust me. But we need to go.",MALE
+THOR,Right.  Well done.,MALE
+STEVE ROGERS,Three minutes. Get what you need.,MALE
+FRIDAY,"Good evening, boss.",FEMALE
+TONY STARK,"No way we all get through this. If even one tin soldier is left standing, we've lost. It's gonna be blood on the floor.",MALE
+STEVE ROGERS,I got no plans tomorrow night.,MALE
+TONY STARK,I get first crack at the big guy. Iron Man's the one he's waiting for.,MALE
+VISION,"That's true, he hates you the most.",MALE
+STEVE ROGERS,"Ultron knows we're coming. Odds are we'll be riding into heavy fire, and that's what we signed up for. But the people of Sokovia, they didn't. So our priority is getting them out.",MALE
+PIETRO MAXIMOFF,"We're under attack! Clear the city, now!  Get off your asses.",MALE
+STEVE ROGERS,"All they want is to live their lives in peace, and that's not going to happen today. But we can do our best to protect them. And we can get the job done, and find out what Ultron's been building. We find Romanoff, and we clear the field. Keep the fight between us. Ultron thinks we're monsters and we're what's wrong with the world. This isn't just about beating him. It's about whether he's right.",MALE
+BRUCE BANNER,Natasha! Natasha!,MALE
+NATASHA ROMANOFF,Bruce?,FEMALE
+BRUCE BANNER,You alright?,MALE
+NATASHA ROMANOFF,Yeah.,FEMALE
+BRUCE BANNER,"The team's in the city, it's about to light up.",MALE
+NATASHA ROMANOFF,I don't suppose you found a key lying around somewhere?,FEMALE
+BRUCE BANNER,"Yeah, I did.",MALE
+NATASHA ROMANOFF,So what's our play?,FEMALE
+BRUCE BANNER,I'm here to get you to safety.,MALE
+NATASHA ROMANOFF,Job's not finished.,FEMALE
+BRUCE BANNER,"We could help with the evacuation, but I can't be in a fight near civilians. And you've done plenty. Our fight is over.",MALE
+NATASHA ROMANOFF,So we just disappear?,FEMALE
+FRIDAY,"Your man's in the church, boss. I think he's waiting for you.",FEMALE
+ULTRON,Come to confess your sins?,MALE
+TONY STARK,"I don't know, how much time you got?",MALE
+ULTRON,More than you.,MALE
+TONY STARK,"Uhhh. Have you been juicing? A little Vibranium cocktail? You're looking, I don't wanna say, puffy...",MALE
+ULTRON,You're stalling to protect the people.,MALE
+TONY STARK,"Well, that is the mission. Did you forget?",MALE
+ULTRON,"I've moved beyond your mission. I'm free.  What, you think you're the only one stalling?",MALE
+FRIDAY,There's the rest of the Vibranium. Function: still unclear.,FEMALE
+ULTRON,"This is how you end, Tony. This is peace in my time.",MALE
+STEVE ROGERS,Go!,MALE
+WANDA MAXIMOFF,Get off the bridge! Run!,FEMALE
+VISION,Ultron.,MALE
+ULTRON,My Vision. They really did take everything from me.,MALE
+VISION,"You set the terms, you can change them.",MALE
+ULTRON,Alright.,MALE
+TONY STARK,FRIDAY! The Vision?,MALE
+FRIDAY,"Boss, it's working. He's burning Ultron out of the net, he won't escape through there.",FEMALE
+ULTRON,"You shut me out! You think I care? You take away my world, I take away yours.",MALE
+TONY STARK,FRIDAY?,MALE
+FRIDAY,Sokovia's going for a ride.,FEMALE
+ULTRON,"Do you see? The beauty of it, the inevitability. You rise, only to fall. You, Avengers, you are my meteor, my swift and terrible sword and the earth will crack with the weight of your failure. Purge me from your computers, turn my own flesh against me. It means nothing. When the dust settles, the only thing living in this world will be metal.",MALE
+BRUCE BANNER,We gotta move.,MALE
+NATASHA ROMANOFF,You're not going to turn green?,FEMALE
+BRUCE BANNER,I've got a compelling reason not to lose my cool.,MALE
+NATASHA ROMANOFF,I adore you.  But I need the other guy.  Let's finish the job.  I really hope this makes us even. Now go be a hero.,FEMALE
+FRIDAY,"The Vibranium core has got a magnetic field, that's what's keeping the rock together.",FEMALE
+TONY STARK,If it drops?,MALE
+FRIDAY,"Right now the impact would kill thousands. Once it gets high enough: Global extinction.  That building's not clear, Tenth floor.",FEMALE
+TONY STARK,Hi. Okay. Get in the tub!,MALE
+FRIDAY,"I got airborne, heading up to the bridge.",FEMALE
+TONY STARK,"Cap, you got incoming.",MALE
+STEVE ROGERS,"Incoming already came in. Stark, you worry about bringing the city back down safely. The rest of us have one job: tear these things apart. You get hurt, hurt 'em back. You get killed, walk it off.",MALE
+CLINT BARTON,"Go, go, move!",MALE
+WANDA MAXIMOFF,How could I let this happen?,FEMALE
+CLINT BARTON,"Hey, hey, you okay?",MALE
+WANDA MAXIMOFF,This is all our fault.,FEMALE
+CLINT BARTON,"Hey, look at me. It's your fault, it's everyone's fault, who cares. Are you up for this? Are you? Look, I just need to know, cause the city is flying. Okay, look, the city is flying, we're fighting an army of robots, and I have a bow and arrow. None of this makes sense. But I'm going back out there because it's my job. Okay? And I can't do my job and babysit. It doesn't matter what you did, or what you were. If you go out there, you fight, and you fight to kill. Stay in here, you're good, I'll send your brother to come find you, but if you step out that door, you are an Avenger.  Alright, good chat.  Yeah, the city is flying.",MALE
+STEVE ROGERS,I got you! Just look at me.,MALE
+ULTRON,You can't save them all. You'll never...,MALE
+STEVE ROGERS,"You'll never what? You didn't finish!  What, were you napping?",MALE
+ULTRON,Thor! You're bothering me.,MALE
+CLINT BARTON,"Alright, we're all clear here.",MALE
+STEVE ROGERS,We are not clear! We are very not clear!,MALE
+CLINT BARTON,"Alright, coming to you.",MALE
+PIETRO MAXIMOFF,Keep up old man!,MALE
+CLINT BARTON,"Nobody would know. Nobody. ""The last I saw him, when Ultron was sitting on him. Uh...yeah, he'll be missed, that quick little bastard. I miss him already.""",MALE
+STEVE ROGERS,Romanoff!,MALE
+NATASHA ROMANOFF,Thanks.,FEMALE
+FRIDAY,"The anti-gravs are rigged to flip. Touch 'em, they'll go full reverse thrust. The city's not coming down slow.",FEMALE
+TONY STARK,The spire's Vibranium. If I get Thor to hit it...,MALE
+FRIDAY,"It'll crack, but that's not enough, the impact would still be devastating.",FEMALE
+TONY STARK,"Maybe if we cap the other end, keep the atomic action doubling back.",MALE
+FRIDAY,"That could vaporize the city, and everyone on it.",FEMALE
+STEVE ROGERS,"The next wave's gonna hit any minute. What have you got, Stark?",MALE
+TONY STARK,"Well, nothing great. Maybe a way to blow up the city. That'll keep it from impacting the surface if you guys can get clear.",MALE
+STEVE ROGERS,"I asked for a solution, not an escape plan.",MALE
+TONY STARK,Impact radius is getting bigger every second. We're going to have to make a choice.,MALE
+NATASHA ROMANOFF,"Cap, these people are going nowhere. If Stark finds a way to blow this rock...",FEMALE
+STEVE ROGERS,Not 'til everyone's safe.,MALE
+NATASHA ROMANOFF,Everyone up here versus everyone down there? There's no math there.,FEMALE
+STEVE ROGERS,I'm not leaving this rock with one civilian on it.,MALE
+NATASHA ROMANOFF,I didn't say we should leave.  There's worse ways to go. Where else am I gonna get a view like this?,FEMALE
+NICK FURY,"Glad you like the view, Romanoff. It's about to get better.   Nice, right? I pulled her out of mothballs with a couple of old friends. She's dusty, but she'll do.",MALE
+STEVE ROGERS,"Fury, you son of a bitch.",MALE
+NICK FURY,Oooh! You kiss your mother with that mouth?,MALE
+MARIA HILL,Altitude is eighteen thousand and climbing.,FEMALE
+SPECIALIST CAMERON KLEIN,"Lifeboats secure to deploy. Disengage in three, two...take 'em out.",MALE
+PIETRO MAXIMOFF,This is SHIELD?,MALE
+STEVE ROGERS,This is what SHIELD's supposed to be.,MALE
+PIETRO MAXIMOFF,This is not so bad.,MALE
+STEVE ROGERS,Let's load 'em up.,MALE
+MARIA HILL,"Sir, we have multiple bogies converging on our starboard flank.",FEMALE
+NICK FURY,Show 'em what we got.,MALE
+MARIA HILL,You're up.,FEMALE
+JAMES RHODES,Yes! Now this is gonna be a good story.,MALE
+TONY STARK,Yep. If you live to tell it.,MALE
+JAMES RHODES,You think I can't hold my own?,MALE
+TONY STARK,"We get through this, I'll hold your own.",MALE
+JAMES RHODES,You had to make it weird.,MALE
+CLINT BARTON,"Alright, let's load 'em up! Alright, here we go. Here we go, let's move. Let's go everyone!",MALE
+SPECIALIST CAMERON KLEIN,"Number six boat is topped and locked. Or, uh, or stocked, topped. It...it's, uh, full of people.",MALE
+MARIA HILL,Incoming!,FEMALE
+SPECIALIST CAMERON KLEIN,"Oh, God!",MALE
+ULTRON,You think you're saving anyone? I turn that key and drop this rock a little early and it's still billions dead. Even you can't stop that.,MALE
+THOR,"I am Thor, son of Odin, and as long as there is life in my breast, I am...running out of things to say! Are you ready?",MALE
+VISION,It's terribly well balanced.,MALE
+THOR,"Well, if there's too much weight, you lose power on the swing, so.",MALE
+TONY STARK,I got it! Create a heat seal. I can...I can supercharge the spire from below.,MALE
+FRIDAY,Running numbers.  A heat seal could work with enough power.,FEMALE
+TONY STARK,"Thor, I got a plan!",MALE
+THOR,We're out of time. They're coming for the core.,MALE
+TONY STARK,"Rhodey, get the rest of the people on board that carrier.",MALE
+JAMES RHODES,On it.,MALE
+TONY STARK,"Avengers, time to work for a living.",MALE
+PIETRO MAXIMOFF,You good?,MALE
+WANDA MAXIMOFF,Yeah.,FEMALE
+TONY STARK,"Romanoff? You and Banner better not be playing ""hide the zucchini.""",MALE
+NATASHA ROMANOFF,"Relax, Shell-head. Not all of us can fly.  What's the drill?",FEMALE
+TONY STARK,"This is the drill. If Ultron gets a hand on the core, we lose.",MALE
+THOR,Is that the best you can do?,MALE
+STEVE ROGERS,You had to ask.,MALE
+ULTRON,"This is the best I can do. This is exactly what I wanted. All of you, against all of me. How could you possibly hope to stop me?",MALE
+TONY STARK,"Well, like the old man said. Together.",MALE
+ULTRON,"You know, with the benefit of hindsight....",MALE
+THOR,They'll try to leave the city.,MALE
+TONY STARK,"We can't let 'em, not even one. Rhodey!",MALE
+JAMES RHODES,"I'm on it.  Oh, no, I didn't say you could leave. War Machine, comin' at you, right ...  Okay, what?",MALE
+STEVE ROGERS,"We gotta move out. Even I can tell the air is getting thin. You guys get to the boats, I'll sweep for stragglers, be right behind you.",MALE
+CLINT BARTON,What about the core?,MALE
+WANDA MAXIMOFF,I'll protect it. It's my job.,FEMALE
+WANDA MAXIMOFF,Get the people on the boats.,FEMALE
+PIETRO MAXIMOFF,I'm not going to leave you here.,MALE
+WANDA MAXIMOFF,"I can handle this.  Come back for me when everyone else is off, not before.",FEMALE
+PIETRO MAXIMOFF,Hmm.,MALE
+WANDA MAXIMOFF,You understand?,FEMALE
+PIETRO MAXIMOFF,"You know, I'm twelve minutes older than you.",MALE
+WANDA MAXIMOFF,Go.,FEMALE
+FRIDAY,"Boss, power levels are way below opt...",FEMALE
+TONY STARK,Re-route everything. We get one shot at this.,MALE
+CLINT BARTON,"I know what I need to do. The dining room! If I knock out that east wall, it'll make a nice work space for Laura, huh? Put up some baffling, she can't hear the kids running around, what do you think?",MALE
+NATASHA ROMANOFF,You guys always eat in the kitchen anyway.,FEMALE
+CLINT BARTON,No one eats in a dining room.  We don't have a lot of time.,MALE
+NATASHA ROMANOFF,"So get your ass on a boat.  Hey, big guy. Sun's getting real low.",FEMALE
+ZRINKA,Costel? We were in the market. Costel?!,FEMALE
+TONY STARK,"Thor, I'm gonna need you back in the church.",MALE
+THOR,Is this the last of them?,MALE
+STEVE ROGERS,Yeah. Everyone else is on the carrier.,MALE
+TONY STARK,"You know, if this works, we maybe don't walk away.",MALE
+THOR,Maybe not.,MALE
+ULTRON,"I got no strings, so I have fun. I'm not tied up to anyone.",MALE
+PIETRO MAXIMOFF,You didn't see that coming.,MALE
+ULTRON,"Oh, for God's sake!",MALE
+CLINT BARTON,"No, no. I'm fine.  Oh, it's been a long day.",MALE
+ULTRON,"Wanda, if you stay here, you'll die.",MALE
+WANDA MAXIMOFF,I just did. Do you know how it felt?  It felt like that.,FEMALE
+TONY STARK,"Thor, on my mark.  Now!",MALE
+NATASHA ROMANOFF,"Hey, big guy. We did it, the job's finished. Now I need you to turn this bird around, okay? We can't track you in stealth mode, so help me out. I need you t...",FEMALE
+VISION,You're afraid.,MALE
+ULTRON,Of you?,MALE
+VISION,Of death. You're the last one.,MALE
+ULTRON,"You were supposed to be the last. Stark asked for a savior, and settled for a slave.",MALE
+VISION,I suppose we're both disappointments.,MALE
+ULTRON,I suppose we are.,MALE
+VISION,"Humans are odd. They think order and chaos are somehow opposites, and try to control what won't be. But there is grace in their failings. I think you missed that.",MALE
+ULTRON,They're doomed.,MALE
+VISION,Yes. But a thing isn't beautiful because it lasts. It's a privilege to be among them.,MALE
+ULTRON,You're unbearably naive.,MALE
+VISION,"Well, I was born yesterday.",MALE
+LAURA BARTON,Say hi to Auntie Nat.,FEMALE
+NATASHA ROMANOFF,Fat.,FEMALE
+NICK FURY,"One of our tech boys flagged this, splashed down in the Banda Sea. Could be the Quinjet. But with Stark's stealth tech, we still can't track the damn thing.",MALE
+NATASHA ROMANOFF,Right.,FEMALE
+NICK FURY,Probably jumped out and swam to Fiji. He'll send a postcard.,MALE
+NATASHA ROMANOFF,"""Wish you were here."" You sent me to recruit him, way back when. Did you know then what was going to happen?",FEMALE
+NICK FURY,You never know. You hope for the best and make do with what you get. I got a great team.,MALE
+NATASHA ROMANOFF,Nothing lasts forever.,FEMALE
+NICK FURY,"Trouble, Miss Romanoff. No matter who wins or loses, trouble still comes around.",MALE
+STEVE ROGERS,The rules have changed.,MALE
+TONY STARK,We're dealing with something new.,MALE
+STEVE ROGERS,"Well, the Vision's artificial intelligence.",MALE
+TONY STARK,A machine.,MALE
+STEVE ROGERS,So it doesn't count.,MALE
+TONY STARK,No. It's not like a person lifting the hammer.,MALE
+STEVE ROGERS,Right. Different rules for us.,MALE
+TONY STARK,"Nice guy, but artificial.",MALE
+STEVE ROGERS,Thank you.,MALE
+THOR,"If he can wield the hammer, he can keep the Mind Stone. It's safe with the Vision and these days, safe is in short supply.",MALE
+STEVE ROGERS,But if you put the hammer in an elevator...,MALE
+TONY STARK,It would still go up.,MALE
+STEVE ROGERS,Elevator's not worthy.,MALE
+THOR,I'm going to miss these little talks of ours.,MALE
+TONY STARK,"Well, not if you don't leave.",MALE
+THOR,I have no choice. The Mind Stone is the fourth of the Infinity Stones to show up in the last few years. That's not a coincidence. Someone has been playing an intricate game and has made pawns of us. But once all these pieces are in position...,MALE
+TONY STARK,Triple Yahtzee?,MALE
+STEVE ROGERS,You think you can find out what's coming?,MALE
+THOR,"I do. Besides this one, there's nothing that can't be explained.",MALE
+TONY STARK,That man has no regard for lawn maintenance. I'm gonna miss him though. And you're gonna miss me. There's gonna be a lot of manful tears.,MALE
+STEVE ROGERS,"I will miss you, Tony.",MALE
+TONY STARK,"Yeah? Well, it's time for me to tap out. Maybe I should take a page out of Barton's book and build Pepper a farm, hope nobody blows it up.",MALE
+STEVE ROGERS,The simple life.,MALE
+TONY STARK,You'll get there one day.,MALE
+STEVE ROGERS,"I don't know, family, stability. The guy who wanted all that went in the ice seventy-five years ago. I think someone else came out.",MALE
+TONY STARK,You alright?,MALE
+STEVE ROGERS,"I'm home.  You want to keep staring at the wall, or do you want to go to work? I mean, it's a pretty interesting wall.",MALE
+NATASHA ROMANOFF,I thought you and Tony were still gazing into each other's eyes. How do we look?,FEMALE
+STEVE ROGERS,"Well, we're not the '27 Yankees.",MALE
+NATASHA ROMANOFF,We've got some hitters.,FEMALE
+STEVE ROGERS,They're good. They're not a team.,MALE
+NATASHA ROMANOFF,Let's beat 'em into shape.,FEMALE
+STEVE ROGERS,Avengers...!,MALE
+THANOS,"Fine, I'll do it myself.",MALE
