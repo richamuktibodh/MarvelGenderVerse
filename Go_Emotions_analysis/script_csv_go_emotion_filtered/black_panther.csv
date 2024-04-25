@@ -1,0 +1,835 @@
+character,line,gender,happy,sad,disgusted,angry,fearful,neutral,surprised
+SON,Baba?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"Yes, my son?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SON,Tell me a story.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,Which one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SON,The story of home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"Millions of years ago, a meteorite made of vibranium, the strongest substance in the universe struck the continent of Africa affecting the plant life around it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"And when the time of man came, five tribes settled on it and called it Wakanda. The tribes lived in constant war with each other until a warrior shaman received a vision from the Panther goddess Bast who led him to the Heart Shaped Herb, a plant that granted him super human strength, speed, and instincts.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"The warrior became King and the first Black Panther, the protector of Wakanda.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"Four tribes agreed to live under the King's rule, but the Jabari tribe isolated themselves in the mountains.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"The Wakandans used vibranium to develop technology more advanced than any other nation, but as Wakanda thrived the world around it descended further into chaos.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,"To keep vibranium safe, the Wakandans vowed to hide in plain sight, keeping the truth of their power from the outside world.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SON,And we still hide Baba?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FATHER,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SON,Why?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,"Hey look, if we get in and out quick won't be any worries. You in the van come in through from the west, come around the corner, land right here. Me and the twins pulling up right here, we leavin' this car behind, ok? We coming...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,Hide the straps.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES,Is it the Feds?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES,It's two Grace Jones looking chicks... they're holding spears...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,Open it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES,You serious?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,They won't knock again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DORA MILAJE,Who are you?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,"Prince N'Jobu, son of Azzuri.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DORA MILAJE,Prove to me you are one of us.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,My King...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Leave us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,"This is James. I trust him with my life. He stays, with your permission, King T'Chaka.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,As you wish. At ease…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Come baby brother.  Let me see how you're holding up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You look strong.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,Glory to Bast. I am in good health. How is home?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Not so good, baby brother. There has been an attack.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"This man, Ulysses Klaue, stole a quarter ton of vibraniurn from us and triggered a bomb at the border to escape. Many lives were lost. He knew where we hid the vibranium, and how to strike.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He had someone on the inside.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,Why are you here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Because I want you look me in the eyes and tell me why you betrayed Wakanda.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,I did no such thing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Tell him who you are.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES,"Zuri, Son of Badu.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,"James, James you lied to me? I invite you into my home and you were Wakandan this whole time?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES,You betrayed Wakanda!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,How could you lie to me like -,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Stand down. Did you think that you were the only spy we sent here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Prince N'Jobu, you will return home at once, where you will face the council and inform them of your crimes.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BBC ANCHOR,"The tiny nation of Wakanda is mourning the death of its monarch, King T'Chaka. The beloved ruler was one of many confirmed dead after a terrorist attack at the United Nations a week ago. The Suspect has since been apprehended.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BBC ANCHOR,"Though it remains one of the poorest countries in the world, fortified by mountain ranges and an impenetrable rain forest, Wakanda does not engage in international trade or accept aid. The succession of the throne is expected to fall to the oldest of the King's two children, Prince T'Challa.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"My Prince, coming up on them now.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"No need, Okoye. I can handle this alone.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I will get Nakia out as quickly as possible.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Just don't freeze when you see her.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,What are you talking about? I never freeze.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MILITANT LEADER,Defense position!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CARGO TRUCK MILITANT,No games.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MILITANT LEADER,What do you see?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MILITANT LEADER,Come in! Come in!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,This one is just a boy... he got kidnapped as well.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Nakia... I... I wanted to...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NIGERIAN MILITANT,Hey!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NIGERIAN MILITANT,"I have her! Don't move, I will shoot! I will shoot her right now!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,You froze.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Why are you here? Eesh, you ruined my mission!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"My father is dead, Nakia.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I will be crowned King tomorrow, and I wish for you to be there.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Carry yourselves home now, and take the boy. Get him to his people.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NIGERIAN WOMAN,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,You will speak nothing of this day.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Sister Nakia... My Prince. We are home.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,This never gets old.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Queen Mother... Princess. My comfort for your loss.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"Thank you, Nakia. It is so good to have you back with us.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Take her to the River Province to prepare her for the ceremony.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AYO,"Yes, general.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Did he freeze?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Like an antelope in headlights.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Are you finished?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,So surprised my little sister came to see me off before our big day.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"You wish. I'm here for the EMP beads, I've developed an update.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Update? No, it worked perfectly.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"How many times to I have to teach you, just because something works, doesn't mean that it cannot be improved.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You are teaching me, what do you know?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I cannot wait to see what kind of update you make to your ceremonial outfit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Shuri!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Sorry mother.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"How are you feeling today, mama?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"Proud... your father and I would talk about this day all the time. He is with us, and it is your time to be King.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,Good morning! How can I help you?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I was just checking out these artifacts. They tell me you're the expert.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,You could say that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,They're beautiful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Where's this one from?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,"From the Bobo Ashanti Tribe, present day Ghana. 19th Century.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,For real? What about this one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,That one's from the Edo people of Benin. 16th Century.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Now, tell me about this one.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,Also from Benin. 7th Century. Fula tribe I believe.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Nah.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,I beg your pardon?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"It was taken by British soldiers in Benin but it's from Wakanda and it's made out of vibranium. Don't trip, I'mma take it off your hands for you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,These items aren't for sale.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,How do you think your ancestors got these? You think they paid a fair price? Or did they take it like they took everything else.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MUSEUM DIRECTOR,"Sir, I'm going to have to ask you to leave.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"You got all this security watching me ever since I walked in. But, you ain't checking for what you put in your body.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SECURITY GUARD,"Alright, mate. Let's have it. Come on, mate.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I think she might not be feelin' too good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Hey! Hey somebody get some help! Come here! Call a doctor, please! Hey please, somebody come help!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SECURITY GUARD,Medical Emergency right away in the West African Exhibit please. Right away!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LINDA,I'm gonna take a break.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Let's give the lady some space please.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LIMBANI,"Step back please, gents, step back please.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Hey come here. Come here! It's ok. You can go, but just don't tell anyone, alright? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Bro, why you 'aint just shoot him right here?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Because it's better to leave the crime scene more spread out... makes us look like amateurs.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Now... let's see if you know what you're talking about...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,That's just a taste.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Whoo… You're gonna be rich, boy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,You better sell that quick.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Oh it's already sold.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Whatever you try, the Wakandans'll probably show up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,That'll make my day. I can kill two birds with one stone.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"You're not telling me that's vibranium too, eh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Nah, I'm just feeling it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+"ELDERS, WARRIORS, DORA",Ngu T'Challa Lo.,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+CROWD,Ngu T'Challa Lo.,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"I, Zuri, Son of Badu, give to you, Prince T'Challa, the Black Panther!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,The Prince will now have the strength of the Black Panther stripped away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Damaku...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CROWD,Damaku...,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"Victory in ritual combat comes by yield or death. If any tribe wishes to put forth a warrior, I now offer a path to the throne.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MERCHANT TRIBE ELDER,The Merchant Tribe will NOT challenge today.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BORDER TRIBE ELDER,The Border tribe will NOT challenge today.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RIVER TRIBE ELDER,The River Tribe will NOT challenge today.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MINING TRIBE ELDER,The Mining Tribe will NOT challenge today.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Is there any member of royal blood who wishes to challenge for the throne?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,This corset is really uncomfortable. So could we all just wrap it up and go home?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Are they Jabari?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Yes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,M'Baku. What are you doing here?!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,It's challenge day.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"We have watched and listened from the mountains. We have watched with disgust, as your technological advancements have been overseen by a child who scoffs at tradition.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"And now... you want to hand the nation over to this prince...  Who could not even keep his own father safe. Hmm? We will not have it. I said we will not have it!  I, M'Baku, leader of the Jabari wish to",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I accept your challenge, M'Baku.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Glory to Hanuman.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Let the challenge begin!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"Where is your God, now?!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"No powers. No claws. No speciaL suit, oh! Just a boy, not fit to lead.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Show him who you are!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I AM PRINCE T'CHALLA SON OF King T'CHAKA!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You can do this T'Challa!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Yield! Don't make me kill you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,I would rather die!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,What would the proud Jabari do without you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You have fought with honor, now yield! Your people need you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Yield, man!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"I now present to you, King T'Challa the Black Panther!!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Zuri.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,My King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Wakanda forever!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Allow the Heart Shaped Herb to restore the powers of the Black Panther and take you to the Ancestral Plane.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"T'Chaka, we call on you. Corne here to your son.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Darnaku.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Baba!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,My son.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I am sorry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Stand up! You are a King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,What is wrong my son?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I am not ready, Baba.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Have you not prepared to be King your whole life? Have you not trained and studied, been by my side?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,That is not what I am talking about. I am not ready to be without you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,A man who has not prepared his children for his own death has failed as a father.  Have I ever failed you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Never.  Tell me how to best protect Wakanda. I want to be a great King, Baba. Just like you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You're going to struggle. So you need to surround yourself with people you trust. You're a good man with a good heart. And it's hard for a good man to be King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"Breathe, T'Challa. Breathe!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He was there! He was there. My father.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Corne home, Nakia.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I'm right here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Stay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"I came to support you, and to honor your father. But I can't stay. It's just... I found my calling out there. I've seen too many in need just to turn a blind eye. I can't be happy here knowing that there's people out there who have nothing.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,What would you have Wakanda do about it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Share what we have. We could provide aid and access to technology and refuge to those who need it... other countries do it, we do it better.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"We are not like these other countries, Nakia. If the world found out what we truly are, and what we possess -- we could lose our way of life.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Wakanda is strong enough to help others and protect ourselves at the same time.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,If you were not so stubborn you would make such a great queen.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I would make a great queen because I am so stubborn.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Ah! So you admit it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,… if that's what I wanted!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Is that him? Glory to Bast, man, is he still growing?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Of course.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,I see Nakia is back... you guys going to work it out?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"T'Challa, what's wrong?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Nakia thinks we should be doing more.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,More like what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Foreign aid... refugee programs.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"You let refugees in, they bring their problems with them. And then Wakanda is like everywhere else.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Now, if you said you wanted me and my men to go out there and clean up the world, then I'd be all for it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,But waging war on other countries has never been our way.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You too, huh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Bast, are we in trouble?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,My King. My love. You will never guess who just popped up on our radar.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,A misidentified Wakandan artifact was stolen yesterday from a British museum. We have learned Ulysses Klaue plans to sell the vibraniurn to an American buyer in South Korea tomorrow night.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Klaue has escaped our pursuits for almost 30 years. Not capturing him was perhaps my father's greatest regret. I wish to bring Klaue back here to stand trial.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MERCHANT TRIBE ELDER,Wakanda does not need a warrior right now. We need a King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"My parents were killed when he attacked. Not a day goes by when I do not think about what Klaue took from us, from me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,It's too great an opportunity to pass.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Take me with you. We'll take him down together side by side, eh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I need you here protecting the border.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Then I ask, you kill him where he stands, or you bring him back to us.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You have my word I will bring him back.  We will proceed with the mission.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"My, King.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Stop it. Stop it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,I've already sent a car ahead to Busan for you.  Who are you taking with you to Korea?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Okoye. And Nakia as well.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You sure it's a good idea to take your ex on a mission?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Yes. We'll be fine.  Besides, you will be on call, should we need backup.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"I have great things to show you, brother. Here are your communication devices for Korea. Unlimited range, also equipped with audio surveillance system.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Check these out. Remote access Kimoyo beads. Updated to interface directly with my sand table.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,And what are these?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,The real question is what are those? Why do you have your toes out in my lab?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"What, you don't like my royal sandals? I wanted to go old school for my first day.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Yea I bet the elders loved that. Try them on.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Fully automated, like the old American movie Baba used to watch. And I made them completely sound absorbent.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Interesting…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Guess what I call them.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Sneakers...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Because you... never mind.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,If you're going to take on Klaue you'll need the best the Design Group has to offer.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Exhibit A. Old tech.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Old...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Functional, but old. Eh, people are shooting at me... wait let me put on my helmet...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Enough...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Now look at these.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Do you like that one?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Tempting. But the idea is to not be noticed. This one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Now tell it to go on.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Oooh!! The entire suit sits within the teeth of the necklace. Strike it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Anywhere?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Mhm.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Not that hard, genius!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You told me to strike it, you didn't say how hard.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"I invite you to my lab, and you just kick things around.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Well maybe you should make it a little stronger, eh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Wait a minute.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,The nanites absorb the kinetic energy and hold it in place for redistribution.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Very nice.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Now strike it again, in the same spot.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You are recording?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,For research purposes...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Delete that footage...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,This way.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"Bast willing this goes quickly, and I can get this ridiculous thing off my head.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,It looks nice. Just whip it back and forth.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,What? It's a disgrace.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Hello Sophia, good to see you.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ELDERLY WOMAN,Who are these two?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,My friends from Kenya. Very deep pockets. They're good.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ELDERLY WOMAN,"Good for trouble, like you?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Spread out. The buyer is likely already here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,The woman outside -- what trouble was she referring to?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Ah, I got into a disagreement with some ivory traders. Made a bit of a mess.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"And will there be any trouble tonight, Ms. Kenyan heiress?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Depends on how quickly we finish the mission...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Can we please focus.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Over here. One whiskey, please.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Eyes up. Americans. I count... three.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"Five. How could you miss ""Greased Lightning"" there behind you.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Six. Just spotted an old friend who works for the CIA. It just got a little more complicated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Agent Ross.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Your highness.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You are buying from Klaue...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"What I'm doing or not doing on behalf of the US government is of none of your concern. Now, whatever the hell you're up to, do me a favor and stay out of my way.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I gave you Zemo.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,And didn't I kept it under wraps that the King of a third world country runs around in a bulletproof cat suit. I'd say we were even.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"You really need to leave, now.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Klaue is leaving out that door with me. You've been warned.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Hey, you won.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STAN LEE,"You know what, I think I'll just take these, bring 'em over here and hold on for safe keeping.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Ok heads up, the King of Wakanda is here. He cannot leave with Klaue.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Alright, vibranium from the attack on Sokovia links back to a person that I'm not actually saying I'm here to make a deal with but that deal will not be called off. When the dust settles you and I can work something out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I am not here to make a deal.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Klaue plus 8!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,General.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,In position to secure our exit.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,And the vibranium.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I don't see it yet.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,I thought there were no weapons allowed in here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,There's not supposed to be.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Someone did not get the memo. Definitely armed.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Well that is quite the entourage. You got a mixtape coming out?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Yeah! Yeah, actually there is one.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Yea I'll send you the soundcloud link if you like.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Aye, Dave. Get him the link to the tape.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Please don't make me listen to your music. I just meant, you got a lot of people with you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Oh, you think they're for you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Don't worry. I can do a deal with you all by myself, thank you very much.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Six more, it's a set up.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,You got the diamonds?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Ok, that's enough.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,We need to move on Klaue.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Stand down. We can't afford a shoot- out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,The vibranium?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"I was going to buy a fancy suitcase, but I thought I'd save myself some money.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,It's now or never.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,STAND DOWN!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOUTH AFRICAN TOUGH,Hey.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOUTH AFRICAN TOUGH,Hey!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,I've been made.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Get the diamonds, quick!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Murderer!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"You know, you look just like your old man.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,I made it rain!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"That was awesome! That was awesome! Let's go! Go, go, come on!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Do we just leave him?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,He'll catch up.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Shuri!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Remote driving system activated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Yes yes yes! Wait... Which side of the road is it?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,For Bast sake just drive!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Okay okay, calm down brother!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Wool Let's go!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Put some music on! What do you think this is a funeral?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Which one is he in now?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Hey, split up!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,They're trying to lose us.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,We'll take the right.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,We'll take the other two! I see a short cut.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,We're not going to make it!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Keep going!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Woo! Brother!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Hey, what was that!?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Don't worry about it. You're doing great.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Guns. So primitive.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,It's a vibranium car you idiots!! Bullets won't penetrate!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,What are you doing?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Just drive.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Eesh.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Woo!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Oh shoot.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Hey, look at your suit! You' ve been taking bullets charging it up with kinetic energy!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Pull around the truck.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DRIVER,Where'd he go!?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You show off.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,There he is! Hold tight!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Right, let's have some fun.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Hop in. Put that spear in the trunk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Faster, Shuri.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,I'm going as fast as I can!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Take a right, take a right!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,No no no no no no no!!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Brother!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Klaue!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Did you think we would forget!?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Look at me murderer! Where did you get this weapon?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,You savages didn't deserve it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Oh, mercy! King, mercy!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Every breath you take is mercy from me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,King!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,The world watches.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Come on guys, let's go huh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Hello! I can see you! I can, I can see you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"So, this is a big mess, huh? I figured we can go good cop bad cop. I'll talk to him first, then you guys go in --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,We can't let him talk to Klaue alone.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Better to let him talk to Klaue alone for 5 minutes than to make a scene here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"After your questioning, we will to take him back to Wakanda with us.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"What? No. Look I like you, a lot. But he's in my custody now. He's not going anywhere. Listen, I 'm doing you a favor by letting you even be in here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"If he touches you again, I am going to impale him to this desk.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Does she speak English?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,When she wants to.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"I'm going in. And when I'm done, you guys are up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,--Agent Ross.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Yea.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I do appreciate your help in Busan.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,You see that? It's called diplomacy. You're welcome.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Okoye! Play nice.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"Eh, Americans...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"You know, you really shouldn't trust the Wakandans. I'm much more your speed.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"I don't trust anybody, not in this job. But what I am interested in is that arm cannon out there. Where'd you get that?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,It's an old mining tool that I made some adjustments to. But I can get you one if you'd like.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Why don't you give me the name of your supplier and I'll ask them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"He's right outside, why don't you ask him yourself?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,T'Challa? You're telling me that weapon on your arm is from Wakanda?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Bingo.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,What do you actually know about Wakanda?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Shepherds. Textiles. Cool outfits.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"It's all a front. Explorers searched for it for centuries. El Dorado: The Golden City. They thought they could find it in South America, but it was in Africa the whole time. A technological marvel. All because it was built on a mound of the most valuable metal known to man- Isipho- they call it. The gift. Vibranium...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Vibranium yea. Strongest metal on Earth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"It's not just a metal... They sew it into their clothes, it powers their city, their tech, their weapons...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Weapons?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,Oh yes. Makes my arm cannon look like a leaf blower.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,That's a nice fairy tale but Wakanda is a third world country and you stole all their vibranium.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,I stole all of it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,All of it? I took a tiny piece of it. They have a mountain full of it. They've been mining it for thousands of years and still haven't scratched the surface.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"I'm the only outsider who's seen it, and got out of there alive.  If you don't believe me you ask your friend what his suit is made of... what his claws are made of...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Your father told the UN that Klaue stole all the vibraniurn you had. But now he's telling me you have more?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"And you believe the word of an arms dealer, strapped to a chair.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Where is that?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CIA AGENT,Back there.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,How much more are you hiding?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Something's happening out back.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,I see you took your time didn't you!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,My King!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,My King... Nakia.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,He just jumped in front of me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"I don't think he'll make it here, it hit his spine.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Give me a Kimoyo bead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,This will stabilize him for now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Give him to us. We can save him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Our missions was to bring back Klaue. We failed. This man is a foreign intelligence operative. How do we justify bringing him into our borders?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,He took a bullet for me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,That was his choice.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,So now we are just supposed to let him die?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"Let us consider that we heal him. It is his duty to report back to his country. And as King, it is your duty to protect ours.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I am well aware of my duties, General. I cannot just let him die knowing we can save him.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Where exactly are we taking him?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Great, another broken white boy for us to fix. This is going to be fun.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,He will live.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,W'Kabi is here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"What's going on, brother? Where is Klaue?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He's not here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He slipped through our hands.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Slipped? For 30 years your father was in power and did nothing. With you I thought it would be different. But it's more of the same.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LIMBANI,"Let's get going, boss.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,You always sell to the CIA?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"I sell to the highest bidder. Don' t you worry when I get back to Jo- burg and lay low for a bit, I ' ll make sure both you guys get paid.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Oh I ain't worried about the money, bro. I know you're good for it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"On our way back, just drop us off in Wakanda.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"You don't wanna go there, boy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Yea I do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"Drop it, or your little Bonnie and Clyde routine ends today. Put your gun down now!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LINDA,"I'm sorry. I'm sorry, Erik.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,It's gonna be ok.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,... Y-You really wanna go to Wakanda? They're savages.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,This is what they do to people like us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I ain't worried about no brand. Check these out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Each one is for a kill.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,"You can scar yourself as much as you like. To them, you'll just be an outsider. You're crazy to think that you could walk in there.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE,And to think I saw you as some crazy American.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Leave us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,So your mission did not go as planned.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,What happened to my Uncle N'Jobu? My father told me he disappeared... there was a man today wearing a ring identical to this one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,That is not possible.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He helped Klaue escape from us and he was wearing this ring. My grandfather ' s ring. Do not tell me what is possible tell me the truth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"Some truths are too much to bear, T'Challa.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,That is not your choice to make. What happened to him?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,I promised the King to say nothing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I am your King now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Your uncle took a War Dog assignment in America. Your father placed me there to observe unbeknownst to him. Your uncle fell in love with an American woman. They had a child. The hardships he saw there radicalized your uncle.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,"I observed for as long as I could! Their leaders have been assassinated, communities flooded with drugs and weapons, they are overly policed and incarcerated. All over the planet our people suffer because they don't have the tools to fight back. With vibranium weapons they could overthrow every country and Wakanda could rule them all, the right way...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,"He knew your father would not support this, so your uncle betrayed us.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,No...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,He helped Klaue steal the vibranium.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,No no no no no no...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You will return home at once, where you will face the council and inform them of your crimes.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,He drew his weapon on me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Your father killed his own brother...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,To save my life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Speak nothing of this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,And the child...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,We left him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,We had to maintain the lie.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,What is this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Just a 'lil gift.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Alright, where am I?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Don't scare me like that, colonizer.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Colon-who? My name is Everett.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Yes, I know. Everett Ross former airforce pilot and now, CIA.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Ok, is this Wakanda?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"No, it's Kansas.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,...How long ago was Korea?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Yesterday.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,I don't think so. Bullet wounds don't just magically heal overnight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"They do here. But not by magic, by technology.  Don't touch anything. My brother will return soon.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"These train things... that's magnetic levitation, right?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Obviously.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Obviously... but I've never seen it this efficient. The light panels, what are they?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Sonic stabilizers.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Sonic what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"In it's raw form, vibranium is too dangerous to be transported at that speed, so I developed a way to temporarily deactivate it.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,There's vibranium on those trains?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,There is vibranium all around us. That's how I healed you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Where is T'Challa? His Kimoyo beads have been switched off.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Well we are not joined at the hip, Okoye.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,A man showed up at the border who claims to have killed Klaue.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,What?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,W'Kabi is transporting him as we speak to the palace. We need to find your brother.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,An outsider?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"No, a Wakandan.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,He's not a Wakandan. He's one of ours.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He killed his own brother... and left a child behind with nothing. What kind of King ... what kind of man does that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,No man is perfect. Not even your father.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"He didn't even give him a proper burial... My Uncle N'Jobu betrayed us, but my father may have created something even worse.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Hey. Look at me. You can't let your father's mistakes define who you are. You get to decide what kind of King you are going to be.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Brother, you need to get here now.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Eric Stevens. Graduated Annapolis age 19. MIT for grad school. Joined the SEALs and went to Afghanistan where he racked up confirmed kills like it was a video game. They started calling him Killmonger. He joined a JSOC ghost unit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Now these guys are serious. They will drop off the grid so they can commit assassinations and take down governments.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Did he reveal anything about his identity?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,He has a War Dog tattoo but we have no record of him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RIVER TRIBE ELDER,Is this man Wakandan or not?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MINING TRIBE ELDER,Tell us what is going on.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Speak.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Speak.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I'm standing in your house. Serving justice to a man who stole your vibranium and murdered your people. Justice your King couldn't deliver.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I don't care that you brought Klaue, the only reason I don't kill you where you stand is because I know who you are... now what do you want?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I want the throne.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MINING TRIBE ELDER,My goodness.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Y'all sittin' up here comfortable. Must feel good. There's about billion people all over the world that looks like us but their lives are a lot harder, Wakanda has the tools to liberate them all.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,And what tools are those?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Vibranium. Your weapons.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Our weapons will not be used to wage war on the world. It is not our way to be judge jury and executioner for people who are not our own.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Not your own? But didn't life start here, on this continent? So ain't all people your people?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I am not King of all people. I am King of Wakanda. And it is my responsibility to make sure our people are safe and that vibranium does not fall into the hands of a person like you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"Son, we have entertained this charlatan for too long. Reject his request.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Oh, I ain't requesting nothing! Ask who I am?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You are Eric Stevens. An American black operative. A mercenary nicknamed Killmonger. That's who you are.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"That's not my name, Princess. Ask me, King?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Ask me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Take him away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RIVER TRIBE ELDER,Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"I am N'Jadaka, son of Prince N'Jobu.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MINING TRIBE ELDER,The son of N'Jobu?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I found my daddy with Panther claws in his chest. You ain't the son of a King you're the son of a murderer!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,You're lying!  Lies.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,I'm afraid not Queen Mother.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MINING TRIBE ELDER,The descendant of N'Jobu.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Hey Auntie.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I'm exercising my blood right to challenge for the mantles of King and Black Panther. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Do not do this T'Challa.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BORDER TRIBE ELDER,As the son of N'Jobu he is within his rights.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,He has no rights here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RIVER TRIBE ELDER,The challenge would take weeks to prepare.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Weeks? I don't need weeks. The whole country ain't gotta be there I just need him... and somebody to get me out of these chains.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"T'Challa, what do you know of this?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I accept your challenge.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,He will never beat T' Challa. He should have just come to the first challenge and gotten it over with.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,The King will now have the strength of the Black Panther stripped away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Where is Agent Ross?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I locked him in the office. He's not going anywhere.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"This is your last chance, throw down your weapons and we can handle this another way.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"I lived my entire life waiting for this moment. I trained, I lied, I killed, just to get here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"I killed in America, Afghanistan, Iraq. I took life from my own brothers and sisters right here on the continent. And all this death, just so I can kill you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,Let the challenge begin.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Yield!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Snap out of it T'Challa!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Get up.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,This is for my father.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Zuri, no.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Zuri.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Zuri don't!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZURI,I am the cause of your father's death. Not him. Take me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"I'll take you both, Uncle James...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Nol Zuri no! Zuri!! Noo!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Is this your King? Huh?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Is this your King? The Black Panther, who's supposed to lead you into the future.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Come on brother!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AYO,Is there nothing that can be done?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Him? He's supposed to protect you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,No.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,No!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Nah. I'm your King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"We have to go now! Queen mother, let's go!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,The Queen Mother and Shuri... they are safe?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Yes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,We should get to them immediately.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,I cannot...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,What...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Though my heart is with you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,We cannot turn over our nation to a man who showed up here only hours ago.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,He is of royal blood.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,He killed T' Challa.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,In ritual combat.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Does that really matter?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,You are the greatest warrior Wakanda has. Help me overthrow him before he becomes too strong.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"Overthrow?! Nakia, I am not a spy who can come and go as they so choose. I am loyal to the throne, no matter who sits upon it. What are you loyal to?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I loved him. I love my country too.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Then you serve your country.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,No. I save my country.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,What's wrong?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"The King is dead. Come with me, unless you want to join him.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"First Baba, and now my brother. Mama, we didn't even get to bury him.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,It's me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Nakia. Who is this man?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,He's a friend of T' Challa's he saved my life.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Where is Okoye?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Okoye is not corning. She and Dora Milaje will serve the new King.  Wait here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,What has happened to our Wakanda?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHAMAN,Allow the Heart Shaped Herb to give you the powers of the Black Panther and take you to the Ancestral Plane.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,What did I tell you about going into my things?  What did you find?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Your home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,I gave you a key hoping that you might see it someday.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,Yes. The sunsets there are the most beautiful in the world. But I fear you still may not be welcome.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Why?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,They will say you are lost.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"But, I'm right here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,No tears for me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Everybody dies. It's just life around here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,Well look at what I have done. I should have taken you back long ago.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+N'JOBU,"Instead, we are both abandoned here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Well maybe your home is the one that's lost. That's why they can't find us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHAMAN,"Breathe, my King. Breathe!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,The Heart Shaped Herb did that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,This is all of it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHAMAN,"Yes. So when it comes time for another King, we will be ready.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Another King... yea go ahead and burn all that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHAMAN,"My King, we cannot do that. It is our tradition --",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"When I tell you to do something, I mean that shit. Burn it all!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"You know, where I'm from, when black folks started revolutions, they never had the firepower or resources to fight their oppressors. Where was Wakanda? Hmm? Yea all that ends today. We got spies embedded in every nation on Earth. Already in place.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"I know how colonizers think. So we're gonna use their own strategy against them. We're gonna send vibranium weapons out to our War Dogs. They'll arm oppressed people all over the world, so they can finally rise up and kill those in power, and their children and anyone else who takes their side. It's time they know the truth about us. We're warriors. The world's gonna start over and this time we're on top.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,The sun will never set on the Wakandan Empire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Wakanda has survived for so long by fighting when only absolutely necessary.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Wakanda has survived in the past this way, yes. But the world is changing, General. Elders, it is getting smaller. The outside world is catching up and soon it will be the conquerors, or the conquered. I'd rather be the former.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,You heard your orders. Let's get to it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,So where are we going again?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,We're taking the Heart Shaped Herb to Jabariland.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Heart Shaped Herb, what is that?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,It gives whoever takes it heightened abilities.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,It's what made T'Challa so strong.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"Nakia. I don't like this. The Herb belongs to us. We may be creating a bigger monster with M'Baku.  Nakia, you should take it yourself.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I'm a spy with no army. I wouldn't stand a chance.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,We'll go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Stay calm.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,My son was murdered in ritual combat.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Were the odds fair?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Yes, but...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"So, it was less a murder than a defeat?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Do not rub our noses in it --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"Silence! I make the pronouncements here, girl.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Look uh, your highness, the new King is a --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,You cannot talk. One more word and I will feed you to my children.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,I'm kidding. We are vegetarians.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Great Gorilla M'Baku. This is why we are here. To offer this to you. An outsider sits on our throne. Only you can help us stop him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Come with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Impossible.  Is he breathing?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,"He is in a coma, barely clinging to life.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,One of our fishermen found him at the edge of the river border. He brought him to me. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Why do you have him in the snow?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,It is the only thing keeping him from joining the ancestors.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,We need to get him to my lab! I can heal him there.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Take him. He' ll be dead in seconds.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"Nakia, the Herb.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,I call upon the ancestors. I call upon Bast. I am here with my son T'Challa. Heal him. We must bury him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,Praise the ancestors.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Praise the ancestors.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Praise the ancestors.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Praise the ancestors.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,"Wake up, T'Challa. Wake up.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,My son.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,The time has come for you to come home and be reunited with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Why?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Why didn't you bring the boy home?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Why, Baba?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He... he was the truth I chose to omit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You were wrong to abandon him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,I chose my people. I chose Wakanda. Our future depended on --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You were wrong! All of you were wrong! To turn your backs on the rest of the world. We let the fear of our discovery stop us from doing what is right. No more! I cannot stay here with you. I cannot rest while he sits on the throne. He is a monster of our own making. I must take the mantle back, I must. I must right these wrongs.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Do you have a blanket?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Killmonger has the full support of our military. And he burned the garden of the Heart Shaped Herb.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Of course he did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,That's what he was trained to do. His unit used to work with the CIA to destabilize foreign countries.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"They would always strike at transitions of power... like an election year or the death of a monarch. You get control of government, the military",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Our resources. The Great Mound.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Our vibranium. All of my designs.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,He will send our weapons all over the world.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You must get them out of Wakanda safely.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,What?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,What about you?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,The challenge will have to continue.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMONDA,"T' Challa, we will not leave Wakanda.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,It is my duty to keep you safe.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"If he gets control of our technology, no where will be safe.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,The Black Panther lives. And when he fights for the fate of Wakanda I will be right there beside him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,As will I.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,I'm in too.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,What? You're gonna need all the help you can get.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Are you done? Are you - are you done?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Could you give me and Lord M' Baku a moment?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,I owed you a great debt. A life for a life. Consider it paid.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Please allow my mother to stay here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,No harm will come to her I give you my word.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You know I could use an army as well.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,I bet you could. But no. I will give no Jabari lives towards your cause.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,It is our cause. It is for all of us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Us? You are the first King to come here in centuries. And now you speak of us?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I cannot speak for past Kings. But an enemy sits on the throne right now. We both know the power of vibraniurn. If Killmonger gets control of it, who do you think he will come for next?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,We will not help you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Everything is on schedule.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Have the spies been alerted?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Yes. Some have been resistant to our new mission. But the War Dogs in London, New York and Hong Kong are standing by.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,We'll strike there first. The others will come around.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Look at this. A handheld sonic cannon powerful enough to stop a tank. Untraceable by metal detectors, and we got thousands of 'em. The world's gonna find out exactly who we are.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,He lives...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,N'Jadakalll!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Wassup?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"I never yielded, and as you can see, I am not dead.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,All that challenge shit is over with. I'm the King now.  Get those planes in the air! Carry out the mission!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"Shuri, now!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Copy that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Go! Go go go go go! Come on, Ross!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"W'Kabi, kill this clown.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,"W'Kabi, the challenge is not complete.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BORDER TRIBE ELDER,What will we do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Border Tribe!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BORDER TRIBE ELDER,Ay! Ay!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Phambili!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,You! Your heart is so full of hatred you are not fit to be a King.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Ayo. The King.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,W'Kabi stop this! Stop this now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,NOO!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Nakia and I will get control of the Royal Talon with this.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Ok, so what do I do?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You will have to fly it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"You were a great pilot. Don't worry, I'll guide you through it. It's just like riding a hoverbike.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,You guys have hoverbikes?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Nakia, take that.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I'm not a Dora.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Just put it on, it's armor!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Good luck, Agent Ross!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Yea I don ' t know what I'm doing --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,We're counting on you!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DORA MILAJE,Wakanda Forever.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Remote piloting system activated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,I made it American style for you! Get in!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI/NAKIA,Yes!!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Go! We can't let those weapons get beyond Wakanda.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Alright, I'm on it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Lock! Get him down!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Get the necklace!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Wakanda Forever!!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Ok Shuri, I got 'em what do I do?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Shoot them down genius!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Alright...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Here goes nothing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Alright, I got 'em.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Oh shit shit shit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Shuri!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"What's up, Princess?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You' ll never be a true King.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Brother!!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Shuri!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Brother!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Turn on the train on the bottom track!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,But the stabilizers will deactivate your suit... you won't have protection!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Neither will he.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Okay!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,I don't need a suit to kill you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Your reign is over. You sat up here safe and protected.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You want to see us become just like the people you hate so much? Divide and conquer the land as they did?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,No I learn from my enemies -- beat them at their own game.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"You have become them. You will destroy the world, Wakanda included.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,The world took away everything away from me! Everything I ever loved! But I'm gonna make sure we're even.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"I'm gonna track down anyone who would even think about being loyal to you, and I'm gonna put they ass in the dirt, right next to Zuri.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Nakia! Are you alright?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,I'm ok. You?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Yes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,Let's go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Shuri, I've lost one of them but two are on my tail.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,What the hell was that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,The lab is under attack.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,What? Where?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Deactivating hologram.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Ross! You have to get out of there now!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,How long have I got?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Glass integrity is at 50%,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Put me back in.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Ross! Ross?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,Surrender now! You have three seconds to lay down your weapons!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,One... two...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Witness the might of the Jabari firsthand!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Abya!!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Phambili!!!!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+M'BAKU,Abya!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Glass integrity is at 15%.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Critical weapons failure.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,"Shuri! The last cargo ship is almost at the border, but they've got me trapped with some kind of cables.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Make an X with your arms!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,Sonic overload initiated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Now break it!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,"System rebooting in 5, 4, 3, 2...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRIOT,l... system rebooted!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROSS,Yes! We did it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Great! Now get out of there!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,Drop your weapon.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+W'KABI,"Would you kill me, my love?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OKOYE,For Wakanda?  Without question.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"This is it for you, cousin.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,Hell of a move.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,My pops said Wakanda was the most beautiful thing he'd ever seen. He promised he was going to show it to me some day. Can you believe that? Kid from Oakland running around believing in fairy tales.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,It's beautiful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Maybe we can still heal you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KILLMONGER,"Why? So you can just lock me up? Nah. Just bury me in the ocean, with my ancestors that jumped from the ships... 'cause they knew death was better than bondage.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Thank you. You saved me. You saved my family. Our nation.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NAKIA,There is nothing to thank me for. It is our duty to... it was my duty to fight for what I love. I should have --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,You can't blame me I almost died.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Stay. I think I know a way you can still fulfill your calling. Please stay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"When you said you would take me to California for the first time, I thought you meant Coachella, or Disneyland. Why here?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,This is where our father killed our uncle.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,They are tearing it down. Good.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,They're not tearing it down... I bought this building.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"And that building, and that one over there... This will be the first Wakandan International Outreach Center.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,Nakia will oversee the social outreach... And you will spearhead the science and information exchange.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You're kidding!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,What?! Man what the hell is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,That's like a Buggati space ship!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,"Woah, it came out of nowhere!!! Did y'all see that?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,What...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,We can take this back to the house y'all...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,We could pull up to school in this!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,"Hey look, we can break it apart and we can sell it!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,On Ebay!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,Everybody get like a million a piece.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Uhhh I wouldn't do that if I were you guys...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,Where you come from?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,From Wakanda.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,What is a Wakanda?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,Hey yo! Is this yours?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OAKLAND KID,Who... who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+T'CHALA,"My name is King T'Challa, son of King T'Chaka. I am the sovereign ruler of the Nation of Wakanda and for the first time in our history we will be sharing our knowledge and resources with the outside world. Wakanda will no longer watch from the shadows. We cannot, we must not. We will work to be an example of how we as brothers and sisters on this Earth should treat each other. Now more than ever, illusions of division threaten our very existence. We all know the truth: more connects us than separates us. In times of crisis, the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRENCH AMBASSADOR,"With all due respect, King T'Challa, what can a nation of farmers offer to the rest of the world?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Are you playing around with that man again?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WAKANDIAN CHILD,No. Nol,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,You're teasing him again?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WAKANDIAN CHILDREN,Emhlophe Ingcuka.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,"Good morning, Sgt. Barnes.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BUCKY,Bucky.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,How are you feeling?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BUCKY,Good. Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHURI,Come. Much more for you to learn.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised

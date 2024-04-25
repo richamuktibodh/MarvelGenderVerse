@@ -1,0 +1,689 @@
+character,line,gender,happy,sad,disgusted,angry,fearful,neutral,surprised
+SEARCH TEAM LEADER,Are you the guys from Washington?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD TECH,You get many other visitors out here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD LIEUTENANT,How long have you been on site?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SEARCH TEAM LEADER,Since this morning. A Russian oil team called it in about 18 hours ago.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD LIEUTENANT,How come nobody spotted it before?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SEARCH TEAM LEADER,It’s really not that surprising. This landscape’s changing all the time. You got any ideas what this thing is exactly?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD LIEUTENANT,I don’t know. It’s probably a weather balloon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SEARCH TEAM LEADER,I don’t think so. You know we don’t have the equipment for a job like this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD TECH,How long before we can start craning it out?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SEARCH TEAM LEADER,I don’t think you quite understand. You guys are gonna need one hell of a crane!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD LIEUTENANT,"Base, we’re in.  What is this?  Careful.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD TECH,Lieutenant! What is it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD LIEUTENANT,"My God!  Base, give me a line to the Colonel.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOICE FROM EARPIECE,"It’s 3 a.m., sir.",NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD LIEUTENANT,I don’t care what time it is. This one’s waited long enough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAN,They have come for it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,They have before.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAN,Not like this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,Let them come. They will never find it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HYDRA LIEUTENANT,"Open it! Quickly, before he…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,It has taken me a long time to find this place.  You should be commended.  Help him up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,I think that you are man of great vision. And in this way we are much alike.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,I am nothing like you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"No, of course. But what others see as superstition, you and I know to be a science.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,What you seek is just a legend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Then why make such an effort to conceal it?  The Tesseract was the jewel of Odin’s treasure room.  It’s not something one buries. But I think it is close, yes?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,I cannot help you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,No. But maybe you can help your village. You must have some friends out there. Some… some little grandchildren perhaps. I have no need for them to die.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Yggdrasil. Tree of the world. Guardian of wisdom and fate, also.  And the Führer digs for trinkets in the desert. You have never seen this, have you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,It’s not for the eyes of ordinary men.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Exactly.  Gove the order to open fire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HYDRA LIEUTENANT,Jawohl!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWER KEEPER,Fool! You cannot control the power you hold. You will burn!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,I already have.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,"O’Connel, Michael. Kaminsky, Henry.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Boy, a lot of guys getting killed over there.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,"Rogers, Steven.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ENLISTMENT GUY,"It kind of makes you think twice about enlisting, huh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Nope.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,Rogers. What did your father die of?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Mustard gas. He was in the hundred and seventh infantry. I was hoping I could be assigned…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,Your mother?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"She was a nurse in a TB ward. Got hit, couldn’t shake it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,"Sorry, son.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Look, just give me a chance.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,You’d be ineligible on your asthma alone.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is there anything you can do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+4F DOCTOR,I’m doing it. I’m saving your life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COMMERCIAL ANNOUNCER,"War continues to ravage Europe. But help is on the way. Every able-bodied young man is lining up to serve his country. Even little Timmy is doing his part collecting scrap metal. Nice work, Timmy!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOUD JERK,Who cares? Play the movie already!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Hey, you wanna show some respect?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COMMERCIAL ANNOUNCER,"Meanwhile, overseas, our brave boys are showing the Axis powers that the price freedom is never too high.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOUD JERK,"Let’s got! Get on with it! Hey, just start the cartoon!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Hey buddy, you wanna shut up?!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COMMERCIAL ANNOUNCER,"Together with Allied forces, we’ll face any threat, no matter the size.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOUD JERK,"You just don’t know when to give up, do you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I can do this all day.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Hey! Pick on someone your own size.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"Sometimes, I think you like getting punched.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I had him on the ropes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,How many times is this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"Oh, you’re from Paramus now? You know it’s illegal to lie on the enlistment form. And seriously, Jersey?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You get your orders?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,The one-o-seventh. Sergeant James Barnes. Shipping out for England first thing tomorrow.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I should be going.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"Come on, man. My last night! Gotta get you cleaned up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Why? Where are we going?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,The future.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"I don’t see what the problem is. You’re about to be the last eligible man in New York. You know, there’s three and a half million women here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, I’d settle for just one.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Good thing I took care of that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CONNIE,"Hey, Bucky!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What did you tell her about me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Only the good stuff.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+EXPO ANNOUNCER,Welcome to the Modern Marvels Paviliion and the World of Tomorrow. A greater world. A better world.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CONNIE,"Oh, my God! It’s starting!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MANDY,"Ladies and gentlemen, Mr. Howard Stark!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RANDOM WOMAN,"I love you, Howard!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Ladies and gentlemen, what if I told you that in just a few short years, your automobile won’t even have to touch the ground at all.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Yes. Thanks, Mandy.  With Stark robotic reversion technology, you’ll be able to do just that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Holy cow.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"I did say a few years, didn’t I?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"Hey, Steve, what do you say we treat these girls…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WOMAN,"Come on, soldier.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Come on. You’re kind of missing the point of a double date. We’re taking the girls dancing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You go ahead. I’ll catch up with you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,You’re really gonna do this again?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, it’s a fair. I’m gonna try my luck.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"As who? Steve from Ohio? They’ll catch you. Or worse, they’ll actually take you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Look, I know you don’t think I can do this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"This isn’t a back alley, Steve. It’s war!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I know it’s a war. You don’t have to tell me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Why are you so keen to fight? There are so many important jobs.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What am I gonna do? Collect scrap metal…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Yes!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,…in my little red wagon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Why not?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I’m not gonna sit in a factory, Bucky.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,I don’t…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Bucky, come on! There are men laying down their lives. I got no right to do any less than them. That’s what you don’t understand. This isn’t about me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Right. Cause you got nothing to prove.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CONNIE,"Hey, Sarge! Are we going dancing?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"Yes, we are.  Don’t do anything stupid until I get back.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,How can I? You’re taking all the stupid with you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,You’re a punk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Jerk. Be careful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Don’t win the war till I get there!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Come on girls. They’re playing our song.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+YOUNG DOCTOR,Wait here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is there a problem?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+YOUNG DOCTOR,Just wait here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Thank you.  So, you want to go overseas. Kill some Nazis.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Excuse me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Dr. Abraham Erskine.  I represent the Strategic Scientific Reserve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Steve Rogers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Where are you from?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Queens. 73rd Street and Utopia Parkway. Before that, Germany. This troubles you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Where are you from, Mr. Rogers? Mmm? Is it New Haven? Or Paramus? Five exams in five different cities.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,That might not be the right file.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"No, it’s not the exams I’m interested in. It’s the five tries. But you didn’t answer my question. Do you want to kill Nazis?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is this a test?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I don’t wanna kill anyone. I don’t like bullies. I don’t care where they’re from.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Well, there are already so many big men fighting this war. Maybe what we need now is the little guy, huh? I can offer you a chance.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Only a chance.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I’ll take it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Good. So where is the little guy from, actually?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Brooklyn.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Congratulations, soldier.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Are you ready, Dr. Zola?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,My machine requires the most delicate calibration. Forgive me if I seem overcautious.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,And are you certain that those conductors of yours can withstand the energy surge long enough for a transference?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"With this artifact, I am certain of nothing. I fear it may not work at all.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Twenty percent. Forty. Sixty. Stabilising at 70%.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"I have not come all this way for safety, Doctor.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,What is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"I must congratulate you, Arnim. Your designs do not disappoint. Though they may require some slight reinforcement.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"The exchange is stable. Amazing! The energy we have just collected could power my design, all my designs. This will change the war.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Dr. Zola, this will change the world.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OFFICER,"Ready, exercise!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Recruits, attention! Gentlemen, I’m Agent Carter. I supervise all operations for this division.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GILMORE HODGE,"What’s with the accent, Queen Victoria? Thought I was signing up for the U.S. Army.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"What’s your name, soldier?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GILMORE HODGE,"Gilmore Hodge, your Majesty.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Step forward, Hodge.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Put your right foot forward.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GILMORE HODGE,Mmm… We gonna wrassle? Cause I got a few moves I know you’ll like.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Agent Carter.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Colonel Phillips.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,I see you’re breaking in the candidates. That’s good!  Get your ass up out of that dirt and stand in that line at attention 'til somebody comes tells you what to do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GILMORE HODGE,"Yes, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,General Patton has said that wars are fought with weapons but they are won by men. We are going to win this war because we have the best men…  And because they’re gonna get better. Much better. The Strategic Scientific Reserve is an Allied effort made up of the best minds in the free world. Our goal is to create the best army in history. But every army starts with one man. At the end of this week we will choose that man. He will be the first in a new breed of super-soldiers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SERGEANT DUFFY,Rogers! Get that rifle out of the mud!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"And they, will personally escort Adolf Hitler to the gates of Hell.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SERGEANT DUFFY,"Pick up the pace, ladies! Let’s go! Double time! Come on! Faster! Faster! Move! Move!  Squad, halt! That flag means we’re only at the halfway point. First man to bring it to me gets a ride back with Agent Carter. Move, move!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOLDIERS,Come on! Get up there!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SERGEANT DUFFY,"If that’s all you got, this army’s in trouble! Get up there, Hodge! Come on! Get up there! Nobody’s got that flag in 17 years! Now fall back into line! Come on, fall in! Let’s go! Get back into formation! Rogers! I said fall in!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Thank you, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Faster, ladies! Come on. My grandmother has more life in her, God rest her soul. Move it!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"You’re not really thinking about picking Rogers, are you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,I am more than just thinking about it. He is the clear choice.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"When you brought a ninety-pound asthmatic onto my army base, I let it slide. I thought, what the hell? Maybe he’ll be useful to you, like a gerbil. I never thought you’d pick him.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Up.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,You stick a needle in that kids arm and it’s gonna go right through him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Come on, girls.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Look at that. He’s making me cry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,I am looking for qualities beyond the physical.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Do you know how long it took to set up this project?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Yeah, I know.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,All the groveling I had to do in front of Senator What’s-His-Name’s committees?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Brandt. Yes, I know. I am well aware of your efforts.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Then throw me a bone. Hodge passed every test we gave him. He’s big, he’s fast, he obeys orders. He’s a soldier.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,He’s a bully.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"You don’t win wars with niceness, doctor.  You win war with guts.  Grenade!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Get away! Get back!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OFFICER,It was a dummy grenade. All clear. Back in formation.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is this is a test?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,He’s still skinny.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,May I?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Yeah.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Can’t sleep?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I got the jitters, I guess.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Me, too.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Can I ask you a question?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Just one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Why me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"I suppose that is the only question that matters.  This is from Augsburg. My city. So many people forget that the first country that the Nazi’s invaded was their own. You know, after the last war the… my people struggled. They… they felt weak. They felt small. And then Hitler comes along with the marching and the big show and the flags and the… and the…  And he… he hears of me, my work and he finds me. And he says, ""You."" He says, ""You will make us strong."" Well, I am not interested. So he sends the head of HYDRA, his research division. A brilliant scientist by the name of Johann Schmidt. Now, Schmidt is a member of the inner circle and he’s ambitious. He and Hitler share a passion for occult power and Teutonic myth. Hitler uses his fantasies to inspire his followers. But for Schmidt, it is not fantasy. For him, it is real. He has become convinced that there is a great power hidden in the earth, left here by the Gods, waiting to be seized by a superior man. So when he hears about my formula and what it can do, he cannot resist.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Schmidt must become that superior man.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Did it make him stronger?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Yeah. But, there were other effects. The serum was not ready. But more important, the man. The serum amplifies everything that is inside. So, good becomes great. Bad becomes worse. This is why you were chosen. Because a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Thanks. I think.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Whatever happens tomorrow, you must promise me one thing. That you will stay who you are. Not a perfect soldier, but a good man.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,To the little guys.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,No! No! Wait! Wait! What I am doing? No! You have a procedure tomorrow. No fluids.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,All right. We’ll drink it after.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,No! I don’t have procedure tomorrow. Drink it after? Drink it now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Is there something in particular you need?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,I understand you found him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,See for yourself.  You disapprove.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,I just don’t see why you need concern yourself. I can’t imagine he will succeed.  Again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"His serum is the Allies’ only defence against this power we now possess. If we take it away from them, then our victory is assured.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Shall I give the order?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,It has been given.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Dr. Zola.  What do you think?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,A masterpiece.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I know this neighborhood. I got beat up in that alley. And that parking lot. And behind that diner.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Did you have something against running away?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You start running they’ll never let you stop. You stand up, push back. Can’t say no forever, right?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,I know a little of what that’s like. To have every door shut in your face.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I guess I just don’t why you’d wanna join the army if you’re a beautiful dame. Or a beautiful… a woman. An agent, not a dame! You are beautiful, but…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"You have no idea how to talk to a woman, do you?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,This is the longers conversation I’ve had with one. Women aren’t exactly lining up to dance with a guy they might step on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You must have danced?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, asking a woman to dance always seems so terrifying. And the past few years just didn’t seem to matter that much. Figured I’d wait.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,For what?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The right partner.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,This way.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What are we doing here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Follow me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ANTIQUE STORE OWNER,Wonderful weather this morning isn’t it?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Yes, but I always carry an umbrella.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Good morning.  Please, not now.  Are you ready?  Good. Take off your shirt, your tie and your hat.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Senator Brandt, glad you could make it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,Why exactly am I in Brooklyn?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"We needed access to the city’s power grid. Of course, if you’d given me the generators I requisitioned…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"A lot of people are asking for funds, Colonel.  Oh, this is…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEINZ KRUGER,"Fred Clemson, State Department.  If this project of yours comes through, we’d like to see it used for something other than headlines.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,Jesus. Somebody get that kid a sandwich.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Comfortable?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,It’s a little big. You save me any of that schnapps?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Not as much as I should have. Sorry. Next time. Mr. Stark, how are your levels?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,Levels at 100%.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"We may dim half the lights in Brooklyn, but we are ready as we’ll ever be.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Agent Carter? Don’t you think you would be more comfortable in the booth?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Oh, yes. Of course. Sorry.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Good.  Do you hear me? is this on?  Ladies and gentlemen, today we take not another step towards annihilation, but the first step on the path to peace. We begin with a series of micro injections into the subjects major muscle groups. The serum infusion will cause immediate cellular change. And then to stimulate growth, the subject will be saturated with Vita-Rays.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,That wasn’t so bad.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"That was penicillin.  Serum infusion beginning in five, four, three, two, one.  Now, Mr. Stark.   Steven, can you hear me?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"It’s probably too late to go to the bathroom, right?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,We will proceed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,That’s ten percent. Twenty percent. Thirty. That’s 40 %.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SSR DOCTOR,Vital signs are normal.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,That’s 50 %. Sixty. Seventy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Steven!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Shut it down.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Steven!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Shut it down!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Kill the reactor, Mr. Stark! Turn it off! Kill it! Kill the reactor!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,No! Don’t! I can do this!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,Eighty. Ninety. That’s 100 %.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Mr. Stark?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Steven. Steven.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,The son of a bitch did it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I did it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Yeah, yeah. I think we did it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,We actually did it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,How do you feel?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Taller.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You look taller.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"How do you like Brooklyn now, Senator?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"I can think of some folks in Berlin who are about to get very nervous. Congratulations, Doctor.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,"Thank you, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ABRAHAM ERSKINE,Stop him!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TAXI DRIVER,"What are you doing? Buddy, are you all right? Hey, this guy’s been shot!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Sorry!   I’m sorry.  Whoa, whoa, whoa!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MOTHER,No! No! Not my son!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+YOUNG BOY,Stop it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MOTHER,Don’t hurt him!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEINZ KRUGER,Get back!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+YOUNG BOY,Let me go!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MOTHER,Let go of my son! Don’t hurt him!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Wait, don’t! Don’t!  No! Don’t!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+YOUNG BOY,Go get him! I can swim!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Who the hell are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEINZ KRUGER,"The first of many. Cut off one head, two more shall take its place. Hail HYDRA!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HUTTER,"The Führer is not accustomed to being ignored, Herr Schmidt. He funds your research because you promised him weapons.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCHNEIDER,You serve at his pleasure. He gave you this facility as a reward for your injuries.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Reward? Call it what it is. Exile. I no longer reflect his image of Aryan perfection.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROEDER,You think this is about appearances? Your HYDRA division has failed to deliver so much as a rifle in over a year. And we had learned through local intelligence you had mounted a full-scale incursion into Norway.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCHNEIDER,"The Führer feels… How does he put it? ""The Red Skull has been indulged long enough!""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Gentlemen, you have come to see the results of our work. Let me show you.  Hitler speaks of a thousand-year Reich, but he cannot feed his army for a month. His troops spill their blood across every field in Europe. But still he is no closer to achieving his goals.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROEDER,And I suppose you still aim to end this war through magic?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Science. But I understand your confusion. Great power has always baffled primitive men. HYDRA is assembling an arsenal to destroy my enemies in one stroke. Where ever they are, regardless of how many forces they possess. All in a matter of hours.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROEDER,Your enemies?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"My weapons contain enough destructive power to decimate every hostile capital on earth. Quite simply, gentlemen, I have harnessed the power of the Gods.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCHNEIDER,"Thank you, Schmidt.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,For what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCHNEIDER,For making it clear how obviously mad you are.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HUTTER,Berlin is on this map!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,So it is.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HUTTER,You will be punished for your insolence! You will be brought before the Führer himself!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ROEDER,Schmidt!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"My apolpgies, Doctor, but we both knew HYDRA could grow no further in Hitler’s shadow. Hail HYDRA.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HYDRA TECHNICIANS,Hail HYDRA!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Hail HYDRA!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Think you got enough?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Any hope of reproducing a program is locked in your genetic code. But without Dr. Erskine, it could take years.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,He deserved more than this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"If it could only work once, he’d be proud it was you.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"Colonel Phillips, my committee is demanding answers.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Great. Why don’t we start with how a German spy got a ride to my secret installation in your car?  What have we got here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Speaking modestly, I’m the best mechanical engineer in this country. But I don’t know what’s inside this thing or how it works. We’re not even close to this technology.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,Then who is?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,HYDRA. I’m sure you’ve been reading our briefings.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"I’m on a number of committees, Colonel.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,HYDRA is the Nazi deep science division. It’s led by Johann Schmidt. But he has much bigger ambitions.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"HYDRA’s practically a cult. They worship Schmidt, they think he’s invincible.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,So what are you gonna do about it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Spoke to the president this morning. As of today the SSR is being retasked.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Colonel?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"We are taking the fight to HYDRA. Pack your bags Agent Carter. You too, Stark. You’re flying to London tonight.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Sir, if you’re going after Schmidt, I want in.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,You’re an experiment. You’re going to Alamogordo.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The serum worked.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,I asked for an army and all I got was you. You are not enough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"With all due respect to the Colonel, I think we may be missing the point. I’ve seen you in action, Steve. More importantly, the country’s seen it.  Paper. The enlistment lines have been around the block since your picture hit the newsstands. You don’t take a soldier, a symbol like that, and hide him in a lab. Son, do you want to serve your country on the most important battlefield of the war?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Sir, that’s all I want.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"Then, congratulations. You just got promoted.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I don’t know if I can do this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRANDT'S AIDE,"Nothing to it. Sell off a few bonds, bonds buy bullets, bullets kills Nazi’s. Bing bang boom. You’re an American hero.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,It’s just not how I pictured getting there.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRANDT'S AIDE,"The senator’s got a lot of pull up on the hill. You play ball with us, you’ll be leading your own platoon in no time. Take the shield.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO SINGER,"Who’s strong and brave, here to save the American way?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Not all of us can storm a beach or drive a tank. But there’s still a way all of us can fight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO SINGER,"Who vows to fight like a man, for what’s right, night and day?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Series E Defence Bonds. Each one you buy is a bullet in the barrel of your best guy’s gun.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO SINGER,"Who will campaign door-to-door for America? Carry the flag shore to shore for America? From Hoboken to Spokane, the star-spangeld man with a plan.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DIRECTOR,"Cut. Guys, don’t look ath the camera.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO SINGER,We can’t ignore there’s a threat and a war we must win.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Each one you buy is a bullet in the barrel of your best guy’s gun.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO SINGER,"Who’ll hang a noose on the goose-stepping goons from Berlin? Who will redeem, heed the call for America? Who’ll rise or fall, give his all for America? Who’s here to prove that we can? The star-spangled man with a plan.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"We all know this is about trying to win the war. We can’t do that without bullets and bandages, tanks and tents. That’s where you come in. Every bond you buy will help protect someone you love.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KIDS IN USO AUDIENCE,Turn around! He’s right behind you!,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Keep our boys armed and ready, and the Germans will think twice about trying to get the drop on us.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO SINGER,"Stalwart and steady and true, forcefull and ready to defend, the red, white, and blue. Who’ll give the Axis the sack and is smart as a fox? Far as an eagle will soar. Who’s making Adolf afraid to step out of his box? He knows what we’re fighting for. Who waked the giant that napped in America? We know it’s no one but Captain America. Who’ll finish what they began? Who’ll kick the Krauts to Japan? The star-spangled man with a aplan!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,How many of you ready to help me sock old Adolf on the jaw?  Okay. Uh… I need a volunteer.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ARMY HECKLER#1,I already volunteered! How do you think I got here?  Bring back the girls!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I think they only know the one song. But um…let me…I’ll…I’ll see what I can do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ARMY HECKLER#1,"You do that, sweetheart.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ARMY HECKLER#2,"Nice boots, Tinker Bell!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Come on, guys. We’re all on the same team here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ARMY HECKLER#3,"Hey, Captain! Sign this!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ARMY HECKLER#4,Bring back the girls!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRANDT'S AIDE,"Don’t worry, pal. They’ll warm up to you. Don’t worry.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Hello, Steve.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Hi.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Hi.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What are you doin’ here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Officially I’m not here at all. That was quite a performance.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Yeah. Uh… I had to improvise a little bit. Crowds I’m used to are usually more uh… twelve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"I understand you’re ""America’s New Hope""?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Bond sales take a ten percent bump in every state I visit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Is that Senator Brandt I hear?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,At least he’s got me doin’ this. Phillips would have had be stuck in lab.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"And these are your only two options? A lab rat or a dancing monkey? You were meant for more than this, you know?  What?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You know for the longest time I dreamed about coming overseas and being on the front lines. Serving my country. I finally get everything I wanted, and I’m wearing tights.  They look like they’ve been through hell.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,These men more than most. Schmidt sent out a force to Azzano. Two hundred men went up against him and less than fifty returned. Your audience contained what was left of the one-oh-seventh. The rest were killed or captured.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The one-oh-seventh?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,What?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Come on!  Colonel Phillips.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Well, if it isn’t the Star-Spangled Man With A Plan. And what is your plan today?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I need the casualty list from Azzano.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"You don’t get to give me orders, son.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I just need one name. Sergeant James Barnes from the hundred and seventh.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,You and I are gonna have a conversation later that you won’t enjoy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Please tell me if he’s alive, sir. B-A-R…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,I can spell.  I have signed more of these condolence letters today than I would care to count. But the name does sound familiar. I’m sorry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What about the others? Are you planning a rescue mission?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Yeah! It’s called winning the war.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"But if you know where they are, why not at least…?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"They’re thirty miles behind the lines. Through the most heavily fortified territory in Europe. We’d lose more men than we’d save. But I don’t expect you to understand that, because you’re a chorus girl.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I think I understand just fine.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Well then understand it somewhere else. If I read the posters correctly, you got some place to be in thirty minutes.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Yes, sir. I do.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"If you have something to say, right now is the perfect time to keep it to yourself.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,What do you plan to do? Walk to Austria?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,If that’s what it takes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"You heard the Colonel, your friend is most likely dead.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You don’t know that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Even so, he’s devising a strategy. If he detects…",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"By the time he’s done that, it could be too late!  You told me you thought I was meant for more than this. Did you mean that?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Every word.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Then you gotta let me go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,I can do more than that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRANDT'S AIDE,"On stage, girls. Five minutes!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+USO GIRL,Where’s my helmet?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRANDT'S AIDE,Has anyone seen Rogers?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"The HYDRA camp is in Krausberg, tucked between these two mountain ranges. It’s a factory of some kind.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,We should be able to drop you right on the doorstep.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Just get me as close as you can.  You know, you two are gonna be in a lot of trouble at the lab.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,And you won’t?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Where I’m goin’, if anybody yells at me I can just shoot ‘em.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,They will undoubtedly shoot back.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, let’s hope it’s good for somethin’.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Agent Carter, if we’re not in too much of a hurry I thought we could stop off in Lucerne for a late night fondue.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Stark is the best civilian pilot I’ve ever seen. He’s mad enough to brave this airspace, we’re lucky to have him.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,So are you two…? Do you…? Fondue?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,This is your transponder. Activate it when you’re ready and the signal will lead us straight to you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Are you sure this thing works?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"It’s been tested more than you, pal.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Get back here! We’re taking you all the way in.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"As soon as I’m free, you turn this thing around and get the hell outta here!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You can’t give me orders!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The hell I can’t! I’m a Captain!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"As you can see, production of the Valkyrie is progressing on schedule, even with components of this size.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Increase the output by 60 % and see to it our other facilities do the same.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"But the prisoners, I’m not sure they have the strength.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Then use up what strength they have left, Doctor. There are always more workers.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Not now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,"You know, Fritz, one of these days, I’m gonna have a stick of my own.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Fellas.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HYDRA GUARDS,Ah!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,Who are you supposed to be?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I’m… Captain America.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,I beg your pardon?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,"What, are we taking everybody?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,"I’m from Fresno, Ace.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is there anybody else? I’m looking for a Sergeant James Barnes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,"There’s an isolation ward in the factory, but no one’s ever come back from it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"All right. The tree line is northwest, 80 yards past the gate. Get out fast and give ‘em hell. I’ll meet you guys in the clearing with anybody else I find.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,Wait! You know what you’re doin’?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Yeah. I’ve knocked out Adolf Hitler over two hundred times.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,You know how to use that thing?  Okay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,What is happening?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,Hey. Not exactly a Buick.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,That one. Zündung.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,Zündung?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,"Get this thing going, Dugan!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,I didn’t know you spoke German.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,"Three semesters at Howards, switched to French, girls much cuter.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,Didn’t ask for the resume.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"No, no! What are you doing?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Our forces are outmatched.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,Keep moving! Grab those grenades!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Sergeant. 32557…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Bucky? Oh, my God.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Is that…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,It’s me. It’s Steve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Steve?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Come on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Steve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I thought you were dead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,I thought you were smaller.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Come on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,What happened to you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I joined the Army.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Did it hurt?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,A little.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Is it permanent?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,So far.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Captain America! How exciting! I’m a great fan of your films. So Dr. Erskine managed it after all. Not exactly an improvement, but still impressive.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You’ve got no idea.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Haven’t I?  No matter what lies Erskine told you, you see I was his greatest success!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"You don’t have one of those, do you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"You are deluded, Captain. You pretend to be a simple soldier, but in reality you are just afraid to admit that we have left humanity behind. Unlike you, I embrace it proudly. Without fear!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Then how come you’re running?  Come on, let’s go. Up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Sir? Are we going to the roof?  What about me? Where will I sit?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Not a scratch, Doctor. Not a scratch.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Let’s go. One at a time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Gotta be a rope or something!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Just go! Get out of here!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,No! Not without you!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Senator Brandt, I regret to report that Captain Steven G. Rogers went missing behind enemy lines on the third. Aerial reconnaissance has proven unfruitful. As a result, I must declare Captain Rogers killed in action. Period.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,The last surveillance flight is back. No sign of activity.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Go get a cup of coffee, Corporal.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CORPORAL,"Yes, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,I can’t touch Stark. He’s rich and he’s the Army’s number one weapons contractor. You are neither one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"With respect, sir, I don’t regret my actions. And I don’t think Captain Rogers did either.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"What makes you think I give a damn about your opinions. I took a chance with you, Agent Carter. And now America’s golden boy and a lot of other good men are dead, cause you had a crush.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,It wasn’t that. I had faith.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Well, I hope that’s a big comfort to you when they shut this division down.  What the hell’s going on out there?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAN#1,Look who it is!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Some of theres men need medical attention.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAN#2,"Medic, we got wounded.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I’d like to surrender myself for disciplinary action.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,That won’t be necessary.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Yes, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Faith, huh?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You’re late.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Couldn’t call my ride.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Hey! Let’s hear it for Captain America.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SENATOR BRANDT,"I am honoured to present this medal for valour to my personal friend, Captain America!  Captain America!  Captain, that’s your cue!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL,I thought he’d be taller.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"The fifth one was here in Poland, right near the Baltic.  And the sixth one was… about here, 30, 40 miles west of the Maginot Line.  I just got a quick look.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Well, nobody’s perfect.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,These are the weapon factories we know about. Sergeant Barnes said that Hydra shipped all the parts to another facility that isn’t on this map.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Agent Carter, coordinate with MI6. I want every Allied eyeball looking for that main Hydra base.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,What about us?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"We are gonna set a fire under Johann Schmidt’s ass. What do you say, Rogers? It’s your map, you think you can wipe Hydra off of it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Yes, sir. I’ll need a team.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,We’re already putting together the best men.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"With all due respect, sir. So am I.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,"So, let’s get this straight.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,"We barely got out of there alive, and you want us to go back?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Pretty much.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,"Sounds rather fun, actually.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,I’m in.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,We’re in.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,"Hell, I’ll always fight. But you got to do one thing for me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What’s that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,Open a tab.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,"Well, that was easy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Another round.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BARKEEPER,Where are they putting all this stuff?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,See? I told you. They’re all idiots.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,How about you? You ready to follow Captain America into the jaws of death?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"Hell, no. That little guy from Brooklyn who was too dumb not to run away from a fight. I’m following him. But you’re keeping the outfit, right?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You know what? It’s kind of growing on me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Captain.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Agent Carter.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Ma’am.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Howard has some equipment for you to try. Tomorrow morning?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Sounds good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,I see you top squad is prepping for duty.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,You don’t like music?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"I do, actually. I might even, when this is all over, go dancing.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Then what are we waiting for?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Yes, ma’m. I’ll be there.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,I’m invisible. I’m…I’m turning into you. It’s like some horrible dream.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Don’t take it so hard. Maybe she’s got a friend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,Emission signature is unusual. Alpha and beta ray neutral. Though I doubt Rogers picked up on that. Seems harmless enough. Hard to see what all the fuss is about.  Write that down.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Excuse me. I’m looking for Mr. Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PVT. LORRAINE,He’s in with Colonel Phillips. Of course you’re welcome to wait.  I read about what you did.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Oh! The…yeah! Well, that’s you know? Just doin’ what needed to be done.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PVT. LORRAINE,Sounded like more than that. You saved nearly four hundred men.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Really, it’s not a big deal.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PVT. LORRAINE,Tell that to their wives.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Uh…I don’t think they were all married.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PVT. LORRAINE,You’re a hero.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, that…you know? That…that depends on the definition of it really.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PVT. LORRAINE,"The women of America, they owe you their thanks. And uh…seeing as they’re not here.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Captain!  We’re ready for you. If you’re not otherwise occupied.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Agent Carter, wait.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Looks like finding a partner wasn’t that hard after all.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Peggy, that’s not what you thought it was.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"I don’t think anything, Captain. Not one thing. You always wanted to be soldier and now you are. Just like all the rest.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, what about you and Stark? How do I know you two haven’t been… fonduing?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You still don’t know a bloody thing about women!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Fondue is just cheese and bread, my friend.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Really? I didn’t think…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Nor should you, pal. The moment you think you know what’s goin’ on in a woman’s head, it’s the moment your goose is well and truly cooked. Me, I concentrate on work. Which at the moment is about making sure you and your men do not get killed. Carbon polymer.  Should withstand your average German bayonet. Although Hydra’s not going to attack you with a pocket knife.  I hear you’re uh… kinda attached?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,It’s handier than you might think.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,I took the liberty of coming up with some options.  This one’s fun. She’s been fitted with electrical relays. It’ll allow you to…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What about this one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,No! No! That’s just a prototype.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What’s it made of?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,Vibranium. It’s stronger than steel and a third of the weight. It’s completely vibration absorbent.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,How come it’s not a standard issue?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,That’s the rarest metal on earth. What you’re holding there? That’s all we’ve got.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"You quite finished, Mr. Stark? I’m sure the Captain has some unfinished business.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What do you think?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Yes. I think it works.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I had some ideas about the uniform.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Whatever you want, pal.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"You are failing! We are close to an offensive network that will shake the planet. And yet we are continually delayed, because you cannot outwit a simpleton with a shield!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,This is hardly my area of expertise. I…I merely develop the weapons. I…I cannot fire them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Finish your mission, Doctor. Before the American finishes his.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GUARD,Sir!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FACILITY MANAGER,"I’m sorry, Herr Schmidt. We fought to the last man.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,Evidently not.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,Remember when I made you ride the Cyclone at Coney Island?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Yeah, I and I threw up?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,"This isn’t payback, is it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Now why would I do that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,"We were right. Dr. Zola’s on the train. Hydra dispatcher gave him permission to open up the throttle. Wherever he’s going, they must need him bad.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,"Let’s get going, because they’re moving like the devil.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"We only got about a 10-second window. You miss that window, we’re bugs on a windshield.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,Mind the gap.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUM DUM DUGAN,"Better get moving, bugs!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JACQUES DERNEIR,Maintenant!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Stop him! Fire again!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES BARNES,I had him on the ropes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I know you did.  Get down!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Fire again! Kill him! Now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Bucky! Hang on! Grab my hand! NO!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Sit down.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,What is this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Steak.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,What is in it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Cow. Doctor, do you realize how difficult it is to get ahold of a prime cut like that out here?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,I don’t eat meat.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Why not?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,It disagrees with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"How about cyanide? Does that give you the rumbly tummy too? Every Hydra agent that we’ve tried to take alive has crunched a little pill before we can stop him. But not you. So, here’s my brilliant theory.  You wanna live.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"You’re trying to intimidate me, Colonel.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,I bought you dinner.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,"‘Given the variable information he has provided, and in exchange for his full cooperation, Dr. Zola is being remanded to Switzerland.’",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"I sent that message to Washington this morning. Of course it was encoded. You guys haven’t broken those codes, have you? That would be awkward.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Schmidt will know this is a lie.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"He’s gonna kill you anyway, Doc. You’re a liability. You know more about Schmidt than anyone. And the last guy you cost us was Captain Rogers’ closest friend. So, I wouldn’t count on the very best of protection. There’s you or Schmidt. It’s just the hand you’ve been dealt.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Schmidt believes he walks in the foot steps of the Gods.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Mmm.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Only the world itself will satisfy him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"You do realize that’s nuts, don’t you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,But the sanity of the plan is of no consequence.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,And why is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,Because he can do it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,What’s his target?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. ARNIM ZOLA,His target… is everywhere.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Tomorrow, Hydra will stand master of the world. Born to victory on the wings of the Valkyrie. Our enemies weapons will be powerless against us. If they shoot down one plane, hundreds more will rain fire upon them! If they cut off one head, two more shall take its place. Hail Hydra!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAN ON THE RADIO,"Blackout is still in effect throughout the London area. Please wait for the all-clear. Your attention, please. All citizens shall remain indoors until further notice. Blackout is still in effect throughout the London area.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Dr. Erskine said that… the serum wouldn’t just effect my muscles, it would effect my cells. Create a protective system of regeneration and healing. Which means um…I can’t get drunk. Did you know that?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Your metabolism burns four times faster than the average person. He thought it could be one of the side effects.  It wasn’t your fault.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Did you read the reports?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Yes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Then you know that’s not true.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You did everything you could. Did you believe in your friend? Did you respect him?  Then stop blaming yourself. Allow Barnes the dignity of his choice. He damn well must have thought you were worth it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I’m goin’ after Schmidt. I’m not gonna stop till all of Hydra is dead or captured.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,You won’t be alone.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"Johann Schmidt belongs in a bug house. He thinks he’s a God. He’s willing to blow up half the world to prove it, starting with the USA.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,"Schmidt’s working with powers beyond our capabilities. He gets across the Atlantic, he will wipe out the entire eastern sea board in an hour.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GABE JONES,How much time we got?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,"According to my new best friend, under twenty four hours.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JACQUES DERNEIR,Where is he now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Hydra’s last base is here.  In the Alps. Five hundred feet below the surface.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,"So, what are we supposed to do. I mean, it’s not like we can just knock on the front door.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Why not? That’s exactly what we’re gonna do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Arrogance may not be a uniquely American trait, but I must say you do it better than anyone. But there are limits to what even you can do, Captain. Or did Erskine tell you otherwise?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,He told me you were insane.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Ah. He resented my genius and tried to deny me what was rightfully mine. But he gave you everything. So, what made you so special?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Nothin’. I’m just a kid from Brooklyn.  I can do this all day.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"Oh, of course you can. Of course. But unfortunately I am on a tight schedule.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,So am I!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,Rogers! You might need this!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Thanks!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,"We’re in! Assault team, go!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Move out!  Keep your spacing!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HYDRA SOLDIER,"Cutt off one head, two more shall…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,Let’s go find two more!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You’re late.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Weren’t you about to…,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Right.  Keep it steady!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Wait!  Go get him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COL. CHESTER PHILLIPS,I’m not kissin’ you!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"You don’t give up, do you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Nope!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,"You could have the power of the gods! Yet you wear a flag on your chest and think you fight a battle of nations! I have seen the future, Captain! There are no flags!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Not my future!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RED SKULL,What have you done? No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Come in. This is Captain Rogers. Do you read me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIM MORITA,"Captain Rogers, what is your…",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Steve, is that you? Are you alright?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Peggy! Schmidt’s dead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,What about the plane?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,That’s a little bit tougher to explain.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Give me your coordinates, I’ll find you a safe landing site.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,There’s not going to be a safe landing. But I can try and force it down.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"I’ll get Howard on the line, he’ll know what to do.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,There’s not enough time. This thing’s moving too fast and it’s heading for New York.  I gotta put her in the water.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Please, don’t do this. We have time. We can work it out.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Right now I’m in the middle of nowhere. If I wait any longer a lot of people are gonna die. Peggy, this is my choice.  Peggy?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,I’m here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I’m gonna need a rain check on that dance.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"Alright. A week, next Saturday, at the Stork Club.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You got it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Eight o’clock on the dot. Don’t you dare be late. Understood?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You know, I still don’t know how to dance.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,I’ll show you how. Just be there.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,We’ll have the band play somethin’ slow. I’d hate to step on your…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Steve? Steve? Steve?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES MONTGOMERY FALSWORTH,To the Captain.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STARK'S ENGINEER,Sir?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,Take us to the next grid point.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STARK'S ENGINEER,But there’s not trace of wreckage. And the energy signature stops here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOWARD STARK,Just keep looking.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DODGERS ANNOUNCER,"Curve ball, high and outside for ball one. So the Dodgers are tied, 4-4. And the crowd well knows that with one swing of his bat, this fellow’s capable of making it a brand-new game again. Just an absolutely gorgeous day here at Ebbets Field. The Phillies have managed to tie up at 4-4. But the Dodgers have three men on. Pearson beaned Reiser in Philadelphia last month. Wouldn’t the youngster like a hit here to return the favour? Pete leans in. Here’s the pitch. Swung on. A line to the right. And it gets past Rizzo. Three runs will score. Reiser heads to third. Durocher’s going to wave him in. Here comes the relay, but they won’t get him.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,"Good morning.  Or should I say, afternoon?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Where am I?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,You’re in a recovery room in New York city.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DODGERS ANNOUNCER,"The Dodgers take the lead, 8-4. Oh, Dodgers! Everyone is on their feet. What a game we have here today, folks. What a game indeed.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Where am I really?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,I’m afraid I don’t understand.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"The game, it’s from May, nineteen forty one. I know, cause I was there.  Now, I’m gonna ask you again. Where am I?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,Captain Rogers…,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,"Captain Rogers, wait!  All agents, code 13! I repeat. All agents, code 13!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"At ease, soldier! Look, I’m sorry about that little show back there, but… we thought it best to break it to you slowly.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Break what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"You’ve been asleep, Cap. For almost seventy years.  You gonna be okay?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Yeah. Yeah. I just…I had a date.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Trouble sleeping?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You’re here with a mission, sir?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,I am.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Trying to get me back in the world?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Trying to save it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised

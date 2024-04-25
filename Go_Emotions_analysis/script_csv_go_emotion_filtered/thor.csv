@@ -1,0 +1,1020 @@
+character,line,gender,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Hurry!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Oh-- watch your head.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Thanks. So what's this ""anomaly"" of yours supposed to look like? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"It's a little different each time. Once it looked like, I don't know, melted stars, pooling in a corner of the sky. But last week it was a rolling rainbow ribbon-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Racing Àúround Orion?"" I've always said you should have been a poet.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Hey, Darcy. Pass up the bubbly and my gloves, will you?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Not until you see it!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I recognize those. Think how proud he'd be to see you now.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,For what?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,The benefit of the doubt.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,It's never taken this long before.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Can I turn on the radio?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Sure, if you like rocking out to KFRM, ""All agriculture, all the time.""",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,The anomalies are always precipitated by geomagnetic storms.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,The last seventeen occurrences have been predictable to the minute... I just don't understand.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Jane? ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,There's got to be some new variable... Or an equipment malfunction...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,I don't think there's anything wrong with your equipment...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Jane?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,I think you want to see this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Holy. Shatner.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"That's your ""subtle"" aurora?! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,No-- yes! Let's go!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Isn't this great?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"You're seeing it too, right? I'm not crazy? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,That's debateable. Put your seat belt on!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You've gotta get us closer so I can take a magnetic reading.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"Yeah, right! Good one! Oh God, you're serious... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You want those college credits or not?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Keep the credits. I'll intern at Burger King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What are you doing?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Saving our lives!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,I think that was legally your fault.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Get the first aid kit.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Come on, big guy. Do me a favor and don't be dead, okay? Open your eyes and look at me. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Wow. Does he need CPR? Because I know CPR.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,HIS EYES--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,--are beautiful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,--are dilating. That's a good sign.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,We still have to get him to a hospital.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,After we get a reading on the storm?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Immediately, Jane.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Where did he come from?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"Questions, they've always asked questions -- this race called man, on this planet they call earth. Passionately longing to know how they are connected to the heavens.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"In ages past, they looked to us as gods, for indeed so many times we saved them from calamity. We tried to show them how their world was but one of the Nine Realms of the Cosmos, linked to all others by the branches of Yggdrasil...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"...the Worlds Tree. Nine Realms in a universe of wonder, beauty, and terror that they barely comprehended.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"But for all their thirst for knowledge, they let our lessons fall into myth and dreams. Where did he come from? He came from us, the proudest race of warriors the Worlds have ever seen. He came from this -- the greatest Realm the universe has ever known.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,He came... from Asgard!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Do you think he's ready?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,He thinks he is. He has his father's confidence.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,He'll need his father's wisdom.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,And his humility?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,Thor won't be alone. Loki will be at his side to give him counsel. Have faith in your sons.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Yes, but Thor's still a boy. He could be a great King...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,...if we only had more time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"For once, our son needs something we cannot provide. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,I can fight it a little longer...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,No. You've put it off too long! I worry for you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"I've destroyed demons and monsters, devastated whole worlds, laid waste to mighty kingdoms, and still you worry for me? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,Always.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Not today. Now come kiss your king... while I'm still king.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Another!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Nervous, brother? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Have you ever known me to be nervous?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,There was the time in Nornheim...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"That wasn't nerves, brother. It was the rage of battle. How else could I have fought my way through a hundred warriors and pulled us out alive?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"As I recall, I was the one who veiled us in smoke to ease our escape. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Some do battle, others just do tricks.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki... ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Now that was just a waste of good wine.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Just a bit of fun. Right, my friend?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Nice feathers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You don't really want to start this again, do you, Cow? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I was being sincere!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You're incapable of sincerity.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Am I?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"I've looked forward to this day as long as you have. You're my brother and my friend. Sometimes I'm envious, but never doubt that I love you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Give us a kiss.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Stop.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How do I look?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Like a king.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It's time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You go ahead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I'll be along. Go on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Thank you, love. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Now who'd like to polish my sword for me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,I'll miss you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,I hope this goes quickly. I'm famished.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Noooo!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Are you attached to that pretty face of yours? Because one more word, and you won't be. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"My, we are hungry, aren't we?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Go on, Hogun. Smile. You can do it. Even you, Hogun the Grim. Just one smile.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"All right, half a smile. Look, forget the smile, just show some teeth. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Fandral, is it true the famous Warriors Three are ready to meet any challenge? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Name it, Lady Sif. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Keep your mouth shut.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,It's all right to be nervous.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Why does everyone keep saying that? I'm not nervous!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,You may be able to fool the rest of ASGARD --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,...but never you. I know.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"Thor, just remember that you have something even the great Allfather never had. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,And what is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,Me for a mother.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,Now don't keep your father waiting.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Where is he?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,He said he'd be along.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,He wants to make an entrance.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Well, if he doesn't show up soon, he shouldn't bother.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I wouldn't worry. Father will forgive him. He always does.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Oh, please.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Gungnir. Its aim is true, its power strong. With it I have defended Asgard and the lives of the innocent across the Nine Realms since the time of the Great Beginning. And though the day has come for a new King to wield his own weapon -- that duty remains the same. Thor Odinson, my heir, my first-born. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"So long entrusted with this mighty hammer, Mjolnir. Forged in the heart of a dying star, from the sacred metal of Uru. Only one may lift it. Only one is worthy. Who wields this hammer commands the lightning and the storm. Its power has no equal -- as a weapon, to destroy, or as a tool, to build. It is a fit companion for a King.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Today I entrust you with the greatest honor in all the Nine Realms. The sacred throne of Asgard. I have sacrificed much to achieve peace. So, too, must a new generation sacrifice to maintain that peace. Responsibility, duty, honor. These are not merely virtues to which we must aspire. They are essential to every soldier and to every King.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Thor Odinson, do you swear to guard the Nine Realms? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I swear.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Do you swear to preserve the peace?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I swear.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Do you swear to cast aside all selfish ambition and pledge yourself only to the good of all the Realms?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I swear.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Then on this day, I, Odin Allfather, proclaim you--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Frost giants...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,The Destroyer.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,I thought it was but a legend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,I've never been inside the Vault before. It's said the Tesseract was once held here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,The Tesseract? I thought that was but a legend too!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Shush!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The Jotuns must pay for what they've done!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"They have paid with their lives. The Destroyer did its job, and the Casket is safe. All is well. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,All is well?! They broke into the Weapons Vault! If the Frost Giants had stolen even one of these RELICS--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,But they didn't.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I want to know why they--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,The Casket of Ancient Winters belonged to the Jotuns. They believe it's their birthright.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,And if you hadn't taken it from them they would have laid waste to all the Nine Realms!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"I have a truce with Laufey, the Jotun King. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He just broke your truce! We must act!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Leave us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,And what action would you take?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"March into Jotunheim as you once did, teach them a lesson, break their spirits so they'll never dare try to cross our borders again! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You're thinking only as a warrior!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This was an act of war!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"It was the act of but a few, doomed to fail. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,They got this far!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"We will find the breach in our defenses. It will be found, and it will be sealed. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"As King of Asgard, I would-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You are not King. Not yet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Redecorating, are we?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,What's this -- ?!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,I told you they'd cancel it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,We thought that was just you being your normal cheery self.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"All this food -- so innocent, cast to the ground. It breaks the heart!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"It's unwise to be in my company right now, brother. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Who said I was wise?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This was to be my day of triumph.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"It will come. In time. If it's any consolation, I think you're right. About the Frost Giants, about Laufey, everything. If a few of them could penetrate the defenses of Asgard once, who's to say they won't try again. Next time with an army? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, exactly! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,But there's nothing we can do without defying Father.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,No... stop there! I know that look!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It's the only way to ensure the safety of our borders.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It's madness!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Madness? What sort of madness?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Nothing! Thor was making a jest!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The safety of our Realm is no jest. We're going to Jotunheim.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,What?!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Thor, of all the laws of Asgard, this is one you must not break.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"This isn't like a journey to Earth, where you summon a little lightning and thunder and the mortals worship you as a god. This is Jotunheim. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"And if the Frost Giants don't kill you, your Father will! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"My father fought his way into Jotunheim, defeated their armies, and took their Casket! We'd just be looking for answers. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,It is forbidden! ,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"My friends, have you forgotten all that we've done together?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Who brought you into the sweet embrace of the most exotic maidens in all of Yggdrasil?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,You did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Who led you into the most glorious of battles... ...and to delicacies so succulent, you thought you'd died and gone to Valhalla? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG / HOGUN,You did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,And who proved wrong all who scoffed at the idea that a young maiden could be one of the fiercest warriors this Realm has ever known?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,I did.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"True. But I supported you... My friends, trust me now. We must do this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Come on. You're not going to let my brother and me take all the glory, are you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You are coming with me...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Yes, of course! I won't let my brother march into Jotunheim alone. I will be at his side. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,And I.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,And I.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,And I. The Warriors Three fight together.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,I fear we'll live to regret this.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,If we're lucky.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We must first find a way to get past Heimdall.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,That will be no easy task. It's said the Gatekeeper can see a single dew drop fall from a blade of grass a thousand worlds away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,And he can hear a cricket passing gas in Niffelheim.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Jest not! He heareth all!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Please. Getting past him should be simple enough now, since he seems to be letting Frost Giants sneak by under his nose.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Forgive him! He meaneth no offense!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Keep your weapons sheathed and your mouths closed. This is going to take subtlety and sincerity, not brute strength. Leave it to me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,GOOD HEIMDALL--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,You're not dressed warmly enough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I'm sorry?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"The freezing cold of Jotunheim. It will kill you all in time, even Thor. You think you can deceive me? I, who watch all? I, who can sense the flapping of a butterfly's wings a thousand worlds away?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Or can hear a cricket passing gas in Niffelheim?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"That was just a bit of a jest, really...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You must be mistaken. We're not--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Enough. Heimdall, may we pass?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"For ages have I guarded Asgard and kept it safe from those who would do it harm. In all that time, never has an enemy slipped by my watch -- until this day. I wish to know how that happened. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Then tell no one where we've gone until we've returned.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,What happened? Your silver tongue turn to lead?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Get me off this bridge before it cracks under your girth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"Be warned. I will honor my sworn oath to protect this Realm as its Gatekeeper. If your return threatens the safety of Asgard, Bifrost will remain closed to you. You'll be left to die in the cold wastes of Jotunheim. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I have no plans to die today.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,None do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,All is ready. You may pass.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Couldn't you just leave the bridge open for us?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,To keep this bridge open would unleash the full power of the Bifrost and destroy Jotunheim with you upon it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Ah. Never mind, then.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Come on. Don't be bashful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Come on, big fella. Up...!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,This belt! This belt is now my lucky belt! I will never remove it! Even when bathing!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,You bathe?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,We shouldn't be here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Too late now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Actually, it's not. We could turn right around, hop back to Asgard, share a mug by the fire. Could be nice.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Perhaps we should wait.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,For what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,To survey the enemy. To gauge their strengths and weaknesses from a distance.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"I'm liking that. Gauging, surveying. Particularly the distance part. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We know all we must. It's time to act.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,He's just got to swing his hammer...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"It feels good, doesn't it? To be together again, adventuring on another world? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Adventuring? Is that what we're doing?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What would you call it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Freezing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Starving.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Whining.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How about a song to lift our spirits?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,"No, not that! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Please don't make us sing again!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"If I have to listen to Volstagg's singing voice one more time, I'll fall on my own sword! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Well, now I'm on board.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Where are they?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hiding. As cowards always do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JOTUN,"What is your business here, Asgardian?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I speak only to your King. Not to his foot soldiers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JOTUN,Then speak.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"I am Laufey, King of this Realm. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,And I am--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"We know who you are, Odinson. Why have you brought the stench of your blood into my world? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I demand answers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"You ""demand?""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How did your people get into Asgard?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,The house of Odin is full of traitors.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Do not dishonor my father's name with your lies.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"Your father is a murderer and a thief. He stole what was ours, and left our world in ruins. We have the right to reclaim the Casket. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Not when you'd use it to make war against other Realms.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"And why have you come here? To make peace? You long for battle. You crave it. I see you for what you are, Thor Odinson. Nothing but a boy, trying to prove himself a man. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This boy has grown tired of your mockery.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Thor, stop and think. Look around you. We are outnumbered. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Know your place, brother... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,You should listen to his counsel. You know not what your actions would unleash.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"But I do. Go now, while I still allow it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,We will accept your most gracious offer.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JOTUN,"Run back home, little princess.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Damn.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Silly hammer! Has a mind of its own!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,I'm hoping that's just decorative.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Next!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Well? What move, do you think? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"I say we use ""The Norn's Revenge.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"At this close range? I think ""The Alfheim Lunge"" is a better move. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Maybe if they were three feet tall! No! How about ""The Randy Valkyrie""?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,Shut up!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"If you don't treat me like a lady, I won't act like a lady!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Pathetic.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Come on! At least make it a challenge for me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Now that's more like it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Ugly and stupid.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,I'm so glad I taught him how to do that!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,You may want to put some ice on that!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"You may be taller, but I'm wider!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,It's not too late for you to surrender.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Don't let them grab hold of you!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Thank you, my lady. But I nearly had him! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Of course you did.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Hang on!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,Watch the legs!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Right. Sorry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,You really think your icicles are a match for Asgardian steel?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Fair enough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Could we stop just a moment while I get another sword?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,That's unfortunate.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"I may need a bit of help. Not a good look, is it? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Just try not to bleed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,How's the face?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Flawless.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Come on!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,That can't be good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Yes, it could! Might be an early spring!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Thor, we must go!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Then go!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,There are too many of them!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I can stop them!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Thor!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Run!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,What's Thor done?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Likely killed us all!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Loki, we have to see.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Actually, could you bring the mists back, please?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Laufey. End this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,Your boy sought this out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You're right. These are the actions of a boy. Treat them as such. You and I can stop this before there's further bloodshed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"We are beyond diplomacy now, Allfather. He'll get what he came for -- war and death.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,So be it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Now! We'll finish them together!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Silence!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Why did you bring us back?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Do you realize what you've done? What you've started?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I was protecting my home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You cannot protect your friends. How can you hope to protect a kingdom?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Get him to the healing room!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,There won't be a kingdom to protect if you're afraid to act!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Whatever the cost, the world must know that the new King of Asgard will not be held in contempt. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"That's pride and vanity that talks! Not leadership! Have you forgotten everything I've taught you? What of a warrior's patience, cunning? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"While you wait and be patient, the Nine Realms laugh at us! The old ways are done. You'd stand giving speeches while Asgard falls! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"You're a vain, greedy, cruel boy! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,And you are an old man and a fool!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"A fool, yes! I was a fool to think you were ready.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,FATHER--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Thor Odinson... You have disobeyed the express command of your King. Through your arrogance and stupidity, you have opened these peaceful Realms and innocent lives to the horrors of war.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You are unworthy of this Realm...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,...unworthy of your title...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,...unworthy of the loved ones you've betrayed. I hereby take from you your powers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,In the name of my father...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,...and of his father before...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,I cast you out!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,I think that was legally your fault.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Get the first aid kit. Come on, big guy. Do me a favor and don't be dead, okay? Open your eyes and look at me.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Wow. Does he need CPR? Because I know CPR.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Where did he come from?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Uh, thanks. Are you okay?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hammer...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"Yeah, we can tell you're hammered. That's pretty obvious.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Erik... look at this.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,We've got to move fast before anything changes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"We need soil samples, light readings, everything.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Jane, we need get him to a hospital.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Not right now. It'll take too long. County's an hour away. We'll drop him off after we're done here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Look at him, he's fine.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Father! Heimdall! I know you can hear me! Open the bridge!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Okay, you and Darcy take him to the hospital, I'll stay here. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,You expect me to leave you alone in the middle of the desert?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You! What world is this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"It's all right, my friend. We're going to get you some help.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Where am I?! Answer me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Erik, just back away... ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,You're in the desert outside the town of Puente Antiguo.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What Realm?! Alfheim? Nornheim?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Uh... New Mexico?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You dare threaten Thor with so puny A--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,What? He was freaking me out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Next time you decide to taser someone, do me a favor and make sure they're already inside the truck. Jane, come on...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,Name?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"He said it was ""Thor."" ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,T-H-O-R. And your relationship to him?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I've never met him before.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Until she hit him with the car.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Grazed him, actually. Oh, and we tasered him, too. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,Must have been quite the spat.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I told you, I don't know him. I just want to make sure he's okay. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,I'm going to need a name and contact number.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Jane Foster.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,J...A...N...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Oh, for God's sake...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Here. Let's go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,Hi. Just taking a little blood.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How dare you attack the son of Odin!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,I need some help!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,We're trying to help you!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Then bring me a healing stone, you savages!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ORDERLY,What the hell is this guy on?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You're no match for the Mighty--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,Huh.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,Huh.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Darcy, when you're done, take the soil samples to Professor Meyers in geology. Remind him, he owes me. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,We might want to perform a spectral analysis.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"""We?""",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I flew all the way out here -- might as well make myself useful.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You know what would be really useful? Do you still have that friend at LIGO?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,She was more than a friend.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Could you call in a favor?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,You don't think this was just a magnetic storm?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"If I'm right, their observatory must have picked up gravitational waves during last night's event. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Meaning?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Meaning these anomalies might signify something bigger.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"How ""big"" are we talking about?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I think the lensing around the edges is characteristic of an Einstein-Rosen Bridge.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,A what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I thought you were a science major.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Political Science.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,She was the only applicant.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"An Einstein-Rosen Bridge -- a ""theoretical"" connection between two different points of space-time.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,A wormhole.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Erik, look...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What do you see here?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Stars.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Yes. But not our stars.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"This is the star alignment for our quadrant, this time of year. So unless Ursa Minor decided to take the day off... those are someone else's constellations.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"Hey, check it out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Is that...?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I think I left something at the hospital.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,How could you have done this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Do you understand what he set in motion? He's taken us to the brink of war!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,But banishment? You would lose him forever? He's your son!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,What would you have done?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"I would not have exiled him to a world of mortals, stripped of his powers, to suffer alone. I would not have had the heart for such cruelty! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"That is why I'm King. I, too, grieve the loss of our son. But there are some things that even I cannot undo. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,You can bring him back.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,No. His fate is in his own hands now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It's not possible.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,"I'm sorry, only relatives can visit patients. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,But... I'm his wife.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,I thought you said you didn't know him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I meant I barely know him anymore. The man he's become. He's changed. I mean, what woman really knows her husband, anyway? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NURSE,"None of us, dear. He's in Room",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Typical. I just lost my most important piece of evidence.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,So now what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,We find him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Did you see what he did in there? I don't know if finding him is the best idea.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I want to know what that thing was, and he may have the answers. We don't have a choice. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Oo-kay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,So we're just going to spend the rest of the day looking for him?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,However long it takes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I'm so sorry. I swear I'm not doing that on purpose.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Blue sky... one sun... This is Earth, isn't it? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,I think you may have hit him with the car one time too many.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Let's get you some clothes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,We should never have let him go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,There was no stopping him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"At least he's only banished, not dead. Which is what we'd all be if that guard hadn't told Odin where we'd gone. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,How did the guard even know?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I told him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I told him to go to Odin after we'd left. Though he should be flogged for taking so long.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,You told the guard?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I saved our lives! And Thor's. I had no idea Father would banish him for what he did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Loki, you're the only one who can help Thor now. You must go to the Allfather and convince him to change his mind! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"And if I do, then what? I love Thor more dearly than any of you, but you know what he is. He's arrogant. He's reckless. He's dangerous. You saw how he was today. Is that what Asgard needs from its King?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"He may speak about the good of Asgard, but he's always been jealous of Thor. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"True, but we should be grateful to him. He did save our lives. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,Laufey said there were traitors in the House of Odin.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Why is it every time you choose to speak, it has to be something dark and ominous? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,A master of magic could easily bring three Jotuns into Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,No! Surely not!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Loki's always been one for mischief, but you're talking about something else entirely. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Who else could elude Heimdall's gaze with tricks of light and shadow?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,The ceremony was interrupted just before Thor was named King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,We should go to the Allfather.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"And tell him what? ""Oh, by the way, we think your son just betrayed the throne. And do us a favor. Bring back Thor. There's a good fellow!""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"It's our duty. If any of our suspicions are right, then all of Asgard is in danger.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Stop!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Am I cursed?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,No. Put the Casket down.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What am I?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You're my son.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What more than that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"The Casket wasn't the only thing you took from Jotunheim that day, was it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"No. In the aftermath of the battle, I went into the Temple, and I found a baby. Small for a giant's offspring -- abandoned, suffering, left to die. Laufey's son.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Laufey's son...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Why? You were knee-deep in Jotun blood. Why would you take me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You were an innocent child.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You took me for a purpose, what was it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Tell me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"I thought we could unite our kingdoms one day, bring about an alliance, bring about a permanent peace... through you. But those plans no longer matter. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"So I am no more than another stolen relic, locked up here until you might have use of me. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Why do you twist my words?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You could have told me what I was from the beginning. Why didn't you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You are my son. My blood. I wanted only to protect you from the truth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Because I am the monster parents tell their children about at night?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Don't...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It all makes sense now. Why you favored Thor all these years.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Listen...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Because no matter how much you claim to ""love"" me, you could never have a Frost Giant sitting on the Throne of Asgard!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Listen to me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Loki!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Guards!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,This'll do it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,"Okay, let 'er rip!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Sir -- we've found it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"You know, for a crazy homeless guy, he's pretty cut.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"Hey, sorry I tased you!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Excuse me... excuse me!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,My ex.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,They're the only clothes I had that'll fit you. Sorry.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,They will suffice.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You're welcome. Now tell me...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"What were you doing, in that?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What does anyone do in the Bifrost?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,The Bifrost...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What exactly is the Bifrost?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This mortal form has grown weak.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,BUT--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Somebody get the mortal a Pop-Tart.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,I asked him to be honest with you from the beginning. There should be no secrets in a family.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,So why did he lie?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"He kept the truth from you so that you would never feel different. You are in every way our son, Loki, and we your family. You must know that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"You can speak to him. He can see and hear us, even now. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,How long will it last?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,I don't know. This time is different. We were unprepared.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I never get used to seeing him like this. The most powerful being in the Nine Realms lying helpless until his body is restored.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"But he's put it off for so long now, I fear...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,You're a good son.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,We mustn't lose hope that your father will return to us. And your brother.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What hope is there for Thor?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,There's always a purpose to everything your father does. Thor may yet find a way home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"Thor is banished. The line of succession falls to you. Until he awakens, Asgard is yours.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,Make your father proud.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Now tell us exactly what happened to you last night.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Maybe start with how you got inside that cloud.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,And how you could eat an entire box of Pop-Tarts and still be this hungry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This drink. I like it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"Yeah, it's great, isn't it? Isabela makes the best coffee in town.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Another!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Sorry, Izzy. Little accident. I'm going to pay for the cup.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ISABELA,"Did you see that? The first time she brings a man in here, and he's a lunatic! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What was that?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It was delicious. I want another.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Then you should just say so!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I just did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I mean ask for it. Nicely.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I meant no disrespect.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"All right, then no more smashing, deal? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You have my word.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Good. ,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ISABELA,"Morning, Pete. Jake. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,"The usual, please, Izzy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,You missed all the excitement out at the crater.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ISABELA,What crater?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,They're saying some kind of satellite crashed in the desert.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,"We were having a good time with it till the Feds showed up, chased us out. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Excuse me, did you say there was a satellite crash? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,Yep. They said it was radioactive. And I had my hands all over it. I'm probably sterile now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"Oh my God, this is going on Facebook.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Smile!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,What did the satellite look like?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,I don't know nothing about satellites. But it was heavy. Real heavy. Nobody could lift it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Where?!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,About twelve miles east of here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PETE,I wouldn't bother! Looked like the whole Army was coming in when we left!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Where are you going?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Twelve miles east of here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Why?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,To get what belongs to me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,So now you own a satellite?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It's not what they say it is.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Whatever it is, the government seems to think it's theirs. You intend to just walk in there and take it? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"If you take me there now, I'll tell you everything you wish to know. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Everything?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"All the answers you seek will be yours, once I reclaim Mjolnir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"""Myeu-muh?"" What's ""Myeu-muh?""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Jane.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Please don't do this.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You know what we saw last night. This can't be a coincidence. I want to know what's in that crater.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I'm not talking about the crater. I'm talking about him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,He's promised us answers.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"He's delusional! Listen to what he's saying! ""Thor."" ""Bifrost."" Mjolnir. These are the stories I grew up with as a child! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I'd just be driving him out there, that's all. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,It's dangerous. He's dangerous.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I'm sorry. I can't take you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I understand. Then this is where we say goodbye.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,That's... thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Jane Foster... Erik Selvig... Darcy. Farewell.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Now... let's get back to the lab. We have work to do.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Allfather, we must speak with you URGENTLY--",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,What is this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,My friends... you haven't heard? I am now Ruler of Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Where is Odin?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Father's fallen into the Odinsleep. My mother fears he may never awaken again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,We would speak with her.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"She has refused to leave my father's bedside. You can bring your ""urgent"" matter to me, your King.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,We would ask you to end Thor's banishment.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,My first command can not be to undo the Allfather's last. We're on the brink of war with Jotunheim. Our people must have a sense of continuity in order to feel safe in these difficult times.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"All of us must stand together, for the good of Asgard. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Of course.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Hey! That's my stuff!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What the hell is going on here?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"Ms. Foster, I'm Agent PHIL COULSON, with SHIELD.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I don't care who you work for, you can't do this! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Jane. This is more serious than you realize. Let it go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Let it go?! This is my life!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,We're here investigating a security threat. We need to appropriate your equipment and all your atmospheric data.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"By ""appropriate"" you mean ""steal""?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,This should more than compensate you for your trouble.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I can't just pick up replacements from RadioShack! I made most of that equipment myself!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Then I'm sure you can do it again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,And I'm sure I can sue you for violating my constitutional rights!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"We're the good guys, Ms. Foster.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,So are we! We're on the verge of UNDERSTANDING SOMETHING extraordinary.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Everything I know about this phenomenon is in this lab and in this book, and no one has the right to take it from me.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Thank you for your cooperation.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Years of research, gone. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,They even took my iPod.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,And your back-ups?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Look around! They took our back- ups. They took the back-ups of our back-ups.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"I just downloaded, like, thirty songs on there. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Will you please stop talking about your iPod?! Who are these people?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"No one knows much about them. But I knew a scientist -- a pioneer in gamma radiation. SHIELD showed up, and he was never heard from again. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I'm not going to let them do this. I'm getting everything back.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Please, let me contact one of my colleagues. Dr. Pym has had some dealings with these people. I'll e- mail him and see if he can help. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"They took your laptop, too.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I'll just be a minute.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I need a horse.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PET STORE CLERK,"Sorry, we don't sell horses. Just dogs, cats, birds. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Then give me one of those, large enough to ride.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You still want a lift?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LIBRARIAN,"""And though they're large, giants 
+can be quiet. You have to listen 
+carefully for the sound of their 
+footsteps -- because they may be 
+closer than you think.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LIBRARIAN,"Joshua, come sit down. It's story time.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I've never done anything like this before! Have you ever done anything like this before?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Many times. You're brave to do it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,They just stole my entire life's work. I really don't have anything left to lose.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,But you're clever. Far more clever than anyone else in this Realm.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"""This Realm?"" Why do you talk like that?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You think me strange?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Yeah. Just a little.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Good strange or bad strange?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I'm not quite sure yet.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Sorry.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Who are you? Really?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You'll see soon enough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You promised me answers.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What you seek -- it's a bridge.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,A bridge? Like an Einstein-Rosen Bridge?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,More like a rainbow bridge.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"God, I hope you're not crazy.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"That isn't a satellite crash. They would have hauled the wreckage away, not built a city around it.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You're going to need this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Why?--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Stay here. Once I have Mjolnir, I will return what they stole from you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Deal?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"No! Look what's down there! You can't just walk in, grab our stuff, and walk out! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I'm going to fly out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Wait...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,Feed from the keyhole. Can barely penetrate the cloud cover.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,"Tech's barely working as it is, with all the interference that thing's giving off.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,"Hey, we've got a commercial aircraft coming in right over us, Southwest Airlines Flight 5434. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SITWELL,"Reroute it, like all the others. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,Right. Can I get the passengers some free drinks for the trouble?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,It'd be a nice gesture.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,"Hold a sec... we got something outside the fence, west side...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SITWELL,"DeLancey, Jackson -- check it out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT JACKSON,Looks like we're good here. Must have been another coyote. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT DELANCEY,Jackson?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SITWELL,"DeLancey, Jackson -- report.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,Agents down! We've got a perimeter breach!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SITWELL,Get Coulson.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,You've reached Dr. Erik Selvig. Please leave me a message.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Erik, okay, first of all, don't worry. I'm perfectly fine, really.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"But if you don't hear from me again, you might want to come out to the crater site and look for me. I kind of did what you said I shouldn't do. Thanks. Bye.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,I want eyes up high. With a gun. Now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,barton. Talk to me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"One shot, one kill, sir. Just give the word.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Hello, handsome.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You're big.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Fought bigger.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,No...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,barton...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,...hold your fire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"Ground units, move in. Show's over.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I can't just leave him there.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Why not?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,You didn't see what happened.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Hey! Myeu-muh!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Where did you find this?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,In the children's section. I wanted to show you how ridiculous his story was.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Aren't you the one who's always told me to chase down all leads, all possibilities? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"I was talking about science, not magic! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Magic's just science we don't understand yet. Arthur C. Clarke.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Who wrote science fiction.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,The precursor of science fact.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,In some cases.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"If that's really an Einstein-Rosen Bridge out there, then there's something on the other side. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Advanced beings could have come through it before.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Jane...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,A primitive culture like the Vikings might have worshipped them as deities.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Yes! Exactly! Thank you!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Jane, if you do this, you'll find yourself in a situation that I won't be able to get you out of this time. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,I'll help you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"It's not easy to do what you did. You made us all look like a bunch of mall cops. That's hurtful. The men you so easily subdued are highly-trained professionals, and in my experience, it takes someone who's received similar training to do what you did to them. Would you like to tell me where you received your training?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"Pakistan? Chechnya? Afghanistan? Then again, you strike me more as the soldier of fortune type. What was it, South Africa?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Certain groups pay well for a good mercenary. Especially HYDRA.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Just a man.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"One way or another, we find out what we want to know. We're good at that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I thought he'd never leave.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki? What are you doing here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I had to see you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What's happened? Tell me! Is it Jotunheim? Let me explain to FATHER--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Father is dead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Your banishment, the threat of a new war, it was too much for him to bear.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You mustn't blame yourself. I know that you loved him. I tried to tell him so, but he wouldn't listen. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"It was cruel to put the hammer within your reach, knowing you could never lift it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,The burden of the throne has fallen to me now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Can I come home?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,The truce with Jotunheim is conditional upon your exile.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,But couldn't we find a way to--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Mother has forbidden your return.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"This is goodbye, brother. I'm so sorry. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, I'm sorry. Loki... thank you for coming here. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Nothing could have stopped me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Fare well, brother. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Good-bye.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Good-bye? I just got back.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Now. Where did we leave off?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SITWELL,Sir... he's got a visitor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"""Donald Blake?""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Doctor Donald Blake. He's part of our team.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"You have dangerous coworkers, Dr. Selvig. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Troubled, not dangerous. He was distraught when he found out that you'd taken all of our research. It was years of his life, gone! He got depressed, started drinking, and... well, you know the rest. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Uh-huh. You mind if we take a moment to verify his identity?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Certainly.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"You can understand how a man could go off like that. I mean, a big, faceless organization like yours, coming in with their jack-booted thugs and stealing private property... ...is how he described it. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,That doesn't explain how he managed to tear through our security.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Steroids. He's a bit of a fitness nut.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,It says here he's an M.D.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"He is. That is, he was. He switched careers and became a physicist. He's quite brilliant, really. If you would just release him to me, I promise to keep an eye on him.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Release Dr. Blake to Dr. Selvig here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Make sure he stays in town for the next few days in case we need to talk to him again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Donny, Donny, Donny! There you are!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"It's going to be all right, my friend. Come on, I'm taking you home.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Just keep him away from the bars.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I will!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Where are we going?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,To get a drink.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Follow them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,Tell me why I shouldn't kill you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I've come alone and unarmed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,To what end?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,To make you another proposition.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,So you're the one who let us into Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You're welcome.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"My men are dead, and I have no Casket. You are a deceiver.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You have no idea what I am.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Hello, Father.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"Ah, the bastard son. I thought Odin had killed you. That's what I would have done. He's as weak as you are. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"No longer weak. I now rule Asgard, until Odin awakens. Perhaps you should not have so carelessly abandoned me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,Or perhaps it was the wisest choice I've ever made. I will hear you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"I will conceal you and a handful of your soldiers, lead you into his chambers, and let you slay him where he lies. I'll keep the throne, and you will have the Casket.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,Why would you do this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"When all is done, we will have a permanent peace between our two worlds. Then I, the bastard son, will have accomplished what Odin and Thor never could. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,This is a great day for Jotunheim. Asgard is finally ours.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"No. Asgard is mine. The rest of the Nine Realms will be yours, if you do as you're told.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,I accept.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"What troubles you, Gatekeeper? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"I turned my gaze upon you in Jotunheim, but could neither see nor hear you. You were shrouded from me, like the Frost Giants who entered this Realm. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Perhaps your senses have weakened after your many years of service.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Or perhaps someone has found a way to hide that which he does not wish me to see.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You have great power, Heimdall. Tell me, did Odin ever fear you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,And why is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"Because he is my King, and I am sworn to obey him. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Exactly. Just as you're sworn to obey me now. Yes?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Good. Then you will open the Bifrost to no one until I have undone what my brother has started.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Seems Darcy's a terrible intern, but a talented hacker. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thank you for what you've done.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Don't thank me. I only did it for Jane.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Are you in love with her?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Of course not! Jane's like a daughter to me. Her father and I taught at University together. A good man, but he never listened.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Neither did I.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"I don't know if you're really delusional, and I really don't care at this point. I just care about her. I've seen the way she looks at you. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I swear to you, I mean her no harm. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Good. If that's the case, then I'll buy you one more drink, and you'll leave town tonight.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I had it all backwards. I had it all wrong.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"It's not a bad thing, finding out that you don't have all the answers. That's when you start asking the right questions.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"For the first time in my life, I have no idea what I'm supposed to do. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Anyone who's ever going to find their way in this world has to start by admitting they don't know where the hell they are.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,"Hey, I know you, man...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,You were in the diner with that hot girl.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,I wouldn't mind her doing a little research on me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I have no quarrel with you. But she's a lady. You should be more respectful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,"And you should shut the hell up, princess.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I will not fight him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOWNIE PETE,Then it'll be easy to kick your ass.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Gentlemen, please. Let's keep our heads.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Another drink?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR/SELVIG,"""The mood is good, our hearts are 
+full, there's magic in the air. / 
+It's all because we're here 
+tonight, and haven't got a care. / 
+So raise a glass, and toast to 
+life, wherever it may lead / Tra-la- 
+la, tra-la-la, a friend is fine 
+indeed. / Tra-la-la, tra-la-la, a 
+friend is fine indeed!""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Erik! Is he all right?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He's fine. Not injured at all.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Sorry, my friend. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What happened?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We drank. We fought. He made his ancestors proud.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Put him on the bed.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I still don't believe you're the God of Thunder. But you ought to be.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,These are your chambers?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"Well, it's more of a temporary living space, really. I don't usually have visitors in here. Actually, never...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Can we go outside?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I come up here sometimes when I can't sleep. Or when I'm trying to reconcile particle data. Or when Darcy's driving me crazy. I come up here a lot, now that I think about it.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I'm glad you're safe.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You've been very kind. I've been far less grateful than you deserve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"I also hit you with my car a couple times, so it kind of evens out.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I don't believe it...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It was all I could get back. Not as much as I promised. I'm sorry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"No, this is good. Thank you. This means I don't have to start from scratch...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What's wrong?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,"SHIELD, whatever they are. They're never going to let this research see the light of day. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You must do this. You must finish what you've started.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Why?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Because you're right. It's taken so many generations for your people to get to this point. You're nearly there. You just need someone to show you how close you really are.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Look -- your ancestors called it magic. You call it science. I come from a place where they're one and the same thing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What is it?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"This is how my father explained it to me... Your world is one of the Nine Realms of the Cosmos, linked to each other by the branches of Yggdrasil, the Worlds Tree. Now, you see it every day, without realizing. Images glimpsed through - - what did you call it?... this Hubble Telescope. So, Nine Realms...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Our dearest friend banished, Loki on the throne, Asgard on the brink of war, yet you manage to consume four wild boar, six pheasant, a side of beef, and two casks of ale. Shame on you! Don't you care?!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Do not mistake my appetite for apathy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Stop it, both of you! We all know what we have to do, we're just too damned afraid to do it! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,We must go. We must find Thor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"It's treason, Hogun. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"To hell with treason, it's suicide. Now, shh! Heimdall may be watching! It's said he can hear-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Yes, yes, we know! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Thor would do the same for us.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+EINHERJAR GUARD,Heimdall demands your presence.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,We're doomed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I need some coffee.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Thanks.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You're very welcome.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT GARRETT,They want an update.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT CALE,Tell them he's eating eggs.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT GARRETT,Scrambled or fried?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT CALE,"Target is eating eggs, sir. We'll keep you posted.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,May I have this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Sure.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thank you. Excuse me a moment.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,To replace the one I broke. Please forgive my behavior.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ISABEL,Okay. Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"If I may, I'd like to come back for more of your ""coffee.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ISABEL,Any time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ISABEL,She could do worse.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Good Heimdall, less us explain-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"You would defy the commands of Loki our King, break every oath you have taken as warriors, and commit treason to bring Thor back? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,"Yes, but-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,So you'll help us?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,I am bound by honor to our King. I cannot open the Bifrost to you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Complicated fellow, isn't he? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Now what do we do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Look!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,What the hell was that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TECHIE,"I don't know, sir. We got massive energy readings out of nowhere, then they just disappeared. Fifteen miles due northwest. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Let's go take a look.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,He must have landed nearby. It's time to put our tracking skills to work. Spread out. Check the sand for indentations of his boot prints.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,The winds would have blown them away by now. We should look for signs of a campfire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Or we could just start there.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"It's worth a look, I suppose.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"There you go, lad!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Is it just me, or does Earth look a little different to you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,It has been a thousand years...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Things change so fast here. You leave for a millennium, and it's like the whole neighborhood's gone.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Perhaps we should split up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT GARRETT,Is there a Renaissance Faire in town?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT CALE,Call it in.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Never cared for spies.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Exquisite.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+EINHERJAR GUARD,"My liege, the Warriors Three and the Lady Sif have gone missing.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"Tell me, Loki, how did you get the Jotuns into Asgard? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You think the Bifrost is the only way in and out of the Realm? There are secret paths between worlds to which even you with all your gifts are blind. But I have need of them no longer, now that I am King. And I say, for your act of treason, you are relieved of your duties as Gatekeeper. And you are no longer a citizen of Asgard. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Then I need no longer obey you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Ensure my brother does not return.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Found you!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,My friends!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I don't believe it...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Who are they?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Lady Sif and the Warriors Three. Surely you've heard tales of Hogun the Grim, Fandral the Dashing, and I, Volstagg the Svelte?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Well, perhaps I've put on a little more muscle since I was here last. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,That would have been a thousand years ago? Northern Europe?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Exactly! Those lovely herring people. They worshipped us!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"My friends, I've never been happier to see anyone. But you should not have come. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,We're here to take you home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You know I can't. My father is dead because of me. I must remain in exile.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Thor... your father still lives.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Get somebody from Linguistics out here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Was somebody else coming?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SHIELD AGENT,Is that one of Stark's?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,I don't think so. But the guy doesn't tell me anything.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Hello! You're using unregistered weapons technology. Please identify yourself.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Incoming!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Leave this town now. Get yourself and your friends to safety.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What about you?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I must stay and fight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I'm still a warrior, and I will fight by your side. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,You're but a mortal now. You'll get yourself killed!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Or one of us, trying to protect you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,The best thing you can do is get the mortals to safety and leave the battle to us.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You're right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Help me clear the streets. I'll let none of these people die this day.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Father. Welcome to Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,Keep him distracted.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"What do you think? ""The Svartalfheim Twist?"" ""Kiss of the Hag?"" ""Face Full of Boot?""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"""The Flying Mountain."" ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Not ""The Flying Mountain!"" It threw out my back for a year last time! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Trust me, it'll work.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"My friends fight bravely, but they won't be able to hold it back much longer.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Come on!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,For Asgaaaaard!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Erik!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Go! Leave me!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Come on... give me one!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,What are you doing? What is that?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,I'm really starting to like him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Go, while you can! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,But the others...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You can't help them now. Your job is to survive.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,No! I will die a warrior's death. Stories will be told of this day--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Live and tell those stories yourself.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Get him out of here!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,No. We can still fight!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"But not win. Move Volstagg, or he'll die!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Don't worry, my friends. I have a plan.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Brother... for whatever I have done to wrong you, whatever I have done to lead you to do this, I am sorry. But these people have done nothing to you. They are innocents.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Take my life, and know I will never return to Asgard.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,"Jane, no!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Oh. My. God.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Donald... I don't think you've been completely honest with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,"So, how can you speak our language? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Your language? Ha! Silly girl, you're speaking ours.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Heimdall! Open the Bifrost!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He would open it if he could. I fear the worst.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Then we're trapped here forever.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Then I suppose we'd best start settling into our new lives.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Are all earth maidens as fair as you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Heimdall!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"Primitive. Good enough for hunting small game, I suppose.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Sorry, my love. These things happen.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Know this, son of Coul. You and I, we fight for the same cause -- the protection of this world. From this day forward, count me as your ally. If you return the items you have stolen from Jane Foster. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Not stolen. Borrowed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"You'll get your equipment back. You're going to need it to continue your research... which, after today's events, SHIELD would like to fully sponsor. If that's all right with you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Whatever fate lies before me, you are part of it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Get him to the healing room! Leave my brother to me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAUFEY,"It's said you can still see and hear what transpires around you, even in this state. I hope it's true, so that you may know your death came by the hand of Laufey.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,And your death came by the son of Odin.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"I swear to you, mother, they will pay for what they've done today. I will end the Jotun threat, now and forever!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,And I will make you proud.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,Thor!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Found its way back to you, did it? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,No thanks to you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Why don't you tell her? How you sent the Destroyer to kill our friends? To kill me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It must have been enforcing Father's last command.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You're a talented liar, brother. Always have been. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"It's good to have you back. Now, if you'll excuse me, I need to destroy Jotunheim.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Jotunheim...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"All these years, and no one's ever dared to use it as a weapon.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You can't stop it. The Bifrost will build until it rips Jotunheim apart.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Why have you done this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"To do what Father never could. To destroy their kind forever. When he awakens, he'll see the wisdom of what I've done. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He won't! You can't kill an entire race!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"What is this newfound love for the Frost Giants? You, who would have killed them all with your bare hands. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I've changed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,So have I.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Fight me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Is the throne really worth what you've done? What you would become?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I never wanted the throne. I only wanted to be your equal. Now fight me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I will not fight you, brother. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I am not your brother. I never was.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Loki, this is madness...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Is it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What happened to you on earth that turned you so soft? Don't tell me it was a woman.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It was.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SELVIG,Jane?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Something's wrong.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"If you care so much for the Jotuns, then die with them.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Thor! Help me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Please...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I was always more clever than you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yet still not clever enough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Look at you, the Mighty Thor. With all your strength, what good does it do you now?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Stop! What are you doing?!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"If you destroy the Bridge, you'll never see her again!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Forgive me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,No!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,It is over.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,It's gone.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"...and then, with a mighty bellow, I flew at the great metal beast and laid it low... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,Is that another way of saying you fell on your huge a--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,"As a matter of fact, falling down was a tactic. Lulling the Destroyer into a false sense of security! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Well, I was the one who had to drag your enormous carcass off the battlefield. That makes me the real hero. Doesn't it, Hogun?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,Big stomach. Big mouth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FANDRAL,"Well, how about that? A smile! I'd say that calls for another drink!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,My Queen. I am so sorry for your loss.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,"Thank you, Sif.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,How is he?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,He mourns for his brother. And he misses her. The mortal.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIGGA,He will need his friends now more than ever.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SIF,I will always be at his side.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You'll be a wise King.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"There will never be a wiser king than you. Or a better father. I have much to learn. I know that now. But some day, perhaps, I will make you proud. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You've already made me proud.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Can you see her?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How is she?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,Here you go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,Thanks.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DARCY,He would have come back if he could.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,I know. But if he can't get here on his own...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JANE,...maybe we can help him find his way back.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised

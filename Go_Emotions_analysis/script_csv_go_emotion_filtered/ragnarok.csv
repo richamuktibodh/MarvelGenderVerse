@@ -1,0 +1,962 @@
+character,line,gender,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Now I know what you’re thinking. Oh no!  Thor’s in a cage.  How did this happen? Well, sometimes you have to get captured just to get a straight answer out of somebody. It’s a long story but basically I'm a bit of a hero. See, I spent some time on earth, fought some robots, saved the planet a couple of times. Then I went searching through the cosmos for some magic, colorful Infinity Stone things... didn’t find any. That’s when I came across a path of death and destruction which led me all the way here into this cage... where I met you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How much longer do you think we’ll be here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"Thor, Son of Odin.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Surtur.  Son of a bitch...you’re still alive!  I thought my father killed you, like, half a million years ago. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,I cannot die. Not until I fulfill my destiny and lay waste to your home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You know, it’s funny you should mention that because I’ve been having these terrible dreams of late.  Asgard up in flames, falling to ruins, and you Surtur are at the center of all of them. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"Then you have seen Ragnarok, the fall of Asgard. The great prophecy-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hang on.  Hang on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’ll be back around shortly.  I really feel like we were connecting there.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Okay, so, Ragnarok. Tell me about that. Walk me through it. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"My time has come. When my crown is reunited with the Eternal Flame, I shall be restored to my full might. I will tower over the mountains and bury my sword deep in Asgard’s-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, hang on.  Give it a second.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I swear I’m not even moving, it’s just doing this on its own.  I’m really sorry. Okay, let me get this straight. You’re going to put your crown into the Eternal Flame, and then you’ll suddenly grow as big as a house-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,A mountain!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The Eternal Flame that Odin keeps locked away on Asgard?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,Odin is not on Asgard. And your absence has left the throne defenseless.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Okay, so where is it? This crown? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"This is my Crown, the source of my power.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, that’s a crown? I thought it was a big eyebrow. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,It’s a crown.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Anyway, it sounds like all I have to do to stop Ragnarok is rip that thing off your head.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"But Ragnarok has already begun. You cannot stop it.  I am Asgard’s doom, and so are you.  All will suffer, all will burn.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"That’s intense.  To be honest, seeing you grow really big and set fire to a planet would be quite the spectacle.  But it looks like I’m going to have to go with option B where I bust out of these chains, knock that tiara off your head, and stash it away in Asgard’s vault. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,You cannot stop Ragnarok. Why fight it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Because that’s what heroes do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Wait, sorry.  I didn’t time that right.  And, now!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"You have made a grave mistake, Odinson.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I make grave mistakes all the time. Everything seems to work out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Heimdall. I know it’s been a while, but I could use a fast exit!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,...Heimdall?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"Heimdall was an idiot.  This job should have made him rich.  Now, the job ain’t easy, but it does have its benefits. The Bi-Frost gives me access to everything the Nine Realms have to offer. I mean it’s all mine for the taking. Behold...my stuff. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"I’m particularly fond of these. I pulled ‘em out of a place on Midgard called Texas.  I even named them. Des and Troy.  You see, when you put them together...they destroy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Heimdall, come on.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Stay. I’m running short on--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,-options.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Heimdall?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ASGARDIAN WOMAN,"Skurge, is that important?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,You girls are in for a treat.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"Girls! Well well, look who decided to pop in.  Thanks for scaring away my company and drenching my workplace in brains. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,Don’t you remember?  I’m Skurge. We fought together on Vanaheim.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Right.  Where’s Heimdall?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"That traitor.  No one knows, he’s a fugitive of the throne. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Traitor?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"Yeah, you see, Odin charged Heimdall with negligence of duty, but he disappeared before the trial.  Hard to catch a guy who can see everything in the Universe.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sure.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,Hold on.  I’m supposed to announce your arrival.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What the hell is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Oh, brother.  This is it.  I take my leave. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You fool, you didn’t listen! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’m sorry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Lady Sif!  Get help!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ACTOR SIF,Somebody help!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Sorry for all I’ve done.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s all right.   Hold on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’m sorry I tried to rule Earth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,They’d be lucky to have you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’m sorry about that thing with the Tesseract.  I just couldn’t help myself.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I know.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’m a trickster.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,So mischievous.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Sorry about that time I turned you into a frog.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It was a wonderful joke.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Twas indeed hilarious.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You are the savior of Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Tell my story.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I will.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Build a statue for me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We will build a big statue for you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"With my helmet on, with the big bendy horns. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I will tell Father what you did here today.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I didn’t do it for him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Noooooo!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"And so Loki died of his wounds, giving his life for ours.  He fought back those disgusting dark elves.  He brought peace to the realm.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Loki, my boy...‘Twas many moons ago I found you on a frost-bitten battlefield.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"On that day, I did not yet see in you Asgard’s savior.  No.  You were merely a little blue baby icicle... that melted this old fool’s heart.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Bravo!  Bravo!  Well done.  Bravo.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Father.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Oh, shit.  My son!  Thor has returned! Greetings my boy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s an interesting play.  What’s it called?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,The Tragedy of Loki of Asgard. The people wanted to commemorate him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Indeed they should. I like that statue.  A lot better looking than he was when he was alive, though.  A little less weasely.  Less greasy maybe.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You know what this is?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,The skull of Surtur?  That’s a formidable weapon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Do me a favor.  Lock this in a vault so it doesn’t turn into a giant monster and destroy the whole planet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"So it’s back to Midgard for you, is it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Nope.  I’ve been having this reocurring dream lately. Every night I see Asgard fall into ruins...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,That’s just a silly dream... Signs of an overactive imagination.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Possibly... but then I decide to go out there and investigate.  And what do I find, but the Nine Realms completely in chaos.  Enemies of Asgard assembling, plotting our demise, all while you, Odin, the protector of those Nine Realms, are sitting here in your bathrobe, eating grapes. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Well, it is best to respect our neighbors’ freedom. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Of course, the freedom to be massacred. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Yes, besides, I have been rather busy myself. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Watching theatre.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Board meetings, and security council meetings... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You really going to make me do it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Do what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You know that nothing will stop Mjolnir as it returns to my hand.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Not even your face.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,You’ve gone quite mad.  You’ll be executed for this!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Then I’ll see you on the other side...brother.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Alright, I yield!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,Behold!  Thor..Odinson.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You had one job!  Just the one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Where’s Odin?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You just couldn’t stay away, could you?  Everything was fine without you.  Asgard was prospering.  You’ve ruined everything.  Ask them.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Where’s father?  Did you kill him?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You had what you wanted, you had the independence you asked for!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Ow-ow-ow!  Alright!  I know exactly where he is.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"I swear, I left him right here. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Right here on the sidewalk?  Or right there, where the building that’s being demolished?  Great planning. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,How was I supposed to know? Can’t see into the future.  I’m not a witch.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Then why do you dress like one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Hey.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I can’t believe you’re alive. I saw you die. I mourned you, I cried for you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’m honored.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COLLEGE GIRL 2,Ask him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COLLEGE GIRL 1,Hi. Would you mind taking a picture with us?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sure. Start figuring out where he is.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COLLEGE GIRL 1,"Oh, my god. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COLLEGE GIRL 2,Sorry to hear that Jane dumped you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"She didn’t dump me, you know.  I dumped her.  It was a mutual dumping.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"What’s this, what are you doing!?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,This... isn’t me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Thor Odinson.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,God of Thunder.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,You can put down the umbrella.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,So earth has wizards now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,The preferred term is “Master of the Mystic Arts.”,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Alright wizard, who are you?  Why should I care? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,My name is Doctor Stephen Strange and I have some questions for you. Take a seat.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Tea?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I don’t drink tea.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,What do you drink?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Not tea.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,So I keep a watch list of individuals and beings from other realms that may be a threat to this world.  Your adopted brother Loki is one of these beings.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He’s a worthy inclusion.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Then why bring him here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We’re looking for my father.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,"So.  If I were to tell you where Odin was, all parties concerned would promptly return to Asgard? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Promptly.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Great.  Then I’ll help you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"If you knew where he was, why didn’t you call me? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,"I have to tell you, he was adamant that he not be disturbed.  Your father said he had chosen to remain in exile. And you don’t have a phone. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, I don’t have a phone, but you could have sent an electronic letter.  It’s called an email. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,"Yeah, do you have a computer? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No. What for? Anyway, my father is no longer in exile. So if you could tell me where he is, I can take him home. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Gladly.  He’s in Norway.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,I’m just seeing whether this incantation requires any Asgardian modifications.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Nope.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,"Oh, we don’t need that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Will you stop doing that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,I need just one strand of your hair.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Let me explain something, my hair is not to be meddled wi-!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We could have just walked.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,He’s waiting for you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,All right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Don’t forget your umbrella.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sorry,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I suppose I’ll need my brother back.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,"Yeah, right.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,...I have been falling...for thirty minutes!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,You can handle him from here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yeah of course. Thank you very much for your help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Good luck.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Handle me?  Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"..you think you’re some kind of sorcerer? Don’t think for one minute, you second-rate... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEPHEN STRANGE,Bye-bye.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Father?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Look at this place. It’s beautiful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Father, it’s us. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,My sons.  I’ve been waiting for you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I know.  We’ve come to take you home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Home, yes.  Your mother, she calls me.  Do you hear it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Loki, lift your magic.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Took me quite a while to break free from your spell.  Frigga would have been proud.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Come and sit with me.  I don’t have much time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I know that we failed you, but we can make this right. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,I failed you. It is upon us...Ragnarok.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, I’ve stopped Ragnarok.  I put an end to Surtur. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"No.  It has already begun.  She’s coming.  My life was all that held her back, but my time has come.  I cannot keep her away any longer. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Father, who are you talking about? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,The Goddess of Death.  Hela.  My first born. Your sister.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,...what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Her violent appetites grew beyond my control.  I couldn’t stop her, so I imprisoned her.  Locked her away.  She draws her strength from Asgard...and once she gets there, her powers will be limitless. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Whatever she is, we can stop her. We can face her together. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,No we won’t.  I’m on a different path now.  This you must face alone.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,I love you my sons.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Look at that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Remember this place.  Home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Brother.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This was your doing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,So he’s gone? That’s a shame.  I would’ve liked to have seen that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You must be Hela.  I’m Thor, son of Odin. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Really, you don’t look like him. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Perhaps we can reach an arrangement.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,You sound like him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Kneel.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Beg your pardon?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Kneel...before your Queen.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I don’t think so.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s not possible.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Darling, you have no idea what’s possible.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Bring us back!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,No!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOLSTAGG,Who are you!?  What have you done with Thor?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,I’m Hela.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,I’m just a janitor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,You look like a smart boy with good survival instincts.  How would you like a job?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LEAD SCRAPPER,Are you a fighter or are you food?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’m just passing through.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LEAD SCRAPPER,It is food.  On your knees.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,He’s MINE.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,Wait!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,"Wait!  He’s mine.  So if you want him, you go through me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER,But we’ve already got him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,Alright then I guess I go through you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LEAD SCRAPPER,More food.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,This is Scrapper 142. I need clearance and an audience with the boss.  I’ve got something special.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hey!  Where are you taking me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Answer me! Hey! I am Thor, son of Odin.  I need to get back to Asgard. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,"Many apologies, your majesty.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,It’s come to my attention that you don’t know who I am.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"I am Hela, Odin’s first born, Commander of the legions of Asgard, the rightful heir to the throne, and the Goddess of Death. My father is dead.  As are the princes.  You’re welcome. We were once the seat of absolute power in the Cosmos.  Our supremacy was unchallenged, yet Odin stopped at Nine Realms.  Our destiny is to rule over all others.  And I am here to restore that power.  Kneel before me...and rise into the ranks of my great conquest. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,"Whoever you are... whatever you’ve done, surrender now!  Or we will show you know mercy. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Whoever I am?  Did you listen to a word I said?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,This is your last warning!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,I thought you’d be happy to see me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Fine.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Oh, I’ve missed this.  Still, it’s a shame.  Good soldiers dying for nothing...all because they couldn’t see the future.  Sad. Oh!  Look, still alive.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Change of heart?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HOGUN,Go back to whatever cave you crept out of you evil demoness!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Let’s go see my palace.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,"Fear not, for you are found.  You are home, and there is no going back.  No one leaves this place.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,But what is this place?  The answer in Sakaar.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,"Surrounded by cosmic gateways, Sakaar lives on the edge of the known and unknown. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,"It is the collection point for all lost and unloved things.  Like you. But here on Sakaar, you are significant.  You are valuable. Here, you are loved. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What...the hell?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,And no one loves you more than the Grandmaster.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,"He is the original.  The first lost, and the first found.  The creator of Sakaar and the father of the Contest of Champions.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,"Where once you were nothing, now you are something.  You are the property of the Grandmaster. Congratulations!  You will meet the Grandmaster in five seconds.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOOTHING VOICE,Prepare yourself.  Prepare yourself.  You are now meeting the Grandmaster.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,He’s wonderful. It is a he?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,It’s a he.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Yeah. I love when you come to visit 142, you bring me the best stuff. Whenever we get to talking, Topaz, about Scrapper 142...what do I always say? “She is the...” and it starts with a B. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Trash.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"No, not trash.  Were you waiting just to call her that?  It doesn’t start with a “B.” ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Booze hag.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"I’m so sorry.  No, “best.”  I was thinking about “best.” Because I always say you’re the best.  She brought me my precious beloved Champion, you know. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,You say that every time she’s here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,What have you brought today?  Tell me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,A contender.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,A what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,I need to go closer.  I want a closer look at this.  Can you take us closer?  Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Pay this lady.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Just wait a damn minute.  I’m not for sale.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Man.  He is a fighter.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,I’d take 10 million.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Tell her she’s dreaming.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"For heaven’s sake, transfer the units.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’ll pay for this!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,"No, I got paid for this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Here’s what I wanna know.  Who are you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I am the God of THUNDER!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Wow.  I didn’t hear any thunder, but out of your fingers, was that like...sparkles? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,We located your cousin.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Oh good! Yeah, come on. I think you’re gonna like this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"There he is.  Hey, cuz.  We almost couldn’t find you.  What, have you been hiding?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hi.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,So...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COUSIN CARLO,Please.  I’m sorry.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Carlo... I pardon you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+COUSIN CARLO,Thank you.  Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,You’re officially pardoned...from life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, my god!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,I’m stepping in it.  I’m stepping in it.  Look out!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, the smell. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,What does it smell like?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Burnt toast.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,What happened to my manners?  I haven’t properly introduced myself. Come on.  Follow me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"My name is Grandmaster.  I preside over a little harlequinade called the Contest of Champions.  People come from far and wide to unwillingly participate in it.  And you, my friend, might just be part of the new cast.  What do you say to that? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"We’re not friends, and I don’t give a shit about your games! I’m going back to Asgard! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Ass-gard? One, two, three, four.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"There was a wormhole in space and time beneath me.  At that moment, I let go. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki!? Loki! Over here!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Excuse me one second.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What?  You’re alive?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, of course I’m alive. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What are you doing here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"What do you mean, what am I doing? I’m stuck in this stupid chair. Where’s your chair? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I didn’t get a chair.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Get me out of this one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I can’t.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’ve made friends with this man. He’s called the Grandmaster.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, he’s crazy! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’ve gained his favor.. The Bi- Frost brought me out here weeks ago.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Weeks ago?  I just got here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,What are you whispering about?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Time works real different around these parts. On any other world, I’d be like, millions of years old. But here on Sakaar...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"In any case, you know this... You call yourself Lord of Thunder? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,God of Thunder.  Tell him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’ve never met this man in my life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He’s my brother.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Adopted.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Is he any kind of a fighter?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You take this thing out of my neck and I’ll show you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Now listen to that.  He’s threatening me.  Hey, Sparkles, here’s the deal.  If you wanna get back to Ass-place, Assberg... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Any contender who defeats my champion, their freedom they shall win. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Fine.  Then point me in the direction of whoever’s ass I have to kick.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"That’s what I call, contender! Direction would be this way, Lord. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Hey!  Take it easy man! Over here.  The pile of rocks waving at you.  Yeah I’m actually a thing, I’m a being.  Allow me to introduce myself, my name is Korg. I’m kind of like the leader in here.  I’m made of rocks, as you can see, but don’t let that intimidate you.  You don’t need to be afraid unless you’re made of scissors. Just a little rock-paper-scissor joke for you.  This is my very good friend over here, Miek.  He’s an insect and has knives for hands.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You’re a Kronan, aren’t you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,That I am.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How’d you end up in here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Well, I tried to start a revolution but didn’t print enough pamphlets, so hardly anyone turned up. Except for my mom and her boyfriend, who I hate.  As punishment, I was forced to be in here and become a gladiator.  Bit of a promotional disaster. But I’m actually organizing another revolution.  I don’t know if you’d be interested in something like that.  Do you reckon you’d be interested?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How did you...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Yeah, no.  This whole thing is a circle.  But not a real circle, more like a freaky circle. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This doesn’t make any sense.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"No, nothing makes sense here. The only thing that does make sense, is that nothing makes sense. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Has anyone here fought the Grandmaster’s Champion?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Doug has. Doug! Oh, right, Doug’s dead. That’s right.  Everyone who fights the Grandmaster’s champion perishes. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What about you? You’re made of rocks.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Perishable rocks. There you go. Another one gone. Yeah, no, I just do the smaller fights, warm up the crowd and whatnot.  Wait. You’re not gonna face him, are you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes I am.  Fight him, win, and get the hell out of this place. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"That’s exactly what Doug used to say.  See you later, new Doug.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Does no one remember me?  Has no one been taught our history? Look at these lies.  Goblets and garden parties?  Peace treaties?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Odin... proud to have it... ashamed of how he got it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"We were unstoppable. I was his weapon in the conquest that built Asgard’s empire. One by one, the realms became ours.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"But then, simply because my ambition outgrew his...he banished me, caged me, locked me away like an animal.  Before that, Asgard’s warriors were honored, their bodies buried as heroes beneath this very place.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,Odin’s treasures.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Fake.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Most of the stuff in here is fake.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Or weak.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Smaller than I thought it would be.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,That’s not bad? But this... The Eternal Flame.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Want to see what true power looks like?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Fenris.  My darling, what have they done to you?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"With the Eternal Flame, you are reborn!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,I’ve missed you.  I’ve missed you all.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Odin, I bid you take your place in the halls of Valhalla... Where the brave shall live forever. Nor shall we mourn but rejoice- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,-for those that have died the glorious death.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,-for those that have died the glorious death.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"It hurts, doesn’t it? Being lied to. Being told you’re one thing and then learning it’s all a fiction.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You didn’t think I’d really come and see you, did you?  This place is disgusting.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Does this mean you don’t want my help?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Look, I couldn’t jeopardize my position with Grandmaster, it took me time to win his trust. He’s a lunatic, but he can be amenable.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"What I’m telling you is, you could join me at the Grandmaster’s side. Perhaps, in time, an accident befalls the Grandmaster, and then... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You’re not seriously thinking of going back, are you? Our sister destroyed your hammer like a piece of glass.  She’s stronger than both of us.  She’s stronger than you. You don’t stand a chance. Do you understand what I’m saying to you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Fine.  I guess I’ll just have to go it alone.  Like I’ve always done.  Would you say something?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Say something!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"What would you like me to say?  You faked your own death, you stole the throne, stripped Odin of his power, stranded him on Earth... -to die, releasing the Goddess of Death. Have I said enough, or do you do you want me to go further back than the past two days?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"You know, I haven’t seen this Beloved Champion he talks of, but I’ve heard he’s astonishingly savage.  I’ve placed a large wager against you tomorrow. Don’t let me down.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Piss off, ghost! He’s freaking gone.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Yuck!  There’s Still someone’s hair and blood all over this.  Guys, can you clean up the weapons once you finish your fight?  Disgusting slobs. Thor...wanna use a big wooden fork? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Yeah, not really useful unless you’re fighting off three vampires that were huddled together. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I really wish I had my hammer.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,Hammer?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Quite unique.  It was made from this special metal from the heart of a dying star.  And when I spun it really, really fast it gave me the ability to fly. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,You rode a hammer?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, I didn’t ride the hammer. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,The hammer rode you on your back?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No. I used to spin it really fast, and it would pull me off the... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,Oh my God.  The hammer pulled you off?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"The ground.  It would pull me off the ground, up into the air, and I would fly.  Every time I threw it, it would always come back to me. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,Sounds like you had a pretty special and intimate relationship wiht this hammer and that losing it was almost comparable to losing a loved one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s a nice way of putting it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,I said they’re mine.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"See her, the one that put me in here. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Yeah, Scrapper 142.  She’s strong. And she drinks a lot. Gotta watch out for those Asgardians, man.  They are hard to perish. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Asgardian?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hey!  Hey!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Do not zap me with that thing. I just wanna talk.  Asgard is in danger.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"My God, you’re a Valkyrie. I used to wanna be a Valkyrie when I was younger...until I found out that you were all women.  There’s nothing wrong with women, of course.  I love women.  Sometimes a little too much.  Not in a creepy way, just more of a respectful appreciation.  I think it’s great that there is an elite force of women warriors.  It’s about time. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,Are you done?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WARDEN,"Lord of Thunder, you’re up. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Please, help me.  I need your help. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,Bye.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Fine, then you must be a traitor or a coward because the Valkyrie are sworn to protect the throne.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SCRAPPER #142,"Listen closely, your majesty. This is Sakaar, not Asgard. And I’m a scrapper, not a Valkyrie.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WARDEN,Bring him in for processing!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,And no one escapes this place. So you’re gonna die anyway.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STAN LEE,"Now, don’t you move.  My hands ain’t as steady as they used to be. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"By Odin’s beard, you shall not cut my hair... lest you feel the wrath of the might Thor.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Please.  Please, kind sir, do not cut my hair!  No!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Wow!  Look at all of you. What a show, WHAT-A-NIGHT!  Who’s having fun?  Please, I’m your host.  Big round of applause for all of our undercard competitors... who died so gruesomely. Good sports.  What a show! What a night!  This is what you’ve come for and so have I.  And now, without further ado... it’s main event time!! Making his first appearance, though he looks quite promising, got a couple of tricks up his sleeve. I’ll say no more, see what you think.  Ladies and gentlemen...  I give to you...Lord of Thunder!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Watch out for his fingers. They make sparks. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Okay, this is it.  Let’s get ready to welcome this guy. Here he comes. He is a creature.  What can we say about him? Well, he’s unique. There’s none like him.  I feel a special connection with him.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,He’s undefeated.  HE’S THE REIGNING...HE’S THE DEFENDING... Ladies and gentlemen... I give you...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yes!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I have to get off this planet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Hey, hey, hey! Where are you going?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Hey!  We know each other. He’s a friend from work. Where have you been?  Everybody thought you were dead.  So much has happened since I last saw you.  I lost my hammer.  Like, yesterday, so that’s still pretty fresh. Loki!  Loki’s alive.  Can you believe it?  He’s up there. Loki!  Look who it is!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"BRUCE BANNER, I never thought I would say this, but I’m happy to see you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Banner.  Hey, Banner!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,NO BANNER!  ONLY HULK!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What are you doing?  It’s me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"BRUCE BANNER, we’re friends.  This is crazy.  I don’t want to hurt you!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Here we go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Hey, big guy. The sun’s getting real low.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s it.  The sun’s going down. I won’t hurt you anymore.  No one will.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Yes! That’s how it feels! I’m just a huge fan of the sport.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,All right. Screw it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I know you’re in there, Banner. I’ll get you out!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What’s the matter with you? You’re embarrassing me! I told them we were friends! ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CROWD,Thunder! Thunder! Thunder!,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,Thunder! Thunder! Thunder!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Another day, another Doug.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,What is that noise?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,The common folk aren’t exactly falling in line.  There’s a resistance trying to knock down the front gates.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Tell me about yourself, Skurge. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"Well, me dad was a stonemason, me mum was- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,I’ll just stop you there.  What I meant was what is your ambition?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,I just want a chance to prove myself.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Recognition. When I was young every great King had an executioner.  Not just to execute people, but also to execute their vision.  But mainly to execute people.  Still a great honor. I was Odin’s executioner.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,And you will be my executioner. Let’s begin our conquest.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Skurge, where’s the sword?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,That sword is the key to opening the Bi-Frost.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"These people you mentioned, the ones who aren’t falling into line. Round them up.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Excuse me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Sorry about that. These bloody things are everywhere. Come on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,You’ll be safe here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Are we cool?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s Hulk in a hot tub. How long have you been like that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Like what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Like this.  Big, green, ...stupid. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Hulk always Hulk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,How’d you get here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Winning.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You mean cheating? Were they wearing one of these when you won? How’d you arrive here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Quinjet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yes.  Where is the Quinjet now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s naked.  He’s very naked. It’s in my brain now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Quinjet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes!  I’m getting us out of here. This is a terrible, awful place. You’re gonna love Asgard.  It’s big.  It’s golden.  Shiny.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Hulk stay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, no, no.  My people need me to get back to Asgard.  We must prevent Ragnarok. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Rag-na-ruh?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"The prophesied death of my home world, the end of days, it’s the end of-  If you help me get back to Asgard, I can help you get back to Earth. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Earth hate Hulk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Earth loves Hulk.  They love you. You’re of the Avengers.  One of the team, one of our friends.  This is what friends do. They support each other. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,You’re Banner’s friend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’m not Banner’s friend. I prefer you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Banner’s friend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I don’t even like Banner. “I’m into numbers and science and stuff.”,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Thor go. Hulk Stay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Fine.  Stay here.  Stupid place. It’s hideous, by the way.  The red, the white.  Just pick a color.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Smash you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You didn’t smash anything. I won that fight,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I smashed you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yeah, sure, sure. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Baby Arms.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Baby.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Moron!  You big child.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Thor go!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I am going.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Thor go again! Thor home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Hulk trains.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s great. Have fun.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Heimdall, I know you can see me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I need you to help me.  Help me see.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,I see you. But you are far away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What’s going on here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Come see for yourself.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,I’m providing refuge in a stronghold build by our ancestors. But if the garrison falls our only escape will is Bi-Frost.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’re talking about evacuating Asgard?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,We won’t last long if we stay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,She draws her power from Asgard and grows stronger everyday.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Come on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"Hela is ravenous. If I let her leave, she’ll consume the Nine Realms and all the cosmos.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,We need you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I’m working on it, but I don’t even really know where the hell I am.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,You’re on a planet surrounded by doorways.  Go through one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Which one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,The big one!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Thor sad.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Shut up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,THOR SAD!!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I’m not sad, you idiot.  I’m pissed off!  Angry.  I lost my father.  I lost my hammer.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Whining and crying.  Cry like baby.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’re not even listening.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Don’t kick stuff.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’re being a really bad friend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,You bad friend!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You know what we call you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We call you the stupid Avenger.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,You’re tiny Avenger!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"What, are you crazy? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You know what? Earth does hate you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’m sorry I said those things. You’re not the stupid Avenger. Nobody calls you the stupid Avenger.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,It’s okay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You just can’t go around throwing shields at people.  Could have killed me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"I know.  I’m sorry.  I just get so angry all the time.  Hulk always, always angry. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I know. We’re the same, you and I. We’re just a couple of hot-headed fools. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Yeah, same. Hulk like fire, Thor like water. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We’re kind of both like fire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,But Hulk like real fire. Hulk like raging fire.  Thor like smoldering fire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"BRUCE BANNER, I need you to do something for me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Angry girl!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,What’s going on?  What do you...?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,You’re so thick-headed that you can’t tell when someone’s hiding all the way across the universe and wants to be left alone?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We need to talk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"No, you want to talk to me.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I need her to stay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Stay!  Please?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,All right. Here’s the deal. I’ll listen to you till this is empty.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Asgard is in danger and people are dying. We need to get back there. I need your help...wow.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Finished. Bye.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Odin is dead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Hela, the Goddess of Death has invaded Asgard. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,If Hela’s back then Asgard is already lost.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’m going to stop her.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Alone?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Nope. I’m putting together a team. It’s me, you, and the big guy. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,No team.  Only Hulk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s me and you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I think it’s only you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Wait.  Just listen.  The Valkyrie are legend, elite warriors of Asgard.  You are sworn to defend the throne. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I’m not getting dragged into another one of Odin’s family squabbles.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What’s that supposed to mean?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Your sister.  Her power comes from Asgard, same as yours.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"When it grew beyond Odin’s control, she massacred everyone in the palace and tried to seize the throne.  When she tried to escape her banishment, he sent the Valkyrie in to fight her back. I only survived because... Look, I already faced her once back when I believed in the throne, and it cost me everything.  THAT’S what’s wrong with Asgard.  The throne, the secrets, the whole golden sham.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I agree.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Don’t get familiar.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I agree.  That’s why I turned down the throne.  But this isn’t about the crown.  This is about the people.  They’re dying and they’re you’re people, too.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Forget it.  I have.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Okay. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Okay.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Good. Great.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Great.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,For what?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,For this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Didn’t see that did you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"There... that’s better.  You know, go ahead. Stay here and get drunk and enslave people for that lunatic. Keep drinking. Keep hiding. But me...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I choose to run toward my problems and not away from them. Because that’s what...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Because that’s what heroes do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Friend Stay!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,All right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Voice verification required.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Access denied.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Thor, son of Odin. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Access denied.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,God of Thunder.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Access denied.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Strongest Avenger.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Access denied.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Strongest Avenger!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Access denied.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Damn you, Stark. Point Break. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,"Welcome, Point Break.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Friend stay!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, no, no!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Stay!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Stop! Stop breaking everything!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Don’t go!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Nice work, big guy.  We don’t know where Ultron’s headed, but you’re going very high, very fast.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"...So, I need you to turn this bird around, okay? We can’t track you in stealth mode...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,...So I need you to help me out. Okay? I need you to...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"No!  No, Banner!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Banner. Hey, hey, hey. You all right, Banner?  Sun’s going down. Sun’s going down.  That’s it, breathe. I won’t hurt you. Sun’s going down. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,...Thor?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yeah. Quite a lot’s happened. You and I had a fight recently.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What happened to your hair?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Some creepy old man cut it off.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,It looks good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thanks.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Where are we?  How’s Nat?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Nat is good, I’m sure. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,And what about Sokovia?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sokovia?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"The city, Sokovia.  Did we save it? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"BRUCE BANNER, listen. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sokovia.  Ultron.  That was two years ago.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What are you saying? I’ve been Hulk for two years?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’m afraid so.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What the hell happened?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"BRUCE BANNER, there’s something you should know...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,Voice Activation required.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Banner.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+QUINJET,"Welccome, Strongest Avenger. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Ship’s log...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Thor, where are we? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yeah, about that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"It’s bad news, bad news today.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Sakaar, hear ye.  Attention please. I have some bad news.  My beloved, exalted Champion has turned up missing.  Take to the streets. Celebrate my champion. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Who’s that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He kind of runs the place. You actually lived in his house.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I did?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yeah. Quite a lot’s happened. You and I had a fight recently.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Did I win?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, I won. Easily. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Doesn’t sound right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Well, it’s true. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,It seems that that criminally seductive Lord of Thunder has stolen him away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Seductive GOD of Thunder.  We need to move.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Oh, no.  This is bad.  This is really, really bad.  Thor, I think I’m freaking out. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, no, no.  Don’t freak out. You’re okay.  Put these on.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,These are Tony’s clothes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I know, come on. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Is he here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, he’s not here.  But listen. Just stay calm, okay?  The sun’s going down.  The sun’s getting really low.  Sun’s going down.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"I’m upset!  I’m very upset.  You know what I like about being upset? Blame.  Right now, that’s the mindset that I’m in.  And you know who I’m blaming? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Grandmaster, I- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Hey! Don’t interrupt me!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Here you go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Why are you handing me the melt stick?  He was interrupting. That’s not a capital violation.  My precious champion has come up missing and its all because of that Lord of Thunder.  It’s all because of him. YOUR brother.  Whatever the story is.  Adopted, or complicated.  I’m sure there’s a big history. And YOUR contender. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"My dear friend, if you were to give me twelve hours I could bring them both back to you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I can do it in two.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I could do it in one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"You know what?  I woke up this morning thinking about a public execution.  But for now, I’ll settle for this sweet little “who’s gonna get him first?”  So you’re on the clock. Valkyrie exits in a hurry.  Loki follows her. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What have you done!?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"I don’t answer to you, lackey. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It’s Loki.  And you will answer to the Grandmaster.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Why would you help my brother escape with that green fool?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I don’t help anyone.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You’re a Valkyrie.  I thought the Valkyrie all died gruesome deaths?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Choose your next words wisely.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Terribly sorry.  Must be a very painful memory...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The sun’s going down. It’s getting really low.  The sun’s going down. It’s getting real low.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Would you stop saying that!?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I just need you to stay calm.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Calm!?  I’m on an alien planet!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s just a planet.  You’ve been on a planet before.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Yeah!  One!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Now you’ve been on two. That’s a good thing.  It’s a new experience.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"My neurons, they’re firing faster than my brain can handle the information. The whole thing is totally different this time. In the past, I always felt like Hulk and I each had a hand on the wheel, but this time it’s like he had the keys and I was locked in the trunk. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Alright, well, you’re back now, that’s all that matters. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"No, it’s not what matters.  What I’m trying to tell you, is that if I turn into the Hulk again, Banner may never come back.  And we’re stranded on a planet that is designed to stress me out. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"We’re not stranded, I’m gonna figure out a way to get us home. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Not your home, though.  Asgard. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Listen, my people are in great danger.  You and I, we have to fight this really powerful being who also happens to be my sister. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Okay, that is so wrong on so many... I don’t wanna fight your sister.  That’s a family issue. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, she’s an evil being. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I don’t care what she is.  I’m not fighting any more beings.  I’m sick of it.  I just told you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"If I turn into the BRUCE BANNER, I am never gonna come back again. And you don’t care. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, no.  I’m putting together the team. The Hulk is the fire. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Wait, you’re just using me to get to the Hulk. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What?  No!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,It’s gross.  You don’t care about me.  You’re not my friend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No!  I don’t even like the Hulk. He’s all like... “smash, smash, smash.”  I prefer you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Thanks.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"But if I’m being honest, when it comes to fighting evil beings, he is very powerful and useful. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Yeah, Banner’s powerful and useful, too. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Is he though?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,How many PhDs does Hulk have? Zero.  How many PhDs does Banner have?  Seven.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Fine, you don’t have to fight anyone.  But we’re in danger here, so we have to move.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What are you doing with that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I need a disguise.  I’m a fugitive.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I need a disguise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You are the disguise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I’ll be Tony Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Yeah.  Tony and the gypsy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, no you’re not Tony.  You’re Bruce Banner. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Then why did you dress me up like Tony?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Because you were naked.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Okay, I’ll give you that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What are you doing?  Stop doing that!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Tony wears his pants super tight!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Why are you being so weird?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I don’t know. Maybe the fact that I was trapped for two years inside of a monster made me a little weird.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Hey.  It’s okay.  You’re good. Calm down.  Come on.  Listen, we’re gonna go to Asgard and you’re not gonna have to think about the Hulk ever again. All right? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,All right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This is bad.  Banner!  Banner!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hi.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Hi.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I was gonna do that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Yeah, well, I did it first. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s good.  What are you doing here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,What are you doing here?  I thought you were leaving.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I got sidetracked.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,What’s with the...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s my disguise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,But I can see your face.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Not when I do this, you can’t. Your hair looks nice. I like what you did with it. Change it? Washed it maybe?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What are those things on her eyes? Are those the people that she’s killed? She’s so beautiful and strong...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Who is this guy?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,He’s a friend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Who?  Me?  I’m Bruce.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I feel like I know you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I feel like I know you too.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Look, I’ve spent years in a haze trying to forget my past.  Sakaaar seemed like the best place to drink and forget and to die one day. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I was thinking that you drink too much, and that probably was going to kill you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"I don’t plan to stop drinking, but I don’t want to forget.  I can’t turn away anymore.  So, if I’m donna to die, well... it may as well be driving my sword through the heart of that murderous hag. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Yeah.  So I’m saying that I wanna be on the team. Has it got a name?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yeah, it’s called the Revengers. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Revengers?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Because I’m getting revenge. You’re getting revenge. Do you want revenge?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I’m undecided.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Okay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Also, I’ve got a peace offering.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Surprise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,OW!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Just had to be sure.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Hello, Bruce. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"So, last time I saw you, you were trying to kill everybody.  Where are you at these days? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It varies from moment to moment.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Is that... a Dragonfang?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,It is.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,My God.  This is the famed sword of the Valkyrie.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Sakaar and Asgard are about as far apart as any two known systems. Our best bet is a wormhole just outside the city limits. A nice clean wormhole outside the city.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Refuel on Xandar and be back in Asgard in around 18 months.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Nope. We’re going through that one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,The Devil’s Anus?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Wait, whose anus are we going through? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"For the record, I didn’t know it was called that when I picked it. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,That looks like a collapsing neutron star inside of an Einstein- Rosen Bridge.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,We need another ship.  That would tear mine to pieces.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,She’s right.  We need one that can withstand the geodetic strain from the singularity.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,And has an offline power steering system that could also function without the on-board computer.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"And we need one with cup holders, because we’re gonna die.  So, drinks! ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Do I know you?  I feel like I know you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"I feel like I know you, too. It’s weird. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"What do you say, doctor?  Uncharted metagalactic travel through a volatile cosmic gateway. Talk about an adventure.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,We need a ship.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Need a ship.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"There are one or two ships, absolute top-of-the-line models-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"I don’t mean to impose, but the Grandmaster has a great many ships. I may eve have stolen the access codes to his security system.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,And suddenly you’re overcome with an urge to do the right thing.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Heavens, no. I’ve run out of favor with the Grandmaster. And in exchange for codes and access to a ship I’m asking for safe passage...through the anus. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’re telling us you can get us access into the garage without setting off any alarms?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Yes, brother. I can. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Okay, can I just... A quick FYI, I was just talking to him just a couple minutes ago and he was totally ready to kill any of us. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,He did try to kill me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, me too.  On many, many occasions.  There was one time when we were children, he transformed himself into a snake, and he knows that I love snakes.  So, I went to pick up the snake to admire it and he transformed back into himself and he was like, “Yeah, it’s me!” And he stabbed me.  We were eight at the time.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"If we’re boosting a ship, we’re gonna need to draw some guards away from the palace. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Why not set the beast loose?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Shut up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,You guys have a beast?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, there’s no beast. He’s just being stupid.  We’re going to start a revolution. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Revolution?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’ll explain later.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Who’s this guy again?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’ll explain later.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Is that some sort of protoplasm, all the stuff that’s coming out of you?  Or are they eggs?  Looks like eggs.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I’m looking for Korg.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Who’s asking?  I know you’re asking. Is anyone else asking, or is it just you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,The Lord of Thunder sends his best.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,My revolution has begun...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Revolution?  How did this happen?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Don’t know.  But the Arena’s mainframe for the Obedience Disks have been deactivated and the slaves have armed themselves.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,Oh! I don’t like that word!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,Mainframe?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"No.  Why would I not like “mainframe?”  No, the “S” word. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TOPAZ,"Sorry, the “prisoners with jobs” have armed themselves. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Okay, that’s better.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Hey, so listen, we should talk. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I disagree.  Open communication was never our family’s forte.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You have no idea.  I’ve had quite the revelation since we spoke last.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hello!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Hi!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Odin brought us together, it’s almost poetic that his death should split us apart.  We might as well be strangers now.  “Two sons of the crown” set adrift.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Thought you didn’t want to talk about it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Here’s the thing. I’m probably better off staying here on Sakaar.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s exactly what I was thinking.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,...Did you just agree with me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"This place is perfect for you. It’s savage, chaotic, lawless. Brother, you’re going to do GREAT here. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Do you truly think so little of me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Loki, I thought the world of you. I thought we were gonna fight side by side forever. But, at the end of the day, you’re you, I’m me... I don’t know, maybe there’s still good in you, but let’s be honest, our paths diverged a long time ago.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It’s probably for the best that we never see one another again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That’s what you always wanted.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Hey, let’s do “Get Help.” ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,“Get Help.”,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Come on, you love it. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I hate it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s great. IT works every time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It’s humiliating.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Do you have a better plan?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We’re doing it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,We are not doing “Get Help.”,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Get help! Please! My brother, he’s dying.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Get help! Help him!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Classic.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I still hate it. It’s humiliating.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Not for me, it’s not. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Which one’s the ship she told us to get?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,The Commodore.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Though I feel it won’t make much of a difference...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, Loki.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"I know I’ve betrayed you many times before, but this time it’s truly nothing personal.  The reward for your capture will set me up nicely.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Never one for sentiment, were you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Easier to let it burn.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I agree.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh brother, you’re becoming predictable.  I trust you, you betray me.  Round and round in circles we go.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"See, Loki, life is about, it’s about growth.  It’s about change. But you seem to just wanna stay the same. I guess what I’m trying to say is that you’ll always be the God of Mischief, but you could be more.  I’ll just put this over here for you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Anyway, I got places to be so good luck.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"All right, I can figure this out. It’s just another spaceship.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,"Loyal Sakaarians, Lord of Thunder has stolen my ship and my favorite champion.  Sakaarians, take to the skies.  Bring him down.  Do not let him leave this planet.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Good shot!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Open the doors.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I hope that you’re tougher than you look.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Why?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Shouldn’t we be shooting back or something?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, we should. Where are the guns on this ship? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,There aren’t any.  It’s a leisure vessel.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR / BRUCE BANNER,WHAT?!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Grandmaster uses it for his good times, orgies and stuff.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Did she just say the Grandmaster uses it for orgies?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yeah. Don’t touch anything.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,No!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Get inside!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,In a minute!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I should probably go and help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Here, take the wheel. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,No. I don’t know how to fly one of these.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’re a scientist.  Use one of your PhDs.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,None of them are for flying alien spaceships!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Okay, come on.  There’s gotta be a gun on this thing.  That looks like a gun.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GRANDMASTER,It’s MY BIRTHDAY! It’s MY BIRTHDAY! It’s MY BIRTHDAY.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Yeah!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Guys, we’re coming up on the Devil’s Anus!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"There she is.  Our ticket out of here.  Hey, what’s this?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Hey man, we’re about to jump on that ginormous spaceship.  You wanna come? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You do seem like you’re in desperate need of leadership.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,Why thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Here we go!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,"Asgardians, some misguided soul has stolen the Bifrost sword.  Tell us where it is, or there will be consequences.  Bad ones.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,Well?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,You.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ASGARDIAN CITIZENS,No! Stop!,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Well?  Executioner?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ASGARDIAN MAN,Wait! I know where the sword is.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I never thought I’d be back here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"I thought it’d be nicer.  I mean, not that it’s not nice.  It’s just, it’s on fire. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,"Here, up here in the mountains.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Heat signatures.  People clustered together.  Hela’s coming for them.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Okay, drop me off at the palace and I’ll draw her away. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,And get yourself killed?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"The people trapped down there are all that matters.  While I’m dealing with Hela, I need you two to help get everyone off Asgard. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,How the hell are we supposed to do that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I have a man on the ground.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Asgard. She’s here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Now the ship has guns.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I’ll take it from here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I found this in the armory.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,“Your majesty.”  Don’t die.  You know what I mean.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,We must keep moving! Go to the Bifrost!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sister.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,You’re still alive.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I love what you’ve done with the place.  Redecorating, I see. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,It seems our father’s solution to every problem was to cover it up.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Or to cast it out. He told you you were worthy.  He said the same thing to me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"You see, you never knew him, not at his best. Odin and I drowned entire civilizations in blood and tears. Where do you think all this gold came from? And then one day he decided to become a benevolent king. To foster peace, to protect life. To have you. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I understand why you’re angry. And you are my sister, and technically have a claim to the throne. And believe me, I would love for someone else to rule. But it can’t be you.  You’re just...the worst.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Okay, get up.  You’re in my seat. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"You know, Father once told me that a wise king never seeks out war. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,But must always be ready for it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Go back!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"To be honest, I expected more.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,Heimdall!  The sword!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,We must cross now!  To Bi-Frost!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Here’s the difference between us. I’m Odin’s firstborn, the rightful heir, the savior of Asgard. And you’re nothing. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,So simple.  Even a blind man could see it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,Now you remind me of Dad.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,This stupid dog won’t die!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Everything’s going to be okay.  I got this.  You want to know who I am?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,What the hell are you talking about?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,You’ll see.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,You see?  No one’s going anywhere. I’ll get that sword even if I have to kill every single one of them to do it.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,Hey man.  I’m Korg.  This is Miek.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,We’re going to jump on that spaceship and get out of here. Want to come?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Your savior is here!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,That little shit.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Did you miss me?  Everybody on that ship, now.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Welcome home.  I saw you coming.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Of course you did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"A valiant effort, but you never stood a chance.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"You see?  I’m not a queen, or a monster. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,I’m the Goddess of Death.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,What were you the God of again?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Even when you had two eyes you were only seeing half the picture.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,She’s too strong.  Without my hammer I cannot--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"Are you Thor, God of Hammers?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,"That hammer helped you control your power, focus it.  But it was never the source of your strength.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It’s too late. She’s already taken Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,Asgard is not a place. Never has been. This could be Asgard.  It is wherever our people stand.  And right now those people need you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I’m not as strong as you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ODIN,No.  You’re stronger. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Tell me brother, what were you the God of again...? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You’re late.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,You’re missing an eye.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,This isn’t over.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I think we should disband the Revengers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Hit her with a lightning blast.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I just hit her with the biggest lightning blast in the history of lightning.  It did nothing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,We need to hold her off until everybody’s on board.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It won’t end there.  The longer Hela’s on Asgard the more powerful she grows.  She’ll hunt us down. We need to stop her here and now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,What’s our move?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,I’m not doing “Get help.”,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Asgard’s not a place, it’s a people. This was never about stopping Ragnarok...it was about causing Ragnarok. Go to the vault.  Surtur’s crown. It’s the only way. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"Bold move, brother. Even for me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Shall we?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,After you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,This is madness.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,GO!  GO NOW!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,For Asgard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SKURGE,HELA!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,"With the Eternal Flame, you are reborn.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,HELA!  Enough!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You want Asgard?  It’s yours.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,"Whatever game you’re playing, it won’t work.  You can’t defeat me. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, but he can.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HELA,No...NO!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,"Tremble before me Asgard, for I am your reckoning!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,The people are safe.  That’s all that matters.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We’re fulfilling the prophecy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,I hate this prophecy.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"So do I, but we have no choice.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Surtur destroys Asgard, he destroys Hela so that our people can live.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We need to let him finish... No!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Hulk no!  Stop it you moron!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"BRUCE BANNER, just for once in your life, don’t smash! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,But...big Monster.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Hulk! Let’s go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Friends.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SURTUR,I am Asgard’s doom!!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"The damage is not too bad.  As long as the foundations are strong, we can rebuild this place.  It will become a haven for all people and aliens of the universe...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Nope, those foundations are gone. Sorry.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What have I done?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"You saved us from extinction. Asgard is not a place, it’s a people.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,It suits you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Perhaps you’re not so bad after all, brother. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Maybe not.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Thank you, Loki.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"And if you were here, I might even give you a hug.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Do we have to hug now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VALKYRIE,Your throne.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"So, King of Asgard.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Where to?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I’m not sure.  Any suggestions? Miek, what’s your home planet?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Oh, Miek’s dead.  I accidentally stepped on him on the bridge, I’ve just felt so guilty I’ve been carrying him around all day...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KORG,"Miek, you’re alive!  He’s alive everyone!  What was your question?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Earth it is.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Do you really think it’s a good idea to go back to Earth?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Sure!  They love me there.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LOKI,Let me rephrase: Do you really think it’s a good idea to bring me back to Earth?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Probably not.  But don’t worry, brother...I’ve got a feeling that everything’s going to work out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised

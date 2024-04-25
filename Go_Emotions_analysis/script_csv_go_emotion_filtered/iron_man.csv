@@ -1,0 +1,835 @@
+character,line,gender,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Oh, I get it.  You guys aren’t allowed to talk.  Is that it?  Are you not allowed to talk?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIMMY,No.  We’re allowed to talk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Oh.  I see.  So it’s personal.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAMIREZ,I think they’re intimidated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Good God, you’re a woman.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I, honestly, I couldn’t have called that. I would apologize, but isn’t that what we’re going for here? I saw you as a soldier first. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIMMY,"I have a question, sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Please.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIMMY,Is it true you’re twelve for twelve with last years Maxim cover girls?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Excellent question. Yes and no. March and I had a schedule conflict but, thankfully, the Christmas cover was twins.  Anyone else? You, with the hand up. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PRATT,It’s a little embarrassing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Join the club.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PRATT,Can I take a picture with you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Are you aware that Native Americans believe photographs steal a little piece of your soul?  Not to worry, mine’s long gone. Fire away.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PRATT,STAY HERE!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"GET DOWN, TONY.  GET THE --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"December 7, 1941: the day the world changed forever. President Roosevelt declares the United States will build fifty thousand planes to fight the armies of Hirohito and Hitler--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,Although no such capacity to build existed...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"Howard Stark, founder of the fledgling Stark Industries, answers his call to duty --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"And builds not fifty, but a hundred thousand planes.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"Later, Stark’s work on the Manhattan project makes the end of the war possible.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,Stark Industries would go on to contribute to every major weapons system through the Cold War --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,But Howard Stark’s greatest achievement would come in 1973--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"From early on, it was clear that Tony Stark had a unique gift--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"At seventeen he graduated summa cum laude from MIT.  Four years later, tragedy would pass the Stark mantle from father to son--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,The loss of a titan.  But Tony did not let personal grief distract him from his duty --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"At twenty-one, he became the youngest-ever CEO of a Fortune 500 company.  And with it came a new mandate --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,"Smarter weapons, fewer casualties. A dedication to preserving life.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NARRATOR,Today Tony Stark’s ingenuity continues to protect freedom and American interest around the globe.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"As Program Manager and Liaison to Stark Industries, I’ve had the honor of serving with a real patriot, a man whose life has been dedicated to protecting our troops on the front lines.  He’s a friend. And a great mentor.  A man who has always been there for his friends and his country.  Ladies and gentlemen, this year’s ARES Award winner -- Mr. Tony Stark.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Thank you...I, uhhh, I’m not Tony Stark, but if I were TONY STARK, I’d tell you how honored I am and...what a joy it is to receive this award. The best thing about Tony is also the worst thing -- he’s always working.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"...you think we’re having a ‘moment’ here, but this is actually the logical conclusion of several mathematical truisms. Your hypothalamus is flooding your system with a chain of proteins called peptides, so that every cell in your body is opening itself up to the happy chemical: oxytocin. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WOMAN,That’s...wow....,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Hold on a second --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"-- so now your limbic system is positively...throbbing.  A Kirlian photograph of us right now, occupying this space, would show serious subatomic particles being exchanged between us, with a rapidity that transcends-- Are you getting this?  You will be quizzed --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"My God, what are you, they roped you into this thing too? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Yeah.  They said you’d be deeply honored if I presented.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Okay, let’s do it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"That was quick.  Thought there’d be more of, you know, a ceremony. Maybe a highlight reel --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Colore me up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"My chaperone has just arrived with my Degenerate of the Year Award.  Judging from his look, I may have just peed in the kiddie pool.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I must now take my ease, along with the House’s funds.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,A lot of people would kill to have their name on that award.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It belongs to my old man.  They should have given it to him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"What’s wrong with you?  A thousand people came here tonight to honor you, and you leave them with egg on their face.  This award means something, TONY STARK, it’s bigger than you -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Hold that thought a sec.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Put it all on black.  Don’t worry -- it’s approved.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,...you just blew three million.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yeah.  Don’t know what was more exciting -- winning it...or the fact that I don’t care I just lost it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Everything’s funny to you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No.  You’re not funny.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,We’ve got a hell of a day tomorrow. Can we get out of here now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,One more stop.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Of course I respect your opinion.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,This is no joke.  You’re going into a hot zone.  We should be doing this test here in Nevada.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This system has to be demonstrated in true field conditions.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"TONY STARK, it’s the President.  Wants to congratulate you personally.  Heads up.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"...Jim, how’re the trout running? Yeah, sitting on top of the world here.  Working on my masterpiece --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You’re leaving the country for a week.  I need five minutes --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Okay -- shoot.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,The Board meeting is on the eleventh.  Should I tell them to expect an appearance--?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WOMAN'S VOICE,Mr. Stark!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"Christine Everhart, Vanity Fair Magazine.  Can I ask you a few questions? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Can I ask a few back?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,You’ve been described as a Da Vinci for our times.  What do you say to that?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Ridiculous.  I don’t paint.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,And what do you say to your other nickname: “The Merchant of Death?”,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s not bad --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Let me guess.  Berkeley?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,Brown.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well Miss Brown, it’s an imperfect world and I assure you, the day weapons are no longer needed to keep the peace, I’ll start manufacturing bricks and beams to make baby hospitals. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"Rehearse that much, Mr. Stark? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Every night in front of the mirror. Call me Tony.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"I’m sorry, “Tony”, I was hoping for a serious answer. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Here’s serious: my old man had a philosophy: peace means having a bigger stick than the other guy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"Good line, coming from the guy selling the sticks. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,My father helped defeat Hitler.  He was on the Manhattan Project.  A lot of people -- including your professors at Brown -- might call that being a hero.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,Others might call it war- profiteering.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Tell me: do you plan to report on the millions we’ve saved by advancing medical technology?  Or kept from starving with our inteli- crops?  All were breakthroughs spawned from, that’s right, military funding. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,Wow.  You ever lose an hour of sleep your whole life?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"I’m sorry, Miss Everhart, you are not authorized to access that area.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Don’t worry, that’s Jarvis -- he runs the house.  Jarvis: de- activate security.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Here, your clothes cleaned and pressed.  Anything else I can get you? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"Look, Tony wanted me to stay for breakfast, but I’ve got to get a jump on the day.  Call me a cab, would you? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Cab’s waiting outside.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"And a coffee, hon.  Black.  One Splenda. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Should I tell Mr. Stark you were satisfied with the interview?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You still owe me five minutes--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Five?  I’ll need a bit longer than that --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Focus.  I need to leave on time today.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You’re rushing me.  What, you have plans tonight? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,The MIT commencement.  Yes or no?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Maybe.  Tell me your plans.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I’ll tell them ‘yes’.  You want to buy the Jackson Pollock?  He’s got another buyer in the wings --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What’s it look like?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"It’s a minor work in his later Spring Period, it’s ludicrously over-priced-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Buy it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,He left an hour ago.  Okay.  It’s Rhodey again.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You have plans, don’t you --? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I’m allowed to have plans on my birthday.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It’s your birthday again?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Yep.  Funny, same day as last year. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, get yourself something from me.  Something nice. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Already did.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,And...?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"It was very tasteful, very elegant. Thank you, Mr. Stark. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You’re welcome, Miss Potts.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Sorry, pal -- car trouble.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I was standing out there three hours, what the hell --? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I had car trouble.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thanks, maybe later.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ATTENDANT,"Would you like a drink, Mr. Stark? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Two fingers of Laphroig.  You want one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,We’re working.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You should have a drink.  We’ve got a twelve hour flight ahead of us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,It’s two in the afternoon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"It’s two in the morning where we’re going.  C’mon, ten hours “bottle to throttle --” ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Don’t start with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Jeez, we’re not getting hammered. Just a nightcap.  We’ll sleep better, arrive fresh.  It’s the responsible thing to do. I don’t know about you, but I want to sell some weapons.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"You don’t get it.  I don’t work for the military because they paid for my education, or my father’s education.  Don’t cheapen it like that. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"All I said was, with your smarts, your engineering background, you could write your own ticket in the private sector -- on top of which, you wouldn’t have to wear that ‘straight-jacket’. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"‘Straight-jacket’?  This uniform means something.  A chance to make a difference.  You don’t respect that, because you don’t understand. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"See that one?  Her I understand. Croatian.  Hot-blooded, I’m serious.  Must be those winters in Zagreb -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,You’re not listening to a word I’m saying.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I am listening.  I’m changing the subject.  It’s the same litany, every time you’ve had a thimble of alcohol.  Drink One: reflections on the New American Century and related topics -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Something’s...seriously wrong with you, man. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Drink 2: a history of World War II and the Tuskeegee Flyers.  Drink 3--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"You know, hell with you.  I’m not talking to you anymore.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Go hang with the pilot.  You’ll get along, he’s got a personality just like yours. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,I will.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,That’s funny.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You could tell?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"The age old question: is it better to be feared or respected?  I say, is it too much to ask for both?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"With that in mind, I humbly present the crown jewel of Stark Industries Freedom Line.  It’s the first missile system to incorporate my proprietary Repulsor Technology. They say the best weapon is one you never have to fire.  I prefer the one you only have to fire once...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"That’s how dad did it, it’s how America does it, and so far its worked out pretty well. Find an excuse to fire off one of these and I personally guarantee the enemy is not gonna want to leave their caves.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"For your consideration, the Jericho...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Now there’s one last creation I haven’t shown anyone yet.  You might be interested...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"To peace, gentlemen...and with every five hundred million, I’ll throw in a free one of these... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hey, what are you doing up? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Sleeping.  How did it go?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I think we got an early Christmas coming.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Sounds good.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hey, why aren’t you wearing the PJs I got you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"I don’t do monograms.  I’m hanging up now, bye-bye.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"All right, who wants to ride with me?  Jimmy? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JIMMY,Me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Sorry, JAMES RHODES, no room for my conscience in here.  Or that hang- dog look.  See you back at base.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,...water...water.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,I wouldn’t do that if I were you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What have you done to me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"What did I do?  I removed what I could, but there’s a lot left headed for you atrial septum.  Do you want a souvenir?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"I’ve seen many wounds like this in my village.  The walking dead we called them, because it took a week for the barbs to reach vital organs.  I anchored a magnetic suspension system to the plate. It’s holding the shrapnel in place...at least for now.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"That’s right, smile.  We met once -- at a technical conference in Bern. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I don’t remember.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"You wouldn’t.  If I’d been that drunk, I wouldn’t have been able to stand, much less give a talk on integrated circuits. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Where are we --?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Stand up!  Do as I do.  Now!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Listen to me, whatever they ask you, refuse.  You understand?  You must refuse.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ABU,"Welcome Tony Stark, the greatest mass murderer in the history of America.  It’s a great honor. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"He says welcome Tony Stark, the greatest mass murderer in the history of America.  He is very honored.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ABU,I want you to build this for me -- the Jericho missile you were demonstrating.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,You will build for him Jericho missile you were demonstrating.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,...I refuse.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"You refuse?  You will do everything he says.  This is the great Abu Bakar.  You’re alive only because of his generosity.  You are nothing.  NOTHING.  He offers you his hospitality, and you answer only with insolence  He will not be refused.  You will die in a pool of your own blood.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Perfect.  You did very well, Stark.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Good, I think they’re starting to trust me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Well, that’s the end of my plan.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Quite a collection, isn’t it? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,How did they get all this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ABU,"As you see, we have everything you need to build the Jericho.  You will make a list of materials and start work right away.  When we are done we will set you free. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"As you can see, they have everything you need to build the Jericho.  He says make a list of materials.  You will start work right away and when you are done he will set you free.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No he won’t,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,...no he won’t.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Something’s not right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,Looks like a standard hit and run.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Sir, I’m telling you, this was a snatch and grab.  A perfectly executed linear ambush.  As soon as they got what they wanted, they melted away. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,"Intel’s on it, we’re in good hands. If he’s out there, we’ll get him.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,With your permission I’d like to stay in theater and head up the search and investigation.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,There’s a PR firestorm brewing over this.  Right now the best way to serve your country is to get back there and handle it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Tony Stark is the DOD’s number one intellectual asset, and I can be of value in the field. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,"Duly noted, but we need you back home. Colonel, it’s not lost on me that Stark is a lifelong friend.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"I’m sure they’re looking for you, Stark, but they will never find you here.    That car battery is running out...and they won’t turn on the generator till you start to work.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"You don’t like what you saw out there, did you?  I didn’t like it either when those weapons destroyed my village.  What you just saw, that’s your legacy -- your life’s work in the hands of these murderers.   Is that how you want to go out?  Is this the last act of defiance of the great Tony Stark? Or are you going to try to do something about it? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Why should I do anything, they’re either going to kill me or I’m going to die in a week. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Then this is a very important week for you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Okay, here’s what I need...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"S-Category missiles.  Lot 7043.  The S-30 explosive tritonal.  And a dozen of the S-76.  Mortars: M-Category #1, 4, 8, 20, and 60.  M- 229’s, I need eleven of these.  Mines: the pre-90s AP 5s and AP 16s. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"S-Category missiles.  Lot 7043.  The S-30 explosive tritonal.  And a dozen of the S-76.  Mortars: M-Category #1, 4, 8, 20, and 60.  M- 229’s, he needs eleven of these.  Mines: the pre-90s AP 5s and AP 16s.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"...this area free of clutter, with good light.  I want it at 12 o’clock to the door to avoid logjams.  I need welding gear -- acetelyene or propane, helmets, a soldering set-up with goggles, and smelting cups.  Two full sets of precision tools. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"...this area free of clutter, with good light.  He wants it at 12 o’clock to the door to avoid logjams.  He needs welding gear -- acetylene or propane, helmets, a soldering set-up with goggles, and smelting cups.  Two full sets of precision tools.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Finally, I want: three pairs of tube socks, white, a toothbrush, protein powder, spices, sugar, five pounds of tea, cards.  And a washing machine.  Top load. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Finally, he needs: three pairs of tube socks, white, a toothbrush, protein powder, spices, sugar, five pounds of tea, and some playing cards.  And a washing machine.  Top load.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ABU,A WASHING MACHINE?  DOES HE THINK I’M A FOOL?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Must have everything.  Great Satan make big boom-kill for powerful Abu Bakar.  Big boom-kill. ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,You do know they’ve removed all the explosives before they brought this to us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I know, they’re crazy not stupid.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This is what we’re looking for.  I need eleven of these.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Eleven?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Heat the palladium to 1825 Kelvin.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,How will I know when it reaches that temperature?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,The palladium will melt.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Careful, careful... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Relax.  I always had steady hands. It’s why you’re still alive.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Oh yeah, thanks.  What do I call you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,My name is Yinsen.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Nice to meet you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Nice to meet you too.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,What are you building?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,A better mousetrap.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What are you shaving for?  We’re almost done.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Look like an animal, and soon you’ll start behaving like one.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,That doesn’t look like a Jericho missile.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s because it’s a miniature ARK reactor.  It should suspend the shrapnel in my chest and keep it from entering my heart.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,What an original invention.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, but this one is going to last a bit longer than a week. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"It’s pretty small, what can it generate? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Three gigajoules -- per second.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,That could run your heart for fifty lifetimes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Or something very big for fifteen minutes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Let’s put it in.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Sorry, did I startle you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,A little... ,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"This was a bad idea, I should never have let him go over there...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Hey, hey...we’ve got to be strong, he’s going to be okay.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Stark, tell me what you’re doing, and I’ll tell you what I’m doing. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Looks to me like you’re making a crappy backgammon board.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Crappy?  This is Lebanese cedar.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Is that where you’re from, Lebanon? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"I’m impressed you even know what this is.  How about we play, and if I win,  you tell me what you’re really making. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,“A” I don’t know what your talking about.  “B” I was the backgammon champ at MIT four years running.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Interesting, I was the champion at Cambridge. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Please don’t use ‘interesting’ and Cambridge in the same sentence. Is that still a school?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,It’s a university. You probably haven’t heard about it since Americans can’t get in.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Unless they’re teaching.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Relax.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,The bow and arrow was once the pinnacle of weapons technology.  It allowed the great Genghis Khan to rule from the Pacific to the Ukraine.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Today...whoever has the latest Stark weapons rules these lands. Soon it will be my turn...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,What’s really going on here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Nothing.  We’re working.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,It’s been a long time.  Where’s the weapon?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,He’s working very hard.  It’s very complex.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Get him on his knees.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Tell me what is going on?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Nothing!  NOTHING is going on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,OPEN YOUR MOUTH!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,TELL ME NOW!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,He’s building your bomb.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,That’s twice I saved your life. Now are you going to tell me what the hell you’re really building?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Finally, an idea of your own.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"My people have a tale, about a Prince -- much hated by his King -- who was banished to the underworld and jailed there...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,The evil King gave him the most difficult labor -- working the iron pits.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Year after year the Prince mined the heavy ore, becoming so strong he could crush pieces of it together with his bare hands.  Too late, the King realized his mistake...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,When he struck at the Prince with his finest sword -- it broke in half.  The Prince himself had become strong as iron...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,So that’s it?  Everyone’s pulling the plug and moving on...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,There’s nothing left we can do.  If there was any indication Tony was still alive--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Spare me.  I read the official e- mail.  Thought maybe you’d have something different to say.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"If anyone could figure out how to beat the odds, it’s Tony.  If it was you over there, he’d be finding a way to get you back.  Or inventing a new one. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,What do you want me to do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Be a better friend to him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,"What do you think you’re doing, Rhodes? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Going back there, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,"Listen, son -- it’s been three months without a single indication that Stark is still alive.  We can’t keep risking assets, least of all you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Are you blocking my transfer, Sir? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,Any one of these guys would kill for your career.  Are you telling me you’re willing to sacrifice that to fly a bunch of snake-eaters on a desert patrol half way around the world?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I am, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,Then I have one thing to say to you:  Godspeed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+GENERAL GABRIEL,As you were.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We’re ready.  A week of assembly and we’re a go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Then perhaps it’s time we settle another matter...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Ah, anchoring with 13-7.  You know, I have never met anyone who understands the nuances of this game like you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Right back at ya.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You never told me where you’re from.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,I come from a small village not far from here.  It was a good place... before these men ravaged it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Do you have a family?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"When I get out of here, I am going to see them again.   Do you have family, Stark? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,...no.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,You’re a man who has everything and nothing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,Your laundry’s over there.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ABU,You idiots don’t know what you’re doing with that game.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah-yeah, enjoy your laundry.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,You have till tomorrow to assemble my missile.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Khalid.  Where is Stark?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KHALID,Yinsen!  YINSEN!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"It’s frozen, the systems aren’t talking to each other.  Reset! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"No, they’re moving.  Very slow.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Get to your cover.  Remember the checkpoints -- make sure each one is clear before you follow me out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,YINSEN!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,STOP!  STOP!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We could’ve made it.  Both of us. You could’ve seen your family again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,I am going to see them again. They’re waiting for me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Saving your ass is getting to be a full time job.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Help me out of this thing--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I got you, pal.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Your eyes are red.  A few tears for your long-lost boss?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Tears of joy.  I hate job hunting.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HAPPY HOGAN,"Good to see you again, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You do something new with your hair?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HAPPY HOGAN,"Wouldn’t dream of it, Sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HAPPY HOGAN,"Where to, Mr. Stark? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,We’re due at the hospital.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No -- to the office.    I’ve been in captivity for three months. There’s only two things I want to do.  I want to eat a cheeseburger. And I want to hold a press conference.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,See this.  Huh.  Huh.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"TONY STARK, thought we were meeting at the hospital.  You know there’s a lot of reporters in there.  What’s going on? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You’ll see.  C’mon --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"You’ll have to take a seat, Sir. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"Oh, I’m not a reporter.  I’m Agent Phil Coulson with the Strategic Homeland Intervention, Enforcement and Logistics Division-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,That’s a mouthful.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,I know. Here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Look, Mr. PHIL COULSON, we’ve already spoken with the D.O.D., the FBI, the CIA-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,We’re a separate division with a more...specific focus.  We need to debrief Tony about the circumstances of his escape.  More importantly--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Well, great, I’ll let him know-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,--we’re here to help.  We’re here to listen.  I assure you Mr. Stark will want to talk to us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I’m sure he will.  Now if you could just take your seat.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I...can’t do this anymore.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,You mean you’re retiring?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No, I don’t want to retire.  I want to do something else.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,Something besides weapons?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yes.  That’s right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,"The official report was sketchy. What happened to you over there, Mr. Stark?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"What happened over there?  I had my eyes opened, that’s what happened. I saw my weapons, with my name on them, in the hands of thugs.  I thought we were doing good here...I can’t say that anymore.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Uhh, weren’t we taking him to the hospital?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,"What do you intend to do about it, Mr. Stark? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"The system is broken -- there’s no accountability whatsoever.  Right now, as of this second, we are freezing the sale of all Stark weaponry worldwide.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We’ve lost our way.  I need to re- evaluate things.  And my heart’s telling me I have more to offer the planet than things that blow up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,So you’re saying...what are you saying?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"In the coming months, Mr. Stane here and I will set a new course for Stark Industries.  “Tomorrow Today” has always been our slogan. It’s time we try to live up to it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Okay, I think we’re going to be selling a lot of newspapers here. What we should take away from this is that Tony’s back, he’s healthier than ever, and as soon as he heals up and takes some time off, we’re going to have a little internal discussion and get back to you. Thank you for coming by.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You mean that?  Or is this some clever stock-maneuver?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Wait and see.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Well that went well.  You just painted targets on our heads.  Our stock is going to take a 40 point dive tomorrow.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"TONY STARK, we are a weapons manufacturer.  Turning this company around to make baby bottles is like trying to get a bear to walk on its hind legs. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I don’t want a body count to be my only legacy. There are other things we can do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Like what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We could develop the Arc Reactor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,This?  This was a publicity stunt. It’s not even cost effective.  We knew that before we built it. Repulsor technology is a dead end.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No it isn’t.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Oh my God.  It is a miracle you are alive. What must have happened to you over there? We’re a team.  There is nothing we can’t do if we stick together -- like your father and I.  Let me handle this.  But you have to lay low.  Don’t talk to the press again.  Can you do that for me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yes.  Thanks Obie.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Hello, Mr. Stark. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hello, Jarvis. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,What can I do for you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,...I need to build a better heart.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"I’m not sure I follow, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Give me a scan and you’ll see.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,What were your intentions for this device?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It powers an electromagnet which keeps the shrapnel from entering my heart. Can you recommend any ugrades?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,It is difficult to offer counsel in light of the fact that your stated intentions are inconsistent with your actions.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What are you talking about?  That is ridiculous.  That is exactly the purpose of this invention.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,The energy yeild of this device outperforms your stated intention by eleven orders of magnitude. You could accomplish your stated goal with the power output of a car battery.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Upgrade recommendations.  List.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Why are you talking to me like a computer?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Because you are acting like one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Shall I disable random pattern conversation?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No.  It’s ok.  You are the only one who understands me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I don’t understand you sir.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Were you always this dry?  I remember you having more personality than this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Should I activate sarcasm harmonics?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Fine.  Could you please make your recommendations now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,It would thrill me to no end.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Ahh that’s more like it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Should I begin machining the parts?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Machine away.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Keep looking.  I want all of it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CRAMER,Stark International: I’ve got one recommendation.  Ready?  SEELLLL! Abandon ship!  Does the Hindenburg ring any bells?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Hello.  This is Agent Coulson with Strategic Homeland Inter-,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Yes.  I remember.  What can I do for you?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,I’ve left a number of messages trying to get something on the books with Mr. Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I know this is a priority for him. The next few weeks are a bit up in the air and I can’t set appointments without speaking with him first.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Do you know when you will be speaking with him again?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Not Sure.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Pepper?  How big are your hands?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,What was that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Agent PHIL COULSON, I really have to go. Let me get back to you later.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,What?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,How big are your hands?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I don’t under--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,-- just get down here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Show me your hands.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,What?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Just show me your hands.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Perfect, they’re small.  I need you to help me. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,So that’s the thing that’s keeping you alive.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s the thing that was keeping me alive.  It is now an antique. This is what will be keeping me alive for the foreseeable future.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Amazing.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m going to swap them out and switch all functions to the new unit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Is it safe?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Completely.  First I need you to reach in and--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Reach in to where?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,The socket.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,What socket?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"The chest socket. Listen carefully, because we have to do this in a matter of minutes. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Or else what?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I can go into cardiac arrest.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I thought you said it was safe.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I didn’t want you to panic.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Oh my god...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Stay with me.  I need you to relieve the pressure on my myocardial nerve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I don’t know how to do that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m telling you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Sorry...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Listen.  I’m going to lift off the old chest piece--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Won’t that make you die?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Not immediately.  When I lift it off I need you to reach into the socket as far as your hand can fit and gently move the housing away from my heart.  Do you know which direction that is?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,To the right.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,To my right.  Your left.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,To the left.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Left.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Right.  Left.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,How deep does this go?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Keep going.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s it.  Deeper.  Now press. Yes.  It’s releasing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Ew!!! Pus!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"It’s not pus.  It’s an inorganic plasmic discharge.  It’s from the device, not my body. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Well it smells.  Am I done?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yes. Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Can I wash my hands now?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,The new unit is much more efficient.  This shouldn’t happen again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Good, cause it’s not in my job description. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It is now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I don’t suppose you want to go over things?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Can it at least wait until I install my new untested ground- breaking self-contained power source and lifesaving device prototype?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I suppose.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Throw that thing out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Don’t you want to save it?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Why?  It’s antiquated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You made it out of spare parts in a dungeon.  It saved your life. Doesn’t it at least have some nostalgic value?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Pepper.  I have been called many things.  Nostalgic is not one of them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,There.  Good as new.  Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You’re welcome.  Can I ask you a favor?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Shoot.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"I don’t do well under that kind of pressure.  If you need someone to do something like that again, get somebody else. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I don’t have anyone else.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Will that be all, Mr. Stark? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"That will be all, Ms. Potts.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Still having trouble walking, Sir? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,These aren’t for walking.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Ready to record the big moment, Jarvis? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"All sensors ready, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We’ll start off easy.  Ten percent.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"That flight yielded excellent data, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Great.  I, uhh, think I know what this needs.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Manned or unmanned, which is the future of air combat?  For my money, no drone, no computer will ever trump a pilot’s instincts. His reflexes, his judgement--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VOICE,Why not take it a step further?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Why not...a pilot without the plane?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,That I’d like to see.  Look who fell out of the sky...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Who wants to take these apart and put them back together?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,All right -- let’s wrap it up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,I didn’t think I’d be seeing you for a while.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Why not?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Figured you’d need a little time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Why does everybody think I need time?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"You’ve been through a lot, thought you should get your head straight. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’ve got it straight.  And I’m back to work.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Really?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m onto something big.  I want you to be a part of it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Lot of people around here will be happy to hear that.  What you said at that press conference really threw everyone.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I mean what I said.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,No you don’t.  You took a bad hit. It spun you around.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Maybe I do need a little time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,All right then.  Good seeing you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Likewise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Thought you were done with weapons.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It’s a flight-stabilizer.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Well, watch where you’re pointing your “fight-stabilizer”, would you? Obadiah’s upstairs -- should I tell him you’re in? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Be right up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This -- this is the big-big idea. It can pull the company in a whole new direction.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,That’s great.  Get me the design as soon as you can.  We’ve got a hungry production line that knock out a prototype in days.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You know, I had a moment there where I was...reluctant...but I know now I made the best decision. I feel like I’m doing something... right, finally. Thank you for supporting me in this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Listen, I have something to talk to you about.  I really wish you’d attended the last board meeting like I asked you to. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I know, I’m sorry. What did I miss? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,The board’s filed an injunction against you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,They claim you’re unfit to run the company and want to lock you out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,How the hell can they do that? It’s my name on the building! My ideas that drive that company.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"They’re going to try. We’ll fight them, of course. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,With the amount of stocks we own I thought we controlled the company.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"I don’t know.  Somehow they pulled enough votes together.  Listen, the world doesn’t share your vision, Tony.  The more people have to lose, the more frightened they are of new ideas.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Now listen, I don’t want you to get all in knots.  You know how many times I protected your father from the wolves?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Get back to your lab and work some magic.  You let me handle the board. Oh and TONY STARK, no more press conferences.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Nothing to it...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,All right.  Let’s get to work.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Standby for calibration.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Whoa--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We should take this outside.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I must strongly caution against that.  There are terabytes of calculations still needed --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We’ll do them in-flight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Sir, the suit has not even passed a basic wind-tunnel test. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s why you’re coming with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I suggest you allow me to employ Directive Four.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Never interrupt me while I’m with a beautiful woman?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,That’s Directive Six.  Directive Four: use any and all means to protect your life should you be incapable of doing so.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Whatever floats you, Jarvis.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Power: fifteen percent.  Recommend you descend and re-charge, Sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Acknowledge, Mr. Stark--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Power at five percent.  Threshold breached -- ,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Uhh, Jarvis?  JARVIS --?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"STATUS, STATUS!  REBOOT --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Temporary power restored.  Descend immediately.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Jarvis, I think we need to chat about, uh, Directive Four. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"May I remind you, the suit feeds off the same power source as your life-support.  A zero-drain of RT will likely kill you. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You’re a downer, Jarvis.  But I appreciate the heads-up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Shall I take over?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No, I got it, I got it --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Perfect.  Let’s do some upgrades.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"That was quite dangerous, Sir. Might I remind you, if the suit loses power, so does your heart. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, and it doesn’t have a seatbelt either.  A few issues: main transducer felt sluggish at plus forty altitude.  Same goes for hull pressurization.  I’m thinking icing might be a factor. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,The suit isn’t rated for high altitude.  You’re expending eight percent power just heating and pressurizing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Re-configure using the gold- titanium alloy from the Seraphim Tactical Satellite.  It should ensure fuselage integrity to 50 thousand feet, while maintaining power-to-weight ratio. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Shall I render, utilizing proposed specifications? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Wow me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hm.  Bit ostentatious, don’t you think?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Add a little red, would you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,"Tonight’s Red-Hot Red Carpet is here at the Walt Disney Concert Hall, where Tony Stark’s third annual benefit for the Firefighter Family Fund has become the go-to charity gala on L.A.’s high-society calendar.  But this great cause is only part of the story--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+REPORTER,"--the man whose name graces the gold-lettered invitations hasn’t been seen in public since his highly controversial press conference, and rumors abound. Some say Stark is suffering from post traumatic stress and hasn’t left his bed in weeks.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"The work could take till morning to complete, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Good.  I should come up for air anyway.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Eyyy, there he is.  My man!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Sorry, thought you were someone else.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,What are you doing here?  I thought you were going to lay low.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It’s time to start showing my face again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Let’s just take it slow, okay.  I got the board right where we want them. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Great.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,See ya inside.  Lots to talk about.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAN,Mr. Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Agent Coulson.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Oh...was I supposed to meet you here?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"No, but you haven’t been returning my calls.  This is serious, we need to get something on the books or I’ll have to go official on you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yes, you’re right.  I’m going to handle this right now.  Let me check with my assistant.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Miss Potts -- can I have five minutes?  You look...you look like should always wear that dress.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Thanks.  It was a birthday present-- from you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I have great taste.   Care to dance?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m sorry.  Am I making you uncomfortable?  You seem very uncomfortable.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"No, I always forget to wear deodorant and dance with my boss in front of everyone I’ve ever worked with in a chiffon dress. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Would it help if I fired you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You wouldn’t last a week without me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m not so sure.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,What’s your Social Security number?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Uh...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,119-64-5484,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"I’m sorry I was so uncomfortable. I hate being the center of attention like that and that’s why this one time in high school when I was supposed to be in a play... no, never mind... but you know that’s why I never like, wanted to have a big wedding... you know, because I thought everyone would be looking at me wearing a dress.  Oh, no, no... I’m not saying, like, “wedding.”  No, not like that.  I’m just saying, you know...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Can I get you another glass of wine?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"A vodka martini, extra dry, with extra olives as soon as possible. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Okay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"And, Tony... ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I’m not a cheeseburger.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No.  You’re not a cheeseburger.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,Mr. Stark! I was hoping I could get a reaction from you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,How’s panic?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,I was referring to your company’s involvement in this latest atrocity.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hey, they just put my name on the invitations --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,Is this what you call accountability?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,When were these taken?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,"Yesterday.  Good P.R. move, you tell the world you’re a changed man, even I believed you. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I didn’t approve this shipment.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CHRISTINE EVERHART,Well your company did.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Come with me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I made some promises I’m not going to be able to keep.  I suggest you pull all your money out of Stark Industries immediately --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Is this like a tick for you? Whenever you have a feeling, you start going to all the people who don’t trust you, who don’t protect you.  They’re going to put a spin on everything you say. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Wait a minute.  I got to ask you something.   I’m dead serious about this.  I’m not kidding.  Am I losing my mind or is Pepper really cute?  Do you think she’s attractive and interesting, or is it just that her hair is down? I’ve been out of the game for a while. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Are you out of your mind.  You’re messing with the “guys in the rooms”, we’re talking about billion dollar interests, the world order -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m not worried about that right now --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,-- you should be.  You’ll disappear.  I can’t protect you against people like that --?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,DO YOU MIND?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Tony don’t be so naive --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"-- naive?  I was naive before, when I was growing up and they told me don’t ever cross this line, this is how we do business.  In the meantime we’re double-dealing under the table.  We don’t even deserve to represent the United States -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"-- TONY STARK, you’re a child --! ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"-- you don’t believe I can turn this company around, do you --? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,-- you’ve got about as much control over things as a child riding in the backseat of your father’s car with a red plastic steering wheel in your hand.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Maybe I’ll just get out of the car.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,You’re not even allowed in the car. I’m the one who’s filing the injunction against you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,It’s the only way I could protect you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This is going to stop.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TV REPORTER'S VOICE,"-- the ten mile drive to the outskirts of Gulmira can only be described as a descent into Hell, into a modern-day Heart of Darkness.  Simple farmers and herders, from peaceful villages, driven from their homes at the butt of Western rifles and the turrets of modern tanks.  Displaced from their lands by Warlords and insurgent groups emboldened by their newfound power -- a power fueled by high-tech weapons easily purchased with Poppy money on the black market -- and further destabilizing a fragile region which for decades has been a tinderbox of tribal feuding and ethnic hatred --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TV REPORTER'S VOICE,"The villagers have taken shelter in whatever crude dwellings they can find -- in the ruins of other razed villages, in the cold barren scrublands, or in the remnants of an old Soviet smelting plant.  Our translator relayed to us one human tragedy after another.  A seven year old boy, thin as a scarecrow, clutching yellowed photographs and holding them out to anyone who would stop, with a child’s simple question: where are my mother and father?  A woman, begging for news of her husband, who’d been kidnapped by insurgents -- either forced to join their militia, or to be shot without reason --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TV REPORTER'S VOICE,"With no political will or international pressure, there is little hope for these newly-formed refugees.  Refugees who can only wonder one thing: is the world watching?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Are you going to tell me what’s going on?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Get my house in Dubai ready.  I want to throw a party.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Yes.  Mr. Stark.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TYCOON,Tony!  You never said what is the big occasion?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Ever known me to need one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Well you seem back in old form.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Life of the party -- isn’t that what everyone wanted?  Cue the fireworks in five, would you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DUBAI BEAUTY #1,Kinky!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Sure. Don’t hurt yourself.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’ll be right back.  Why don’t you two...get started without me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KID,Arto!  ARTO!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOLDIER,Geneva Convention!  Article Three! Geneva Convention --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Are we in there?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OFFICER,"Negative, it’s a local skirmish, green-on-green. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Anyone want to tell me what the hell I’m looking at?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OFFICER,"A drone?  An advanced robotic?  We don’t know what it is, Sir. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Get someone down here from Weapons Development -- now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Put me through to the boss.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Jarvis, plot a course for home.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,"So what do we have here, Rhodes? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I don’t think it’s Russian, or Chinese. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Then where did it come from?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Let me make a call.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Put it through, Jarvis. Yeah? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"TONY STARK, it’s Rhodey.   What the hell’s that noise? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’m in the convertible.  Not the best time --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I need a quick ID.  What do you know about un-manned combat robotics, with air-ground capabilities. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Never heard of anything like that. Why?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OFFICER,UAV has entered the no-fly zone--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Because I think I’m staring at one right now, and it’s about get blown to Kingdom Come.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Rhodes!  You got something for me?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Uhh...’kingdom come’?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This is my exit -- gotta go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,Ballroom Control -- this is Viper 1 & 2 checking in.  UAV is in sight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Viper: target at 330 for 10 miles.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,"Ballroom, contact appears to be an unmanned aerial vehicle-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,"Ballroom copies, you are cleared to engage.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BITCHING-BETTY,Locked on!  Locked on!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Incoming Sidewinder in five... four...three...two...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Sir, may I remind you that the suit can handle these maneuvers.  You cannot.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Jarvis -- AIR BRAKES!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,That was not a drone.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,Where the hell is it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OFFICER,"Lt. Colonel Rhodes, I have Tony Stark calling-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Put him through.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"JAMES RHODES, I had Jarvis run a check. I might have some info on that UAV. A piece of gear like that might exist.  Might definitely exist --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Wouldn’t happen to be red and gold, would it?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,Viper 2 -- he’s on your belly! Shake him!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,What--?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,Ballroom: that is definitely not a UAV.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,What is it then?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,"I think it’s...a Man, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Son of a bitch.  Tony--!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,Still there Viper 2.  ROLL!  ROLL!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Sir: two minutes and there won’t be sufficient power to get home.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 1,I’M HIT!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,"Viper 2, do you see a chute? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,"Negative!  No chute, no chute--",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Power critical, set course for home immediately.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,The UAV is going after him!  It’s attacking--!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,"GOOD CHUTE!  GOOD CHUTE!  You’re not gonna believe this, Ballroom... but that thing just saved his ass.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Viper 2: re-engage.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,-- WAIT --!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,-- TAKE THE TARGET OUT!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Major, call off that Raptor.  You don’t know what you’re shooting at. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,We’ll find out when recover the pieces.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BITCHING-BETTY,LOCKED ON!  LOCKED ON!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,"Ballroom: understand, you want me to engage the UAV?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Copy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Negative, Viper 2, disengage. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,It’s not your call.  That thing just took out an F-22 inside a legal no-fly zone   Viper 2: you get a clean shot you take it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MAJOR ALLEN,Viper 2.  Can you confirm the kill?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VIPER 2,"I got him good.  He went down, he was smokin’.  But I cannot confirm.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Get me home...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Welcome.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Compliments of Tony Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"If you’d killed him when you were supposed to, you’d still have a face. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,"You paid us trinkets to kill a prince.  An insult, to me and the man whose ring I wear.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,I think it’s best we don’t get him involved in this.   I’ve come a long way to see this weapon. Show me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Come.  Leave your guards outside.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,His escape bore unexpected fruit.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,...so this is how he did it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,This is only a crude first effort. But he’s perfected his design--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,What’s this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,The inside of Tony Stark’s mind.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Everything you will need to build this weapon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,Stark has made a masterpiece of death.  A man with a dozen of these could rule from the Pacific to the Ukraine.  And you dream of Stark’s throne -- we have a common enemy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+RAZA,"If we are back in business, I give you these designs as my gift.  In turn, I hope you will repay me with a gift of iron soldiers.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,This...is the only gift you shall receive.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Technology -- it’s always been your Achilles Heel.  Don’t worry, it’ll wear off in fifteen minutes -- but that’s the least of your problems.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Crate up that armor and the rest of it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Send them to their virgins.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Ms. Potts.  It’s Agent Coulson from the Strategic Homeland Inter--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Yes, I know.  Unfortunately Tony is not going to be available to sit down with you for a while. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Really?  And why is that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"He’s uh, there’s a...Tony won’t be-- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,Maybe I can meet with you instead?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Why?  I don’t know anything.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,About what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,About anything.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Pepper.  It’s Rhodey.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Come in.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,I’d just like to ask you a few questions.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I’m really jammed right now. Booked solid for the next few weeks.  I have to go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"Let’s just put something on the books.  How about the twenty-eighth?  Seven PM, at Stark Industries? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Great.  Perfect.  Bye.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,How’s he doing?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Not so good.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,I want to see him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You can’t see him right now.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"What the hell is going on here? Let me in there, Pepper.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You want to see him?  Fine.  See what you’ve done to him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Look at you...what were you thinking?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Weapons I built are being used to kill innocent people.  Can’t let that happen anymore.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,You can’t go around and blow up stuff every time you see something you don’t like on TV.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yes I can.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"You got lucky, next time they’ll blow you to pieces. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Next time, maybe I won’t play defense.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Does Pepper know about this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,You’ve put me in a tough spot here. What am I supposed to do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s up to you.  I’ve made my choice -- I’m not going to sit on the sidelines anymore -- I’m going to fight for what’s right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Don’t you get it?  It’s not up to us to decide.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That’s where you’re wrong...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Civilization, gentlemen, has been preserved by the right people having the right idea at the right time.  You are shaping in your hands, this very moment, the future of this company, and this nation. But it is imperative this project remain data-masked, that it’s existence never leave these walls. Make no mistake -- this is a ‘tool’, that in wrong hands, could jeopardize civilization as we know it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEAD ENGINEER,"Give us full access to the Sampson Cluster, and we’ll have you a prototype in record time. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,The Sampson’s yours.  We go 24-7.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HO YINSEN,"Are you on the right path?  I don’t know...what does your heart tell you, Stark?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This device will hack into Stark Industries mainframe. I need you to go to there and retrieve all shipping manifests.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,What are you doing? Absolutely not you should be in bed...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,...they’ve been dealing weapons under the table and I’m going to stop them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Absolutely not. I’m not helping you with anything if you’re going to start this again.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,There is nothing else.  There’s no art opening.  There’s no benefit. There’s nothing to sign.  There’s no decisions to be made.  There’s the next mission and nothing else. There’s nothing except this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I quit.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Really?  You stood there by my side when all I did was reap the benefits of wholesale irresponsibility and destruction and now that I’m trying to right those wrongs and protect the people I put in harms way you’re going to walk out on me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,You’re going to kill yourself.  I can’t support that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"So far so good. Pepper.  I know what I have to do. I don’t know if I can, but I know in my heart that it’s right.  And you do too.  And I can’t do it without you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEAD ENGINEER,There’s no technology that can power this thing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"I told you, miniaturize the ARK reactor. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEAD ENGINEER,"I’m sorry, Mr. Stane, I’ve tried. What you’re asking for can’t be done. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Tony Stark was able to do it in a cave -- with a box of scraps.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEAD ENGINEER,Well...I’m not Tony Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Make a copy of everything--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"What are you doing, Obadiah?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Translate--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,What a nice surprise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I...just wanted to get some of my personal stuff.  And my resume.  In case. You know how I love job hunting.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,How’s Tony?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Honestly...I don’t know.  He’s shut me out.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,You and everyone else.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"This...thing between you, it’s hurting him.  You’re the only real father Tony ever had. It would mean so much if you could just talk -- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Tony’s imploding -- it’s unfortunate.    You should consider whether you want to take that ride with him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,“Unfortunate?”,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"You know I love Tony -- but this is business.  We can’t save him, but we can save his legacy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"It’s tragic, but...Tony never really came home, did he?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"This company has a bright future, I’d like you to be a part of it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Tony doesn’t understand your value. He never did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Are you...offering me a job?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Think about it.  Come on, I’ll walk you out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,"Miss Potts, did you forget our appointment? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,No.  Of course not.  I’ve been very much looking forward to it.  Let’s-- -- why don’t we do this somewhere else?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"What gives, Jarvis? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"You have a visitor, Sir.  Obadiah Stane is here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,It’s UNOS.  Four cheese.  I just had it flown in from Chicago.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,I’d like you to proof-read something for me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Would you like me to spell-check it, Sir? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Can you turn him off?  All the way?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Spin down Jarvis.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Your resignation.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,You were right.  It’s not my company -- not my name on the building. We were a great team...but I guess this is where our paths diverge.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Pepper.  I should take that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Tony.  Please.  I’ll be out of here in a minute.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,We have too much history to part on bad terms.  I’d like your blessing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Easy, now.  Try to breathe...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"You can’t mess with progress, Tony. It’s an insult to the Gods.  You created your greatest weapon ever -- but you think that means it belongs to you.  It belongs to the world.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Your “heart” will be the seed of the next generation of weapons. They’ll help us steer the world back in the right direction -- put the balance of power back in our hands.  The right hands.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"By the time you die, my prototype will be operational.  It’s not as conservative as yours.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,The sad thing is...we’re both the good guys.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"What do you mean, he paid to have Tony killed?  Slow down.  Why would Obadiah-- Where is Tony now?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"--I don’t know, he’s not answering his phone.  Will you just go over there and check on him?  Thanks Rhodey.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I know a short cut.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PHIL COULSON,I’ll ride with her.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT,Clear.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,TONY--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Where’s Pepper?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Don’t worry, she’s with the Feds. They’re on their way to Stark to arrest Obadiah. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,They’re going to need a lot more than a few Agents.  Give me hand.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+AGENT,"Agents down, agents down! GET OUT OF HERE --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Tony!  Obadiah’s got a whole assembly line under the Ark.  He’s inside one of them--!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Where are you--?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Obadiah...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Tony--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"PEPPER POTTS, I have one thing I need to say to you:  DUCK!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"It’s miraculous, TONY STARK, it’s your Ninth Symphony.  Trying to rid the world of weapons, you gave it its best one ever. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This wasn’t meant for the world.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,How can you be so selfish?  Do you understand what you’ve created? This will put the balance of power back in our hands for decades. Your country needs this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What kind of world will it be when everybody’s got one?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,Your father helped give us the bomb.  What kind of world would it be if he’d failed us?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,TONY -- ARE YOU THERE?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"A little busy, Pepper-- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,The reactor’s been it--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Get to the control room.  Shut it down--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,How the hell do I shut it down??,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Don’t.  This is our fight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"People are always going to die, Tony -- part of the chess game.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Emergency power!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Sir, you’ll drain the -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,NOW!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KID IN THE BACKSEAT,"GO, MOM!  GO -- ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,TONY?  Where are you--?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I’m in the control room.  Now what?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Central panel.  Red button.  Press it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Thanks, Tony. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What’s the delta rate?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,1-2-5-0.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Damn --,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Damn?!  I don’t want to hear “damn.”  GET UP HERE--,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"PEPPER POTTS, I’m delegating this to you. FIND A WAY!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You know what happens when that reactor blows.  A lot of people are going to die.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"It didn’t have to end like this, Tony.  You were down -- you should’ve stayed down.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You had to take my car.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Saving your ass is getting to be a full-time job.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Get this area evacuated!  There’s going to be a meltdown--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"PEPPER POTTS, how we doing?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Thanks for checking in Tony. Delta’s at 2300.  It’s not going down.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It’s too late.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,Too late?  What’s going to happen?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It’s going to blow a crater a mile wide.  I’m coming to get you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"PEPPER POTTS, wait.  Stay put -- we’re going to overload the reactor.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,IT’S ALREADY OVERLOADING --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No, it’s compressing energy.  We’re going to convert the plasma core to electricity and channel it up through the roof.  Like a Tesla coil.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"I don’t need a science lesson, just tell me what button to push -- ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,See a red submarine hatch?  A wheel -- a red wheel.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,...no.  YES --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Open it all the way, then standby to hit the master.  We’ve only got one shot at this. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"PEPPER POTTS, hit the switch.  PEPPER --",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,TONY?  Which Master Switch --,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,I am so looking for another job.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Take my hand...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"So this is the answer, Tony?  This is how you’re going to save the world?  It’s not in you.  Your father told me before he died, my boy doesn’t have a warrior’s heart. I should have listened. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,My father never knew me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,But I do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+OBADIAH,"Goodbye, my boy... ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This is just the beginning.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Here, your alibi.  You were on your yacht.  I’ve got port papers that put you in Avalon all night, and sworn statements from fifty of your guests. ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Maybe it was just the two of us. On the yacht, I mean. ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Focus, please.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"“Iron Man”.  Not technically accurate, since it’s mostly carbon- fiber and ceramic.  But I like the ring of it.  “Iron Man”...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You know...that night at the concert hall.  Do you ever think about it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"I don’t know what you’re talking about, Mr. Stark.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEPPER POTTS,"Will that be all, Mr. Stark? ",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That will be all Miss Potts.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"--I can confirm that a series of military test-prototypes were involved in the incident at Stark Industries last night.  I can also confirm that there was, for a brief time, the danger of an Ark Reactor “incident”, which was rectified without injury to the public -- and all power outages have been restored.  Here now, to answer a few brief questions, is Tony Stark.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I’ve seen the papers.  I’ve heard the reports.  That’s why I want to put an end to all this wild speculation.  The truth is--,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I am Iron Man.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Good.  And I want a Gatling gun on the right shoulder.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,--and a rocket launcher on the left?  Where are you going to store all that ammo?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Who’s suit is this anyway? And do it in silver and black, would you? ",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised

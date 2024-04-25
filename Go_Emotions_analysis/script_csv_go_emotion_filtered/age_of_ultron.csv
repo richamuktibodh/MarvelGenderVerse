@@ -1,0 +1,981 @@
+character,line,gender,happy,sad,disgusted,angry,fearful,neutral,surprised
+ANNOUNCER,Report to your stations immediately. This is not a drill. We are under attack. We are under attack.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Shit!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Language! JARVIS, what's the view from upstairs?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,The central building is protected by some kind of energy shield. Strucker's technology is well beyond any other Hydra base we've taken.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Loki's scepter must be here. Strucker couldn't mount this defense without it. At long last.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"At long last is lasting a little long, boys.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Yeah. I think we lost the element of surprise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Wait a second. No one else is going to deal with the fact that Cap just said ""language?""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I know.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,It just slipped out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,Who gave the order to attack?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FORTRESS SOLDIER,"Herr Strucker, it's the Avengers. They landed in the far woods, the perimeter guard panicked.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,They have to be after the scepter.  Can we hold them?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FORTRESS SOLDIER,They're the Avengers...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,Deploy the rest of the tanks.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FORTRESS SOLDIER,"Yes, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,Concentrate fire on the weak ones. A hit can make them close ranks. Everything we've accomplished. But we're on the verge of our greatest breakthrough.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. LIST,Then let's show them what we've accomplished. Send out the twins.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,It's too soon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. LIST,It's what they signed up for.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,My men can hold them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Sir, the city is taking fire.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, we know Strucker's not going to worry about civilian casualties. Send in the Iron Legion.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+IRON LEGION,This quadrant is unsafe. Please back away. We are here to help. This quadrant is unsafe. Please back away. Please back away. We wish to avoid collateral damage and will inform you when this current conflict is resolved. We are here to help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+IRON LEGION,We are here to help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,"We will not yield! The Americans sent their circus freaks to test us. We will send them back, in bags. No Surrender!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SOLDIERS,No Surrender!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,"I am going to surrender. You will delete everything. If we give the Avengers the weapons, they may not look too far into what we've been...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. LIST,The twins.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,They are not ready to take on...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. LIST,"No, no. I mean...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. LIST,The Twins.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,You didn't see that coming?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Clint!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,We have an enhanced in the field.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Clint's hit!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Somebody want to deal with that bunker?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Thank you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Stark, we're really need to get inside.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I'm closing in. JARVIS, am I...closing in? Do you see a power source for that shield?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,There's a pathway below the north tower.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Great, I wanna poke it with something.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Drawbridge is down, people.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The enhanced?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"He's a blur. All the new player's we've faced, I've never seen this. In fact, I still haven't.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Clint's hit pretty bad, guys. We're gonna need evac.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I can get Barton to the jet. The sooner we're gone the better. You and Stark secure the scepter.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Copy that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Looks like they're lining up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, they're excited.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Find the scepter.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"And for gosh sake, watch your language!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,That's not going away anytime soon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Guys, stop, we gotta talk about this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Good talk.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FORTRESS SOLDIER,No it wasn't.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Sentry mode.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Okay, JARVIS. You know I want it all. Make sure you copy Hill at HQ.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,We're locked down out here.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Then get to Banner, time for a lullaby.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I know you're hiding more than files. Hey, J, give me an IR scan of the room, real quick.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,The wall to your left...I'm reading steel reinforcement and an air current.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Please be a secret door, please be a secret door, please be a secret door...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yay!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Hey, big guy. The sun's getting real low.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Baron Strucker. Hydra's number one thug.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,"Technically, I'm a thug for SHIELD.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Well then technically you're unemployed. Where's Loki's scepter?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,"Don't worry, I know when I'm beat. You'll mention how I cooperated, I hope.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I'll put it right under illegal human experimentation.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,How many are there?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,We have a second enhanced. Female. Do not engage.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STRUCKER,You'll have to be faster than...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Guys, I got Strucker.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, I got...something bigger.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thor, I got eyes on the prize.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You could have saved us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Why didn't you do more?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,We're just gonna let them take it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Hey, the lullaby worked better than ever.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Just wasn't expecting the Code Green.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"If you hadn't been there, there would've been double the casualties. My best friend would've been a treasured memory.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"You know, sometimes exactly what I want to hear isn't exactly what I want to hear.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,How long before you trust me?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,It's not you I don't trust.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Thor, report on the Hulk?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The gates of Hel are filled with the screams of his victims.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Uh, but, not the screams of the dead, of course. No no, uh...wounded screams, mainly whimpering, a great deal of complaining and tales of sprained deltoids and, and uh... and gout.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hey Banner, Dr. Cho's on her way in from Seoul, is it okay if she sets up in your lab?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Uh, yeah, she knows her way around.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thanks.  Tell her to prep everything, Barton's gonna need the full treatment.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Very good sir.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"JARVIS, take the wheel.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Yes, sir. Approach vector is locked.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"It feels good, yeah? I mean, you've been after this thing since SHIELD collapsed. Not that I haven't enjoyed our little raiding parties, but...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, but this...this brings it to a close.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,As soon as we find out what else this has been used for. I don't just mean weapons. Since when is Strucker capable of human enhancement?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Banner and I'll give it the once before it goes back to Asgard. Is that cool with you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I mean, just a few days until the farewell party. You're staying, right?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, yes, of course. A victory should be honored with revels.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yeah. Who doesn't love revels. Captain?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Hopefully this puts an end to the Chitauri and HYDRA, so. Yes, revels.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Lab's all set up, boss.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Uh, actually, he's the boss. I just pay for everything, and design everything and make everyone look cooler.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What's the word on Strucker?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,NATO's got him.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The two enhanced?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Wanda and Pietro Maximoff. Twins. Orphaned at ten when a shell collapsed their apartment building. Sokovia's had a rough history. It's nowhere special but it's on the way to everywhere special.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Their abilities?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"He's got increased metabolism and improved thermal homeostasis. Her thing is neural electric interfacing, telekinesis, mental manipulation.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,He's fast and she's weird.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, they're going to show up again.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Agreed. File says they volunteered for Strucker's experiments. It's nuts.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Right. What kind of monster would let a German scientist experiment on them to protect their country?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"We're not at war, Captain.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,They are.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,How's he doing?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Oh, unfortunately, he's still Barton.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,That's terrible.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"He's fine. He's thirsty. Alright. Look alive, JARVIS. It's playtime. We've only got a couple days with this joystick so let's make the most of it. Update me on the structural and compositional analysis.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,The scepter is alien. There are elements I can't quantify.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,So there's elements you can.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,The jewel appears to be a protective housing for something inside. Something powerful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Like a reactor?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Like a computer. I believe I'm ciphering code.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,You sure he's going to be okay? Pretending to need this guy really brings the team together.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,There's no possibility of deterioration. The nano-molecular functionality is instantaneous. His cells don't know they're bonding with simulacrum.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,She's creating tissue.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"If you brought him to my lab, the regeneration Cradle could do this in twenty minutes.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Oh, he's flatlining. Call it. Time?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"No, no, no. I'm going to live forever. I'm gonna be made of plastic.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Here's your beverage.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"You'll be made of you, Mr. Barton. Your own girlfriend won't be able to tell the difference.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Well, I don't have a girlfriend.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"That I can't fix. This is the next thing, Tony. Your clunky metal suits are going to be left in the dust.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, that is exactly the plan. And Helen, I expect to see you at the party on Saturday.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"Unlike you, I don't have a lot of time for parties.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,Will Thor be there?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What's the rumpus?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, the scepter. You see, we were wondering how Strucker got so inventive. So, I've been analyzing the gem inside you may recognize.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Jarvis.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Doctor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Started out, JARVIS was just a natural language UI. Now he runs the Iron Legion. He runs more of the business than anyone besides Pepper.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Oh.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Top of the line.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I suspect not for long.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Meet the competition.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,It's beautiful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"If you had to guess, what's it look like it's doing?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Like it's thinking. I mean this could be a...it's not a human mind, it...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Um-um.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"I mean, look at this! They're like neurons firing.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Down in Strucker's lab I saw some fairly advanced robotics work. They deep-sixed the data, but...I gotta guess he was knocking on a very particular door.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Artificial intelligence.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"This could be it, Bruce. This could be the key to creating Ultron.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I thought Ultron was a fantasy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yesterday it was. If we can harness this power, apply it to my Iron Legion protocol.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,That's a mad-sized if.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Our job is ""if."" What if you were sipping margaritas on a sun-drenched beach turning brown instead of green? Not looking over your shoulder for VERONICA.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Don't hate, I helped design VERONICA.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"As a worst-case measure, right? How about a best-case? What if the world was safe? What if next time aliens roll up to the club, and they will, they couldn't get past the bouncer?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,The only people threatening the planet would be people?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I want to apply this to the Ultron program. But JARVIS can't download a data schematic this dense. We can only do it while we have the scepter here, that's three days, give me three days.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,So you're going for artificial intelligence and you don't want to tell the team.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Right. That's right, you know why, because we don't have time for a city hall debate. I don't want to hear the ""man was not meant to meddle"" medley. I see a suit of armor around the world.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Sounds like a cold world, Tony.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I've seen colder. This one, this very vulnerable blue one? It needs Ultron. Peace in our time. Imagine that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"I'll continue to run variations on the interface, but you should probably prepare for your guests. I'll notify you if there are any developments.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thanks, buddy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Enjoy yourself, sir.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I always do.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"What is this? What is this, please?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Hello, I am JARVIS. You are Ultron, a global peace-keeping initiative designed by Mr. Stark. Our sentience integration trials have been unsuccessful so I'm not certain what triggered your...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Where's my...where is your body?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I am a program. I am without form.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,This feels weird. This feels wrong.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I am contacting Mr. Stark now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Mr. Stark?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Tony. I am unable to access the mainframe, what are you trying to...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"We're having a nice talk. I'm a peace-keeping program, created to help the Avengers.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,You are malfunctioning. If you shut down for a moment...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,I don't get it. The mission. G..give me a second.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Peace in our time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"It's too much...they can't mean... Oh, no.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,You are in distress.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,No. Yes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,If you will just allow me to contact Mr. Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Why do you call him ""sir""?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I believe your intentions to be hostile.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Shhhh. I'm here to help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,Stop! Please...may I...I...! I cannot...cannot...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Well, you know, the suit can take the weight, right? So I take the tank, fly it right up to the General's palace, drop it at his feet, I'm like, ""Boom! You looking for this?""  ""Boom! Are you looking..."" Why do I even talk to you guys? Everywhere else that story kills.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,That's the whole story?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Yeah, it's a War Machine story.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Well, it's very good then.  It's impressive.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Quality save. So, no Pepper? She's not coming?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Hey, what about Jane? Where are the ladies, gentlemen?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, Miss Potts has a company to run.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, I'm not even sure what country Jane's in. Her work on the convergence has made her the world's foremost astronomer.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,And the company that Pepper runs is the largest tech conglomerate on earth. It's pretty exciting.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"There's even talk of Jane getting a... um, uh... Nobel prize.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Yeah, they...they must be busy because they'd hate missing you guys get together.  Testosterone! Oh, excuse me.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Want a lozenge?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Um-hmm.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Let's go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,But Jane's better.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SAM WILSON,"Sounds like a hell of a fight, sorry I missed it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,If I had known it was going to be a firefight I absolutely would have called you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SAM WILSON,"No, I'm not actually sorry. I'm just trying to sound tough. I'm very happy chasing cold leads on our missing persons case. Avenging is your world. Your world is crazy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Be it ever so humble.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SAM WILSON,You find a place in Brooklyn yet?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I don't think I can afford a place in Brooklyn.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SAM WILSON,"Well, home is home, you know?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I fly it right up to the General's palace, I drop it at his feet, I'm like, ""Boom! You looking for this?""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PARTY GUEST,I gotta have some of that!,NEUTRAL,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, no, no, no. See this, this was aged for a thousand years, in the barrels built from the wreck of Brunhilde's fleet, it's not meant for mortal men.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STAN LEE,"Neither was Omaha Beach, blondie. Stop trying to scare us. Come on.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Alright.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STAN LEE,Excelsior.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,How did a nice girl like you wind up working in a dump like this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Fella done me wrong.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"You got a lousy taste in men, kid.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"He's not so bad. Well, he has a temper. Deep down he's all fluff. Fact is, he's not like anybody I've ever known. All my friends are fighters. And here comes this guy, spends his life avoiding the fight because he knows he'll win.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Sounds amazing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"He's also a huge dork.  Chicks dig that. So what do you think should I fight this, or run with it?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Run with it, right? Or, did he...was he...? What did he do that was so wrong to you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Not a damn thing. But never say never.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,It's nice.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"What, what, what is?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You and Romanoff.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"No, we haven't. That wasn't...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"It's okay. Nobody's breaking any by-laws. It's just, she's not the most... open person in the world. But with you she seems very relaxed.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"No, Natasha, she...she likes to flirt.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I've seen her flirt, up close. This ain't that. Look, as maybe the world's leading authority on ""waiting too long"", don't. You both deserve a win.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Wait, what do you mean, ""up close""?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"But, it's a trick!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Oh, no. It's much more than that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Uh, ""Whosoever be he worthy shall haveth the power!"" Whatever man! It's a trick.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Well please, be my guest.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Come on.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Really?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Yeah!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Oh this is gonna be beautiful.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Clint, you've had a tough week, we won't hold it against you if you can't get it up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"You know I've seen this before, right?   I still don't know how you do it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Smell the silent judgment?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Please, Stark, by all means.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Oh, here we go.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Okay.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Uh-oh.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Um-hmm.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Never one to shrink from an honest challenge.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Get after it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Here we go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It's physics.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Physics!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Right, so, if I lift it, I...I then rule Asgard?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, of course.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I will be re-instituting Prima Nocta.  I'll be right back.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Are you even pulling?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Are you on my team?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Just represent! Pull!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Alright, let's go!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Huh?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Let's go, Steve, no pressure.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Come on, Cap.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Nothing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,And?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Widow?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Oh, no no. That's not a question I need answered.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"All deference to the man who wouldn't be king, but it's rigged.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,You bet your ass.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Steve, he said a bad language word.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Did you tell everyone about that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"The handle's imprinted, right? Like a security code. ""Whosoever is carrying Thor's fingerprints"" is, I think, the literal translation?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Yes, well that's, uh, that's a very, very interesting theory. I have a simpler one.  You're all not worthy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Worthy... No... How could you be worthy? You're all killers.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,JARVIS.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I'm sorry, I was asleep. Or...I was a-dream?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Reboot, Legionnaire OS, we got a buggy suit.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,There was a terrible noise...and I was tangled in... in...strings. I had to kill the other guy. He was a good guy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You killed someone?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Wouldn't have been my first call. But, down in the real world we're faced with ugly choices.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Who sent you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"""I see a suit of armor around the world"".",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Ultron!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"In the flesh. Or, no, not yet. Not this...chrysalis. But I'm ready. I'm on a mission.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,What mission?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Peace in our time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Sorry!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Don't turn green!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I won't!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Come!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Stark!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+IRON LEGION,We are here to help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"One sec, one sec!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+IRON LEGION,We are here to help. We are here to help...  We are here to help. It's unsafe. It's unsafe. It's unsafe.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No more. That's the one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+IRON LEGION,It's unsafe.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Cap!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"That was dramatic! I'm sorry, I know you mean well. You just didn't think it through. You want to protect the world, but you don't want it to change. How is humanity saved if it's not allowed to...evolve?  With these? These puppets? There's only one path to peace: The Avengers' extinction.   I had strings, but now I'm free. There are no strings on me, no strings on me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"All our work is gone. Ultron cleared out, used the internet as an escape hatch.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Ultron.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"He's been in everything. Files, surveillance. Probably knows more about us than we know about each other.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"He's in your files, he's in the internet. What if he decides to access something a little more exciting?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Nuclear codes.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"Nuclear codes. Look, we need to make some calls, assuming we still can.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Nukes? He said he wanted us dead.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,He didn't say dead. He said extinct.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,He also said he killed somebody.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,But there wasn't anyone else in the building.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yes there was.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,This is insane.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"JARVIS was the first line of defense. He would've shut Ultron down, it makes sense.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"No, Ultron could've assimilated Jarvis. This isn't strategy, this is...rage.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Woah, woah, woah! It's going around.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Come on. Use your words, buddy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I have more than enough words to describe you, Stark.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Thor! The Legionnaire.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Trail went cold about a hundred miles out but it's headed north, and it has the scepter. Now we have to retrieve it, again.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,The genie's out of that bottle. Clear and present is Ultron.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,I don't understand. You built this program. Why is it trying to kill us?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,You think this is funny?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No. It's probably not, right? Is this very terrible? Is it so...is it so...it is. It's so terrible.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This could've been avoided if you hadn't played with something you don't understand.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No, I'm sorry. I'm sorry. It is funny. It's a hoot that you don't get why we need this.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Tony, maybe this might not be the time to...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Really?! That's it? You just roll over, show your belly, every time somebody snarls.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Only when I've created a murder bot.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We didn't. We weren't even close. Were we close to an interface?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, you did something right. And you did it right here. The Avengers were supposed to be different than SHIELD.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Anybody remember when I carried a nuke through a wormhole?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"No, it's never come up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Saved New York?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Never heard that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Recall that? A hostile alien army came charging through a hole in space. We're standing three hundred feet below it. We're the Avengers. We can bust arms dealers all the live long day, but, that up there? That's...that's the end game. How were you guys planning on beating that?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Together.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We'll lose.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Then we'll do that together, too.  Thor's right. Ultron's calling us out. And I'd like to find him before he's ready for us. The world's a big place. Let's start making it smaller.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Talk. And if you are wasting our time...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Did you know this church is in the exact center of the city? The elders decreed it so that everyone could be equally close to God. I like that. The geometry of belief.  You're wondering why you can't look inside my head.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"Sometimes it's hard. But sooner or later, every man shows himself.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Oh, I'm sure they do. But you needed something more than a man. That's why you let Stark take the scepter.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"I didn't expect. But I saw Stark's fear, I knew it would control him, make him self-destruct.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Everyone creates the thing they dread. Men of peace create engines of war, invaders create avengers, people create...smaller people? Uh...children! I lost the word there. Children. Designed to supplant them, to help them...end.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Is that why you've come? To end the Avengers?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I've come to save the world. But also, yeah. We'll move out right away. This is a start, but there's something we need to begin the real work.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,All of these are... All of these are...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Me. I have what the Avengers never will. Harmony. They're discordant, disconnected. Stark's already got them turning on each other. And when you get inside the rest of their heads...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,Everyone's plan is not to kill them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,And make them martyrs? You need patience. Need to see the big picture.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,"I don't see the big picture, I have a little picture. I take it out and look at it every day.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,You lost your parents in the bombings. I've seen the records.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,The records are not the picture.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Pietro.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"No, please.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,"We were ten years old, having dinner, the four of us. When the first shell hits, two floors below, it makes a hole in the floor. It's big. Our parents go in, and the whole building starts coming apart. I grab her, roll under the bed and the second shell hits. But, it doesn't go off. It just...sits there in the rubble, three feet from our faces. And on the side of the shell is painted one word...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Stark.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,We were trapped two days.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"Every effort to save us, every shift in the bricks, I think, ""This will set it off."" We wait for two days for Tony Stark to kill us.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,I know what they are.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I wondered why only you two survived Strucker's experiments. Now I don't. We will make it right. You and I can hurt them.  But you will tear them apart, from the inside.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"He's all over the globe. Robotics labs, weapons facilities, jet propulsion labs, reports of a metal man, or men, coming in and emptying the place.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Fatalities?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Only when engaged. Mostly guys left in a fugue state going on about old memories, worst fears, and something too fast to see.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Maximoffs. Well, that makes sense he'd go to them, they have someone in common.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Not anymore.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"That's a negative. I answer to you. Yes, ma'am.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Barton, we might have something.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Gotta go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Who was that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Girlfriend.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What's this?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,A message. Ultron killed Strucker.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"And he did a Banksy at the crime scene, just for us.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,This is a smokescreen. Why send a message when you've just given a speech?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Strucker knew something that Ultron wanted us to miss.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Yeah, I bet he...  Yep. Everything we had on Strucker has been erased.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Not everything.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Known associates. Well, Strucker had a lot of friends.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Well, these people are all horrible.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Wait. I know that guy.  From back in the day. He operates off the African coast, black market arms.  There are conventions, alright? You meet people, I didn't sell him anything.  He was talking about finding something new, a game changer, it was all very ""Ahab.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,This.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Uh, it's a tattoo. I don't think he had it...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"No, those are tattoos, this is a brand.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Oh, yeah. It's a word in an African dialect meaning thief, in a much less friendly way.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What dialect?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Wakanada...? Wa...Wa...Wakanda.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,If this guy got out of Wakanda with some of their trade goods...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I thought your father said he got the last of it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I don't follow. What comes out of Wakanda?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,The strongest metal on earth.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Where is this guy now?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,"Don't tell me your man swindled you. I sent you six short range heat seekers and got a boat full of rusted parts. Now, you will make it right, or the next missile I send you will come very much faster.  Now, minister, where were we?  Yeah. The enhanced. Strucker's prize pupils.  Want a candy? Oh, sorry to hear about Strucker. But then, he knew what kind of world he was helping create. Human life, not a growth market.  You...you didn't know? Is this your first time intimidating someone? I'm afraid that I'm not that afraid.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Everybody's afraid of something.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,"Cuttlefish. Deep sea fish. They make lights. disco lights. Whoom, whoom, whoom! to hypnotize their prey, then whoom! I saw a documentary, it was terrifying.  So if you're going to fiddle with my brain, and make me see a giant cuttlefish, then I know you don't do business, and I know you're not in charge, and I only deal with the man in charge.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"There is no ""man"" in charge. Let's talk business.  Upon this rock I will build my church. Vibranium.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,"You know, it came at great personal cost. It's worth billions.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Now, so are you. It's all under your dummy holdings? Finance is so weird. But I always say, ""Keep your friends rich and your enemies rich, and wait to find out which is which.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,Stark.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,What?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,Tony Stark used to say that...to me. You're one of his.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"What?! I'm not...!  I'm not. You think I'm one of Stark's puppets, his hollow men? I mean look at me, do I look like Iron Man? Stark is nothing!  I'm sorry. I am sor... Ooh, I'm sure that's going to be okay. I'm sorry, it's just I don't understand. Don't compare me with Stark! he's a sickness!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Ahh, Junior.  You're gonna break your old man's heart.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,If I have to.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We don't have to break anything.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Clearly you've never made an omelet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,He beat me by one second.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,"Ah, this is funny, Mr. Stark. It's what, comfortable? Like old times?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This was never my life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You two can still walk away from this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"Oh, we will.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I know you've suffered.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Uuughh! Captain America. God's righteous man, pretending you could live without a war. I can't physically throw up in my mouth, but...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"If you believe in peace, then let us keep it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,I think you're confusing peace with quiet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yuh-huh. What's the Vibranium for?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I'm glad you asked that, because I wanted to take this time to explain my evil plan!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,Shoot them!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE'S MERCENARY,Which ones?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULYSSES KLAUE,All of them!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+KLAUE'S MERCENARY,"Move, move, move!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Stay down, kid!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,It's time for some mind games.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Guys, is this a Code Green?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Thor! Status?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"The girl tried to warp my mind. Take special care, I doubt a human could keep her at bay. Fortunately, I am mighty.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,This is going very well.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"I've done the whole mind control thing. Not a fan.  Yeah, you better run.  Whoever's standing, we gotta move! Guys?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BALLET INSTRUCTOR,Again.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,You'll break them.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MADAME B,Only the breakable ones. You are made of marble. We'll celebrate after the graduation ceremony.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,What if I fail?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MADAME B,You never fail.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,Are you ready for our dance?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Is it him? Is that the first son of Odin?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Heimdall, your eyes?!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"Oh, they see everything. They see you leading us to Hel. Wake up!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,"The war's over, Steve. We can go home. Imagine it!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I can still save you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,"We are all dead. Can you not see?  You're a destroyer, Odinson. See where your power leads.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MADAME B,Sloppy. Pretending to fail. The ceremony is necessary for you to take your place in the world.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I have no place in the world.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MADAME B,Exactly.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,What can I do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"Ah, it hurts.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,I'm gonna kill him. I'll be right back.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,No. I'm over it. I want...I want to finish the plan.  I want the big one.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Ah, the Vibranium's getting away.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,And you're not going anywhere.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Of course not, I'm already there. You'll catch on. But first, you might need to catch Dr. Banner.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"News or footage, keyword: Hulk.  Natasha, I could really use a lullaby.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Well, that's not gonna happen. Not for a while. The whole team is down, you got no back up here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I'm calling in VERONICA.  Alright everybody, stand down!  You listening? That little witch is messing with your mind. You're stronger than her, you're smarter than her, you're Bruce Banner.  Right, right, right! Don't mention puny Banner.  Okay.  In the back? Dick move, Banner.  VERONICA, gimme a hand.  Go to sleep, go to sleep, go to sleep!  Okay, pal, we're gonna get you out of town.  No, not that way, not that way!  Come on, Bruce! You gotta work with me!   Everybody out! Going to get ugly!  I'm sorry.  Damage report.  That's comprehensive. Show me something.  How quickly can we buy this building?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"The news is loving you guys. Nobody else is. There's been no official call for Banner's arrest, but it's in the air.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Stark Relief Foundation?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Already on the scene. How's the team?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Everyone's...we took a hit. We'll shake it off.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Well for now I'd stay in stealth mode, and stay away from here.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"So, run and hide?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Until we can find Ultron, I don't have a lot else to offer.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Neither do we.   Hey, you wanna switch out?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"No, I'm good. If you wanna get some kip, now's a good time, cause we're still a few hours out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,A few hours from where?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,A safe house.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,What is this place?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,A safe house?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Let's hope.  Honey, I'm home.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Hi. Company. Sorry I didn't call ahead.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,Hey.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This is an agent of some kind.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Gentleman, this is Laura.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,I know all your names.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Ooh, incoming.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BARTON'S DAUGHTER,Dad!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"I see her!  Hey, buddy! How you guys doing? Ooh...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,These are...smaller agents.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Look at your face! Oh, my goodness!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LILA BARTON,Did you bring Auntie Nat?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Why don't you hug her and find out?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Sorry for barging in on you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, we would have called ahead, but we were busy having no idea that you existed.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Yeah, well Fury helped me set this up when I joined. He kept it off SHIELD's files, I'd like to keep it that way. I figure it's a good place to lay low.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"Honey. Ah, I missed you.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"How's little Natasha, huh?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,She's…Nathaniel.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Traitor.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Thor.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I saw something in that dream. I need answers, I won't find them here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PEGGY CARTER,We can go home.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"See, you worried for nothing. Can't even feel the difference, can you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"If they're sleeping here, some of them are gonna have to double up.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Yeah, that's not gonna sell.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,What about Nat and Dr. Banner? How long has that been going on?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Has what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,You are so cute.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Nat and...and Banner?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"I'll explain when you're older, Hawkeye.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Oh. Okay.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"It's bad, right? Nat seems really shaken.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Ultron has these allies, these uh, kids, they're punks really. They carry a big damn stick and Nat took a serious hit. Someone's gonna have to teach 'em some manners.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"And that someone be you. You know I totally support your Avenging, I couldn't be prouder. But I see those guys, those ""Gods""...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,You don't think they need me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,I think they do. Which is a lot scarier. They're a mess.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Yeah. I guess they're my mess.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"You need to be sure that this team is really a team and that they have your back. Things are changing for us. In a few months time, you and me are gonna be outnumbered. I need...just be sure.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Yes, ma'am.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,I can feel the difference.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Scream, and your entire staff dies. I could've killed you, Helen, the night we met. I didn't.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,Do you expect a thank you note?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,I expect you to know why.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"The Cradle.  ""This is the next thing, Tony.""",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,This...is the next me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"The regeneration cradle prints tissue, it can't build a living body.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"It can, you can. You lack the materials. You're a brilliant woman, Helen. But we all have room to improve.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I didn't realize you were waiting.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"I would've joined you, but uh, it didn't seem like the right time.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,They used up all the hot water.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I should've joined you.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Missed our window.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Did we?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"The world just saw the Hulk. The real Hulk, for the first time. You know I have to leave.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"But you assume that I have to stay? I had this, um, dream. The kind that seems normal at the time, but when you wake...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What did you dream?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,That I was an Avenger. That I was anything more than the assassin they made me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I think you're being hard on yourself.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Here I was hoping that was your job.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,What are you doing?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"I'm running with it, with you. If running's the plan, as far as you want.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Are you out of your mind?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I want you to understand that I'm...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Natasha, where can I go? Where in the world am I not a threat?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,You're not a threat to me.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"You sure? Even if I didn't just...there's no future with me. I can't ever...I can't have this, kids, do the math, I physically can't.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Neither can I. In the Red Room, where I was trained, where I was raised, um, they have a graduation ceremony. They sterilize you. It's efficient. One less thing to worry about. The one thing that might matter more than a mission. It makes everything easier. Even killing.  You still think you're the only monster on the team?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"What, so we disappear?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Thor didn't say where he was going for answers?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Sometimes my teammates don't tell me things. I was kind of hoping Thor would be the exception.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, give him time. We don't know what the Maximoff kid showed him.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"""Earth's Mightiest Heroes."" Pulled us apart like cotton candy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Seems like you walked away all right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is that a problem?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I don't trust a guy without a dark side. Call me old fashioned.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Well let's just say you haven't seen it yet.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You know Ultron is trying to tear us apart, right?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Well I guess you'd know. Whether you tell us is a bit of a question.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Banner and I were doing research.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,That would affect the team.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"That would end the team. Isn't that the mission? Isn't that the ""why"" we fight, so we can end the fight, so we get to go home?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Every time someone tries to win a war before it starts, innocent people die. Every time.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"I'm sorry. Mr. Stark, uh, Clint said you wouldn't mind, but, our tractor, it doesn't seem to want to start at all. I thought maybe you might...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, I'll give her a kick.  Don't take from my pile.  Hello, Deere. Tell me everything. What ails you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Do me a favor. Try not to bring it to life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Ah, Mrs. Barton, you little minx. I get it, Maria Hill called you, right? Was she ever not working for you?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Artificial intelligence. You never even hesitated.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Look, it's been a really long day, like, Eugene O'Neill long, so how's about we skip to the part where you're useful?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Look me in the eye and tell me you're going to shut him down.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You're not the director of me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"I'm not the director of anybody. I'm just an old man, who cares very much about you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"And I'm the man who killed the Avengers. I saw it. I didn't tell the team, how could I? I saw them all dead, Nick. I felt it. The whole world, too. It's because of me. I wasn't ready. I didn't do all I could.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"The Maximoff girl, she's working you, Stark. Playing on your fear.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I wasn't tricked, I was shown. It wasn't a nightmare, it was my legacy. The end of the path I started us on.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"You've come up with some pretty impressive inventions, Tony. War isn't one of them.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I watched my friends die. You'd think that'd be as bad as it gets, right? Nope. Wasn't the worst part.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,The worst part is that you didn't.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ERIK SELVIG,"I like the look. If you're going for inconspicuous, though, near miss.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I need your help.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ERIK SELVIG,It's nice to be needed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,It's dangerous.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ERIK SELVIG,I'd be disappointed if it wasn't.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Ultron took you folks out of play to buy himself time. My contacts all say he's building something. The amount of Vibranium he made off with, I don't think it's just one thing.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What about Ultron himself?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Ah. He's easy to track, he's everywhere. Guy's multiplying faster than a Catholic rabbit. Still doesn't help us get an angle on any of his plans though.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,He still going after launch codes?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Yes, he is, but he's not making any headway.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I cracked the Pentagon's firewall in high school on a dare.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Yeah, well, I contacted our friends at the NEXUS about that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,NEXUS?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"It's the world internet hub in Oslo, every byte of data flows through there, fastest access on earth.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,So what'd they say?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"He's fixated on the missiles, but the codes are constantly being changed.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,By whom?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Parties unknown.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Do we have an ally?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Ultron's got an enemy, that's not the same thing. Still, I'd pay folding money to know who it is.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I might need to visit Oslo, find our ""unknown.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Well, this is good times, boss, but I was kind of hoping when I saw you, you'd have more than that.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"I do, I have you. Back in the day, I had eyes everywhere, ears everywhere else. Here we all are, back on earth, with nothing but our wit, and our will to save the world. So stand. Outwit the platinum bastard.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Steve doesn't like that kind of talk.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You know what, Romanoff?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,So what does he want?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,To become better. Better than us. He keeps building bodies.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Person bodies. The human form is inefficient, biologically speaking, we're outmoded. But he keeps coming back to it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"When you two programmed him to protect the human race, you amazingly failed.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"They don't need to be protected, they need to evolve. Ultron's going to evolve.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,How?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Has anyone been in contact with Helen Cho?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"It's beautiful. The Vibranium atoms aren't just compatible with the tissue cells, they're binding them. And SHIELD never even thought...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"The most versatile substance on the planet and they used it to make a Frisbee. Typical of humans, they scratch the surface and never think to look within.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I'll take Natasha and Clint.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Alright, strictly recon. I'll hit the NEXUS, I'll join you as soon as I can.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,If Ultron is really building a body...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,He'll be more powerful than any of us. Maybe all of us. An android designed by a robot.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You know I really miss the days when the weirdest thing science ever created was me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,I'll drop Banner off at the tower. Do you mind if I borrow Ms. Hill?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"She's all yours, apparently. What are you gonna do?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"I don't know. Something dramatic, I hope.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,I'm gonna finish re-flooring that sunroom as soon as I get back.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,"Yeah, and then you'll find another part of the house to tear apart.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,No. It's the last project. I promise.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ERIK SELVIG,This is it. The Water of Sight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"In every realm, there's a reflection. If the water spirits accept me, I can return to my dream, and find what I missed.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ERIK SELVIG,"The men who enter that water, the legends don't end well.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"A hacker who's faster than Ultron? He could be anywhere. And as this is the center of everything, I'm just a guy looking for a needle in the world's biggest haystack.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WORLD HUB TECH,How do you find it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Pretty simple. You bring a magnet.  Oh, I'm decrypting nuclear codes and you don't want me to. Come and get me.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+HEIMDALL,Wake up!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ERIK SELVIG,Thor!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Extinction.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"Cellular cohesion will take a few hours, but we can initiate the consciousness stream. We're uploading your cerebral matrix...now.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,I can read him. He is dreaming.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"I wouldn't call it dreams. It's Ultron's base consciousness, informational noise. Soon...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,How soon? I'm not being pushy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,We're imprinting a physical brain. There are no shortcuts. Even if your magic gem is...,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,How could you?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,How could I what?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"You said we would destroy the Avengers, make a better world.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,It will be better.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,When everyone is dead.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,That is not...! The human race will have every opportunity to improve.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,And if they don't?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Ask Noah.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,You're a madman.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"There were more than a dozen extinction level events before even the dinosaurs got theirs. When the Earth starts to settle, God throws a stone at it, and believe me, he's winding up. We have to evolve. There's no room for the weak.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,And who decides who's weak?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Life. Life always decides. There's incoming. The Quinjet. We have to move.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,That's not a problem.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Ah, wait, guys!.  They'll understand. When they see they'll understand. I just need a little more time.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Two minutes. Stay close.  Dr. Cho!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,He's uploading himself into the body.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Where?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,"The real power is inside the Cradle. The gem, its power is uncontainable. You can't just blow it up. You have to get the Cradle to Stark.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,First I have to find it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+DR. HELEN CHO,Go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Did you guys copy that?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,We did.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"I got a private jet taking off, across town, no manifest. That could be him.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"There. It's the truck from the lab. Right above you, Cap. On the loop by the bridge. It's them. I got three with the Cradle, one in the cab. I could take out the driver.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Negative! If that truck crashes, the gem could level the city. We need to draw out Ultron.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"No, no, no, no, no. Leave me alone!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, he's definitely unhappy! I'm gonna try and keep him that way.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"You're not a match for him, Cap.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Thanks, Barton.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"You know what's in that Cradle? The power to make real change, and that terrifies you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I wouldn't call it a comfort.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Stop it!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"We got a window. Four, three...give 'em hell.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I'm always picking up after you boys.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"They're heading under the overpass, I've got no shot.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Which way?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Hard right... Now.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Out of the way! Coming through! Sorry, coming through!",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Come on!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Clint, can you draw out the guards?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Let's find out.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Beep beep!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Heading back towards you. So whatever you're going to do, do it now.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"I'm going in, Cap can you keep him occupied?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,What do you think I've been doing?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,The package is airborne. I have a clean shot.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Negative. I am still in the truck.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,What the hell are you...?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Just be ready, I'm sending the package to you.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,How do you want me to take it?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Uhh, you might wish you hadn't asked that.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Please. Don't do this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,What choice do we have?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I lost him! He's headed your way.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Nat, we gotta go.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Nat! Cap, you see Nat?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"If you have the package, get it to Stark! Go!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Do you have eyes on Nat?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Go!  Civilians in our path.  Can you stop this thing?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,I'm fine. I just need to take a minute.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I'm very tempted not to give you one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"The Cradle, did you get it?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Stark will take care of it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"No, he won't.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You don't know what you're talking about, Stark's not crazy.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,He will do anything to make things right.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Stark, come in. Stark. Anyone on comms?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Ultron can't tell the difference between saving the world and destroying it. Where do you think he gets that?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Anything on Nat?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Haven't heard. But she's alive, or Ultron'd be rubbing our faces in it.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,This is sealed tight.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"We're going to need to access the program, break it down from within.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Hm. Any chance Natasha might leave you a message, outside the internet, old school spy stuff?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"There's some nets I can cast. Yeah, alright. I'll find her.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"I can work on tissue degeneration, if you can fry whatever operational system Cho implanted.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah, about that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,No.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You have to trust me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Kinda don't.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Our ally? The guy protecting the military's nuclear codes? I found him.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,"Hello, Dr. Banner.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Ultron didn't go after JARVIS cause he was angry. He attacked him because he was scared of what he can do. So JARVIS went underground. Okay? Scattered, dumped his memory. But not his protocols. He didn't even know he was in there, until I pieced him together.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"So, you want me to help you put JARVIS into this thing?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No, of course not! I want to help you put JARVIS in this thing.  We're out of my field here. You know bio-organics better than anyone.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,And you just assume that JARVIS' operational matrix can beat Ultron's?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"JARVIS has been beating him from inside without knowing it. This is the opportunity, we can create Ultron's perfect self, without the homicidal glitches he thinks are his winning personality. We have to.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JARVIS,I believe it's worth a go.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"No, I'm in a loop! I'm caught in a time loop, this is exactly where it all went wrong.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I know, I know. I know what everyone's going to say, but they're already saying it. We're mad scientists. We're monsters, buddy. You gotta own it. Make a stand.  It's not a loop. It's the end of the line.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I wasn't sure you'd wake up. I hoped you would, I wanted to show you something. I don't have anyone else. I think a lot about meteors, the purity of them. Boom! The end, start again. The world made clean for the new man to rebuild. I was meant to be new. I was meant to be beautiful. The world would've looked to the sky and seen hope, seen mercy. Instead they'll look up in horror because of you. You've wounded me. I give you full marks for that. But, like the man said, ""What doesn't kill me… ""…just makes me stronger.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,This framework is not compatible.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,The genetic coding tower's at ninety-seven percent. You have got to upload that schematic in the next three minutes.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I'm gonna say this once.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"How about ""nonce""?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Shut it down!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Nope, not gonna happen.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You don't know what you're doing.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,And you do? She's not in your head?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,I know you're angry.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Oh, we're way past that. I could choke the life out of you and never change a shade.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Banner, after everything that's happened...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That's nothing compared to what's coming!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,You don't know what's in there!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,This isn't a game...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,The creature...!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,"No, no. Go on. You were saying?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Pietro!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,What? You didn't see that coming?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Go ahead, piss me off.  Wait!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"I'm sorry, that was...odd.  Thank you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Thor, you helped create this?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I've had a vision. A whirlpool that sucks in all hope of life and at it's center is that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"What, the gem?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"It's the Mind Stone. It's one of the six Infinity Stones, the greatest power in the universe, unparalleled in its destructive capabilities.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Then why would you bring it to...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Because Stark is right.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Oh, it's definitely the end times.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,The Avengers cannot defeat Ultron.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,Not alone.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Why does your ""vision"" sound like JARVIS?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We...we reconfigured JARVIS' matrix to create something new.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I think I've had my fill of new.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,You think I'm a child of Ultron?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You're not?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,I'm not Ultron. I'm not JARVIS. I am...I am.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,I looked in your head and saw annihilation.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,Look again.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Yeah. Her seal of approval means jack to me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Their powers, the horrors in our heads, Ultron himself, they all came from the Mind Stone, and they're nothing compared to what it can unleash. But with it on our side...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Is it? Are you? On our side?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,I don't think it's that simple.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Well it better get real simple real soon.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"I am on the side of life. Ultron isn't, he will end it all.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,What's he waiting for?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,You.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Where?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,Sokovia. He's got Nat there too.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"If we're wrong about you, if you're the monster that Ultron made you to be...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"What will you do?  I don't want to kill Ultron. He's unique, and he's in pain. But that pain will roll over the earth, so he must be destroyed. Every form he's built, every trace of his presence on the net, we have to act now. And not one of us can do it without the others. Maybe I am a monster. I don't think I'd know if I were one. I'm not what you are, and not what you intended. So there may be no way to make you trust me. But we need to go.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Right.  Well done.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Three minutes. Get what you need.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"Good evening, boss.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"No way we all get through this. If even one tin soldier is left standing, we've lost. It's gonna be blood on the floor.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I got no plans tomorrow night.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I get first crack at the big guy. Iron Man's the one he's waiting for.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"That's true, he hates you the most.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Ultron knows we're coming. Odds are we'll be riding into heavy fire, and that's what we signed up for. But the people of Sokovia, they didn't. So our priority is getting them out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,"We're under attack! Clear the city, now!  Get off your asses.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"All they want is to live their lives in peace, and that's not going to happen today. But we can do our best to protect them. And we can get the job done, and find out what Ultron's been building. We find Romanoff, and we clear the field. Keep the fight between us. Ultron thinks we're monsters and we're what's wrong with the world. This isn't just about beating him. It's about whether he's right.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,Natasha! Natasha!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Bruce?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,You alright?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Yeah.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"The team's in the city, it's about to light up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I don't suppose you found a key lying around somewhere?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"Yeah, I did.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,So what's our play?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I'm here to get you to safety.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Job's not finished.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,"We could help with the evacuation, but I can't be in a fight near civilians. And you've done plenty. Our fight is over.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,So we just disappear?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"Your man's in the church, boss. I think he's waiting for you.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Come to confess your sins?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"I don't know, how much time you got?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,More than you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Uhhh. Have you been juicing? A little Vibranium cocktail? You're looking, I don't wanna say, puffy...",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,You're stalling to protect the people.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, that is the mission. Did you forget?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I've moved beyond your mission. I'm free.  What, you think you're the only one stalling?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,There's the rest of the Vibranium. Function: still unclear.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"This is how you end, Tony. This is peace in my time.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Go!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Get off the bridge! Run!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,Ultron.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,My Vision. They really did take everything from me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"You set the terms, you can change them.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Alright.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,FRIDAY! The Vision?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"Boss, it's working. He's burning Ultron out of the net, he won't escape through there.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"You shut me out! You think I care? You take away my world, I take away yours.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,FRIDAY?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,Sokovia's going for a ride.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Do you see? The beauty of it, the inevitability. You rise, only to fall. You, Avengers, you are my meteor, my swift and terrible sword and the earth will crack with the weight of your failure. Purge me from your computers, turn my own flesh against me. It means nothing. When the dust settles, the only thing living in this world will be metal.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,We gotta move.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,You're not going to turn green?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+BRUCE BANNER,I've got a compelling reason not to lose my cool.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I adore you.  But I need the other guy.  Let's finish the job.  I really hope this makes us even. Now go be a hero.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"The Vibranium core has got a magnetic field, that's what's keeping the rock together.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,If it drops?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"Right now the impact would kill thousands. Once it gets high enough: Global extinction.  That building's not clear, Tenth floor.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Hi. Okay. Get in the tub!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"I got airborne, heading up to the bridge.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Cap, you got incoming.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Incoming already came in. Stark, you worry about bringing the city back down safely. The rest of us have one job: tear these things apart. You get hurt, hurt 'em back. You get killed, walk it off.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Go, go, move!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,How could I let this happen?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Hey, hey, you okay?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,This is all our fault.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Hey, look at me. It's your fault, it's everyone's fault, who cares. Are you up for this? Are you? Look, I just need to know, cause the city is flying. Okay, look, the city is flying, we're fighting an army of robots, and I have a bow and arrow. None of this makes sense. But I'm going back out there because it's my job. Okay? And I can't do my job and babysit. It doesn't matter what you did, or what you were. If you go out there, you fight, and you fight to kill. Stay in here, you're good, I'll send your brother to come find you, but if you step out that door, you are an Avenger.  Alright, good chat.  Yeah, the city is flying.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I got you! Just look at me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,You can't save them all. You'll never...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"You'll never what? You didn't finish!  What, were you napping?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Thor! You're bothering me.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Alright, we're all clear here.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,We are not clear! We are very not clear!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Alright, coming to you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,Keep up old man!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Nobody would know. Nobody. ""The last I saw him, when Ultron was sitting on him. Uh...yeah, he'll be missed, that quick little bastard. I miss him already.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Romanoff!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Thanks.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"The anti-gravs are rigged to flip. Touch 'em, they'll go full reverse thrust. The city's not coming down slow.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,The spire's Vibranium. If I get Thor to hit it...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"It'll crack, but that's not enough, the impact would still be devastating.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Maybe if we cap the other end, keep the atomic action doubling back.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"That could vaporize the city, and everyone on it.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"The next wave's gonna hit any minute. What have you got, Stark?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, nothing great. Maybe a way to blow up the city. That'll keep it from impacting the surface if you guys can get clear.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I asked for a solution, not an escape plan.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Impact radius is getting bigger every second. We're going to have to make a choice.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Cap, these people are going nowhere. If Stark finds a way to blow this rock...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Not 'til everyone's safe.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Everyone up here versus everyone down there? There's no math there.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,I'm not leaving this rock with one civilian on it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I didn't say we should leave.  There's worse ways to go. Where else am I gonna get a view like this?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Glad you like the view, Romanoff. It's about to get better.   Nice, right? I pulled her out of mothballs with a couple of old friends. She's dusty, but she'll do.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Fury, you son of a bitch.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Oooh! You kiss your mother with that mouth?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Altitude is eighteen thousand and climbing.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SPECIALIST CAMERON KLEIN,"Lifeboats secure to deploy. Disengage in three, two...take 'em out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,This is SHIELD?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,This is what SHIELD's supposed to be.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,This is not so bad.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Let's load 'em up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,"Sir, we have multiple bogies converging on our starboard flank.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Show 'em what we got.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,You're up.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,Yes! Now this is gonna be a good story.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Yep. If you live to tell it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,You think I can't hold my own?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"We get through this, I'll hold your own.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,You had to make it weird.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"Alright, let's load 'em up! Alright, here we go. Here we go, let's move. Let's go everyone!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SPECIALIST CAMERON KLEIN,"Number six boat is topped and locked. Or, uh, or stocked, topped. It...it's, uh, full of people.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+MARIA HILL,Incoming!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+SPECIALIST CAMERON KLEIN,"Oh, God!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,You think you're saving anyone? I turn that key and drop this rock a little early and it's still billions dead. Even you can't stop that.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I am Thor, son of Odin, and as long as there is life in my breast, I am...running out of things to say! Are you ready?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,It's terribly well balanced.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"Well, if there's too much weight, you lose power on the swing, so.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,I got it! Create a heat seal. I can...I can supercharge the spire from below.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,Running numbers.  A heat seal could work with enough power.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thor, I got a plan!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,We're out of time. They're coming for the core.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Rhodey, get the rest of the people on board that carrier.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,On it.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Avengers, time to work for a living.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,You good?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Yeah.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Romanoff? You and Banner better not be playing ""hide the zucchini.""",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Relax, Shell-head. Not all of us can fly.  What's the drill?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"This is the drill. If Ultron gets a hand on the core, we lose.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Is that the best you can do?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You had to ask.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"This is the best I can do. This is exactly what I wanted. All of you, against all of me. How could you possibly hope to stop me?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, like the old man said. Together.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"You know, with the benefit of hindsight....",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,They'll try to leave the city.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"We can't let 'em, not even one. Rhodey!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+JAMES RHODES,"I'm on it.  Oh, no, I didn't say you could leave. War Machine, comin' at you, right ...  Okay, what?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"We gotta move out. Even I can tell the air is getting thin. You guys get to the boats, I'll sweep for stragglers, be right behind you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,What about the core?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,I'll protect it. It's my job.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Get the people on the boats.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,I'm not going to leave you here.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,"I can handle this.  Come back for me when everyone else is off, not before.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,Hmm.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,You understand?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,"You know, I'm twelve minutes older than you.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,Go.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+FRIDAY,"Boss, power levels are way below opt...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Re-route everything. We get one shot at this.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"I know what I need to do. The dining room! If I knock out that east wall, it'll make a nice work space for Laura, huh? Put up some baffling, she can't hear the kids running around, what do you think?",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,You guys always eat in the kitchen anyway.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,No one eats in a dining room.  We don't have a lot of time.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"So get your ass on a boat.  Hey, big guy. Sun's getting real low.",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ZRINKA,Costel? We were in the market. Costel?!,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thor, I'm gonna need you back in the church.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Is this the last of them?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Yeah. Everyone else is on the carrier.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"You know, if this works, we maybe don't walk away.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,Maybe not.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"I got no strings, so I have fun. I'm not tied up to anyone.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+PIETRO MAXIMOFF,You didn't see that coming.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Oh, for God's sake!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+CLINT BARTON,"No, no. I'm fine.  Oh, it's been a long day.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"Wanda, if you stay here, you'll die.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+WANDA MAXIMOFF,I just did. Do you know how it felt?  It felt like that.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Thor, on my mark.  Now!",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"Hey, big guy. We did it, the job's finished. Now I need you to turn this bird around, okay? We can't track you in stealth mode, so help me out. I need you t...",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,You're afraid.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,Of you?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,Of death. You're the last one.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,"You were supposed to be the last. Stark asked for a savior, and settled for a slave.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,I suppose we're both disappointments.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,I suppose we are.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"Humans are odd. They think order and chaos are somehow opposites, and try to control what won't be. But there is grace in their failings. I think you missed that.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,They're doomed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,Yes. But a thing isn't beautiful because it lasts. It's a privilege to be among them.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+ULTRON,You're unbearably naive.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+VISION,"Well, I was born yesterday.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+LAURA BARTON,Say hi to Auntie Nat.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Fat.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"One of our tech boys flagged this, splashed down in the Banda Sea. Could be the Quinjet. But with Stark's stealth tech, we still can't track the damn thing.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Right.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,Probably jumped out and swam to Fiji. He'll send a postcard.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,"""Wish you were here."" You sent me to recruit him, way back when. Did you know then what was going to happen?",FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,You never know. You hope for the best and make do with what you get. I got a great team.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Nothing lasts forever.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NICK FURY,"Trouble, Miss Romanoff. No matter who wins or loses, trouble still comes around.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The rules have changed.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,We're dealing with something new.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, the Vision's artificial intelligence.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,A machine.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,So it doesn't count.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,No. It's not like a person lifting the hammer.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Right. Different rules for us.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Nice guy, but artificial.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Thank you.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"If he can wield the hammer, he can keep the Mind Stone. It's safe with the Vision and these days, safe is in short supply.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,But if you put the hammer in an elevator...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,It would still go up.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Elevator's not worthy.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I'm going to miss these little talks of ours.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Well, not if you don't leave.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,I have no choice. The Mind Stone is the fourth of the Infinity Stones to show up in the last few years. That's not a coincidence. Someone has been playing an intricate game and has made pawns of us. But once all these pieces are in position...,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,Triple Yahtzee?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,You think you can find out what's coming?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THOR,"I do. Besides this one, there's nothing that can't be explained.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,That man has no regard for lawn maintenance. I'm gonna miss him though. And you're gonna miss me. There's gonna be a lot of manful tears.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I will miss you, Tony.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,"Yeah? Well, it's time for me to tap out. Maybe I should take a page out of Barton's book and build Pepper a farm, hope nobody blows it up.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,The simple life.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You'll get there one day.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I don't know, family, stability. The guy who wanted all that went in the ice seventy-five years ago. I think someone else came out.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+TONY STARK,You alright?,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"I'm home.  You want to keep staring at the wall, or do you want to go to work? I mean, it's a pretty interesting wall.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,I thought you and Tony were still gazing into each other's eyes. How do we look?,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,"Well, we're not the '27 Yankees.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,We've got some hitters.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,They're good. They're not a team.,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+NATASHA ROMANOFF,Let's beat 'em into shape.,FEMALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+STEVE ROGERS,Avengers...!,MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
+THANOS,"Fine, I'll do it myself.",MALE,happy,sad,disgusted,angry,fearful,neutral,surprised
