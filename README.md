@@ -22,7 +22,7 @@ For a detailed analysis of the results, please refer to the [report](NLP_Project
 ```bash
 pip install -r requirements.txt
 ```
-3. Since there are 4 different models, the code is divided into 4 different notebooks. Run the following notebooks in the given order:
+3. Since there are 4 different tasks, the code is divided into 4 different notebooks. Run the following notebooks in the given order:
     - Sentiment Analysis: [here](Sentiment_analysis\sentiment.ipynb) 
     - Gender Prediction: [baseline](gender_analysis\Baseline_for_gender_Classification.ipynb), [RoBERTa](gender_analysis\gender-classification.ipynb)
     - Emotion Prediction: [here](Go_Emotions_analysis\goEmotionInference.ipynb)
